@@ -1,319 +1,225 @@
-#EXTINF:-1,-----list fabio frances-----
+#EXTINF:-1,-----lista fr dh-------
 
 
-#EXTINF:-1,FR: TF1 FHD
-http://silvertv.net:1997/Fouad/Fouad/18341
-#EXTINF:-1,FR: TF1 HD
-http://silvertv.net:1997/Fouad/Fouad/5175
-#EXTINF:-1,FR: TF1
-http://silvertv.net:1997/Fouad/Fouad/9764
-#EXTINF:-1,FR: TF1 (UHD)
-http://silvertv.net:1997/Fouad/Fouad/18324
-#EXTINF:-1,FR: TF1 Series Films FHD
-http://silvertv.net:1997/Fouad/Fouad/18342
-#EXTINF:-1,FR: TF1 Series Film HD
-http://silvertv.net:1997/Fouad/Fouad/5280
-#EXTINF:-1,FR: TF1 Series Films
-http://silvertv.net:1997/Fouad/Fouad/9829
-#EXTINF:-1,FR: M6 HD
-http://silvertv.net:1997/Fouad/Fouad/5174
+#EXTINF:-1,FR:TF1
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/295
 #EXTINF:-1,FR: M6
-http://silvertv.net:1997/Fouad/Fouad/9763
-#EXTINF:-1,FR: M6 (UHD)
-http://silvertv.net:1997/Fouad/Fouad/18325
-#EXTINF:-1,FR: FRANCE 2 FHD
-http://silvertv.net:1997/Fouad/Fouad/18340
-#EXTINF:-1,FR: FRANCE 2 HD
-http://silvertv.net:1997/Fouad/Fouad/5173
-#EXTINF:-1,FR: FRANCE2
-http://silvertv.net:1997/Fouad/Fouad/9762
-#EXTINF:-1,FR: FRANCE 3 HD
-http://silvertv.net:1997/Fouad/Fouad/5172
-#EXTINF:-1,FR: FRANCE3
-http://silvertv.net:1997/Fouad/Fouad/9761
-#EXTINF:-1,FR: FRANCE 4 HD
-http://silvertv.net:1997/Fouad/Fouad/5171
-#EXTINF:-1,FR: FRANCE 5 HD
-http://silvertv.net:1997/Fouad/Fouad/5170
-#EXTINF:-1,FR: FRANCE5
-http://silvertv.net:1997/Fouad/Fouad/9759
-#EXTINF:-1,FR: W9 HD
-http://silvertv.net:1997/Fouad/Fouad/5166
-#EXTINF:-1,FR: ARTE FHD
-http://silvertv.net:1997/Fouad/Fouad/18332
-#EXTINF:-1,FR: ARTE
-http://silvertv.net:1997/Fouad/Fouad/9753
-#EXTINF:-1,FR: Cherie25 FHD
-http://silvertv.net:1997/Fouad/Fouad/18331
-#EXTINF:-1,FR: NRJ12
-http://silvertv.net:1997/Fouad/Fouad/9751
-#EXTINF:-1,FR: TV5 MONDE HD
-http://silvertv.net:1997/Fouad/Fouad/5162
-#EXTINF:-1,FR: CStar HD
-http://silvertv.net:1997/Fouad/Fouad/5164
-#EXTINF:-1,FR: CANAL PLUS HD
-http://silvertv.net:1997/Fouad/Fouad/5160
-#EXTINF:-1,FR: CANAL PLUS CINEMA FHD
-http://silvertv.net:1997/Fouad/Fouad/18344
-#EXTINF:-1,FR: CANAL PLUS CINEMA
-http://silvertv.net:1997/Fouad/Fouad/9871
-#EXTINF:-1,FR: CANAL PLUS DECALE FHD
-http://silvertv.net:1997/Fouad/Fouad/18345
-#EXTINF:-1,FR: CANAL PLUS FAMILY FHD
-http://silvertv.net:1997/Fouad/Fouad/18346
-#EXTINF:-1,FR: CANAL PLUS FAMILY HD
-http://silvertv.net:1997/Fouad/Fouad/5158
-#EXTINF:-1,FR: CANAL PLUS SERIES FHD
-http://silvertv.net:1997/Fouad/Fouad/19369
-#EXTINF:-1,FR: CANAL PLUS SERIES HD
-http://silvertv.net:1997/Fouad/Fouad/5157
-#EXTINF:-1,FR: CANAL PLUS SERIES
-http://silvertv.net:1997/Fouad/Fouad/9868
-#EXTINF:-1,FR: CANAL PLUS SPORT FHD
-http://silvertv.net:1997/Fouad/Fouad/19370
-#EXTINF:-1,FR: CANAL PLUS SPORT HD
-http://silvertv.net:1997/Fouad/Fouad/5156
-#EXTINF:-1,FR: CANAL PLUS SPORT
-http://silvertv.net:1997/Fouad/Fouad/9867
-#EXTINF:-1,FR: CINE CLASSIC
-http://silvertv.net:1997/Fouad/Fouad/9866
-#EXTINF:-1,FR: CINE FAMIZ HD
-http://silvertv.net:1997/Fouad/Fouad/5223
-#EXTINF:-1,FR: CINE FRISSON HD
-http://silvertv.net:1997/Fouad/Fouad/5227
-#EXTINF:-1,FR: CINE  FRISSON
-http://silvertv.net:1997/Fouad/Fouad/9864
-#EXTINF:-1,FR: CINE EMOTION HD
-http://silvertv.net:1997/Fouad/Fouad/5226
-#EXTINF:-1,FR: CINE EMOTION
-http://silvertv.net:1997/Fouad/Fouad/9860
-#EXTINF:-1,FR: CINE PREMIERE HD
-http://silvertv.net:1997/Fouad/Fouad/5224
-#EXTINF:-1,FR: CINE PREMIERE
-http://silvertv.net:1997/Fouad/Fouad/9861
-#EXTINF:-1,FR: OCS CITY
-http://silvertv.net:1997/Fouad/Fouad/9858
-#EXTINF:-1,FR: OCS MAX HD
-http://silvertv.net:1997/Fouad/Fouad/5221
-#EXTINF:-1,FR: OCS MAX
-http://silvertv.net:1997/Fouad/Fouad/9857
-#EXTINF:-1,FR: OCS Geants HD
-http://silvertv.net:1997/Fouad/Fouad/5218
-#EXTINF:-1,FR: 13eme RUE
-http://silvertv.net:1997/Fouad/Fouad/9873
-#EXTINF:-1,FR: TFX HD
-http://silvertv.net:1997/Fouad/Fouad/5208
-#EXTINF:-1,FR: SYFY HD
-http://silvertv.net:1997/Fouad/Fouad/5211
-#EXTINF:-1,FR: SYFY
-http://silvertv.net:1997/Fouad/Fouad/9852
-#EXTINF:-1,FR: TMC HD
-http://silvertv.net:1997/Fouad/Fouad/5210
-#EXTINF:-1,FR: TMC
-http://silvertv.net:1997/Fouad/Fouad/9851
-#EXTINF:-1,FR: TCM CINEMA HD
-http://silvertv.net:1997/Fouad/Fouad/5212
-#EXTINF:-1,FR: SERIE CLUB HD
-http://silvertv.net:1997/Fouad/Fouad/5213
-#EXTINF:-1,FR: PARAMOUNT CHANNEL HD
-http://silvertv.net:1997/Fouad/Fouad/5214
-#EXTINF:-1,FR: PARAMOUNT CHANNEL
-http://silvertv.net:1997/Fouad/Fouad/9847
-#EXTINF:-1,FR: RMC Sport News HD
-http://silvertv.net:1997/Fouad/Fouad/19382
-#EXTINF:-1,FR: RMC Sport Live 1 HD
-http://silvertv.net:1997/Fouad/Fouad/5196
-#EXTINF:-1,FR: RMC Sport Live 1
-http://silvertv.net:1997/Fouad/Fouad/47508
-#EXTINF:-1,FR: RMC Sport Access 1 HD
-http://silvertv.net:1997/Fouad/Fouad/9780
-#EXTINF:-1,FR: RMC Sport Live 2 HD
-http://silvertv.net:1997/Fouad/Fouad/5195
-#EXTINF:-1,FR: RMC Sport Live 2
-http://silvertv.net:1997/Fouad/Fouad/47507
-#EXTINF:-1,FR: RMC Sport Access 2 HD
-http://silvertv.net:1997/Fouad/Fouad/9779
-#EXTINF:-1,FR: RMC Sport Live 3 HD
-http://silvertv.net:1997/Fouad/Fouad/5194
-#EXTINF:-1,FR: RMC Sport Live 3
-http://silvertv.net:1997/Fouad/Fouad/47506
-#EXTINF:-1,FR: RMC Sport Access 3 HD
-http://silvertv.net:1997/Fouad/Fouad/9778
-#EXTINF:-1,FR: RMC Sport Live 4 HD
-http://silvertv.net:1997/Fouad/Fouad/19352
-#EXTINF:-1,FR: RMC Sport Live 5 HD
-http://silvertv.net:1997/Fouad/Fouad/5193
-#EXTINF:-1,FR: RMC Sport Live 7 HD
-http://silvertv.net:1997/Fouad/Fouad/19380
-#EXTINF:-1,FR: beIN SPORTS 1 FHD
-http://silvertv.net:1997/Fouad/Fouad/18349
-#EXTINF:-1,FR: beIN SPORTS 1 HD
-http://silvertv.net:1997/Fouad/Fouad/19358
-#EXTINF:-1,FR: beIN SPORTS 1 SD
-http://silvertv.net:1997/Fouad/Fouad/9790
-#EXTINF:-1,FR: beIN SPORTS 2 FHD
-http://silvertv.net:1997/Fouad/Fouad/18350
-#EXTINF:-1,FR: beIN SPORTS 2 HD
-http://silvertv.net:1997/Fouad/Fouad/19357
-#EXTINF:-1,FR: beIN SPORTS 2 SD
-http://silvertv.net:1997/Fouad/Fouad/9789
-#EXTINF:-1,FR: beIN SPORTS 3 FHD
-http://silvertv.net:1997/Fouad/Fouad/18351
-#EXTINF:-1,FR: beIN SPORTS 3 HD
-http://silvertv.net:1997/Fouad/Fouad/19356
-#EXTINF:-1,FR: beIN SPORTS 3 SD
-http://silvertv.net:1997/Fouad/Fouad/9788
-#EXTINF:-1,FR: BEIN SPORT MAX 4 HD
-http://silvertv.net:1997/Fouad/Fouad/5203
-#EXTINF:-1,FR: BEIN SPORT MAX 4
-http://silvertv.net:1997/Fouad/Fouad/9787
-#EXTINF:-1,FR: BEIN SPORT MAX 5 HD
-http://silvertv.net:1997/Fouad/Fouad/5202
-#EXTINF:-1,FR: BEIN SPORT MAX 5
-http://silvertv.net:1997/Fouad/Fouad/9786
-#EXTINF:-1,FR: BEIN SPORT MAX 6 HD
-http://silvertv.net:1997/Fouad/Fouad/5201
-#EXTINF:-1,FR: BEIN SPORT MAX 6
-http://silvertv.net:1997/Fouad/Fouad/9785
-#EXTINF:-1,FR: BEIN SPORT MAX 7
-http://silvertv.net:1997/Fouad/Fouad/9784
-#EXTINF:-1,FR: BEIN SPORT MAX 8 HD
-http://silvertv.net:1997/Fouad/Fouad/5199
-#EXTINF:-1,FR: BEIN SPORT MAX 8
-http://silvertv.net:1997/Fouad/Fouad/9783
-#EXTINF:-1,FR: BEIN SPORT MAX 9 HD
-http://silvertv.net:1997/Fouad/Fouad/5198
-#EXTINF:-1,FR: BEIN SPORT MAX 9
-http://silvertv.net:1997/Fouad/Fouad/9782
-#EXTINF:-1,FR: BEIN SPORT MAX 10 HD
-http://silvertv.net:1997/Fouad/Fouad/5197
-#EXTINF:-1,FR: BEIN SPORT MAX 10
-http://silvertv.net:1997/Fouad/Fouad/9781
-#EXTINF:-1,FR: Golf Plus HD
-http://silvertv.net:1997/Fouad/Fouad/17986
-#EXTINF:-1,FR: Golf Plus
-http://silvertv.net:1997/Fouad/Fouad/17987
-#EXTINF:-1,FR: Golf Channel HD
-http://silvertv.net:1997/Fouad/Fouad/5188
-#EXTINF:-1,FR: Equidia Live
-http://silvertv.net:1997/Fouad/Fouad/9769
-#EXTINF:-1,FR: AB Moteur HD
-http://silvertv.net:1997/Fouad/Fouad/5183
-#EXTINF:-1,FR: AB Moteurs
-http://silvertv.net:1997/Fouad/Fouad/9767
-#EXTINF:-1,FR: DISNEY CHANNEL HD
-http://silvertv.net:1997/Fouad/Fouad/5245
-#EXTINF:-1,FR: TELETOON PLUS HD
-http://silvertv.net:1997/Fouad/Fouad/5239
-#EXTINF:-1,FR: TELETOON PLUS
-http://silvertv.net:1997/Fouad/Fouad/9810
-#EXTINF:-1,FR: NICKELODEON
-http://silvertv.net:1997/Fouad/Fouad/9809
-#EXTINF:-1,FR: NICKELODEON 4TEENS HD
-http://silvertv.net:1997/Fouad/Fouad/5237
-#EXTINF:-1,FR: NICKELODEON 4TEENS
-http://silvertv.net:1997/Fouad/Fouad/9808
-#EXTINF:-1,FR: NICKELODEON JUNIOR
-http://silvertv.net:1997/Fouad/Fouad/9807
-#EXTINF:-1,FR: CartoonNetwork HD
-http://silvertv.net:1997/Fouad/Fouad/5241
-#EXTINF:-1,FR: CANAL J HD
-http://silvertv.net:1997/Fouad/Fouad/5231
-#EXTINF:-1,FR: CANAL J
-http://silvertv.net:1997/Fouad/Fouad/9803
-#EXTINF:-1,FR: GULLI HD
-http://silvertv.net:1997/Fouad/Fouad/5233
-#EXTINF:-1,FR: GULLI
-http://silvertv.net:1997/Fouad/Fouad/9802
-#EXTINF:-1,FR: MANGAS TV HD
-http://silvertv.net:1997/Fouad/Fouad/5235
-#EXTINF:-1,FR: MANGAS TV
-http://silvertv.net:1997/Fouad/Fouad/9801
-#EXTINF:-1,FR: Toonami HD
-http://silvertv.net:1997/Fouad/Fouad/9816
-#EXTINF:-1,FR: GAME ONE HD
-http://silvertv.net:1997/Fouad/Fouad/5230
-#EXTINF:-1,FR: ANIMAUX HD
-http://silvertv.net:1997/Fouad/Fouad/5265
-#EXTINF:-1,FR: ANIMAUX
-http://silvertv.net:1997/Fouad/Fouad/9846
-#EXTINF:-1,FR: NAT GEO WILD HD
-http://silvertv.net:1997/Fouad/Fouad/5260
-#EXTINF:-1,FR: NAT GEO WILD
-http://silvertv.net:1997/Fouad/Fouad/9844
-#EXTINF:-1,FR: NATIONAL GEO HD
-http://silvertv.net:1997/Fouad/Fouad/5261
-#EXTINF:-1,FR: NATIONAL GEO
-http://silvertv.net:1997/Fouad/Fouad/9843
-#EXTINF:-1,FR: DISCOVERY HD
-http://silvertv.net:1997/Fouad/Fouad/5263
-#EXTINF:-1,FR: DISCOVERY
-http://silvertv.net:1997/Fouad/Fouad/9842
-#EXTINF:-1,FR: PLANET PLUS HD
-http://silvertv.net:1997/Fouad/Fouad/5259
-#EXTINF:-1,FR: PLANET PLUS
-http://silvertv.net:1997/Fouad/Fouad/9840
-#EXTINF:-1,FR: PLANETE A&E
-http://silvertv.net:1997/Fouad/Fouad/9838
-#EXTINF:-1,FR: VOYAGE HD
-http://silvertv.net:1997/Fouad/Fouad/5254
-#EXTINF:-1,FR: CHASSE&PECHE HD
-http://silvertv.net:1997/Fouad/Fouad/5251
-#EXTINF:-1,FR: TOUTE L'HISTOIRE
-http://silvertv.net:1997/Fouad/Fouad/9831
-#EXTINF:-1,FR: J ONE
-http://silvertv.net:1997/Fouad/Fouad/9874
-#EXTINF:-1,FR: CRIME DISTRICT HD
-http://silvertv.net:1997/Fouad/Fouad/11423
-#EXTINF:-1,FR: DISCOVERY INVESTIGATION
-http://silvertv.net:1997/Fouad/Fouad/9875
-#EXTINF:-1,FR: Tv Breizh HD
-http://silvertv.net:1997/Fouad/Fouad/5279
-#EXTINF:-1,FR: Tv Breizh
-http://silvertv.net:1997/Fouad/Fouad/9827
-#EXTINF:-1,FR: AB1 HD
-http://silvertv.net:1997/Fouad/Fouad/5274
-#EXTINF:-1,FR: BRAVA HD
-http://silvertv.net:1997/Fouad/Fouad/17850
-#EXTINF:-1,FR: LCI
-http://silvertv.net:1997/Fouad/Fouad/9749
-#EXTINF:-1,FR: BFM HD
-http://silvertv.net:1997/Fouad/Fouad/5178
-#EXTINF:-1,FR: BFM
-http://silvertv.net:1997/Fouad/Fouad/9748
-#EXTINF:-1,FR: FRANCE.24 HD
-http://silvertv.net:1997/Fouad/Fouad/5176
-#EXTINF:-1,FR: MTV Dance
-http://silvertv.net:1997/Fouad/Fouad/9792
-#EXTINF:-1,FR: NRJ12 HITS HD
-http://silvertv.net:1997/Fouad/Fouad/5292
-#EXTINF:-1,FR: MEZZO FR HD
-http://silvertv.net:1997/Fouad/Fouad/17859
-#EXTINF:-1,FR: MEZZO LIVE HD
-http://silvertv.net:1997/Fouad/Fouad/17858
-#EXTINF:-1,FR: A LA CARTE 04
-http://silvertv.net:1997/Fouad/Fouad/9586
-#EXTINF:-1,FR: CANAL PLAY 01
-http://silvertv.net:1997/Fouad/Fouad/9568
-#EXTINF:-1,FR: CANAL PLAY 04
-http://silvertv.net:1997/Fouad/Fouad/9565
-#EXTINF:-1,FR|RMC SPORT1 HEVC/265
-http://silvertv.net:1997/Fouad/Fouad/45433
-#EXTINF:-1,FR|RMC SPORT3 HEVC/265
-http://silvertv.net:1997/Fouad/Fouad/45431
-#EXTINF:-1,FR|RMC SPORT4 HEVC/265
-http://silvertv.net:1997/Fouad/Fouad/45430
-#EXTINF:-1,FR|TF1 HEVC/265
-http://silvertv.net:1997/Fouad/Fouad/45428
-#EXTINF:-1,FR|CINE EMOTION HEVC/265
-http://silvertv.net:1997/Fouad/Fouad/45466
-#EXTINF:-1,FR|OCS MAX HEVC/265
-http://silvertv.net:1997/Fouad/Fouad/45435
-#EXTINF:-1,FR|C NEWS HEVC/265
-http://silvertv.net:1997/Fouad/Fouad/45477
-#EXTINF:-1,FR|GULLI HEVC/265
-http://silvertv.net:1997/Fouad/Fouad/45449
-#EXTINF:-1,FR|NRJ12 HEVC/265
-http://silvertv.net:1997/Fouad/Fouad/45440
-#EXTINF:-1,FR|NUMERO23 HEVC/265
-http://silvertv.net:1997/Fouad/Fouad/45439
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/291
+#EXTINF:-1,FR:France 2
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/278
+#EXTINF:-1,FR:France 3
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/279
+#EXTINF:-1,FR:France 4
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/280
+#EXTINF:-1,FR:France 5
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/281
+#EXTINF:-1,FR:6 Ter
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/581
+#EXTINF:-1,FR:Canal8
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/301
+#EXTINF:-1,FR:W9
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/294
+#EXTINF:-1,FR:TFX
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/1413
+#EXTINF:-1,FR:TF1 Series Film
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/491
+#EXTINF:-1,FR:Cherie25
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/1485
+#EXTINF:-1,FR:RMC Story
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/1533
+#EXTINF:-1,FR:TMC
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/293
+#EXTINF:-1,FR:Arte
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/494
+#EXTINF:-1,FR:RMC Decouvert
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/305
+#EXTINF:-1,FR:BFM News
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/283
+#EXTINF:-1,FR:France Info
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/3688
+#EXTINF:-1,FR:Cnews
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/471
+#EXTINF:-1,FR:LEQUIPE
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/580
+#EXTINF:-1,FR:Cstar
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/302
+#EXTINF:-1,FR:NRJ12
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/285
+#EXTINF:-1,FR:Canal+
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/181
+#EXTINF:-1,FR:Canal+ Decale
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/183
+#EXTINF:-1,FR:Canal+ Cinema
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/5191
+#EXTINF:-1,FR:Canal+ Family
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/184
+#EXTINF:-1,FR:Canal+ Series
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/466
+#EXTINF:-1,FR:Canal+ Sport
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/5190
+#EXTINF:-1,Al Jazeera
+http://190.2.132.7:8080/live/8901428527/anxnudwz/109.m3u8
+#EXTINF:-1,Al jazeera Mubasher
+http://190.2.132.7:8080/live/8901428527/anxnudwz/111.m3u8
+#EXTINF:-1,Al Arabiya
+http://190.2.132.7:8080/live/8901428527/anxnudwz/110.m3u8
+#EXTINF:-1,AR:Al Arabiya Al hadath
+http://190.2.132.7:8080/live/8901428527/anxnudwz/112.m3u8
+#EXTINF:-1,MBC1-HD
+http://212.8.253.47:88/mbcunivers/OpJs06zT6s/1714
+#EXTINF:-1,MBC1-SD
+http://190.2.132.7:8080/live/8901428527/anxnudwz/4630.m3u8
+#EXTINF:-1,MBC2-HD
+http://212.8.253.47:88/mbcunivers/OpJs06zT6s/1713
+#EXTINF:-1,MBC3-HD
+http://212.8.253.47:88/mbcunivers/OpJs06zT6s/1712
+#EXTINF:-1,MBC3-SD
+http://190.2.132.7:8080/live/8901428527/anxnudwz/4632.m3u8
+#EXTINF:-1,MBC4-HD
+http://212.8.253.47:88/mbcunivers/OpJs06zT6s/1711
+#EXTINF:-1,MBC4-SD
+http://190.2.132.7:8080/live/8901428527/anxnudwz/4633.m3u8
+#EXTINF:-1,MBC Drama HD
+http://212.8.253.47:88/mbcunivers/OpJs06zT6s/1709
+#EXTINF:-1,MBC Drama SD
+http://190.2.132.7:8080/live/8901428527/anxnudwz/4636.m3u8
+#EXTINF:-1,MBC+ Drama
+http://212.8.253.47:88/mbcunivers/OpJs06zT6s/1475
+#EXTINF:-1,MBC Action HD
+http://212.8.253.47:88/mbcunivers/OpJs06zT6s/1710
+#EXTINF:-1,MBC Action SD
+http://190.2.132.7:8080/live/8901428527/anxnudwz/4634.m3u8
+#EXTINF:-1,MBC Max HD
+http://212.8.253.47:88/mbcunivers/OpJs06zT6s/1708
+#EXTINF:-1,MBC Max SD
+http://190.2.132.7:8080/live/8901428527/anxnudwz/4637.m3u8
+#EXTINF:-1,MBC Bollywood HD
+http://212.8.253.47:88/mbcunivers/OpJs06zT6s/872
+#EXTINF:-1,MBC+ Variety HD
+http://212.8.253.47:88/mbcunivers/OpJs06zT6s/1707
+#EXTINF:-1,MBC Masr
+http://212.8.253.47:88/mbcunivers/OpJs06zT6s/227
+#EXTINF:-1,MBC Masr 2
+http://212.8.253.47:88/mbcunivers/OpJs06zT6s/643
+#EXTINF:-1,Cartoon Network ar
+http://190.2.132.7:8080/live/8901428527/anxnudwz/106.m3u8
+#EXTINF:-1,Space Toon
+http://190.2.132.7:8080/live/8901428527/anxnudwz/105.m3u8
+#EXTINF:-1,Toyor Al Janah local
+http://190.2.132.7:8080/live/8901428527/anxnudwz/107.m3u8
+#EXTINF:-1,Toyor Baby
+http://190.2.132.7:8080/live/8901428527/anxnudwz/108.m3u8
+#EXTINF:-1,FR:Tiji
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/1482
+#EXTINF:-1,FR:Piwi
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/1023
+#EXTINF:-1,FR:Teletoon
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/489
+#EXTINF:-1,FR:Disney Junior
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/1523
+#EXTINF:-1,FR:Disney fr
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/300
+#EXTINF:-1,FR:Disney Cinema Fr
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/298
+#EXTINF:-1,FR:Disney XD Fr
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/2165
+#EXTINF:-1,FR:Mangas
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/490
+#EXTINF:-1,FR:Boing Fr
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/1484
+#EXTINF:-1,FR:Boomerang Fr
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/297
+#EXTINF:-1,FR:Canal J
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/492
+#EXTINF:-1,FR:Cartoon Network fr
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/488
+#EXTINF:-1,Abu Dhabi Sport 3
+http://190.2.132.7:8080/live/8901428527/anxnudwz/4022.m3u8
+#EXTINF:-1,FR:Planete+
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/288
+#EXTINF:-1,FR:Planete CI
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/487
+#EXTINF:-1,FR:Planete AE
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/469
+#EXTINF:-1,FR:Nat Geo FR
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/486
+#EXTINF:-1,FR:Nat Geo Wild FR
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/485
+#EXTINF:-1,FR:Voyage
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/484
+#EXTINF:-1,FR:Animaux
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/284
+#EXTINF:-1,FR:Ushuaia
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/483
+#EXTINF:-1,FR:Discovery FR
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/299
+#EXTINF:-1,FR:Discovery Sc FR
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/465
+#EXTINF:-1,FR:Discovery ID FR
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/3381
+#EXTINF:-1,FR:Crime District
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/3671
+#EXTINF:-1,FR:Trek
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/1529
+#EXTINF:-1,FR:Sciences & Vie
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/282
+#EXTINF:-1,FR:Histoire
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/1534
+#EXTINF:-1,FR:Toute L Histoire
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/470
+#EXTINF:-1,FR:Action
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/296
+#EXTINF:-1,FR:Cine Premier
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/187
+#EXTINF:-1,FR:Cine Emotion
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/186
+#EXTINF:-1,FR:Cine Frisson
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/185
+#EXTINF:-1,FR:Cine Classic
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/467
+#EXTINF:-1,FR:Cine Famiz
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/468
+#EXTINF:-1,FR:TCM CINEMA
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/1530
+#EXTINF:-1,FR:Paramount Channel FR
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/1410
+#EXTINF:-1,FR:Ocs Choc
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/1017
+#EXTINF:-1,FR:Ocs City
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/1019
+#EXTINF:-1,FR:Ocs Geant
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/1016
+#EXTINF:-1,FR:Ocs Max
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/1018
+#EXTINF:-1,Ocs Go Cinema1
+http://190.2.132.7:8080/live/8901428527/anxnudwz/4202.m3u8
+#EXTINF:-1,FR:13emeRue
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/482
+#EXTINF:-1,FR:SYFY Fr
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/292
+#EXTINF:-1,FR:TV Breizh
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/976
+#EXTINF:-1,FR:Comedie+
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/290
+#EXTINF:-1,FR:RTL9
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/495
+#EXTINF:-1,FR:AB1
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/1526
+#EXTINF:-1,FR:E! Entertainement
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/1535
+#EXTINF:-1,FR:Euronews FR
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/3616
+#EXTINF:-1,FR:Infosport
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/500
+#EXTINF:-1,SFR Sport 1
+http://190.2.132.7:8080/live/8901428527/anxnudwz/4268.m3u8
+#EXTINF:-1,SFR Sport 2
+http://190.2.132.7:8080/live/8901428527/anxnudwz/4269.m3u8
+#EXTINF:-1,FR:Eurosport 1 FR
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/572
+#EXTINF:-1,FR:Eurosport 2 FR
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/287
+#EXTINF:-1,FR:Golf+ Fr
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/1372
+#EXTINF:-1,FR:MTV France
+http://212.8.253.47:88/franceunivers/wJHPzr6T5g/1030
