@@ -1,294 +1,569 @@
-#EXTINF:-1,FR: TF1 FHD
-http://silvertv.net:1997/Fouad/Fouad/18341
-#EXTINF:-1,FR: TF1 HD
-http://silvertv.net:1997/Fouad/Fouad/5175
-#EXTINF:-1,FR: TF1
-http://silvertv.net:1997/Fouad/Fouad/9764
-#EXTINF:-1,FR: TF1 (UHD)
-http://silvertv.net:1997/Fouad/Fouad/18324
-#EXTINF:-1,FR: TF1 Series Films FHD
-http://silvertv.net:1997/Fouad/Fouad/18342
-#EXTINF:-1,FR: TF1 Series Film HD
-http://silvertv.net:1997/Fouad/Fouad/5280
-#EXTINF:-1,FR: TF1 Series Films
-http://silvertv.net:1997/Fouad/Fouad/9829
-#EXTINF:-1,FR: M6 FHD
-http://silvertv.net:1997/Fouad/Fouad/18339
-#EXTINF:-1,FR: M6 HD
-http://silvertv.net:1997/Fouad/Fouad/5174
-#EXTINF:-1,FR: M6
-http://silvertv.net:1997/Fouad/Fouad/9763
-#EXTINF:-1,FR: M6 (UHD)
-http://silvertv.net:1997/Fouad/Fouad/18325
-#EXTINF:-1,FR: FRANCE 2 FHD
-http://silvertv.net:1997/Fouad/Fouad/18340
-#EXTINF:-1,FR: FRANCE 2 HD
-http://silvertv.net:1997/Fouad/Fouad/5173
-#EXTINF:-1,FR: FRANCE2
-http://silvertv.net:1997/Fouad/Fouad/9762
-#EXTINF:-1,FR: FRANCE 3 FHD
-http://silvertv.net:1997/Fouad/Fouad/18338
-#EXTINF:-1,FR: FRANCE 3 HD
-http://silvertv.net:1997/Fouad/Fouad/5172
-#EXTINF:-1,FR: FRANCE3
-http://silvertv.net:1997/Fouad/Fouad/9761
-#EXTINF:-1,FR: FRANCE 4 FHD
-http://silvertv.net:1997/Fouad/Fouad/18337
-#EXTINF:-1,FR: FRANCE 4 HD
-http://silvertv.net:1997/Fouad/Fouad/5171
-#EXTINF:-1,FR: FRANCE4
-http://silvertv.net:1997/Fouad/Fouad/9760
-#EXTINF:-1,FR: FRANCE 5 FHD
-http://silvertv.net:1997/Fouad/Fouad/18336
-#EXTINF:-1,FR: FRANCE 5 HD
-http://silvertv.net:1997/Fouad/Fouad/5170
-#EXTINF:-1,FR: FRANCE5
-http://silvertv.net:1997/Fouad/Fouad/9759
-#EXTINF:-1,FR: FRANCE O HD
-http://silvertv.net:1997/Fouad/Fouad/5169
-#EXTINF:-1,FR: FRANCE O
-http://silvertv.net:1997/Fouad/Fouad/9758
-#EXTINF:-1,FR: 6ter FHD
-http://silvertv.net:1997/Fouad/Fouad/18330
-#EXTINF:-1,FR: 6Ter HD
-http://silvertv.net:1997/Fouad/Fouad/5167
-#EXTINF:-1,FR: W9 FHD
-http://silvertv.net:1997/Fouad/Fouad/18334
-#EXTINF:-1,FR: ARTE FHD
-http://silvertv.net:1997/Fouad/Fouad/18332
-#EXTINF:-1,FR: CHERIE 25
-http://silvertv.net:1997/Fouad/Fouad/9752
-#EXTINF:-1,FR: NRJ12 FHD
-http://silvertv.net:1997/Fouad/Fouad/18329
-#EXTINF:-1,FR: NRJ12
-http://silvertv.net:1997/Fouad/Fouad/9751
-#EXTINF:-1,FR: C8
-http://silvertv.net:1997/Fouad/Fouad/9755
-#EXTINF:-1,FR: CStar
-http://silvertv.net:1997/Fouad/Fouad/9754
-#EXTINF:-1,FR: CANAL PLUS CINEMA FHD
-http://silvertv.net:1997/Fouad/Fouad/18344
-#EXTINF:-1,FR: CANAL PLUS DECALE HD
-http://silvertv.net:1997/Fouad/Fouad/5155
-#EXTINF:-1,FR: CINE CLASSIC
-http://silvertv.net:1997/Fouad/Fouad/9866
-#EXTINF:-1,FR: CINE FAMIZ HD
-http://silvertv.net:1997/Fouad/Fouad/5223
-#EXTINF:-1,FR: CINE FAMIZ
-http://silvertv.net:1997/Fouad/Fouad/9865
-#EXTINF:-1,FR: CINE FX
-http://silvertv.net:1997/Fouad/Fouad/9863
-#EXTINF:-1,FR: CINE POLAR HD
-http://silvertv.net:1997/Fouad/Fouad/5225
-#EXTINF:-1,FR: CINE POLAR
-http://silvertv.net:1997/Fouad/Fouad/9862
-#EXTINF:-1,FR: CINE EMOTION HD
-http://silvertv.net:1997/Fouad/Fouad/5226
-#EXTINF:-1,FR: CINE PREMIERE HD
-http://silvertv.net:1997/Fouad/Fouad/5224
-#EXTINF:-1,FR: OCS CHOC
-http://silvertv.net:1997/Fouad/Fouad/9859
-#EXTINF:-1,FR: OCS MAX
-http://silvertv.net:1997/Fouad/Fouad/9857
-#EXTINF:-1,FR: ACTION
-http://silvertv.net:1997/Fouad/Fouad/9855
-#EXTINF:-1,FR: TFX HD
-http://silvertv.net:1997/Fouad/Fouad/5208
-#EXTINF:-1,FR: SYFY
-http://silvertv.net:1997/Fouad/Fouad/9852
-#EXTINF:-1,FR: PARAMOUNT CHANNEL
-http://silvertv.net:1997/Fouad/Fouad/9847
-#EXTINF:-1,FR: RMC Sport News HD
-http://silvertv.net:1997/Fouad/Fouad/19382
-#EXTINF:-1,FR: RMC Sport Live 1 HD
-http://silvertv.net:1997/Fouad/Fouad/5196
-#EXTINF:-1,FR: RMC Sport Live 1
-http://silvertv.net:1997/Fouad/Fouad/47508
-#EXTINF:-1,FR: RMC Sport Access 1 HD
-http://silvertv.net:1997/Fouad/Fouad/9780
-#EXTINF:-1,FR: RMC Sport Live 2 HD
-http://silvertv.net:1997/Fouad/Fouad/5195
-#EXTINF:-1,FR: RMC Sport Live 2
-http://silvertv.net:1997/Fouad/Fouad/47507
-#EXTINF:-1,FR: RMC Sport Access 2 HD
-http://silvertv.net:1997/Fouad/Fouad/9779
-#EXTINF:-1,FR: RMC Sport Live 3 HD
-http://silvertv.net:1997/Fouad/Fouad/5194
-#EXTINF:-1,FR: RMC Sport Live 3
-http://silvertv.net:1997/Fouad/Fouad/47506
-#EXTINF:-1,FR: RMC Sport Access 3 HD
-http://silvertv.net:1997/Fouad/Fouad/9778
-#EXTINF:-1,FR: RMC Sport Live 4 HD
-http://silvertv.net:1997/Fouad/Fouad/19352
-#EXTINF:-1,FR: RMC Sport Live 5 HD
-http://silvertv.net:1997/Fouad/Fouad/5193
-#EXTINF:-1,FR: RMC Sport Live 6 HD
-http://silvertv.net:1997/Fouad/Fouad/19381
-#EXTINF:-1,FR: RMC Sport Live 7 HD
-http://silvertv.net:1997/Fouad/Fouad/19380
-#EXTINF:-1,FR: RMC Sport Live 8 HD
-http://silvertv.net:1997/Fouad/Fouad/19379
-#EXTINF:-1,FR: RMC Sport Live 9 HD
-http://silvertv.net:1997/Fouad/Fouad/19378
-#EXTINF:-1,FR: beIN SPORTS 3 SD
-http://silvertv.net:1997/Fouad/Fouad/9788
-#EXTINF:-1,FR: BEIN SPORT MAX 4
-http://silvertv.net:1997/Fouad/Fouad/9787
-#EXTINF:-1,FR: BEIN SPORT MAX 5 HD
-http://silvertv.net:1997/Fouad/Fouad/5202
-#EXTINF:-1,FR: BEIN SPORT MAX 6 HD
-http://silvertv.net:1997/Fouad/Fouad/5201
-#EXTINF:-1,FR: BEIN SPORT MAX 6
-http://silvertv.net:1997/Fouad/Fouad/9785
-#EXTINF:-1,FR: BEIN SPORT MAX 8 HD
-http://silvertv.net:1997/Fouad/Fouad/5199
-#EXTINF:-1,FR: BEIN SPORT MAX 8
-http://silvertv.net:1997/Fouad/Fouad/9783
-#EXTINF:-1,FR: BEIN SPORT MAX 9 HD
-http://silvertv.net:1997/Fouad/Fouad/5198
-#EXTINF:-1,FR: BEIN SPORT MAX 9
-http://silvertv.net:1997/Fouad/Fouad/9782
-#EXTINF:-1,FR: BEIN SPORT MAX 10 HD
-http://silvertv.net:1997/Fouad/Fouad/5197
-#EXTINF:-1,FR: EuroSport 1
-http://silvertv.net:1997/Fouad/Fouad/9776
-#EXTINF:-1,FR: Infosport HD
-http://silvertv.net:1997/Fouad/Fouad/5192
-#EXTINF:-1,FR: Golf Channel
-http://silvertv.net:1997/Fouad/Fouad/9771
-#EXTINF:-1,FR: Equidia Live
-http://silvertv.net:1997/Fouad/Fouad/9769
-#EXTINF:-1,FR: BFM SPORT
-http://silvertv.net:1997/Fouad/Fouad/9770
-#EXTINF:-1,FR: Sport365 HD
-http://silvertv.net:1997/Fouad/Fouad/5806
-#EXTINF:-1,FR: Piwi HD
-http://silvertv.net:1997/Fouad/Fouad/5248
-#EXTINF:-1,FR: TIJI HD
-http://silvertv.net:1997/Fouad/Fouad/5247
-#EXTINF:-1,FR: DISNEY CINEMA HD
-http://silvertv.net:1997/Fouad/Fouad/5243
-#EXTINF:-1,FR: DISNEY JUNIOR HD
-http://silvertv.net:1997/Fouad/Fouad/5807
-#EXTINF:-1,FR: DISNEY JUNIOR
-http://silvertv.net:1997/Fouad/Fouad/9812
-#EXTINF:-1,FR: NICKELODEON HD
-http://silvertv.net:1997/Fouad/Fouad/5238
-#EXTINF:-1,FR: NICKELODEON
-http://silvertv.net:1997/Fouad/Fouad/9809
-#EXTINF:-1,FR: BOING HD
-http://silvertv.net:1997/Fouad/Fouad/5234
-#EXTINF:-1,FR: BOING
-http://silvertv.net:1997/Fouad/Fouad/9804
-#EXTINF:-1,FR: CANAL J HD
-http://silvertv.net:1997/Fouad/Fouad/5231
-#EXTINF:-1,FR: CANAL J
-http://silvertv.net:1997/Fouad/Fouad/9803
-#EXTINF:-1,FR: GULLI HD
-http://silvertv.net:1997/Fouad/Fouad/5233
-#EXTINF:-1,FR: GULLI
-http://silvertv.net:1997/Fouad/Fouad/9802
-#EXTINF:-1,FR: MANGAS TV HD
-http://silvertv.net:1997/Fouad/Fouad/5235
-#EXTINF:-1,FR: MANGAS TV
-http://silvertv.net:1997/Fouad/Fouad/9801
-#EXTINF:-1,FR: Toonami HD
-http://silvertv.net:1997/Fouad/Fouad/9816
-#EXTINF:-1,FR: Toonami
-http://silvertv.net:1997/Fouad/Fouad/9815
-#EXTINF:-1,FR: GAME ONE HD
-http://silvertv.net:1997/Fouad/Fouad/5230
-#EXTINF:-1,FR: GAME ONE
-http://silvertv.net:1997/Fouad/Fouad/9799
-#EXTINF:-1,FR: ANIMAUX
-http://silvertv.net:1997/Fouad/Fouad/9846
-#EXTINF:-1,FR: Ushuaia
-http://silvertv.net:1997/Fouad/Fouad/9845
-#EXTINF:-1,FR: NAT GEO WILD HD
-http://silvertv.net:1997/Fouad/Fouad/5260
-#EXTINF:-1,FR: NAT GEO WILD
-http://silvertv.net:1997/Fouad/Fouad/9844
-#EXTINF:-1,FR: NATIONAL GEO HD
-http://silvertv.net:1997/Fouad/Fouad/5261
-#EXTINF:-1,FR: NATIONAL GEO
-http://silvertv.net:1997/Fouad/Fouad/9843
-#EXTINF:-1,FR: DISCOVERY HD
-http://silvertv.net:1997/Fouad/Fouad/5263
-#EXTINF:-1,FR: DISCOVERY
-http://silvertv.net:1997/Fouad/Fouad/9842
-#EXTINF:-1,FR: DISCOVERY SCIENCE HD
-http://silvertv.net:1997/Fouad/Fouad/5262
-#EXTINF:-1,FR: PLANET PLUS HD
-http://silvertv.net:1997/Fouad/Fouad/5259
-#EXTINF:-1,FR: PLANET PLUS
-http://silvertv.net:1997/Fouad/Fouad/9840
-#EXTINF:-1,FR: PLANETE CI HD
-http://silvertv.net:1997/Fouad/Fouad/5258
-#EXTINF:-1,FR: PLANETE CI
-http://silvertv.net:1997/Fouad/Fouad/9839
-#EXTINF:-1,FR: PLANETE A&E HD
-http://silvertv.net:1997/Fouad/Fouad/5257
-#EXTINF:-1,FR: VOYAGE HD
-http://silvertv.net:1997/Fouad/Fouad/5254
-#EXTINF:-1,FR: SEASON HD
-http://silvertv.net:1997/Fouad/Fouad/5250
-#EXTINF:-1,FR: SEASON
-http://silvertv.net:1997/Fouad/Fouad/9834
-#EXTINF:-1,FR: HISTOIRE
-http://silvertv.net:1997/Fouad/Fouad/9832
-#EXTINF:-1,FR: Trek
-http://silvertv.net:1997/Fouad/Fouad/9830
-#EXTINF:-1,FR: J ONE HD
-http://silvertv.net:1997/Fouad/Fouad/11425
-#EXTINF:-1,FR: CRIME DISTRICT HD
-http://silvertv.net:1997/Fouad/Fouad/11423
-#EXTINF:-1,FR: BFM Business
-http://silvertv.net:1997/Fouad/Fouad/9821
-#EXTINF:-1,FR: E! Entertainment HD
-http://silvertv.net:1997/Fouad/Fouad/5276
-#EXTINF:-1,FR: TRACE Urban HD
-http://silvertv.net:1997/Fouad/Fouad/17852
-#EXTINF:-1,FR: My Cuisine
-http://silvertv.net:1997/Fouad/Fouad/9822
-#EXTINF:-1,FR: BET HD
-http://silvertv.net:1997/Fouad/Fouad/17856
-#EXTINF:-1,FR: ONE TV HD
-http://silvertv.net:1997/Fouad/Fouad/17854
-#EXTINF:-1,FR: RFM TV HD
-http://silvertv.net:1997/Fouad/Fouad/17853
-#EXTINF:-1,FR: EURONEWS
-http://silvertv.net:1997/Fouad/Fouad/9745
-#EXTINF:-1,FR: M6 MUSIC HD
-http://silvertv.net:1997/Fouad/Fouad/5293
-#EXTINF:-1,FR: MCM TOP
-http://silvertv.net:1997/Fouad/Fouad/9796
-#EXTINF:-1,FR: MTV FRANCE HD
-http://silvertv.net:1997/Fouad/Fouad/5291
-#EXTINF:-1,FR: MTV FRANCE
-http://silvertv.net:1997/Fouad/Fouad/9794
-#EXTINF:-1,FR: MTV Hits
-http://silvertv.net:1997/Fouad/Fouad/9793
-#EXTINF:-1,FR: MTV Dance
-http://silvertv.net:1997/Fouad/Fouad/9792
-#EXTINF:-1,FR: NRJ12 HITS HD
-http://silvertv.net:1997/Fouad/Fouad/5292
-#EXTINF:-1,FR: NRJ12 HITS
-http://silvertv.net:1997/Fouad/Fouad/9791
-#EXTINF:-1,FR: MEZZO FR HD
-http://silvertv.net:1997/Fouad/Fouad/17859
-#EXTINF:-1,FR: MEZZO LIVE HD
-http://silvertv.net:1997/Fouad/Fouad/17858
-#EXTINF:-1,FR: A LA CARTE 02
-http://silvertv.net:1997/Fouad/Fouad/9588
-#EXTINF:-1,FR: CANAL PLAY 01
-http://silvertv.net:1997/Fouad/Fouad/9568
-#EXTINF:-1,FR: CANAL PLAY 09
-http://silvertv.net:1997/Fouad/Fouad/9560
-#EXTINF:-1,FR: CANAL PLAY 15
-http://silvertv.net:1997/Fouad/Fouad/9554
-#EXTINF:-1,FR|beIN SPORT1 HEVC/265
-http://silvertv.net:1997/Fouad/Fouad/45482
-#EXTINF:-1,FR|beIN SPORT2 HEVC/265
-http://silvertv.net:1997/Fouad/Fouad/45481
-#EXTINF:-1,FR|RMC SPORT2 HEVC/265
-http://silvertv.net:1997/Fouad/Fouad/45432
+#EXTINF:-1,------list fraces fabio--------
+
+
+#EXTINF:-1,|FR| TF1 HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9211.m3u8
+#EXTINF:-1,|FR| TF1 FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9210.m3u8
+#EXTINF:-1,|FR| TF1 FHD BKP
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51179.m3u8
+#EXTINF:-1,|FR| France 2 HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9277.m3u8
+#EXTINF:-1,|FR| France 2 HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15226.m3u8
+#EXTINF:-1,|FR| FRANCE 2 FHD BKP
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51178.m3u8
+#EXTINF:-1,|FR| France 3 HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9276.m3u8
+#EXTINF:-1,|FR| France 3 HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15169.m3u8
+#EXTINF:-1,|FR| FRANCE 3 FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9545.m3u8
+#EXTINF:-1,|FR| FRANCE 3 FHD BKP
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51177.m3u8
+#EXTINF:-1,|FR| CANAL  FHD BKP
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51165.m3u8
+#EXTINF:-1,|FR| France 5 HD BKP
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9273.m3u8
+#EXTINF:-1,|FR| France 5 HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15167.m3u8
+#EXTINF:-1,|FR| FRANCE 5 FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9543.m3u8
+#EXTINF:-1,|FR| M6 HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9260.m3u8
+#EXTINF:-1,|FR| M6 HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15154.m3u8
+#EXTINF:-1,|FR| M6 FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9531.m3u8
+#EXTINF:-1,|FR| M6 FHD BKP
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51174.m3u8
+#EXTINF:-1,|FR| ARTE HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9354.m3u8
+#EXTINF:-1,|FR| Arte HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15212.m3u8
+#EXTINF:-1,|FR| ARTE FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9590.m3u8
+#EXTINF:-1,|FR| C8 HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9293.m3u8
+#EXTINF:-1,|FR| C8 HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15232.m3u8
+#EXTINF:-1,|FR| C8 FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9574.m3u8
+#EXTINF:-1,|FR| C8 FHD BKP
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51171.m3u8
+#EXTINF:-1,|FR| W9 HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9372.m3u8
+#EXTINF:-1,|FR| W9 HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15111.m3u8
+#EXTINF:-1,|FR| W9 FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9488.m3u8
+#EXTINF:-1,|FR| W9 FHD BKP
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51173.m3u8
+#EXTINF:-1,|FR| TMC FHD BKP
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51167.m3u8
+#EXTINF:-1,|FR| TFX HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/50639.m3u8
+#EXTINF:-1,|FR| TFX HD |Backup|
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/50640.m3u8
+#EXTINF:-1,|FR| TFX FHD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/50641.m3u8
+#EXTINF:-1,|FR| TFX FHD BKP
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51168.m3u8
+#EXTINF:-1,|FR|  NRJ12 HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9366.m3u8
+#EXTINF:-1,|FR| NRJ12 HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15142.m3u8
+#EXTINF:-1,|FR| NRJ12 FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9521.m3u8
+#EXTINF:-1,|FR| France 4  HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9274.m3u8
+#EXTINF:-1,|FR| France 4 HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15168.m3u8
+#EXTINF:-1,|FR| CNEWS FHD BKP
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51147.m3u8
+#EXTINF:-1,|FR| CSTAR HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15182.m3u8
+#EXTINF:-1,|FR| CSTAR FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9561.m3u8
+#EXTINF:-1,|FR| CSTAR FHD BKP
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51151.m3u8
+#EXTINF:-1,|FR| France O HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15165.m3u8
+#EXTINF:-1,|FR| TF1 SERIES FILMS FHD BKP
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51169.m3u8
+#EXTINF:-1,|FR| 6TER HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9364.m3u8
+#EXTINF:-1,|FR| 6ter HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15216.m3u8
+#EXTINF:-1,|FR| 6TER FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9595.m3u8
+#EXTINF:-1,|FR| 6TER FHD BKP
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51172.m3u8
+#EXTINF:-1,|FR| RMC STORY H265
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/56246.m3u8
+#EXTINF:-1,|FR| CHERIE 25 HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9313.m3u8
+#EXTINF:-1,|FR| CHERIE 25 FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9572.m3u8
+#EXTINF:-1,|FR| CHERIE 25 FHD BKP
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51148.m3u8
+#EXTINF:-1,|FR| TEVA HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/49804.m3u8
+#EXTINF:-1,|FR| Teva Full HD +
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9212.m3u8
+#EXTINF:-1,|FR| PARIS PREMIERE  HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15137.m3u8
+#EXTINF:-1,|FR| PARIS PREMIERE HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9238.m3u8
+#EXTINF:-1,|FR| RTL9 HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9374.m3u8
+#EXTINF:-1,|FR| Rtl9 HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15130.m3u8
+#EXTINF:-1,|FR| RTL9 FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9507.m3u8
+#EXTINF:-1,|FR| TV BREIZH HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9206.m3u8
+#EXTINF:-1,|FR| TV BREIZH HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15116.m3u8
+#EXTINF:-1,|FR| TV BREIZH FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9491.m3u8
+#EXTINF:-1,|FR| TV BREIZH FHD BKP
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51119.m3u8
+#EXTINF:-1,|FR| Bet etoile HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/30814.m3u8
+#EXTINF:-1,|FR| Bet Etoile FullHD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/30813.m3u8
+#EXTINF:-1,|FR| AB1 FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9594.m3u8
+#EXTINF:-1,|FR| AB3 HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9357.m3u8
+#EXTINF:-1,|FR| AB3 HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15215.m3u8
+#EXTINF:-1,|FR| AB3 FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9593.m3u8
+#EXTINF:-1,|FR| SERIE CLUB HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9226.m3u8
+#EXTINF:-1,|FR| 13 EME RUE HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9365.m3u8
+#EXTINF:-1,|FR| 13EME RUE HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15217.m3u8
+#EXTINF:-1,|FR| 13EME RUE FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9596.m3u8
+#EXTINF:-1,|FR| Syfy HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9214.m3u8
+#EXTINF:-1,|FR| Syfy HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15123.m3u8
+#EXTINF:-1,|FR| SYFY FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9498.m3u8
+#EXTINF:-1,|FR| E! HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15175.m3u8
+#EXTINF:-1,|FR| E! Entertainment HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9285.m3u8
+#EXTINF:-1,|FR| My Cuisine FullHD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/30818.m3u8
+#EXTINF:-1,|FR| MCM FHD BKP
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51112.m3u8
+#EXTINF:-1,|FR| COMEDIE Plus HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9297.m3u8
+#EXTINF:-1,|FR| COMEDIE HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15183.m3u8
+#EXTINF:-1,|FR| CANAL  HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/32155.m3u8
+#EXTINF:-1,|FR| CANAL HD BKP
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9324.m3u8
+#EXTINF:-1,|FR| CANAL FHD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9579.m3u8
+#EXTINF:-1,|FR| Canal cinema  HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15195.m3u8
+#EXTINF:-1,|FR| CANAL CINEMA FULL HD +
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9582.m3u8
+#EXTINF:-1,|FR| Canal Decale HD BKP
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9331.m3u8
+#EXTINF:-1,|FR| CANAL DECALE  HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15194.m3u8
+#EXTINF:-1,|FR| CANAL DECALE FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9581.m3u8
+#EXTINF:-1,|FR| Canal Family HD BKP
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9330.m3u8
+#EXTINF:-1,|FR| Canal family  HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15193.m3u8
+#EXTINF:-1,|FR| CANAL  FAMILY FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9580.m3u8
+#EXTINF:-1,|FR| Canal Series HD BKP
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9328.m3u8
+#EXTINF:-1,|FR| CANAL SERIE HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15192.m3u8
+#EXTINF:-1,|FR| ALTICE STUDIO FHD bkp
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/40880.m3u8
+#EXTINF:-1,|FR| OCS CHOC HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9247.m3u8
+#EXTINF:-1,|FR| OCS CHOC HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15140.m3u8
+#EXTINF:-1,|FR| OCS CHOC FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9518.m3u8
+#EXTINF:-1,|FR| OCS CITY HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15223.m3u8
+#EXTINF:-1,|FR| OCS CITY FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9517.m3u8
+#EXTINF:-1,|FR| OCS GEANT HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9245.m3u8
+#EXTINF:-1,|FR| OCS GEANTS HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15139.m3u8
+#EXTINF:-1,|FR| OCS MAX HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9244.m3u8
+#EXTINF:-1,|FR| OCS MAX HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15222.m3u8
+#EXTINF:-1,|FR| CANAL PLAY 1
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9322.m3u8
+#EXTINF:-1,|FR| CANAL PLAY 2
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9321.m3u8
+#EXTINF:-1,|FR| CANAL PLAY 3
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9320.m3u8
+#EXTINF:-1,|FR| CANAL PLAY 7
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9316.m3u8
+#EXTINF:-1,|FR| Cine Famiz HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9307.m3u8
+#EXTINF:-1,|FR| CINE  FAMIZ FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9567.m3u8
+#EXTINF:-1,|FR| CINE FRISSON HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9304.m3u8
+#EXTINF:-1,|FR| CINE FRISSON + HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15185.m3u8
+#EXTINF:-1,|FR| Cine Frisson FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9303.m3u8
+#EXTINF:-1,|FR| CINE  FRISSON FULL HD +
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9566.m3u8
+#EXTINF:-1,|FR| CINE FX HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9302.m3u8
+#EXTINF:-1,|FR| CINE FX FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9565.m3u8
+#EXTINF:-1,|FR| CINE POLAR HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9301.m3u8
+#EXTINF:-1,|FR| cine premier HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15230.m3u8
+#EXTINF:-1,|FR| ACTION HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9356.m3u8
+#EXTINF:-1,|FR| TMC HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9194.m3u8
+#EXTINF:-1,|FR| tmc HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15119.m3u8
+#EXTINF:-1,|FR| PARAMOUNT CHANNEL HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9240.m3u8
+#EXTINF:-1,|FR| Paramount Channel HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15138.m3u8
+#EXTINF:-1,|FR| TCM CINEMA HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9195.m3u8
+#EXTINF:-1,|FR| TCM Cinema Full HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9497.m3u8
+#EXTINF:-1,|FR| ORANGE CINE 1
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15247.m3u8
+#EXTINF:-1,|FR| ORANGE CINE 2 +
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15246.m3u8
+#EXTINF:-1,|FR| ORANGE CINE 3
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15245.m3u8
+#EXTINF:-1,|FR| ORANGE CINE 4
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15244.m3u8
+#EXTINF:-1,|FR| ORANGE CINE 5
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15243.m3u8
+#EXTINF:-1,|FR| ORANGE CINE Action HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15239.m3u8
+#EXTINF:-1,|FR| ORANGE CINE Aventure HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15237.m3u8
+#EXTINF:-1,|FR| ORANGE Documentaire
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15235.m3u8
+#EXTINF:-1,|FR| A LA CARTE 1
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9201.m3u8
+#EXTINF:-1,|FR| A LA CARTE 7
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9362.m3u8
+#EXTINF:-1,|FR| A LA CARTE 8
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9361.m3u8
+#EXTINF:-1,|FR| CANAL SPORT  HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/39203.m3u8
+#EXTINF:-1,|FR| CANAL SPORT HD BKP
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15191.m3u8
+#EXTINF:-1,|FR| CANAL SPORT FHD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9326.m3u8
+#EXTINF:-1,|FR| CANAL  SPORT FHD BKP
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51166.m3u8
+#EXTINF:-1,|FR| BeIN Sports 1 HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15204.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 1 HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9340.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 1 HD (BACKUP)
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9345.m3u8
+#EXTINF:-1,|FR| BEINSPORT 1 FR FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9589.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 1 FHD BKP
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51102.m3u8
+#EXTINF:-1,|FR| BeIN Sports 2 HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15203.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 2 HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9339.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 2 HD (BACKUP)
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9344.m3u8
+#EXTINF:-1,|FR| BEINSPORT 2 FR FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9588.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 2 FHD BKP
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51101.m3u8
+#EXTINF:-1,|FR| BeIN Sports 3 HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15202.m3u8
+#EXTINF:-1,|FR|  BEIN SPORT 3 HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9341.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 3 HD +
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9343.m3u8
+#EXTINF:-1,|FR| BEINSPORT 3 FR FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9587.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 3 FHD BKP
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51100.m3u8
+#EXTINF:-1,|FR| BeIN Sports MAX 4 HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15210.m3u8
+#EXTINF:-1,|FR| BeIN Sports MAX 6 HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15208.m3u8
+#EXTINF:-1,|FR| BeIN Sports MAX 7 HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15207.m3u8
+#EXTINF:-1,|FR| BeIN Sports MAX 8 FHD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15206.m3u8
+#EXTINF:-1,|FR| BeIN Sports MAX 9 FHD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15205.m3u8
+#EXTINF:-1,|FR| BeIN Sports MAX 10 FHD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15211.m3u8
+#EXTINF:-1,|FR| RMC Sport 1
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15127.m3u8
+#EXTINF:-1,|FR| RMC Sport 1 HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9218.m3u8
+#EXTINF:-1,|FR| RMC Sport 1 Full HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9502.m3u8
+#EXTINF:-1,|FR| RMC Sport 2
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15126.m3u8
+#EXTINF:-1,|FR| RMC SPORT 2 FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9501.m3u8
+#EXTINF:-1,|FR| RMC Sport 3
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15125.m3u8
+#EXTINF:-1,|FR| RMC Sport 3 HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9216.m3u8
+#EXTINF:-1,|FR| RMC SPORT 3 FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9500.m3u8
+#EXTINF:-1,|FR| RMC SPORT 4
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15124.m3u8
+#EXTINF:-1,|FR| RMC Sport 4 HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9215.m3u8
+#EXTINF:-1,|FR| RMC SPORT 4 FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9499.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 5
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/40480.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 7
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/40478.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 8
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/40477.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 14 FHD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/40471.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 16 FHD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/40469.m3u8
+#EXTINF:-1,|FR| RMC SPORT ACCESS 1 FHD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/40484.m3u8
+#EXTINF:-1,|FR| RMC SPORT ACCESS 2 FHD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/40483.m3u8
+#EXTINF:-1,|FR| RMC SPORT ACCESS 3 FHD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/40482.m3u8
+#EXTINF:-1,|FR| RMC SPORT ACCESS 4 FHD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/40481.m3u8
+#EXTINF:-1,|FR| Eurosport 1 HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15172.m3u8
+#EXTINF:-1,|FR| EUROSPORT1 HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9281.m3u8
+#EXTINF:-1,|FR| EUROSPORT 1 FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9549.m3u8
+#EXTINF:-1,|FR| EUROSPORT FHD BKP
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51105.m3u8
+#EXTINF:-1,|FR| EUROSPORT 2 HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9279.m3u8
+#EXTINF:-1,|FR| INFOSPORT HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15156.m3u8
+#EXTINF:-1,|FR| INFOSPORT FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9534.m3u8
+#EXTINF:-1,|FR| MOTORSPORT TV HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15147.m3u8
+#EXTINF:-1,|FR| L'EQUIPE 21 HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9264.m3u8
+#EXTINF:-1,|FR| L EQUIPE 21 HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15155.m3u8
+#EXTINF:-1,|FR| L'EQUIPE 21 FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9533.m3u8
+#EXTINF:-1,|FR| AB Moteur HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9359.m3u8
+#EXTINF:-1,|FR| EQUIDIA LIFE HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15228.m3u8
+#EXTINF:-1,|FR| EQUIDIA LIVE HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9282.m3u8
+#EXTINF:-1,|FR| EQUIDIA LIVE FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9550.m3u8
+#EXTINF:-1,|FR| GOLF  HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9270.m3u8
+#EXTINF:-1,|FR| GOLF  FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9540.m3u8
+#EXTINF:-1,|FR| GOLF  CHANNEL HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9378.m3u8
+#EXTINF:-1,|FR | Foot+ 24/24
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/32819.m3u8
+#EXTINF:-1,|FR| Golf+ FHD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/43446.m3u8
+#EXTINF:-1,|FR| GOLF  FHD BKP
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51107.m3u8
+#EXTINF:-1,|FR| France24 HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15164.m3u8
+#EXTINF:-1,|FR| BFM TV HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9336.m3u8
+#EXTINF:-1,|FR| BFM BUSINESS FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9586.m3u8
+#EXTINF:-1,|FR| LCI HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9261.m3u8
+#EXTINF:-1,|FR| LCI FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9532.m3u8
+#EXTINF:-1,|FR| TV5 MONDE HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9192.m3u8
+#EXTINF:-1,|FR| FRANCE INFO HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/43444.m3u8
+#EXTINF:-1,|FR| PLANETE  HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9236.m3u8
+#EXTINF:-1,|FR| PLANETE A&E HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9235.m3u8
+#EXTINF:-1,|FR| PLANETE A&E HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15134.m3u8
+#EXTINF:-1,|FR| PLANETE AE FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9511.m3u8
+#EXTINF:-1,|FR| PLANETE CI FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9510.m3u8
+#EXTINF:-1,|FR| DISCOVERY INVESTIGATION FHD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9559.m3u8
+#EXTINF:-1,|FR| DISCOVERY HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9292.m3u8
+#EXTINF:-1,|FR| DISCOVERY HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15180.m3u8
+#EXTINF:-1,|FR| DISCOVERY FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9560.m3u8
+#EXTINF:-1,|FR| DISCOVERY SCIENCE HD BKP
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9291.m3u8
+#EXTINF:-1,|FR| DISCOVERY SCIENCE FULL HD +
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9558.m3u8
+#EXTINF:-1,|FR|  NATIONAL GEOGRAPHIC HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9368.m3u8
+#EXTINF:-1,|FR| NATIONAL GEOGRAPHIC HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15144.m3u8
+#EXTINF:-1,|FR| NATIONAL GEOGRAPHIC FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9523.m3u8
+#EXTINF:-1,|FR|  Nat Geo Wild  HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9367.m3u8
+#EXTINF:-1,|FR| NAT GEO WILD HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15145.m3u8
+#EXTINF:-1,|FR| SCIENCES ET VIE HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9228.m3u8
+#EXTINF:-1,|FR| Science et Vie  HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15129.m3u8
+#EXTINF:-1,|FR| SCIENCES & VIE FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9504.m3u8
+#EXTINF:-1,|FR| USHUAIA  HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9205.m3u8
+#EXTINF:-1,|FR| USHUAIA TV FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9490.m3u8
+#EXTINF:-1,|FR| RMC Decouverte  HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15131.m3u8
+#EXTINF:-1,|FR| RMC DECOUVERTE HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9233.m3u8
+#EXTINF:-1,|FR| VOYAGE HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9191.m3u8
+#EXTINF:-1,|FR| VOYAGE HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15112.m3u8
+#EXTINF:-1,|FR| TREK HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9193.m3u8
+#EXTINF:-1,|FR| Chasse et Peche HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15189.m3u8
+#EXTINF:-1,|FR| Seasons HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9227.m3u8
+#EXTINF:-1,|FR| SEASON FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9503.m3u8
+#EXTINF:-1,|FR| CRIME DISTRICT HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9296.m3u8
+#EXTINF:-1,|FR| CRIME DISTRICT FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9562.m3u8
+#EXTINF:-1,|FR| DISNEY CHANNEL HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9290.m3u8
+#EXTINF:-1,|FR| DISNEY CHANNEL HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15178.m3u8
+#EXTINF:-1,|FR| DISNEY CHANNEL FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9557.m3u8
+#EXTINF:-1,|FR|  DISNEY JUNIOR HD BKP
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9369.m3u8
+#EXTINF:-1,|FR| DISNEY JUNIOR HD BKP
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9287.m3u8
+#EXTINF:-1,|FR| DISNEY JUNIOR FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9555.m3u8
+#EXTINF:-1,|FR| DISNEY CINEMA HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9288.m3u8
+#EXTINF:-1,|FR| DISNEY CINEMA HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15229.m3u8
+#EXTINF:-1,|FR| DISNEY XD HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9286.m3u8
+#EXTINF:-1,|FR| NICKELODEON HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15143.m3u8
+#EXTINF:-1,|FR| NICKELODEON FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9522.m3u8
+#EXTINF:-1,|FR| TELETOON HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9373.m3u8
+#EXTINF:-1,|FR| TELETOON FULLHD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9496.m3u8
+#EXTINF:-1,|FR| PIWI HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15136.m3u8
+#EXTINF:-1,|FR| CANAL J HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9323.m3u8
+#EXTINF:-1,|FR| Tiji HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15120.m3u8
+#EXTINF:-1,|FR| TIJI FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9495.m3u8
+#EXTINF:-1,|FR| BOOMERANG HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9334.m3u8
+#EXTINF:-1,|FR| Boomerang HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15198.m3u8
+#EXTINF:-1,|FR| BOING HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9335.m3u8
+#EXTINF:-1,|FR| Boing HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15199.m3u8
+#EXTINF:-1,|FR| BOING FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9584.m3u8
+#EXTINF:-1,|FR| Cartoon Network HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9315.m3u8
+#EXTINF:-1,|FR|  CARTOON NETWORK  HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9371.m3u8
+#EXTINF:-1,|FR| CARTOON NETWORK HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15190.m3u8
+#EXTINF:-1,|FR| CARTOON NETWORK FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9573.m3u8
+#EXTINF:-1,|FR| GULLI HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9269.m3u8
+#EXTINF:-1,|FR| GULLI HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15160.m3u8
+#EXTINF:-1,|FR| GULLI FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9538.m3u8
+#EXTINF:-1,|FR| MANGAS HD.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9257.m3u8
+#EXTINF:-1,|FR| MANGAS HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15152.m3u8
+#EXTINF:-1,|FR| MANGA FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9530.m3u8
+#EXTINF:-1,|FR| J ONE Full HD +
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/30600.m3u8
+#EXTINF:-1,|FR| TOONAMI FHD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/46532.m3u8
+#EXTINF:-1,|FR| M6 MUSIC HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15153.m3u8
+#EXTINF:-1,|FR| TRACE URBAN FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9493.m3u8
+#EXTINF:-1,|FR| MTV FRANCE FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9525.m3u8
+#EXTINF:-1,|FR| NRJ Hits FULL HD
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9249.m3u8
+#EXTINF:-1,|FR| MEZZO HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15149.m3u8
+#EXTINF:-1,|FR| MEZZO LIVE HD BKP.
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15148.m3u8
+#EXTINF:-1,|FR| MEZZO LIVE FULL HD FR
+http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9527.m3u8
