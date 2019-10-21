@@ -1,569 +1,786 @@
-#EXTINF:-1,------list fraces fabio--------
-
-
 #EXTINF:-1,|FR| TF1 HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9211.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9211
+#EXTINF:-1,|FR| TF1 HD BKP.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15121
 #EXTINF:-1,|FR| TF1 FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9210.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9210
 #EXTINF:-1,|FR| TF1 FHD BKP
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51179.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/51179
 #EXTINF:-1,|FR| France 2 HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9277.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9277
 #EXTINF:-1,|FR| France 2 HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15226.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15226
+#EXTINF:-1,|FR| FRANCE 2 FULL HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9546
 #EXTINF:-1,|FR| FRANCE 2 FHD BKP
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51178.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/51178
 #EXTINF:-1,|FR| France 3 HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9276.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9276
 #EXTINF:-1,|FR| France 3 HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15169.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15169
 #EXTINF:-1,|FR| FRANCE 3 FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9545.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9545
 #EXTINF:-1,|FR| FRANCE 3 FHD BKP
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51177.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/51177
 #EXTINF:-1,|FR| CANAL  FHD BKP
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51165.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/51165
 #EXTINF:-1,|FR| France 5 HD BKP
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9273.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9273
 #EXTINF:-1,|FR| France 5 HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15167.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15167
 #EXTINF:-1,|FR| FRANCE 5 FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9543.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9543
+#EXTINF:-1,|FR| FRANCE 5 FHD BKP
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/51175
 #EXTINF:-1,|FR| M6 HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9260.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9260
 #EXTINF:-1,|FR| M6 HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15154.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15154
 #EXTINF:-1,|FR| M6 FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9531.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9531
 #EXTINF:-1,|FR| M6 FHD BKP
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51174.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/51174
 #EXTINF:-1,|FR| ARTE HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9354.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9354
 #EXTINF:-1,|FR| Arte HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15212.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15212
 #EXTINF:-1,|FR| ARTE FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9590.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9590
 #EXTINF:-1,|FR| C8 HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9293.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9293
 #EXTINF:-1,|FR| C8 HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15232.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15232
 #EXTINF:-1,|FR| C8 FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9574.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9574
 #EXTINF:-1,|FR| C8 FHD BKP
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51171.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/51171
 #EXTINF:-1,|FR| W9 HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9372.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9372
 #EXTINF:-1,|FR| W9 HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15111.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15111
 #EXTINF:-1,|FR| W9 FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9488.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9488
 #EXTINF:-1,|FR| W9 FHD BKP
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51173.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/51173
 #EXTINF:-1,|FR| TMC FHD BKP
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51167.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/51167
 #EXTINF:-1,|FR| TFX HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/50639.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/50639
 #EXTINF:-1,|FR| TFX HD |Backup|
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/50640.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/50640
 #EXTINF:-1,|FR| TFX FHD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/50641.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/50641
 #EXTINF:-1,|FR| TFX FHD BKP
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51168.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/51168
 #EXTINF:-1,|FR|  NRJ12 HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9366.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9366
 #EXTINF:-1,|FR| NRJ12 HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15142.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15142
 #EXTINF:-1,|FR| NRJ12 FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9521.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9521
 #EXTINF:-1,|FR| France 4  HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9274.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9274
 #EXTINF:-1,|FR| France 4 HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15168.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15168
+#EXTINF:-1,|FR| FRANCE 4 FULL HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9544
+#EXTINF:-1,|FR| FRANCE 4 FHD BKP
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/51176
 #EXTINF:-1,|FR| CNEWS FHD BKP
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51147.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/51147
 #EXTINF:-1,|FR| CSTAR HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15182.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15182
 #EXTINF:-1,|FR| CSTAR FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9561.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9561
 #EXTINF:-1,|FR| CSTAR FHD BKP
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51151.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/51151
+#EXTINF:-1,|FR| France O  HD.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9272
 #EXTINF:-1,|FR| France O HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15165.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15165
+#EXTINF:-1,|FR| FRANCE O FULL HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9542
 #EXTINF:-1,|FR| TF1 SERIES FILMS FHD BKP
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51169.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/51169
 #EXTINF:-1,|FR| 6TER HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9364.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9364
 #EXTINF:-1,|FR| 6ter HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15216.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15216
 #EXTINF:-1,|FR| 6TER FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9595.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9595
 #EXTINF:-1,|FR| 6TER FHD BKP
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51172.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/51172
 #EXTINF:-1,|FR| RMC STORY H265
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/56246.m3u8
-#EXTINF:-1,|FR| CHERIE 25 HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9313.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/56246
 #EXTINF:-1,|FR| CHERIE 25 FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9572.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9572
 #EXTINF:-1,|FR| CHERIE 25 FHD BKP
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51148.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/51148
 #EXTINF:-1,|FR| TEVA HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/49804.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/49804
 #EXTINF:-1,|FR| Teva Full HD +
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9212.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9212
 #EXTINF:-1,|FR| PARIS PREMIERE  HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15137.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15137
 #EXTINF:-1,|FR| PARIS PREMIERE HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9238.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9238
+#EXTINF:-1,|FR| PARIS PREMIERE FHD BKP
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/51129
 #EXTINF:-1,|FR| RTL9 HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9374.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9374
 #EXTINF:-1,|FR| Rtl9 HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15130.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15130
 #EXTINF:-1,|FR| RTL9 FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9507.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9507
 #EXTINF:-1,|FR| TV BREIZH HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9206.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9206
 #EXTINF:-1,|FR| TV BREIZH HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15116.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15116
 #EXTINF:-1,|FR| TV BREIZH FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9491.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9491
 #EXTINF:-1,|FR| TV BREIZH FHD BKP
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51119.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/51119
 #EXTINF:-1,|FR| Bet etoile HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/30814.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/30814
 #EXTINF:-1,|FR| Bet Etoile FullHD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/30813.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/30813
+#EXTINF:-1,|FR| BET FHD BKP
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/51153
 #EXTINF:-1,|FR| AB1 FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9594.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9594
 #EXTINF:-1,|FR| AB3 HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9357.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9357
 #EXTINF:-1,|FR| AB3 HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15215.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15215
 #EXTINF:-1,|FR| AB3 FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9593.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9593
 #EXTINF:-1,|FR| SERIE CLUB HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9226.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9226
 #EXTINF:-1,|FR| 13 EME RUE HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9365.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9365
 #EXTINF:-1,|FR| 13EME RUE HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15217.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15217
 #EXTINF:-1,|FR| 13EME RUE FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9596.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9596
 #EXTINF:-1,|FR| Syfy HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9214.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9214
 #EXTINF:-1,|FR| Syfy HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15123.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15123
 #EXTINF:-1,|FR| SYFY FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9498.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9498
+#EXTINF:-1,|FR| Syfy  FULL HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9213
 #EXTINF:-1,|FR| E! HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15175.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15175
 #EXTINF:-1,|FR| E! Entertainment HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9285.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9285
+#EXTINF:-1,|FR| E! ENTERTAINMENT FULL HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9553
 #EXTINF:-1,|FR| My Cuisine FullHD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/30818.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/30818
 #EXTINF:-1,|FR| MCM FHD BKP
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51112.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/51112
 #EXTINF:-1,|FR| COMEDIE Plus HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9297.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9297
 #EXTINF:-1,|FR| COMEDIE HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15183.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15183
+#EXTINF:-1,|FR| COMEDIE  FULL HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9563
 #EXTINF:-1,|FR| CANAL  HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/32155.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/32155
 #EXTINF:-1,|FR| CANAL HD BKP
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9324.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9324
 #EXTINF:-1,|FR| CANAL FHD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9579.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9579
+#EXTINF:-1,|FR| Canal Cinema HD BKP
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9332
 #EXTINF:-1,|FR| Canal cinema  HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15195.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15195
 #EXTINF:-1,|FR| CANAL CINEMA FULL HD +
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9582.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9582
 #EXTINF:-1,|FR| Canal Decale HD BKP
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9331.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9331
 #EXTINF:-1,|FR| CANAL DECALE  HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15194.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15194
 #EXTINF:-1,|FR| CANAL DECALE FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9581.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9581
 #EXTINF:-1,|FR| Canal Family HD BKP
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9330.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9330
 #EXTINF:-1,|FR| Canal family  HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15193.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15193
 #EXTINF:-1,|FR| CANAL  FAMILY FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9580.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9580
 #EXTINF:-1,|FR| Canal Series HD BKP
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9328.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9328
 #EXTINF:-1,|FR| CANAL SERIE HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15192.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15192
+#EXTINF:-1,|FR| CANAL  SERIES FULL HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9578
+#EXTINF:-1,|FR| ALTICE STUDIO HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/40882
+#EXTINF:-1,|FR| ALTICE STUDIO FHD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/40881
 #EXTINF:-1,|FR| ALTICE STUDIO FHD bkp
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/40880.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/40880
 #EXTINF:-1,|FR| OCS CHOC HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9247.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9247
 #EXTINF:-1,|FR| OCS CHOC HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15140.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15140
 #EXTINF:-1,|FR| OCS CHOC FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9518.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9518
+#EXTINF:-1,|FR| OCS CITY HD.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9246
 #EXTINF:-1,|FR| OCS CITY HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15223.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15223
 #EXTINF:-1,|FR| OCS CITY FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9517.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9517
 #EXTINF:-1,|FR| OCS GEANT HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9245.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9245
 #EXTINF:-1,|FR| OCS GEANTS HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15139.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15139
+#EXTINF:-1,|FR| OCS GEANTS FULL HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9516
 #EXTINF:-1,|FR| OCS MAX HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9244.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9244
 #EXTINF:-1,|FR| OCS MAX HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15222.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15222
+#EXTINF:-1,|FR| OCS MAX FULL HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9515
 #EXTINF:-1,|FR| CANAL PLAY 1
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9322.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9322
 #EXTINF:-1,|FR| CANAL PLAY 2
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9321.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9321
 #EXTINF:-1,|FR| CANAL PLAY 3
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9320.m3u8
-#EXTINF:-1,|FR| CANAL PLAY 7
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9316.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9320
+#EXTINF:-1,|FR| CANAL PLAY 4
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9319
+#EXTINF:-1,|FR| CANAL PLAY 5
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9318
+#EXTINF:-1,|FR| CANAL PLAY 6
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9317
+#EXTINF:-1,|FR| CINE CLASSIC HD.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9311
+#EXTINF:-1,|FR| CINE CLASSIC HD BKP.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15187
+#EXTINF:-1,|FR| CINE  CLASSIC FULL HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9570
+#EXTINF:-1,|FR| CINE CLUB FULL HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9569
+#EXTINF:-1,|FR| CINE EMOTION HD BKP
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9309
+#EXTINF:-1,|FR| CINE EMOTION HD BKP.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15186
+#EXTINF:-1,|FR| CINE  EMOTION FULL HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9568
 #EXTINF:-1,|FR| Cine Famiz HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9307.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9307
+#EXTINF:-1,|FR| Cine Famiz HD BKP.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9306
 #EXTINF:-1,|FR| CINE  FAMIZ FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9567.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9567
 #EXTINF:-1,|FR| CINE FRISSON HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9304.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9304
 #EXTINF:-1,|FR| CINE FRISSON + HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15185.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15185
 #EXTINF:-1,|FR| Cine Frisson FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9303.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9303
 #EXTINF:-1,|FR| CINE  FRISSON FULL HD +
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9566.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9566
 #EXTINF:-1,|FR| CINE FX HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9302.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9302
 #EXTINF:-1,|FR| CINE FX FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9565.m3u8
-#EXTINF:-1,|FR| CINE POLAR HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9301.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9565
+#EXTINF:-1,|FR| CINE POLAR FULL HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9564
+#EXTINF:-1,|FR| CINE PREMIER HD.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9300
 #EXTINF:-1,|FR| cine premier HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15230.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15230
+#EXTINF:-1,|FR| CINE   PREMIER FULL HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9571
+#EXTINF:-1,|FR| CINE PREMIER FULL HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9299
 #EXTINF:-1,|FR| ACTION HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9356.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9356
+#EXTINF:-1,|FR| ACTION HD BKP.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15214
 #EXTINF:-1,|FR| TMC HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9194.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9194
 #EXTINF:-1,|FR| tmc HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15119.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15119
+#EXTINF:-1,|FR| TMC FULL HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9494
 #EXTINF:-1,|FR| PARAMOUNT CHANNEL HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9240.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9240
 #EXTINF:-1,|FR| Paramount Channel HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15138.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15138
+#EXTINF:-1,|FR| PARAMOUNT CHANNEL FULL HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9514
 #EXTINF:-1,|FR| TCM CINEMA HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9195.m3u8
-#EXTINF:-1,|FR| TCM Cinema Full HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9497.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9195
 #EXTINF:-1,|FR| ORANGE CINE 1
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15247.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15247
 #EXTINF:-1,|FR| ORANGE CINE 2 +
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15246.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15246
 #EXTINF:-1,|FR| ORANGE CINE 3
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15245.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15245
 #EXTINF:-1,|FR| ORANGE CINE 4
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15244.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15244
 #EXTINF:-1,|FR| ORANGE CINE 5
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15243.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15243
 #EXTINF:-1,|FR| ORANGE CINE Action HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15239.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15239
+#EXTINF:-1,|FR| ORANGE CINE Aventure
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15238
 #EXTINF:-1,|FR| ORANGE CINE Aventure HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15237.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15237
+#EXTINF:-1,|FR| Orange Cine horreur HD.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9242
+#EXTINF:-1,|FR| ORANGE COMMENT C'EST FAIT
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15236
 #EXTINF:-1,|FR| ORANGE Documentaire
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15235.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15235
+#EXTINF:-1,|FR| ORANGE ENQUETE EXCLUSIVE
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15234
+#EXTINF:-1,|FR| Orange enquete exclusive HD.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9241
 #EXTINF:-1,|FR| A LA CARTE 1
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9201.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9201
+#EXTINF:-1,|FR| A LA CARTE 3
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9200
+#EXTINF:-1,|FR| A LA CARTE 5
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9203
+#EXTINF:-1,|FR| A LA CARTE 6
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9202
 #EXTINF:-1,|FR| A LA CARTE 7
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9362.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9362
 #EXTINF:-1,|FR| A LA CARTE 8
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9361.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9361
+#EXTINF:-1,|FR| A LA CARTE 9
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9360
+#EXTINF:-1,|FR| A LA CARTE 10
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9363
 #EXTINF:-1,|FR| CANAL SPORT  HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/39203.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/39203
 #EXTINF:-1,|FR| CANAL SPORT HD BKP
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15191.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15191
 #EXTINF:-1,|FR| CANAL SPORT FHD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9326.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9326
 #EXTINF:-1,|FR| CANAL  SPORT FHD BKP
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51166.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/51166
 #EXTINF:-1,|FR| BeIN Sports 1 HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15204.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15204
 #EXTINF:-1,|FR| BEIN SPORT 1 HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9340.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9340
 #EXTINF:-1,|FR| BEIN SPORT 1 HD (BACKUP)
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9345.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9345
 #EXTINF:-1,|FR| BEINSPORT 1 FR FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9589.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9589
 #EXTINF:-1,|FR| BEIN SPORT 1 FHD BKP
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51102.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/51102
 #EXTINF:-1,|FR| BeIN Sports 2 HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15203.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15203
 #EXTINF:-1,|FR| BEIN SPORT 2 HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9339.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9339
 #EXTINF:-1,|FR| BEIN SPORT 2 HD (BACKUP)
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9344.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9344
 #EXTINF:-1,|FR| BEINSPORT 2 FR FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9588.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9588
 #EXTINF:-1,|FR| BEIN SPORT 2 FHD BKP
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51101.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/51101
 #EXTINF:-1,|FR| BeIN Sports 3 HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15202.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15202
 #EXTINF:-1,|FR|  BEIN SPORT 3 HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9341.m3u8
-#EXTINF:-1,|FR| BEIN SPORT 3 HD +
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9343.m3u8
-#EXTINF:-1,|FR| BEINSPORT 3 FR FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9587.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9341
 #EXTINF:-1,|FR| BEIN SPORT 3 FHD BKP
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51100.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/51100
 #EXTINF:-1,|FR| BeIN Sports MAX 4 HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15210.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15210
+#EXTINF:-1,|FR| BeIN Sports MAX 5 HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15209
 #EXTINF:-1,|FR| BeIN Sports MAX 6 HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15208.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15208
 #EXTINF:-1,|FR| BeIN Sports MAX 7 HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15207.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15207
 #EXTINF:-1,|FR| BeIN Sports MAX 8 FHD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15206.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15206
 #EXTINF:-1,|FR| BeIN Sports MAX 9 FHD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15205.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15205
 #EXTINF:-1,|FR| BeIN Sports MAX 10 FHD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15211.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15211
 #EXTINF:-1,|FR| RMC Sport 1
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15127.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15127
 #EXTINF:-1,|FR| RMC Sport 1 HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9218.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9218
 #EXTINF:-1,|FR| RMC Sport 1 Full HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9502.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9502
 #EXTINF:-1,|FR| RMC Sport 2
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15126.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15126
+#EXTINF:-1,|FR| RMC Sport 2 HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9217
 #EXTINF:-1,|FR| RMC SPORT 2 FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9501.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9501
 #EXTINF:-1,|FR| RMC Sport 3
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15125.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15125
 #EXTINF:-1,|FR| RMC Sport 3 HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9216.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9216
 #EXTINF:-1,|FR| RMC SPORT 3 FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9500.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9500
 #EXTINF:-1,|FR| RMC SPORT 4
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15124.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15124
 #EXTINF:-1,|FR| RMC Sport 4 HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9215.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9215
 #EXTINF:-1,|FR| RMC SPORT 4 FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9499.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 5
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/40480.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9499
+#EXTINF:-1,|FR| RMC SPORT LIVE 6
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/40479
 #EXTINF:-1,|FR| RMC SPORT LIVE 7
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/40478.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/40478
 #EXTINF:-1,|FR| RMC SPORT LIVE 8
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/40477.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/40477
+#EXTINF:-1,|FR| RMC SPORT LIVE 11 HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/40474
+#EXTINF:-1,|FR| RMC SPORT LIVE 12 FHD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/40473
+#EXTINF:-1,|FR| RMC SPORT LIVE 13 HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/40472
 #EXTINF:-1,|FR| RMC SPORT LIVE 14 FHD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/40471.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/40471
+#EXTINF:-1,|FR| RMC SPORT LIVE 15 FHD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/40470
 #EXTINF:-1,|FR| RMC SPORT LIVE 16 FHD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/40469.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/40469
 #EXTINF:-1,|FR| RMC SPORT ACCESS 1 FHD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/40484.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/40484
 #EXTINF:-1,|FR| RMC SPORT ACCESS 2 FHD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/40483.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/40483
 #EXTINF:-1,|FR| RMC SPORT ACCESS 3 FHD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/40482.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/40482
 #EXTINF:-1,|FR| RMC SPORT ACCESS 4 FHD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/40481.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/40481
+#EXTINF:-1,|FR| BFM SPORT  HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9337
 #EXTINF:-1,|FR| Eurosport 1 HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15172.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15172
 #EXTINF:-1,|FR| EUROSPORT1 HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9281.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9281
 #EXTINF:-1,|FR| EUROSPORT 1 FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9549.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9549
 #EXTINF:-1,|FR| EUROSPORT FHD BKP
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51105.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/51105
 #EXTINF:-1,|FR| EUROSPORT 2 HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9279.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9279
+#EXTINF:-1,|FR| Eurosport 2  HD BKP.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9280
+#EXTINF:-1,|FR| EUROSPORT 2 FULL HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9548
+#EXTINF:-1,|FR| EUROSPORT 2 FHD BKP
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/51106
+#EXTINF:-1,|FR| EXTREME SPORTS HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15227
+#EXTINF:-1,|FR| INFOSPORT HD.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9265
 #EXTINF:-1,|FR| INFOSPORT HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15156.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15156
 #EXTINF:-1,|FR| INFOSPORT FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9534.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9534
 #EXTINF:-1,|FR| MOTORSPORT TV HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15147.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15147
+#EXTINF:-1,|FR| MOTORSPORT.TV FULL HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9526
 #EXTINF:-1,|FR| L'EQUIPE 21 HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9264.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9264
 #EXTINF:-1,|FR| L EQUIPE 21 HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15155.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15155
 #EXTINF:-1,|FR| L'EQUIPE 21 FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9533.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9533
+#EXTINF:-1,|FR| OLTV HD.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9243
+#EXTINF:-1,|FR| OMTV HD BKP
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/30599
 #EXTINF:-1,|FR| AB Moteur HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9359.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9359
+#EXTINF:-1,|FR| EQUIDIA LIFE HD.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9283
 #EXTINF:-1,|FR| EQUIDIA LIFE HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15228.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15228
+#EXTINF:-1,|FR| EQUIDIA LIFE FULL HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9551
 #EXTINF:-1,|FR| EQUIDIA LIVE HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9282.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9282
+#EXTINF:-1,|FR| Equidia Live HD BKP.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15173
 #EXTINF:-1,|FR| EQUIDIA LIVE FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9550.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9550
+#EXTINF:-1,|FR| EQUIDIA LIVE FHD BKP
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/51140
 #EXTINF:-1,|FR| GOLF  HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9270.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9270
 #EXTINF:-1,|FR| GOLF  FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9540.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9540
 #EXTINF:-1,|FR| GOLF  CHANNEL HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9378.m3u8
-#EXTINF:-1,|FR | Foot+ 24/24
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/32819.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9378
+#EXTINF:-1,|FR| GOLF CHANNEL HD BKP.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15162
+#EXTINF:-1,|FR| GOLF CHANNEL FULL HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9539
+#EXTINF:-1,|FR| GOLF CHANNEL FHD BKP
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/51103
+#EXTINF:-1,|FR| FOOT  24/24 FHD BKP
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/51104
 #EXTINF:-1,|FR| Golf+ FHD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/43446.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/43446
 #EXTINF:-1,|FR| GOLF  FHD BKP
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/51107.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/51107
+#EXTINF:-1,|FR| EURONEWS HD BKP.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9376
+#EXTINF:-1,|FR| FRANCE 24 HD BKP.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9197
 #EXTINF:-1,|FR| France24 HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15164.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15164
 #EXTINF:-1,|FR| BFM TV HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9336.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9336
+#EXTINF:-1,|FR| bfm HD BKP.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15201
+#EXTINF:-1,|FR| BFM TV FULL HD.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9585
+#EXTINF:-1,|FR| BFM BUSINESS HD.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9338
+#EXTINF:-1,|FR| BFM Business HD BKP.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15200
 #EXTINF:-1,|FR| BFM BUSINESS FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9586.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9586
 #EXTINF:-1,|FR| LCI HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9261.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9261
 #EXTINF:-1,|FR| LCI FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9532.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9532
+#EXTINF:-1,|FR| France INFO HD BKP.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15166
+#EXTINF:-1,|FR| C News HD BKP.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15197
+#EXTINF:-1,|FR| CANAL NEWS FULL HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9575
 #EXTINF:-1,|FR| TV5 MONDE HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9192.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9192
 #EXTINF:-1,|FR| FRANCE INFO HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/43444.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/43444
+#EXTINF:-1,|FR| LCP ASSEMBLEE NATIONALE HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/47688
 #EXTINF:-1,|FR| PLANETE  HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9236.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9236
+#EXTINF:-1,|FR| PLANETE HD BKP.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15135
+#EXTINF:-1,|FR| PLANETE FULL HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9512
 #EXTINF:-1,|FR| PLANETE A&E HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9235.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9235
 #EXTINF:-1,|FR| PLANETE A&E HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15134.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15134
 #EXTINF:-1,|FR| PLANETE AE FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9511.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9511
+#EXTINF:-1,|FR| PLANETE CI HD.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9234
 #EXTINF:-1,|FR| PLANETE CI FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9510.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9510
 #EXTINF:-1,|FR| DISCOVERY INVESTIGATION FHD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9559.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9559
 #EXTINF:-1,|FR| DISCOVERY HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9292.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9292
 #EXTINF:-1,|FR| DISCOVERY HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15180.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15180
 #EXTINF:-1,|FR| DISCOVERY FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9560.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9560
+#EXTINF:-1,|FR| DISCOVERY FAMILY HD.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/30662
 #EXTINF:-1,|FR| DISCOVERY SCIENCE HD BKP
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9291.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9291
 #EXTINF:-1,|FR| DISCOVERY SCIENCE FULL HD +
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9558.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9558
 #EXTINF:-1,|FR|  NATIONAL GEOGRAPHIC HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9368.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9368
 #EXTINF:-1,|FR| NATIONAL GEOGRAPHIC HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15144.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15144
 #EXTINF:-1,|FR| NATIONAL GEOGRAPHIC FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9523.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9523
 #EXTINF:-1,|FR|  Nat Geo Wild  HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9367.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9367
 #EXTINF:-1,|FR| NAT GEO WILD HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15145.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15145
+#EXTINF:-1,|FR| NATIONAL GEO WILD FULL HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9524
 #EXTINF:-1,|FR| SCIENCES ET VIE HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9228.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9228
 #EXTINF:-1,|FR| Science et Vie  HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15129.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15129
 #EXTINF:-1,|FR| SCIENCES & VIE FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9504.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9504
+#EXTINF:-1,|FR| ANIMAUX HD.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9355
+#EXTINF:-1,|FR| Animaux HD BKP.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15213
+#EXTINF:-1,|FR| ANIMAUX FULL HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9591
 #EXTINF:-1,|FR| USHUAIA  HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9205.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9205
+#EXTINF:-1,|FR| USHUAIA TV HD BKP.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15115
 #EXTINF:-1,|FR| USHUAIA TV FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9490.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9490
 #EXTINF:-1,|FR| RMC Decouverte  HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15131.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15131
 #EXTINF:-1,|FR| RMC DECOUVERTE HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9233.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9233
+#EXTINF:-1,|FR| RMC DECOUVERTE FULL HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9508
 #EXTINF:-1,|FR| VOYAGE HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9191.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9191
 #EXTINF:-1,|FR| VOYAGE HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15112.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15112
+#EXTINF:-1,|FR| VOYAGE FULL HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9489
 #EXTINF:-1,|FR| TREK HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9193.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9193
+#EXTINF:-1,|FR| TREK HD BKP.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15117
+#EXTINF:-1,|FR| TREK FULL HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9492
 #EXTINF:-1,|FR| Chasse et Peche HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15189.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15189
+#EXTINF:-1,|FR| Chasse et Peche HD BKP.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9314
 #EXTINF:-1,|FR| Seasons HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9227.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9227
+#EXTINF:-1,|FR| SEASON HD BKP.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15128
 #EXTINF:-1,|FR| SEASON FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9503.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9503
 #EXTINF:-1,|FR| CRIME DISTRICT HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9296.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9296
 #EXTINF:-1,|FR| CRIME DISTRICT FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9562.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9562
+#EXTINF:-1,|FR| HISTOIRE HD BKP.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15158
+#EXTINF:-1,|FR| HISTOIRE FULL HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9536
+#EXTINF:-1,|FR| toute l'histoire HD BKP.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15118
+#EXTINF:-1,|FR| TOUTE L HISTOIRE HD BKP.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9208
 #EXTINF:-1,|FR| DISNEY CHANNEL HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9290.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9290
 #EXTINF:-1,|FR| DISNEY CHANNEL HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15178.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15178
 #EXTINF:-1,|FR| DISNEY CHANNEL FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9557.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9557
 #EXTINF:-1,|FR|  DISNEY JUNIOR HD BKP
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9369.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9369
+#EXTINF:-1,|FR| Disney Junior + HD BKP.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15177
 #EXTINF:-1,|FR| DISNEY JUNIOR HD BKP
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9287.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9287
 #EXTINF:-1,|FR| DISNEY JUNIOR FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9555.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9555
 #EXTINF:-1,|FR| DISNEY CINEMA HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9288.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9288
 #EXTINF:-1,|FR| DISNEY CINEMA HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15229.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15229
 #EXTINF:-1,|FR| DISNEY XD HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9286.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9286
+#EXTINF:-1,|FR| DISNEY XD HD BKP.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15176
+#EXTINF:-1,|FR| DISNEY XD FULL HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9554
+#EXTINF:-1,|FR| NICKELODEON HD.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9251
 #EXTINF:-1,|FR| NICKELODEON HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15143.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15143
 #EXTINF:-1,|FR| NICKELODEON FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9522.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9522
+#EXTINF:-1,|FR| NICKELODEON JUNIOR HD.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9250
+#EXTINF:-1,|FR| Nick Jr HD BKP.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9252
+#EXTINF:-1,|FR| NICKELODEON JUNIOR HD BKP.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15225
 #EXTINF:-1,|FR| TELETOON HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9373.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9373
 #EXTINF:-1,|FR| TELETOON FULLHD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9496.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9496
+#EXTINF:-1,|FR| PIWI HD.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9237
 #EXTINF:-1,|FR| PIWI HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15136.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15136
+#EXTINF:-1,|FR| PIWI  FULL HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9513
 #EXTINF:-1,|FR| CANAL J HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9323.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9323
+#EXTINF:-1,|FR| Canal J  HD BKP.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15231
+#EXTINF:-1,|FR| CANAL J FULL HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9576
+#EXTINF:-1,|FR| TIJI HD.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9209
 #EXTINF:-1,|FR| Tiji HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15120.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15120
 #EXTINF:-1,|FR| TIJI FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9495.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9495
 #EXTINF:-1,|FR| BOOMERANG HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9334.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9334
 #EXTINF:-1,|FR| Boomerang HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15198.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15198
+#EXTINF:-1,|FR| BOOMERANG FULL HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9583
 #EXTINF:-1,|FR| BOING HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9335.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9335
 #EXTINF:-1,|FR| Boing HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15199.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15199
 #EXTINF:-1,|FR| BOING FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9584.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9584
 #EXTINF:-1,|FR| Cartoon Network HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9315.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9315
 #EXTINF:-1,|FR|  CARTOON NETWORK  HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9371.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9371
 #EXTINF:-1,|FR| CARTOON NETWORK HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15190.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15190
 #EXTINF:-1,|FR| CARTOON NETWORK FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9573.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9573
+#EXTINF:-1,|FR| GAME ONE FULL HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9541
 #EXTINF:-1,|FR| GULLI HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9269.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9269
 #EXTINF:-1,|FR| GULLI HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15160.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15160
 #EXTINF:-1,|FR| GULLI FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9538.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9538
 #EXTINF:-1,|FR| MANGAS HD.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9257.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9257
 #EXTINF:-1,|FR| MANGAS HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15152.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15152
 #EXTINF:-1,|FR| MANGA FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9530.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9530
 #EXTINF:-1,|FR| J ONE Full HD +
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/30600.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/30600
 #EXTINF:-1,|FR| TOONAMI FHD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/46532.m3u8
-#EXTINF:-1,|FR| M6 MUSIC HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15153.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/46532
+#EXTINF:-1,|FR| TRACE URBAN HD.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9207
+#EXTINF:-1,|FR| TRACE URBAN  HD BKP.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15218
 #EXTINF:-1,|FR| TRACE URBAN FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9493.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9493
+#EXTINF:-1,|FR| MTV HD BKP.
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15146
 #EXTINF:-1,|FR| MTV FRANCE FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9525.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9525
+#EXTINF:-1,|FR| MCM FULL HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9529
+#EXTINF:-1,|FR| RFM TV FULL HD
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9509
 #EXTINF:-1,|FR| NRJ Hits FULL HD
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9249.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9249
 #EXTINF:-1,|FR| MEZZO HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15149.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15149
 #EXTINF:-1,|FR| MEZZO LIVE HD BKP.
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/15148.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/15148
 #EXTINF:-1,|FR| MEZZO LIVE FULL HD FR
-http://vip.millenium-ott.com:25443/live/V5Ogj0oWHl6S/OUg7qdwbbI/9527.m3u8
+http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9527
