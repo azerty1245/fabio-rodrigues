@@ -1,3 +1,40 @@
+#EXTINF:-1,---- belgique ------
+
+
+#EXTINF:-1, |BE| LA UNE HD
+http://king365-tv.com:2103/Florence/Florence/2403
+#EXTINF:-1, |BE| LA UNE FHD
+http://king365-tv.com:2103/Florence/Florence/335
+#EXTINF:-1,|BE| LA DEUX HD
+http://king365-tv.com:2103/Florence/Florence/336
+#EXTINF:-1, |BE| LA TROIS HD
+http://king365-tv.com:2103/Florence/Florence/373
+#EXTINF:-1,|BE| CLUB RTL HD
+http://king365-tv.com:2103/Florence/Florence/342
+#EXTINF:-1, |BE| PLUG RTL HD
+http://king365-tv.com:2103/Florence/Florence/338
+#EXTINF:-1, |BE| RTL TVI HD
+http://king365-tv.com:2103/Florence/Florence/340
+#EXTINF:-1,|BE| BE SERIES HD
+http://king365-tv.com:2103/Florence/Florence/6190
+#EXTINF:-1, |BE| NOTELE HD
+http://king365-tv.com:2103/Florence/Florence/12904
+#EXTINF:-1, |BE| ABXPLORE HD
+http://king365-tv.com:2103/Florence/Florence/13187
+#EXTINF:-1, |BE| CANVAS FHD
+http://king365-tv.com:2103/Florence/Florence/1420
+#EXTINF:-1, |BE| RADIO CONTACT
+http://king365-tv.com:2103/Florence/Florence/2751
+#EXTINF:-1,|BE| LES NEWS 24 HD
+http://king365-tv.com:2103/Florence/Florence/2752
+#EXTINF:-1,|BE| VTM HD
+http://king365-tv.com:2103/Florence/Florence/1417
+#EXTINF:-1,|CH| BE CURIOUS FHD
+http://king365-tv.com:2103/Florence/Florence/2359
+#EXTINF:-1,|UK| ITV BE FHD
+http://king365-tv.com:2103/Florence/Florence/4374
+#EXTINF:-1, Always Be My Maybe (MULTI) FHD 2019
+http://king365-tv.com:2103/movie/Florence/Florence/23129.mp4
 #EXTINF:-1,|FR| TF1 HD.
 http://vpro.webvps.de:25443/V5Ogj0oWHl6S/OUg7qdwbbI/9211
 #EXTINF:-1,|FR| TF1 HD BKP.
