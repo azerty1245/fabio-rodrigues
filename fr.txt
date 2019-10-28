@@ -1,5 +1,11 @@
 #EXTINF:-1,FR: France O  HD
 http://iptv-line.com:7899/live/-mac/fYLkczeLEW/532.m3u8
+#EXTINF:-1,FR: TF1 HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/241.m3u8
+#EXTINF:-1,FR: TF1 HD (1080P)
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8342.m3u8
+#EXTINF:-1,FR: M6 HD (1080P)
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8337.m3u8
 #EXTINF:-1,FR: France 5 HD
 http://iptv-line.com:7899/live/-mac/fYLkczeLEW/531.m3u8
 #EXTINF:-1,FR: France 4  HD
@@ -188,8 +194,6 @@ http://iptv-line.com:7899/live/-mac/fYLkczeLEW/445.m3u8
 http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4963.m3u8
 #EXTINF:-1,FR: Teva
 http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4960.m3u8
-#EXTINF:-1,FR: TF1 HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/241.m3u8
 #EXTINF:-1,FR: Tiji
 http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4989.m3u8
 #EXTINF:-1,FR: TOUTE L HISTOIRE
@@ -258,12 +262,8 @@ http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8315.m3u8
 http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8314.m3u8
 #EXTINF:-1,FR: HD1 HD (1080P)
 http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8328.m3u8
-#EXTINF:-1,FR: M6 HD (1080P)
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8337.m3u8
 #EXTINF:-1,FR: Syfy HD (1080P)
 http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8331.m3u8
-#EXTINF:-1,FR: TF1 HD (1080P)
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8342.m3u8
 #EXTINF:-1,FR: Discovery Investigation HD
 http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8389.m3u8
 #EXTINF:-1,FR: BFM business
