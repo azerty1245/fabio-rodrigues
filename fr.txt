@@ -1,260 +1,336 @@
-#EXTINF:-1,FR: 13EME RUE HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11266.ts
+#EXTINF:-1,FR: France O  HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/532.m3u8
+#EXTINF:-1,FR: France 5 HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/531.m3u8
+#EXTINF:-1,FR: France 4  HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/530.m3u8
+#EXTINF:-1,FR: FRANCE 2
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/528.m3u8
+#EXTINF:-1,FR: FRANCE 24
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1551.m3u8
+#EXTINF:-1,FR: France 02 HD (1080P)
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8341.m3u8
+#EXTINF:-1,FR: France 03 HD (1080P)
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8340.m3u8
+#EXTINF:-1,AR: France 24 AR
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/559.m3u8
+#EXTINF:-1,FR: BOOMERANG HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/5863.m3u8
+#EXTINF:-1,FR: Boing
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/5864.m3u8
+#EXTINF:-1,FR:  Cartoon Network HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1547.m3u8
+#EXTINF:-1,FR: Discovery Science HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1528.m3u8
+#EXTINF:-1,FR:  Disney Jr Fr
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1546.m3u8
+#EXTINF:-1,FR:  Nat Geo HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1535.m3u8
+#EXTINF:-1,FR:  Nat Geo Wild  HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1534.m3u8
+#EXTINF:-1,FR:  NRJ12 HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1540.m3u8
+#EXTINF:-1,FR: 13 EME RUE HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4961.m3u8
 #EXTINF:-1,FR: 6TER HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11262.ts
-#EXTINF:-1,FR: 6TER HD 1080
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11249.ts
-#EXTINF:-1,FR: ACTION HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11275.ts
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/248.m3u8
+#EXTINF:-1,FR: A LA CARTE 10
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1554.m3u8
+#EXTINF:-1,FR: A LA CARTE 7
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1557.m3u8
+#EXTINF:-1,FR: A LA CARTE 8
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1556.m3u8
+#EXTINF:-1,FR: A LA CARTE 9
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1555.m3u8
+#EXTINF:-1,FR: AB Moteur HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4976.m3u8
+#EXTINF:-1,FR: AB1
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4966.m3u8
+#EXTINF:-1,FR: AB3
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4968.m3u8
+#EXTINF:-1,FR: ACTION
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4973.m3u8
+#EXTINF:-1,FR: ANIMAUX
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4985.m3u8
 #EXTINF:-1,FR: ARTE HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11257.ts
-#EXTINF:-1,FR: BEIN SPORT 1 HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11279.ts
-#EXTINF:-1,FR: BEIN SPORT 2 HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11280.ts
-#EXTINF:-1,FR: BEIN SPORT 3 HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11281.ts
-#EXTINF:-1,FR: BEIN SPORT MAX HD 5
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11283.ts
-#EXTINF:-1,FR: BEIN SPORT MAX HD 6
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11284.ts
-#EXTINF:-1,FR: BEIN SPORT MAX HD 7
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11285.ts
-#EXTINF:-1,FR: BEIN SPORT MAX HD 8
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11286.ts
-#EXTINF:-1,FR: BEIN SPORT MAX HD 9
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11287.ts
-#EXTINF:-1,FR: BEIN SPORTS MAX 4 HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11282.ts
-#EXTINF:-1,FR: C8 HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11261.ts
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4405.m3u8
+#EXTINF:-1,FR: D8
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/243.m3u8
+#EXTINF:-1,FR: C8
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4993.m3u8
+#EXTINF:-1,FR: Canal  Cinema
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/255.m3u8
+#EXTINF:-1,FR: Canal  Decale
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/254.m3u8
+#EXTINF:-1,FR: Canal  Family
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/253.m3u8
+#EXTINF:-1,FR: CANAL J
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1545.m3u8
+#EXTINF:-1,FR: CANAL PLAY 1
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3749.m3u8
+#EXTINF:-1,FR: CANAL PLAY 2
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3748.m3u8
+#EXTINF:-1,FR: CANAL PLAY 3
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3747.m3u8
+#EXTINF:-1,FR: CANAL PLAY 4
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3746.m3u8
+#EXTINF:-1,FR: CANAL PLAY 5
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3745.m3u8
+#EXTINF:-1,FR: CANAL PLAY 6
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3744.m3u8
+#EXTINF:-1,FR: Chasse et Peche
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3742.m3u8
 #EXTINF:-1,FR: CHERIE 25 HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11276.ts
-#EXTINF:-1,FR: COMEDIE
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11270.ts
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4958.m3u8
+#EXTINF:-1,FR: CINE CLASSIC
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3739.m3u8
+#EXTINF:-1,FR: CINE CLASSIC HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3733.m3u8
+#EXTINF:-1,FR: CINE EMOTION
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4971.m3u8
+#EXTINF:-1,FR: CINE EMOTION HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3738.m3u8
+#EXTINF:-1,FR: CINE FAMIZ
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3737.m3u8
+#EXTINF:-1,FR: Cine Famiz HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4972.m3u8
+#EXTINF:-1,FR: CINE FRISSON
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3736.m3u8
+#EXTINF:-1,FR: CINE FRISSON HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4970.m3u8
+#EXTINF:-1,FR: CINE FX
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/256.m3u8
+#EXTINF:-1,FR: CINE POLAR
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3735.m3u8
+#EXTINF:-1,FR: CINE PREMIER HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3734.m3u8
+#EXTINF:-1,FR: COMEDIE  HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1539.m3u8
+#EXTINF:-1,FR: Comedie +
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4964.m3u8
 #EXTINF:-1,FR: CSTAR HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11265.ts
-#EXTINF:-1,FR: DISNEY CHANNEL HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11278.ts
-#EXTINF:-1,FR: E!
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11274.ts
-#EXTINF:-1,FR: FRANCE 2 HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11252.ts
-#EXTINF:-1,FR: FRANCE 3 HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11253.ts
-#EXTINF:-1,FR: FRANCE 4 HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11254.ts
-#EXTINF:-1,FR: FRANCE 5 HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11255.ts
-#EXTINF:-1,FR: FRANCE O SD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11256.ts
-#EXTINF:-1,FR: M6 HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11258.ts
-#EXTINF:-1,FR: PARAMOUNT CHANNEL
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11273.ts
-#EXTINF:-1,FR: PARIS PREMIERE
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11272.ts
-#EXTINF:-1,FR: RMC SPORT 1 HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11288.ts
-#EXTINF:-1,FR: RMC SPORT 2 HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11289.ts
-#EXTINF:-1,FR: RMC SPORT 3 HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11290.ts
-#EXTINF:-1,FR: RMC STORY HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11277.ts
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4992.m3u8
+#EXTINF:-1,FR: CANAL+ HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/250.m3u8
+#EXTINF:-1,FR: BFM TV
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1549.m3u8
+#EXTINF:-1,FR: GULLI HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4957.m3u8
+#EXTINF:-1,FR: GAME ONE
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4967.m3u8
+#EXTINF:-1,FR: EQUIDIA live
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4990.m3u8
+#EXTINF:-1,FR: Disney XD HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1553.m3u8
+#EXTINF:-1,FR: DISNEY CINEMA
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1543.m3u8
+#EXTINF:-1,FR: DISNEY CHANNEL
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1544.m3u8
+#EXTINF:-1,FR: i Tele
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4956.m3u8
+#EXTINF:-1,FR: L'EQUIPE 21
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4977.m3u8
+#EXTINF:-1,FR: La Deux
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3731.m3u8
+#EXTINF:-1,FR: La une BE
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3730.m3u8
+#EXTINF:-1,FR: LCI
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4955.m3u8
+#EXTINF:-1,FR: M6
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/242.m3u8
+#EXTINF:-1,FR: Mangas
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3728.m3u8
+#EXTINF:-1,FR: National geo wild
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3727.m3u8
+#EXTINF:-1,FR: NICKELODEON JUNIOR
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1533.m3u8
+#EXTINF:-1,FR: NRJ Hits
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3726.m3u8
+#EXTINF:-1,FR: NUMERO 23 HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1527.m3u8
+#EXTINF:-1,FR: OCS CHOC HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4969.m3u8
+#EXTINF:-1,FR: OCS CITY
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/261.m3u8
+#EXTINF:-1,FR: OCS GEANT
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/260.m3u8
+#EXTINF:-1,FR: OCS MAX
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/259.m3u8
+#EXTINF:-1,FR: PARAMOUNT CHANNEL HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1537.m3u8
+#EXTINF:-1,FR: PARIS PREMIERE  HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1538.m3u8
+#EXTINF:-1,FR: PARIS PREMIERE HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4959.m3u8
+#EXTINF:-1,FR: PLANETE  HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4981.m3u8
+#EXTINF:-1,FR: PLANETE A&E HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4983.m3u8
+#EXTINF:-1,FR: PLANETE CI HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4982.m3u8
+#EXTINF:-1,FR: rmc decouverte
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1536.m3u8
+#EXTINF:-1,FR: RTS Deux
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3721.m3u8
+#EXTINF:-1,FR: RTS Un
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3720.m3u8
+#EXTINF:-1,FR: SCIENCE ET VIE HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4987.m3u8
+#EXTINF:-1,FR: SCIENCES & VIE
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4986.m3u8
 #EXTINF:-1,FR: SERIE CLUB
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11271.ts
-#EXTINF:-1,FR: SYFY HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11267.ts
-#EXTINF:-1,FR: TEVA
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11268.ts
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3719.m3u8
+#EXTINF:-1,FR: Series Club HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4962.m3u8
+#EXTINF:-1,FR: beINS PORTS 2HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/445.m3u8
+#EXTINF:-1,FR: Syfy HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4963.m3u8
+#EXTINF:-1,FR: Teva
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4960.m3u8
 #EXTINF:-1,FR: TF1 HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11251.ts
-#EXTINF:-1,FR: TF1 SERIES FILMS HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11260.ts
-#EXTINF:-1,FR: TF1 SERIES FILMS HD 1080
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11248.ts
-#EXTINF:-1,FR: TFX 1080
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11250.ts
-#EXTINF:-1,FR: TFX HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11264.ts
-#EXTINF:-1,FR: TMC HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11259.ts
-#EXTINF:-1,FR: TMC HD 1080
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11247.ts
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/241.m3u8
+#EXTINF:-1,FR: Tiji
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4989.m3u8
+#EXTINF:-1,FR: TOUTE L HISTOIRE
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4984.m3u8
 #EXTINF:-1,FR: TV BREIZH HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11269.ts
-#EXTINF:-1,FR: W9 HD
-http://my-streaming.ddns.net:25461/live/Iptv/Iptv/11263.ts
-#EXTINF:-1,FR | France 2
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/116.ts
-#EXTINF:-1,FR | France 3
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/115.ts
-#EXTINF:-1,FR | France 4
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/114.ts
-#EXTINF:-1,FR | France 5
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/113.ts
-#EXTINF:-1,FR | RTSUNHD
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/112.ts
-#EXTINF:-1,FR | USHUAIA TV
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/111.ts
-#EXTINF:-1,FR | TV5 MONDE
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/110.ts
-#EXTINF:-1,FR | Boing
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/109.ts
-#EXTINF:-1,FR | Serie club HD
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/108.ts
-#EXTINF:-1,FR | SCIENCE&VIE
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/107.ts
-#EXTINF:-1,FR | NRJ Hits
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/106.ts
-#EXTINF:-1,FR | PLANETE Ci
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/105.ts
-#EXTINF:-1,FR | PLANETE
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/104.ts
-#EXTINF:-1,FR | PARAMOUNT CHNANNEL
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/103.ts
-#EXTINF:-1,FR | NATIONAL GEOGRAFIC
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/102.ts
-#EXTINF:-1,FR | National Geo Wild
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/97.ts
-#EXTINF:-1,FR | L'EQUIPE
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/101.ts
-#EXTINF:-1,FR | iTELE
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/100.ts
-#EXTINF:-1,FR | GULLI
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/99.ts
-#EXTINF:-1,FR | DISNEY JUNIOR HD
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/98.ts
-#EXTINF:-1,FR | Discovery HD
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/96.ts
-#EXTINF:-1,FR | CINE PREMIERE
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/95.ts
-#EXTINF:-1,FR | CINE POLAR
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/94.ts
-#EXTINF:-1,FR | CINE FX
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/93.ts
-#EXTINF:-1,FR | CINE FRISSON
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/92.ts
-#EXTINF:-1,FR | CINE FAMIZ
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/91.ts
-#EXTINF:-1,FR | CINE CLASSIC
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/90.ts
-#EXTINF:-1,FR | CHASSE&PECHE
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/89.ts
-#EXTINF:-1,FR | CARTON NETWORK
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/88.ts
-#EXTINF:-1,FR | CANAL HD
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/86.ts
-#EXTINF:-1,FR | CANAL FAMILY
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/85.ts
-#EXTINF:-1,FR | CANAL CINEMA
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/84.ts
-#EXTINF:-1,FR | Canal  Decale HD
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/87.ts
-#EXTINF:-1,FR | ANIMAUX
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/82.ts
-#EXTINF:-1,FR | ARTE HD
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/83.ts
-#EXTINF:-1,FR | Planete CI HD
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/81.ts
-#EXTINF:-1,FR | 13EME RUE
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/79.ts
-#EXTINF:-1,FR | TF1
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/122.ts
-#EXTINF:-1,FR | M6
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/121.ts
-#EXTINF:-1,FR | Tele
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/120.ts
-#EXTINF:-1,FR | Syfy HD
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/119.ts
-#EXTINF:-1,FR | RTL9
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/118.ts
-#EXTINF:-1,FR | NT1
-http://51.159.6.146:25461/live/ShukiLB/hjpIAufmLK/117.ts
-#EXTINF:-1,AB1
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3667.ts
-#EXTINF:-1,AB3
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3668.ts
-#EXTINF:-1,TF1
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3669.ts
-#EXTINF:-1,TMC
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3670.ts
-#EXTINF:-1,M6
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3671.ts
-#EXTINF:-1,M6 Music
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3672.ts
-#EXTINF:-1,France 2
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3661.ts
-#EXTINF:-1,France 24
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3666.ts
-#EXTINF:-1,France 3
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3662.ts
-#EXTINF:-1,France 4
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3663.ts
-#EXTINF:-1,France 5
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3664.ts
-#EXTINF:-1,France O
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3665.ts
-#EXTINF:-1,Canal+
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3677.ts
-#EXTINF:-1,Canal+ Cinema
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3673.ts
-#EXTINF:-1,Canal+ Decale
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3676.ts
-#EXTINF:-1,Canal+ Family
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3674.ts
-#EXTINF:-1,Canal+ Series
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3675.ts
-#EXTINF:-1,Canal+ Sport
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3688.ts
-#EXTINF:-1,Cine+ Classic
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3682.ts
-#EXTINF:-1,Cine+ Club
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3681.ts
-#EXTINF:-1,Cine+ Comedie
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3686.ts
-#EXTINF:-1,Cine+ Emotion
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3680.ts
-#EXTINF:-1,Cine+ Famiz
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3687.ts
-#EXTINF:-1,Cine+ Frisson
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3679.ts
-#EXTINF:-1,Cine+ FX
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3684.ts
-#EXTINF:-1,Cine+ Polar
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3685.ts
-#EXTINF:-1,Cine+ Premier
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3678.ts
-#EXTINF:-1,Cine+ Star
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3683.ts
-#EXTINF:-1,Nati Geo Wild FR
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3697.ts
-#EXTINF:-1,National Geographic FR
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3696.ts
-#EXTINF:-1,Histoire
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3698.ts
-#EXTINF:-1,Discovery FR
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3699.ts
-#EXTINF:-1,OCS Choc
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3703.ts
-#EXTINF:-1,OCS City
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3702.ts
-#EXTINF:-1,OCS Geants
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3701.ts
-#EXTINF:-1,OCS Max
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3700.ts
-#EXTINF:-1,RMC Sport 1
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3691.ts
-#EXTINF:-1,RMC Sport 2
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3692.ts
-#EXTINF:-1,RMC Sport 3
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3693.ts
-#EXTINF:-1,RMC Sport 4
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3694.ts
-#EXTINF:-1,Disney Channel FR
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3704.ts
-#EXTINF:-1,Disney Cinema FR
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3706.ts
-#EXTINF:-1,Disney Junior FR
-http://xt.bossna-caffe.com:25461/live/Mahir/Mahir123/3705.ts
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4965.m3u8
+#EXTINF:-1,FR: USHUAIA  HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1531.m3u8
+#EXTINF:-1,FR: A LA CARTE 5
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1559.m3u8
+#EXTINF:-1,FR: A la Carte 6
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1558.m3u8
+#EXTINF:-1,FR:A.LA.CARTE.1
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1561.m3u8
+#EXTINF:-1,FR: A.LA.CARTE.3
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1562.m3u8
+#EXTINF:-1,FR: A.LA.CARTE.4
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1560.m3u8
+#EXTINF:-1,FR: CINE PREMIER
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/257.m3u8
+#EXTINF:-1,FR: NICKELODEON HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/5862.m3u8
+#EXTINF:-1,FR: TRACE URBAN
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/6691.m3u8
+#EXTINF:-1,VIP FR: ARTE HD ( 1080P )
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/6734.m3u8
+#EXTINF:-1,VIP FR: BRAVA HD ( 1080P )
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/6743.m3u8
+#EXTINF:-1,VIP FR: TMC HD ( 1080P )
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/6738.m3u8
+#EXTINF:-1,FR: DISNEY CHANNEL FHD 1080
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/6975.m3u8
+#EXTINF:-1,FR:NT1
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/244.m3u8
+#EXTINF:-1,FR:TCM CINEMA
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4974.m3u8
+#EXTINF:-1,FR: TEVA/TMC
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/245.m3u8
+#EXTINF:-1,FR: TREK HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1526.m3u8
+#EXTINF:-1,FR:TV5 MONDE
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1552.m3u8
+#EXTINF:-1,FR: DISCOVERY
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3732.m3u8
+#EXTINF:-1,FR: VOYAGE HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1532.m3u8
+#EXTINF:-1,FR: EQUIDIA LIFE
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8238.m3u8
+#EXTINF:-1,FR: BE CURIOUS TV HD (1080P)
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8327.m3u8
+#EXTINF:-1,FR: CANAL +  HD (1080P)
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8326.m3u8
+#EXTINF:-1,FR: CANAL CINEMA HD (1080P)
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8323.m3u8
+#EXTINF:-1,FR: Cartoon Network HD (1080P)
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8312.m3u8
+#EXTINF:-1,FR: Cine Famiz HD (1080P)
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8319.m3u8
+#EXTINF:-1,FR: Cine Frisson HD (1080P)
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8320.m3u8
+#EXTINF:-1,FR: Cine Premier HD (1080P)
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8321.m3u8
+#EXTINF:-1,FR: DISNEY CINEMA HD (1080P)
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8315.m3u8
+#EXTINF:-1,FR: DISNEY JUNIOR HD (1080P)
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8314.m3u8
+#EXTINF:-1,FR: HD1 HD (1080P)
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8328.m3u8
+#EXTINF:-1,FR: M6 HD (1080P)
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8337.m3u8
+#EXTINF:-1,FR: Syfy HD (1080P)
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8331.m3u8
+#EXTINF:-1,FR: TF1 HD (1080P)
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8342.m3u8
+#EXTINF:-1,FR: Discovery Investigation HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8389.m3u8
+#EXTINF:-1,FR: BFM business
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8404.m3u8
+#EXTINF:-1,FR: E! Entertainment
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8516.m3u8
+#EXTINF:-1,FR: CRIME DISTRICT HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8805.m3u8
+#EXTINF:-1,FR: MCM
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/9162.m3u8
+#EXTINF:-1,FR: MCM TOP
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/9163.m3u8
+#EXTINF:-1,FR: Seasons
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/9440.m3u8
+#EXTINF:-1,FR: FOOT+ 24
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/16098.m3u8
+#EXTINF:-1,FR: Nautical Channel HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/16097.m3u8
+#EXTINF:-1,FR: CNews HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17072.m3u8
+#EXTINF:-1,FR: ALTICE STUDIO HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17197.m3u8
+#EXTINF:-1,FR: BET
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17199.m3u8
+#EXTINF:-1,FR: J One
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17198.m3u8
+#EXTINF:-1,FR: My Cuisine FHD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17201.m3u8
+#EXTINF:-1,FR: OCS Go Cinema 1 HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17300.m3u8
+#EXTINF:-1,FR: OCS Go Cinema 3 HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17298.m3u8
+#EXTINF:-1,FR: OCS Go Cinema 4 HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17297.m3u8
+#EXTINF:-1,FR: OCS Go Cinema 5 HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17296.m3u8
+#EXTINF:-1,FR: Orange Cinema 1 HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17295.m3u8
+#EXTINF:-1,FR: Orange Cinema 2 HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17294.m3u8
+#EXTINF:-1,FR: Orange Cinema 3 HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17293.m3u8
+#EXTINF:-1,FR: Orange Cinema 4 HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17292.m3u8
+#EXTINF:-1,FR: Orange Cinema 5 HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17291.m3u8
+#EXTINF:-1,FR: Orange Cinema Action HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17290.m3u8
+#EXTINF:-1,FR: Orange Cinema Aventure HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17289.m3u8
+#EXTINF:-1,FR: Orange Cinema HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17288.m3u8
+#EXTINF:-1,FR: Orange Cinema Horreur HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17287.m3u8
+#EXTINF:-1,FR: Orange Comment C'Est Fait HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17286.m3u8
+#EXTINF:-1,FR: Orange Enquete Exlusive HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17284.m3u8
+#EXTINF:-1,FR: ELLE GIRL HD 1080
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8092.m3u8
+#EXTINF:-1,FR: Orange Documentaire HD
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17285.m3u8
+#EXTINF:-1,FR: Bein max 4(1)
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/2865.m3u8
+#EXTINF:-1,FR: RTL9
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/246.m3u8
+#EXTINF:-1,FR: TELETOON +
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1548.m3u8
+#EXTINF:-1,FR: W9
+http://iptv-line.com:7899/live/-mac/fYLkczeLEW/341.m3u8
