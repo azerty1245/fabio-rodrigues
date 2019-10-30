@@ -1,336 +1,484 @@
-#EXTINF:-1,FR: France O  HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/532.m3u8
-#EXTINF:-1,FR: TF1 HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/241.m3u8
-#EXTINF:-1,FR: TF1 HD (1080P)
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8342.m3u8
-#EXTINF:-1,FR: M6 HD (1080P)
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8337.m3u8
-#EXTINF:-1,FR: France 5 HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/531.m3u8
-#EXTINF:-1,FR: France 4  HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/530.m3u8
-#EXTINF:-1,FR: FRANCE 2
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/528.m3u8
-#EXTINF:-1,FR: FRANCE 24
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1551.m3u8
-#EXTINF:-1,FR: France 02 HD (1080P)
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8341.m3u8
-#EXTINF:-1,FR: France 03 HD (1080P)
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8340.m3u8
-#EXTINF:-1,AR: France 24 AR
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/559.m3u8
-#EXTINF:-1,FR: BOOMERANG HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/5863.m3u8
-#EXTINF:-1,FR: Boing
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/5864.m3u8
-#EXTINF:-1,FR:  Cartoon Network HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1547.m3u8
-#EXTINF:-1,FR: Discovery Science HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1528.m3u8
-#EXTINF:-1,FR:  Disney Jr Fr
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1546.m3u8
-#EXTINF:-1,FR:  Nat Geo HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1535.m3u8
-#EXTINF:-1,FR:  Nat Geo Wild  HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1534.m3u8
-#EXTINF:-1,FR:  NRJ12 HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1540.m3u8
-#EXTINF:-1,FR: 13 EME RUE HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4961.m3u8
-#EXTINF:-1,FR: 6TER HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/248.m3u8
-#EXTINF:-1,FR: A LA CARTE 10
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1554.m3u8
-#EXTINF:-1,FR: A LA CARTE 7
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1557.m3u8
-#EXTINF:-1,FR: A LA CARTE 8
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1556.m3u8
-#EXTINF:-1,FR: A LA CARTE 9
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1555.m3u8
-#EXTINF:-1,FR: AB Moteur HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4976.m3u8
-#EXTINF:-1,FR: AB1
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4966.m3u8
-#EXTINF:-1,FR: AB3
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4968.m3u8
-#EXTINF:-1,FR: ACTION
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4973.m3u8
-#EXTINF:-1,FR: ANIMAUX
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4985.m3u8
-#EXTINF:-1,FR: ARTE HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4405.m3u8
-#EXTINF:-1,FR: D8
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/243.m3u8
-#EXTINF:-1,FR: C8
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4993.m3u8
-#EXTINF:-1,FR: Canal  Cinema
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/255.m3u8
-#EXTINF:-1,FR: Canal  Decale
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/254.m3u8
-#EXTINF:-1,FR: Canal  Family
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/253.m3u8
-#EXTINF:-1,FR: CANAL J
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1545.m3u8
-#EXTINF:-1,FR: CANAL PLAY 1
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3749.m3u8
-#EXTINF:-1,FR: CANAL PLAY 2
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3748.m3u8
-#EXTINF:-1,FR: CANAL PLAY 3
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3747.m3u8
-#EXTINF:-1,FR: CANAL PLAY 4
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3746.m3u8
-#EXTINF:-1,FR: CANAL PLAY 5
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3745.m3u8
-#EXTINF:-1,FR: CANAL PLAY 6
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3744.m3u8
-#EXTINF:-1,FR: Chasse et Peche
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3742.m3u8
-#EXTINF:-1,FR: CHERIE 25 HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4958.m3u8
-#EXTINF:-1,FR: CINE CLASSIC
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3739.m3u8
-#EXTINF:-1,FR: CINE CLASSIC HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3733.m3u8
-#EXTINF:-1,FR: CINE EMOTION
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4971.m3u8
-#EXTINF:-1,FR: CINE EMOTION HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3738.m3u8
-#EXTINF:-1,FR: CINE FAMIZ
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3737.m3u8
-#EXTINF:-1,FR: Cine Famiz HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4972.m3u8
-#EXTINF:-1,FR: CINE FRISSON
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3736.m3u8
-#EXTINF:-1,FR: CINE FRISSON HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4970.m3u8
-#EXTINF:-1,FR: CINE FX
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/256.m3u8
-#EXTINF:-1,FR: CINE POLAR
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3735.m3u8
-#EXTINF:-1,FR: CINE PREMIER HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3734.m3u8
-#EXTINF:-1,FR: COMEDIE  HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1539.m3u8
-#EXTINF:-1,FR: Comedie +
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4964.m3u8
-#EXTINF:-1,FR: CSTAR HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4992.m3u8
-#EXTINF:-1,FR: CANAL+ HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/250.m3u8
-#EXTINF:-1,FR: BFM TV
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1549.m3u8
-#EXTINF:-1,FR: GULLI HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4957.m3u8
-#EXTINF:-1,FR: GAME ONE
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4967.m3u8
-#EXTINF:-1,FR: EQUIDIA live
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4990.m3u8
-#EXTINF:-1,FR: Disney XD HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1553.m3u8
-#EXTINF:-1,FR: DISNEY CINEMA
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1543.m3u8
-#EXTINF:-1,FR: DISNEY CHANNEL
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1544.m3u8
-#EXTINF:-1,FR: i Tele
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4956.m3u8
-#EXTINF:-1,FR: L'EQUIPE 21
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4977.m3u8
-#EXTINF:-1,FR: La Deux
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3731.m3u8
-#EXTINF:-1,FR: La une BE
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3730.m3u8
-#EXTINF:-1,FR: LCI
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4955.m3u8
-#EXTINF:-1,FR: M6
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/242.m3u8
-#EXTINF:-1,FR: Mangas
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3728.m3u8
-#EXTINF:-1,FR: National geo wild
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3727.m3u8
-#EXTINF:-1,FR: NICKELODEON JUNIOR
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1533.m3u8
-#EXTINF:-1,FR: NRJ Hits
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3726.m3u8
-#EXTINF:-1,FR: NUMERO 23 HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1527.m3u8
-#EXTINF:-1,FR: OCS CHOC HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4969.m3u8
-#EXTINF:-1,FR: OCS CITY
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/261.m3u8
-#EXTINF:-1,FR: OCS GEANT
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/260.m3u8
-#EXTINF:-1,FR: OCS MAX
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/259.m3u8
-#EXTINF:-1,FR: PARAMOUNT CHANNEL HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1537.m3u8
-#EXTINF:-1,FR: PARIS PREMIERE  HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1538.m3u8
-#EXTINF:-1,FR: PARIS PREMIERE HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4959.m3u8
-#EXTINF:-1,FR: PLANETE  HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4981.m3u8
-#EXTINF:-1,FR: PLANETE A&E HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4983.m3u8
-#EXTINF:-1,FR: PLANETE CI HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4982.m3u8
-#EXTINF:-1,FR: rmc decouverte
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1536.m3u8
-#EXTINF:-1,FR: RTS Deux
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3721.m3u8
-#EXTINF:-1,FR: RTS Un
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3720.m3u8
-#EXTINF:-1,FR: SCIENCE ET VIE HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4987.m3u8
-#EXTINF:-1,FR: SCIENCES & VIE
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4986.m3u8
-#EXTINF:-1,FR: SERIE CLUB
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3719.m3u8
-#EXTINF:-1,FR: Series Club HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4962.m3u8
-#EXTINF:-1,FR: beINS PORTS 2HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/445.m3u8
-#EXTINF:-1,FR: Syfy HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4963.m3u8
-#EXTINF:-1,FR: Teva
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4960.m3u8
-#EXTINF:-1,FR: Tiji
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4989.m3u8
-#EXTINF:-1,FR: TOUTE L HISTOIRE
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4984.m3u8
-#EXTINF:-1,FR: TV BREIZH HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4965.m3u8
-#EXTINF:-1,FR: USHUAIA  HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1531.m3u8
-#EXTINF:-1,FR: A LA CARTE 5
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1559.m3u8
-#EXTINF:-1,FR: A la Carte 6
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1558.m3u8
-#EXTINF:-1,FR:A.LA.CARTE.1
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1561.m3u8
-#EXTINF:-1,FR: A.LA.CARTE.3
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1562.m3u8
-#EXTINF:-1,FR: A.LA.CARTE.4
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1560.m3u8
-#EXTINF:-1,FR: CINE PREMIER
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/257.m3u8
-#EXTINF:-1,FR: NICKELODEON HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/5862.m3u8
-#EXTINF:-1,FR: TRACE URBAN
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/6691.m3u8
-#EXTINF:-1,VIP FR: ARTE HD ( 1080P )
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/6734.m3u8
-#EXTINF:-1,VIP FR: BRAVA HD ( 1080P )
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/6743.m3u8
-#EXTINF:-1,VIP FR: TMC HD ( 1080P )
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/6738.m3u8
-#EXTINF:-1,FR: DISNEY CHANNEL FHD 1080
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/6975.m3u8
-#EXTINF:-1,FR:NT1
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/244.m3u8
-#EXTINF:-1,FR:TCM CINEMA
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/4974.m3u8
-#EXTINF:-1,FR: TEVA/TMC
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/245.m3u8
-#EXTINF:-1,FR: TREK HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1526.m3u8
-#EXTINF:-1,FR:TV5 MONDE
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1552.m3u8
-#EXTINF:-1,FR: DISCOVERY
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/3732.m3u8
-#EXTINF:-1,FR: VOYAGE HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1532.m3u8
-#EXTINF:-1,FR: EQUIDIA LIFE
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8238.m3u8
-#EXTINF:-1,FR: BE CURIOUS TV HD (1080P)
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8327.m3u8
-#EXTINF:-1,FR: CANAL +  HD (1080P)
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8326.m3u8
-#EXTINF:-1,FR: CANAL CINEMA HD (1080P)
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8323.m3u8
-#EXTINF:-1,FR: Cartoon Network HD (1080P)
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8312.m3u8
-#EXTINF:-1,FR: Cine Famiz HD (1080P)
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8319.m3u8
-#EXTINF:-1,FR: Cine Frisson HD (1080P)
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8320.m3u8
-#EXTINF:-1,FR: Cine Premier HD (1080P)
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8321.m3u8
-#EXTINF:-1,FR: DISNEY CINEMA HD (1080P)
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8315.m3u8
-#EXTINF:-1,FR: DISNEY JUNIOR HD (1080P)
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8314.m3u8
-#EXTINF:-1,FR: HD1 HD (1080P)
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8328.m3u8
-#EXTINF:-1,FR: Syfy HD (1080P)
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8331.m3u8
-#EXTINF:-1,FR: Discovery Investigation HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8389.m3u8
-#EXTINF:-1,FR: BFM business
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8404.m3u8
-#EXTINF:-1,FR: E! Entertainment
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8516.m3u8
-#EXTINF:-1,FR: CRIME DISTRICT HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8805.m3u8
-#EXTINF:-1,FR: MCM
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/9162.m3u8
-#EXTINF:-1,FR: MCM TOP
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/9163.m3u8
-#EXTINF:-1,FR: Seasons
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/9440.m3u8
-#EXTINF:-1,FR: FOOT+ 24
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/16098.m3u8
-#EXTINF:-1,FR: Nautical Channel HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/16097.m3u8
-#EXTINF:-1,FR: CNews HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17072.m3u8
-#EXTINF:-1,FR: ALTICE STUDIO HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17197.m3u8
-#EXTINF:-1,FR: BET
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17199.m3u8
-#EXTINF:-1,FR: J One
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17198.m3u8
-#EXTINF:-1,FR: My Cuisine FHD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17201.m3u8
-#EXTINF:-1,FR: OCS Go Cinema 1 HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17300.m3u8
-#EXTINF:-1,FR: OCS Go Cinema 3 HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17298.m3u8
-#EXTINF:-1,FR: OCS Go Cinema 4 HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17297.m3u8
-#EXTINF:-1,FR: OCS Go Cinema 5 HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17296.m3u8
-#EXTINF:-1,FR: Orange Cinema 1 HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17295.m3u8
-#EXTINF:-1,FR: Orange Cinema 2 HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17294.m3u8
-#EXTINF:-1,FR: Orange Cinema 3 HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17293.m3u8
-#EXTINF:-1,FR: Orange Cinema 4 HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17292.m3u8
-#EXTINF:-1,FR: Orange Cinema 5 HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17291.m3u8
-#EXTINF:-1,FR: Orange Cinema Action HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17290.m3u8
-#EXTINF:-1,FR: Orange Cinema Aventure HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17289.m3u8
-#EXTINF:-1,FR: Orange Cinema HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17288.m3u8
-#EXTINF:-1,FR: Orange Cinema Horreur HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17287.m3u8
-#EXTINF:-1,FR: Orange Comment C'Est Fait HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17286.m3u8
-#EXTINF:-1,FR: Orange Enquete Exlusive HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17284.m3u8
-#EXTINF:-1,FR: ELLE GIRL HD 1080
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/8092.m3u8
-#EXTINF:-1,FR: Orange Documentaire HD
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/17285.m3u8
-#EXTINF:-1,FR: Bein max 4(1)
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/2865.m3u8
-#EXTINF:-1,FR: RTL9
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/246.m3u8
-#EXTINF:-1,FR: TELETOON +
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/1548.m3u8
-#EXTINF:-1,FR: W9
-http://iptv-line.com:7899/live/-mac/fYLkczeLEW/341.m3u8
+#EXTINF:-1,|FR| TF1 FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9210.m3u8
+#EXTINF:-1,|FR| TF1 HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9211.m3u8
+#EXTINF:-1,|FR| TF1 FHD BKP
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51179.m3u8
+#EXTINF:-1,|FR| France 2 HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15226.m3u8
+#EXTINF:-1,|FR| FRANCE 2 FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9546.m3u8
+#EXTINF:-1,|FR| France 3 HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9276.m3u8
+#EXTINF:-1,|FR| FRANCE 3 FHD BKP
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51177.m3u8
+#EXTINF:-1,|FR| CANAL  FHD BKP
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51165.m3u8
+#EXTINF:-1,|FR| France 5 HD BKP
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9273.m3u8
+#EXTINF:-1,|FR| France 5 HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15167.m3u8
+#EXTINF:-1,|FR| FRANCE 5 FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9543.m3u8
+#EXTINF:-1,|FR| FRANCE 5 FHD BKP
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51175.m3u8
+#EXTINF:-1,|FR| M6 HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9260.m3u8
+#EXTINF:-1,|FR| M6 HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15154.m3u8
+#EXTINF:-1,|FR| M6 FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9531.m3u8
+#EXTINF:-1,|FR| ARTE HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9354.m3u8
+#EXTINF:-1,|FR| Arte HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15212.m3u8
+#EXTINF:-1,|FR| ARTE FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9590.m3u8
+#EXTINF:-1,|FR| C8 HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9293.m3u8
+#EXTINF:-1,|FR| C8 HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15232.m3u8
+#EXTINF:-1,|FR| C8 FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9574.m3u8
+#EXTINF:-1,|FR| W9 HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9372.m3u8
+#EXTINF:-1,|FR| W9 HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15111.m3u8
+#EXTINF:-1,|FR| W9 FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9488.m3u8
+#EXTINF:-1,|FR| TMC FHD BKP
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51167.m3u8
+#EXTINF:-1,|FR| TFX HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/50639.m3u8
+#EXTINF:-1,|FR| TFX FHD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/50641.m3u8
+#EXTINF:-1,|FR|  NRJ12 HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9366.m3u8
+#EXTINF:-1,|FR| NRJ12 FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9521.m3u8
+#EXTINF:-1,|FR| France 4  HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9274.m3u8
+#EXTINF:-1,|FR| CSTAR HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15182.m3u8
+#EXTINF:-1,|FR| CSTAR FHD BKP
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51151.m3u8
+#EXTINF:-1,|FR| France O HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15165.m3u8
+#EXTINF:-1,|FR| FRANCE O FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9542.m3u8
+#EXTINF:-1,|FR| 6TER HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9364.m3u8
+#EXTINF:-1,|FR| CHERIE 25 FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9572.m3u8
+#EXTINF:-1,|FR| TEVA HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/49804.m3u8
+#EXTINF:-1,|FR| TEVA HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/49805.m3u8
+#EXTINF:-1,|FR| Teva Full HD +
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9212.m3u8
+#EXTINF:-1,|FR| PARIS PREMIERE  HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15137.m3u8
+#EXTINF:-1,|FR| PARIS PREMIERE HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9238.m3u8
+#EXTINF:-1,|FR| PARIS PREMIERE FHD BKP
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51129.m3u8
+#EXTINF:-1,|FR| RTL9 HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9374.m3u8
+#EXTINF:-1,|FR| Rtl9 HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15130.m3u8
+#EXTINF:-1,|FR| TV BREIZH HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9206.m3u8
+#EXTINF:-1,|FR| TV BREIZH FHD BKP
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51119.m3u8
+#EXTINF:-1,|FR| AB3 HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9357.m3u8
+#EXTINF:-1,|FR| AB3 HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15215.m3u8
+#EXTINF:-1,|FR| AB3 FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9593.m3u8
+#EXTINF:-1,|FR| SERIE CLUB HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9226.m3u8
+#EXTINF:-1,|FR| 13EME RUE FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9596.m3u8
+#EXTINF:-1,|FR| Syfy HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9214.m3u8
+#EXTINF:-1,|FR| Syfy HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15123.m3u8
+#EXTINF:-1,|FR| SYFY FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9498.m3u8
+#EXTINF:-1,|FR| Syfy  FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9213.m3u8
+#EXTINF:-1,|FR| E! HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15175.m3u8
+#EXTINF:-1,|FR| E! Entertainment HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9285.m3u8
+#EXTINF:-1,|FR| COMEDIE Plus HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9297.m3u8
+#EXTINF:-1,|FR| COMEDIE HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15183.m3u8
+#EXTINF:-1,|FR| CANAL  HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/32155.m3u8
+#EXTINF:-1,|FR| CANAL HD BKP
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9324.m3u8
+#EXTINF:-1,|FR| CANAL FHD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9579.m3u8
+#EXTINF:-1,|FR| Canal cinema  HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15195.m3u8
+#EXTINF:-1,|FR| CANAL CINEMA FULL HD +
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9582.m3u8
+#EXTINF:-1,|FR| CANAL DECALE  HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15194.m3u8
+#EXTINF:-1,|FR| Canal Family HD BKP
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9330.m3u8
+#EXTINF:-1,|FR| CANAL SERIE HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15192.m3u8
+#EXTINF:-1,|FR| CANAL  SERIES FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9578.m3u8
+#EXTINF:-1,|FR| ALTICE STUDIO HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40882.m3u8
+#EXTINF:-1,|FR| ALTICE STUDIO FHD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40881.m3u8
+#EXTINF:-1,|FR| ALTICE STUDIO FHD bkp
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40880.m3u8
+#EXTINF:-1,|FR| OCS CHOC HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15140.m3u8
+#EXTINF:-1,|FR| OCS CITY HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15223.m3u8
+#EXTINF:-1,|FR| OCS GEANT HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9245.m3u8
+#EXTINF:-1,|FR| OCS GEANTS FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9516.m3u8
+#EXTINF:-1,|FR| OCS MAX HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9244.m3u8
+#EXTINF:-1,|FR| OCS MAX FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9515.m3u8
+#EXTINF:-1,|FR| CANAL PLAY 1
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9322.m3u8
+#EXTINF:-1,|FR| CINE EMOTION HD BKP
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9309.m3u8
+#EXTINF:-1,|FR| CINE FRISSON HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9304.m3u8
+#EXTINF:-1,|FR| CINE FRISSON + HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15185.m3u8
+#EXTINF:-1,|FR| Cine Frisson FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9303.m3u8
+#EXTINF:-1,|FR| CINE  FRISSON FULL HD +
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9566.m3u8
+#EXTINF:-1,|FR| CINE POLAR FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9564.m3u8
+#EXTINF:-1,|FR| CINE PREMIER HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9300.m3u8
+#EXTINF:-1,|FR| ACTION HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9356.m3u8
+#EXTINF:-1,|FR| ACTION HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15214.m3u8
+#EXTINF:-1,|FR| TMC HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9194.m3u8
+#EXTINF:-1,|FR| tmc HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15119.m3u8
+#EXTINF:-1,|FR| TMC FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9494.m3u8
+#EXTINF:-1,|FR| PARAMOUNT CHANNEL HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9240.m3u8
+#EXTINF:-1,|FR| Paramount Channel HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15138.m3u8
+#EXTINF:-1,|FR| TCM CINEMA HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9195.m3u8
+#EXTINF:-1,|FR| TCM Cinema Full HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9497.m3u8
+#EXTINF:-1,|FR| ORANGE CINE 5
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15243.m3u8
+#EXTINF:-1,|FR| A LA CARTE 3
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9200.m3u8
+#EXTINF:-1,|FR| A LA CARTE 8
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9361.m3u8
+#EXTINF:-1,|FR| CANAL SPORT  HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/39203.m3u8
+#EXTINF:-1,|FR| CANAL SPORT HD BKP
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15191.m3u8
+#EXTINF:-1,|FR| CANAL SPORT FHD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9326.m3u8
+#EXTINF:-1,|FR| CANAL  SPORT FHD BKP
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51166.m3u8
+#EXTINF:-1,|FR| BeIN Sports 1 HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15204.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 1 HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9340.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 1 HD (BACKUP)
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9345.m3u8
+#EXTINF:-1,|FR| BEINSPORT 1 FR FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9589.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 1 FHD BKP
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51102.m3u8
+#EXTINF:-1,|FR| BeIN Sports 2 HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15203.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 2 HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9339.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 2 HD (BACKUP)
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9344.m3u8
+#EXTINF:-1,|FR| BEINSPORT 2 FR FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9588.m3u8
+#EXTINF:-1,|FR| BeIN Sports 3 HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15202.m3u8
+#EXTINF:-1,|FR|  BEIN SPORT 3 HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9341.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 3 HD +
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9343.m3u8
+#EXTINF:-1,|FR| BEINSPORT 3 FR FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9587.m3u8
+#EXTINF:-1,|FR| BEIN SPORT 3 FHD BKP
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51100.m3u8
+#EXTINF:-1,|FR| BeIN Sports MAX 4 HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15210.m3u8
+#EXTINF:-1,|FR| BeIN Sports MAX 5 HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15209.m3u8
+#EXTINF:-1,|FR| BeIN Sports MAX 7 HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15207.m3u8
+#EXTINF:-1,|FR| BeIN Sports MAX 9 FHD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15205.m3u8
+#EXTINF:-1,|FR| BeIN Sports MAX 10 FHD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15211.m3u8
+#EXTINF:-1,|FR| RMC Sport 1
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15127.m3u8
+#EXTINF:-1,|FR| RMC Sport 1 HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9218.m3u8
+#EXTINF:-1,|FR| RMC Sport 1 Full HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9502.m3u8
+#EXTINF:-1,|FR| RMC Sport 2
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15126.m3u8
+#EXTINF:-1,|FR| RMC Sport 2 HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9217.m3u8
+#EXTINF:-1,|FR| RMC SPORT 2 FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9501.m3u8
+#EXTINF:-1,|FR| RMC SPORT 4 FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9499.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 8
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40477.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 9 HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40476.m3u8
+#EXTINF:-1,|FR| RMC SPORT ACCESS 1 FHD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/40484.m3u8
+#EXTINF:-1,|FR| BFM SPORT  HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9337.m3u8
+#EXTINF:-1,|FR| Eurosport 1 HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15172.m3u8
+#EXTINF:-1,|FR| EUROSPORT1 HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9281.m3u8
+#EXTINF:-1,|FR| EUROSPORT 1 FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9549.m3u8
+#EXTINF:-1,|FR| EUROSPORT FHD BKP
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51105.m3u8
+#EXTINF:-1,|FR| EUROSPORT 2 HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9279.m3u8
+#EXTINF:-1,|FR| EUROSPORT 2 FHD BKP
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51106.m3u8
+#EXTINF:-1,|FR| EXTREME SPORTS HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15227.m3u8
+#EXTINF:-1,|FR| INFOSPORT HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9265.m3u8
+#EXTINF:-1,|FR| INFOSPORT FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9534.m3u8
+#EXTINF:-1,|FR| L'EQUIPE 21 FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9533.m3u8
+#EXTINF:-1,|FR| Equidia Live HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15173.m3u8
+#EXTINF:-1,|FR | Foot+ 24/24
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/32819.m3u8
+#EXTINF:-1,|FR| EURONEWS HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9376.m3u8
+#EXTINF:-1,|FR| FRANCE 24 HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9197.m3u8
+#EXTINF:-1,|FR| France24 HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15164.m3u8
+#EXTINF:-1,|FR| BFM TV HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9336.m3u8
+#EXTINF:-1,|FR| bfm HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15201.m3u8
+#EXTINF:-1,|FR| BFM TV FULL HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9585.m3u8
+#EXTINF:-1,|FR| BFM BUSINESS HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9338.m3u8
+#EXTINF:-1,|FR| BFM Business HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15200.m3u8
+#EXTINF:-1,|FR| BFM BUSINESS FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9586.m3u8
+#EXTINF:-1,|FR| LCI FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9532.m3u8
+#EXTINF:-1,|FR| CANAL NEWS FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9575.m3u8
+#EXTINF:-1,|FR| TV5 MONDE HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9192.m3u8
+#EXTINF:-1,|FR| LCP ASSEMBLEE NATIONALE HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/47688.m3u8
+#EXTINF:-1,|FR| PLANETE FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9512.m3u8
+#EXTINF:-1,|FR| DISCOVERY INVESTIGATION FHD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9559.m3u8
+#EXTINF:-1,|FR| DISCOVERY HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9292.m3u8
+#EXTINF:-1,|FR| DISCOVERY FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9560.m3u8
+#EXTINF:-1,|FR| DISCOVERY SCIENCE HD BKP
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9291.m3u8
+#EXTINF:-1,|FR| Discovery Science HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15179.m3u8
+#EXTINF:-1,|FR| DISCOVERY SCIENCE FULL HD +
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9558.m3u8
+#EXTINF:-1,|FR|  NATIONAL GEOGRAPHIC HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9368.m3u8
+#EXTINF:-1,|FR| NATIONAL GEOGRAPHIC HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15144.m3u8
+#EXTINF:-1,|FR| NATIONAL GEOGRAPHIC FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9523.m3u8
+#EXTINF:-1,|FR|  Nat Geo Wild  HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9367.m3u8
+#EXTINF:-1,|FR| NAT GEO WILD HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15145.m3u8
+#EXTINF:-1,|FR| NATIONAL GEO WILD FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9524.m3u8
+#EXTINF:-1,|FR| SCIENCES ET VIE HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9228.m3u8
+#EXTINF:-1,|FR| Science et Vie  HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15129.m3u8
+#EXTINF:-1,|FR| USHUAIA  HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9205.m3u8
+#EXTINF:-1,|FR| USHUAIA TV HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15115.m3u8
+#EXTINF:-1,|FR| RMC Decouverte  HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15131.m3u8
+#EXTINF:-1,|FR| RMC DECOUVERTE FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9508.m3u8
+#EXTINF:-1,|FR| VOYAGE HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9191.m3u8
+#EXTINF:-1,|FR| VOYAGE HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15112.m3u8
+#EXTINF:-1,|FR| Chasse et Peche HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15189.m3u8
+#EXTINF:-1,|FR| Seasons HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9227.m3u8
+#EXTINF:-1,|FR| SEASON HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15128.m3u8
+#EXTINF:-1,|FR| toute l'histoire HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15118.m3u8
+#EXTINF:-1,|FR| DISNEY CHANNEL HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9290.m3u8
+#EXTINF:-1,|FR| DISNEY CHANNEL HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15178.m3u8
+#EXTINF:-1,|FR| DISNEY CINEMA FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9556.m3u8
+#EXTINF:-1,|FR| NICKELODEON HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9251.m3u8
+#EXTINF:-1,|FR| NICKELODEON HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15143.m3u8
+#EXTINF:-1,|FR| NICKELODEON FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9522.m3u8
+#EXTINF:-1,|FR| NICKELODEON JUNIOR HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9250.m3u8
+#EXTINF:-1,|FR| Nick Jr HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9252.m3u8
+#EXTINF:-1,|FR| TELETOON HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9373.m3u8
+#EXTINF:-1,|FR| TELETOON FULLHD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9496.m3u8
+#EXTINF:-1,|FR| CANAL J FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9576.m3u8
+#EXTINF:-1,|FR| TIJI HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9209.m3u8
+#EXTINF:-1,|FR| Tiji HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15120.m3u8
+#EXTINF:-1,|FR| TIJI FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9495.m3u8
+#EXTINF:-1,|FR| BOOMERANG HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9334.m3u8
+#EXTINF:-1,|FR| Boomerang HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15198.m3u8
+#EXTINF:-1,|FR| Cartoon Network HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9315.m3u8
+#EXTINF:-1,|FR|  CARTOON NETWORK  HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9371.m3u8
+#EXTINF:-1,|FR| GAME ONE FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9541.m3u8
+#EXTINF:-1,|FR| MANGA FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9530.m3u8
+#EXTINF:-1,|FR| J ONE Full HD +
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/30600.m3u8
+#EXTINF:-1,|FR| TOONAMI FHD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/46532.m3u8
+#EXTINF:-1,|FR| M6 MUSIC HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15153.m3u8
+#EXTINF:-1,|FR| TRACE URBAN  HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15218.m3u8
+#EXTINF:-1,|FR| TRACE URBAN FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9493.m3u8
+#EXTINF:-1,|FR| MTV HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15146.m3u8
+#EXTINF:-1,|FR| MTV FRANCE FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9525.m3u8
+#EXTINF:-1,|FR| MCM HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9256.m3u8
+#EXTINF:-1,|FR| RFM TV FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9509.m3u8
+#EXTINF:-1,|FR| MEZZO HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15149.m3u8
+#EXTINF:-1,|FR| MEZZO LIVE HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15148.m3u8
+#EXTINF:-1,|FR| RMC STORY H265
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/56246.m3u8
+#EXTINF:-1,|FR HEVC| BOOMERANG FHD H.265
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51187.m3u8
+#EXTINF:-1,|FR HEVC| CARTOON NETWORK FHD H.265
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51192.m3u8
+#EXTINF:-1,|FR HEVC| CINE  EMOTION FHD H.265
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51186.m3u8
+#EXTINF:-1,|FR HEVC| CSTAR HITS FHD H.265
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51184.m3u8
+#EXTINF:-1,|FR HEVC| DISNEY CHANNEL FHD H.265
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51183.m3u8
+#EXTINF:-1,|FR HEVC| FRANCE 3 FHD H.265
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51220.m3u8
+#EXTINF:-1,|FR HEVC| FRANCE 5 FHD H.265
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51218.m3u8
+#EXTINF:-1,|FR HEVC| FRANCE Ô FHD H.265
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51217.m3u8
+#EXTINF:-1,|FR HEVC| GULLI FHD H.265
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51202.m3u8
+#EXTINF:-1,|FR HEVC| L'EQUIPE FHD H.265
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51201.m3u8
+#EXTINF:-1,|FR HEVC| LCI FHD H.265
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51206.m3u8
+#EXTINF:-1,|FR HEVC| M6 FHD H.265
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51216.m3u8
+#EXTINF:-1,|FR HEVC| M6 MUSIC FHD H.265
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51190.m3u8
+#EXTINF:-1,|FR HEVC| NAT GEO WILD FHD H.265
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51189.m3u8
+#EXTINF:-1,|FR HEVC| NATIONAL GEOGRAPHIC FHD H.265
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51181.m3u8
+#EXTINF:-1,|FR HEVC| NRJ12 FHD H.265
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51205.m3u8
+#EXTINF:-1,|FR HEVC| RMC STORY FHD H.265
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51213.m3u8
+#EXTINF:-1,|FR HEVC| TEVA FHD H.265
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51180.m3u8
+#EXTINF:-1,|FR HEVC| TF1 FHD H.265
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51222.m3u8
+#EXTINF:-1,|FR HEVC| TFX FHD H.265
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51211.m3u8
+#EXTINF:-1,|FR HEVC| TMC FHD H.265
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51212.m3u8
+#EXTINF:-1,|FR HEVC| W9 FHD H.265
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51215.m3u8
+#EXTINF:-1,|nBE| ATV Antwerpen
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48158.m3u8
+#EXTINF:-1,|nBE| BEL RTL
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48157.m3u8
+#EXTINF:-1,|nBE| BFM
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48156.m3u8
+#EXTINF:-1,|nBE| LA TROIS FR-BE
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48164.m3u8
+#EXTINF:-1,|nBE| VIER HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/48169.m3u8
+#EXTINF:-1,|BE| La Deux Belgium
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/17064.m3u8
+#EXTINF:-1,|BE| EEN HD 1080P
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/17065.m3u8
