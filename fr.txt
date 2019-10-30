@@ -1,910 +1,594 @@
-#EXTINF:-1,|FR| TF1 (SD)
-http://siptv-online.com:8789/live/19865/19865/39476.m3u8
-#EXTINF:-1,|FR| TF1  1 (SD)
-http://siptv-online.com:8789/live/19865/19865/39475.m3u8
-#EXTINF:-1,|FR| FRANCE 2 (SD)
-http://siptv-online.com:8789/live/19865/19865/39474.m3u8
-#EXTINF:-1,|FR| FRANCE 3 (SD)
-http://siptv-online.com:8789/live/19865/19865/39473.m3u8
-#EXTINF:-1,|FR| FRANCE 4 (SD)
-http://siptv-online.com:8789/live/19865/19865/39472.m3u8
-#EXTINF:-1,|FR| FRANCE 5 (SD)
-http://siptv-online.com:8789/live/19865/19865/39471.m3u8
-#EXTINF:-1,|FR| M6 (SD)
-http://siptv-online.com:8789/live/19865/19865/39470.m3u8
-#EXTINF:-1,|FR| ARTE (SD)
-http://siptv-online.com:8789/live/19865/19865/39469.m3u8
-#EXTINF:-1,|FR| CANAL  (SD)
-http://siptv-online.com:8789/live/19865/19865/39442.m3u8
-#EXTINF:-1,|FR| CANAL  CINEMA (SD)
-http://siptv-online.com:8789/live/19865/19865/39441.m3u8
-#EXTINF:-1,|FR| CANAL  SPORT (SD)
-http://siptv-online.com:8789/live/19865/19865/39437.m3u8
-#EXTINF:-1,|FR| CANAL  SERIES (SD)
-http://siptv-online.com:8789/live/19865/19865/39438.m3u8
-#EXTINF:-1,|FR| CANAL  FAMILY (SD)
-http://siptv-online.com:8789/live/19865/19865/39439.m3u8
-#EXTINF:-1,|FR| CANAL  DECALE (SD)
-http://siptv-online.com:8789/live/19865/19865/39440.m3u8
-#EXTINF:-1,|FR| CINE  PREMIER (SD)
-http://siptv-online.com:8789/live/19865/19865/39436.m3u8
-#EXTINF:-1,|FR| CINE  FRISSON (SD)
-http://siptv-online.com:8789/live/19865/19865/39433.m3u8
-#EXTINF:-1,|FR| CINE  EMOTION (SD)
-http://siptv-online.com:8789/live/19865/19865/39435.m3u8
-#EXTINF:-1,|FR| CINE  FAMIZ (SD)
-http://siptv-online.com:8789/live/19865/19865/39434.m3u8
-#EXTINF:-1,|FR| CINE  CLUB (SD)
-http://siptv-online.com:8789/live/19865/19865/39432.m3u8
-#EXTINF:-1,|FR| CINE  CLASSIC (SD)
-http://siptv-online.com:8789/live/19865/19865/39431.m3u8
-#EXTINF:-1,|FR| OCS MAX (SD)
-http://siptv-online.com:8789/live/19865/19865/39422.m3u8
-#EXTINF:-1,|FR| OCS CITY (SD)
-http://siptv-online.com:8789/live/19865/19865/39424.m3u8
-#EXTINF:-1,|FR| OCS CHOC (SD)
-http://siptv-online.com:8789/live/19865/19865/39423.m3u8
-#EXTINF:-1,|FR| OCS GEANTS (SD)
-http://siptv-online.com:8789/live/19865/19865/39425.m3u8
-#EXTINF:-1,|FR| DISNEY CINEMA (SD)
-http://siptv-online.com:8789/live/19865/19865/39524.m3u8
-#EXTINF:-1,|FR| TCM CINEMA (SD)
-http://siptv-online.com:8789/live/19865/19865/39428.m3u8
-#EXTINF:-1,|FR| ALTICE STUDIO (SD)
-http://siptv-online.com:8789/live/19865/19865/39430.m3u8
-#EXTINF:-1,|FR| CRIME DISTRICT (SD)
-http://siptv-online.com:8789/live/19865/19865/39536.m3u8
-#EXTINF:-1,|FR| COMEDIE  (SD)
-http://siptv-online.com:8789/live/19865/19865/39418.m3u8
-#EXTINF:-1,|FR| POLAR  (SD)
-http://siptv-online.com:8789/live/19865/19865/39421.m3u8
-#EXTINF:-1,|FR| 13EME RUE (SD)
-http://siptv-online.com:8789/live/19865/19865/39419.m3u8
-#EXTINF:-1,|FR| WARNER TV (SD)
-http://siptv-online.com:8789/live/19865/19865/39429.m3u8
-#EXTINF:-1,|FR| SYFY (SD)
-http://siptv-online.com:8789/live/19865/19865/39412.m3u8
-#EXTINF:-1,|FR| SERIE CLUB (SD)
-http://siptv-online.com:8789/live/19865/19865/39414.m3u8
-#EXTINF:-1,|FR| NOVELAS TV (SD)
-http://siptv-online.com:8789/live/19865/19865/39541.m3u8
-#EXTINF:-1,|FR| E! ENTERTAINMENT (SD)
-http://siptv-online.com:8789/live/19865/19865/39545.m3u8
-#EXTINF:-1,|FR| GAME ONE (SD)
-http://siptv-online.com:8789/live/19865/19865/39505.m3u8
-#EXTINF:-1,|FR| J-ONE (SD)
-http://siptv-online.com:8789/live/19865/19865/39506.m3u8
-#EXTINF:-1,|FR| MANGAS (SD)
-http://siptv-online.com:8789/live/19865/19865/39507.m3u8
-#EXTINF:-1,|FR| AB1 (SD)
-http://siptv-online.com:8789/live/19865/19865/39411.m3u8
-#EXTINF:-1,|FR| AB3 (SD)
-http://siptv-online.com:8789/live/19865/19865/39410.m3u8
-#EXTINF:-1,|FR| TV BREIZH (SD)
-http://siptv-online.com:8789/live/19865/19865/39548.m3u8
-#EXTINF:-1,|FR| TEVA (SD)
-http://siptv-online.com:8789/live/19865/19865/39413.m3u8
-#EXTINF:-1,|FR| PARIS PREMIERE (SD)
-http://siptv-online.com:8789/live/19865/19865/39416.m3u8
-#EXTINF:-1,|FR| BET (SD)
-http://siptv-online.com:8789/live/19865/19865/39547.m3u8
-#EXTINF:-1,|FR| W9 (SD)
-http://siptv-online.com:8789/live/19865/19865/39467.m3u8
-#EXTINF:-1,|FR| TMC (SD)
-http://siptv-online.com:8789/live/19865/19865/39466.m3u8
-#EXTINF:-1,|FR| TFX (SD)
-http://siptv-online.com:8789/live/19865/19865/39464.m3u8
-#EXTINF:-1,|FR| NRJ 12 (SD)
-http://siptv-online.com:8789/live/19865/19865/39463.m3u8
-#EXTINF:-1,|FR| CSTAR (SD)
-http://siptv-online.com:8789/live/19865/19865/39448.m3u8
-#EXTINF:-1,|FR| TF1 SERIES / FILMS (SD)
-http://siptv-online.com:8789/live/19865/19865/39449.m3u8
-#EXTINF:-1,|FR| 6TER (SD)
-http://siptv-online.com:8789/live/19865/19865/39446.m3u8
-#EXTINF:-1,|FR| RMC DECOUVERTE (SD)
-http://siptv-online.com:8789/live/19865/19865/39444.m3u8
-#EXTINF:-1,|FR| CHERIE 25 (SD)
-http://siptv-online.com:8789/live/19865/19865/39443.m3u8
-#EXTINF:-1,|FR| PLANETE  (SD)
-http://siptv-online.com:8789/live/19865/19865/39539.m3u8
-#EXTINF:-1,|FR| PLANETE  CI (SD)
-http://siptv-online.com:8789/live/19865/19865/39537.m3u8
-#EXTINF:-1,|FR| PLANETE+  A&E (SD)
-http://siptv-online.com:8789/live/19865/19865/39538.m3u8
-#EXTINF:-1,|FR| VICELAND TV (SD)
-http://siptv-online.com:8789/live/19865/19865/39542.m3u8
-#EXTINF:-1,|FR| NATIONAL GEO (SD)
-http://siptv-online.com:8789/live/19865/19865/39530.m3u8
-#EXTINF:-1,|FR| NATIONAL GEO WILD (SD)
-http://siptv-online.com:8789/live/19865/19865/39529.m3u8
-#EXTINF:-1,|FR| DISCOVERY CHANNEL (SD)
-http://siptv-online.com:8789/live/19865/19865/39535.m3u8
-#EXTINF:-1,|FR| DISCOVERY SCIENCES (SD)
-http://siptv-online.com:8789/live/19865/19865/39532.m3u8
-#EXTINF:-1,|FR| DISCOVERY FAMILY (SD)
-http://siptv-online.com:8789/live/19865/19865/39534.m3u8
-#EXTINF:-1,|FR| MY CUISINE (SD)
-http://siptv-online.com:8789/live/19865/19865/39540.m3u8
-#EXTINF:-1,|FR| USHUAIA TV (SD)
-http://siptv-online.com:8789/live/19865/19865/39531.m3u8
-#EXTINF:-1,|FR| ANIMAUX (SD)
-http://siptv-online.com:8789/live/19865/19865/39526.m3u8
-#EXTINF:-1,|FR| LA CHAINE METEO (SD)
-http://siptv-online.com:8789/live/19865/19865/39462.m3u8
-#EXTINF:-1,|FR| CNEWS (SD)
-http://siptv-online.com:8789/live/19865/19865/39455.m3u8
-#EXTINF:-1,|FR| BFM TV (SD)
-http://siptv-online.com:8789/live/19865/19865/39461.m3u8
-#EXTINF:-1,|FR| LCI (SD)
-http://siptv-online.com:8789/live/19865/19865/39458.m3u8
-#EXTINF:-1,|FR| FRANCE INFO (SD)
-http://siptv-online.com:8789/live/19865/19865/39457.m3u8
-#EXTINF:-1,|FR| BFM BUSINESS (SD)
-http://siptv-online.com:8789/live/19865/19865/39459.m3u8
-#EXTINF:-1,|FR| RMC NEWS (SD)
-http://siptv-online.com:8789/live/19865/19865/39504.m3u8
-#EXTINF:-1,|FR| INFOSPORT  (SD)
-http://siptv-online.com:8789/live/19865/19865/39496.m3u8
-#EXTINF:-1,|FR| EUROSPORT 1 (SD)
-http://siptv-online.com:8789/live/19865/19865/39494.m3u8
-#EXTINF:-1,|FR| EUROSPORT 2 (SD)
-http://siptv-online.com:8789/live/19865/19865/39493.m3u8
-#EXTINF:-1,|FR| EQUIDIA LIVE (SD)
-http://siptv-online.com:8789/live/19865/19865/39492.m3u8
-#EXTINF:-1,|FR| GOLF  (SD)
-http://siptv-online.com:8789/live/19865/19865/39489.m3u8
-#EXTINF:-1,|FR| FOOT  24/24 (SD)
-http://siptv-online.com:8789/live/19865/19865/39491.m3u8
-#EXTINF:-1,|FR| PIWI  (SD)
-http://siptv-online.com:8789/live/19865/19865/39515.m3u8
-#EXTINF:-1,|FR| NICKELODEON JUNIOR (SD)
-http://siptv-online.com:8789/live/19865/19865/39519.m3u8
-#EXTINF:-1,|FR| TIJI (SD)
-http://siptv-online.com:8789/live/19865/19865/39514.m3u8
-#EXTINF:-1,|FR| BOOMERANG (SD)
-http://siptv-online.com:8789/live/19865/19865/39510.m3u8
-#EXTINF:-1,|FR| CARTOON NETWORK (SD)
-http://siptv-online.com:8789/live/19865/19865/39508.m3u8
-#EXTINF:-1,|FR| NICKELODEON CHANNEL (SD)
-http://siptv-online.com:8789/live/19865/19865/39521.m3u8
-#EXTINF:-1,|FR| TELETOON  1 (SD)
-http://siptv-online.com:8789/live/19865/19865/39512.m3u8
-#EXTINF:-1,|FR| CANAL J (SD)
-http://siptv-online.com:8789/live/19865/19865/39518.m3u8
-#EXTINF:-1,|FR| BOING (SD)
-http://siptv-online.com:8789/live/19865/19865/39511.m3u8
-#EXTINF:-1,|FR| TOONAMI (SD)
-http://siptv-online.com:8789/live/19865/19865/39509.m3u8
-#EXTINF:-1,|FR| NICKELODEON 4 TEEN (SD)
-http://siptv-online.com:8789/live/19865/19865/39520.m3u8
-#EXTINF:-1,|FR| DISNEY CHANNEL (SD)
-http://siptv-online.com:8789/live/19865/19865/39525.m3u8
-#EXTINF:-1,|FR| MTV HITS (SD)
-http://siptv-online.com:8789/live/19865/19865/39485.m3u8
-#EXTINF:-1,|FR| M6 MUSIC (SD)
-http://siptv-online.com:8789/live/19865/19865/39481.m3u8
-#EXTINF:-1,|FR| NRJ HITS TV (SD)
-http://siptv-online.com:8789/live/19865/19865/39479.m3u8
-#EXTINF:-1,|FR| TRACE URBAN (SD)
-http://siptv-online.com:8789/live/19865/19865/39482.m3u8
-#EXTINF:-1,|FR| MELODY TV (SD)
-http://siptv-online.com:8789/live/19865/19865/39478.m3u8
-#EXTINF:-1,|FR| VIA GRAND PARIS (SD)
-http://siptv-online.com:8789/live/19865/19865/39452.m3u8
-#EXTINF:-1,|FR| TF1 FHD
-http://siptv-online.com:8789/live/19865/19865/13847.m3u8
-#EXTINF:-1,|FR| TF1 HD
-http://siptv-online.com:8789/live/19865/19865/13917.m3u8
-#EXTINF:-1,|FR| TF1 SD
-http://iptvpro.premium-itv.com:8789/iptvpro1/X7MWPkfyc7/39475
-#EXTINF:-1,|FR| FRANCE 2 FHD
-http://siptv-online.com:8789/live/19865/19865/13739.m3u8
-#EXTINF:-1,|FR| FRANCE 2 HD
-http://siptv-online.com:8789/live/19865/19865/13916.m3u8
-#EXTINF:-1,|FR| FRANCE 2 SD
-http://siptv-online.com:8789/live/19865/19865/1007.m3u8
-#EXTINF:-1,|FR| FRANCE 3 FHD
-http://siptv-online.com:8789/live/19865/19865/13738.m3u8
-#EXTINF:-1,|FR| FRANCE 3 HD
-http://siptv-online.com:8789/live/19865/19865/13915.m3u8
-#EXTINF:-1,|FR| FRANCE 3 SD
-http://siptv-online.com:8789/live/19865/19865/1008.m3u8
-#EXTINF:-1,|FR| FRANCE 4 FHD
-http://siptv-online.com:8789/live/19865/19865/13737.m3u8
-#EXTINF:-1,|FR| FRANCE 4 HD
-http://siptv-online.com:8789/live/19865/19865/13914.m3u8
-#EXTINF:-1,|FR| FRANCE 5 FHD
-http://siptv-online.com:8789/live/19865/19865/13736.m3u8
-#EXTINF:-1,|FR| FRANCE 5 HD
-http://group-l.world-tv.org:8888/live/younessg/7Gmm24E5Q7/1355.ts
-#EXTINF:-1,|FR| FRANCE O HD
-http://siptv-online.com:8789/live/19865/19865/13735.m3u8
-#EXTINF:-1,|FR| FRANCE O SD
-http://siptv-online.com:8789/live/19865/19865/1021.m3u8
-#EXTINF:-1,|FR| M6 FHD
-http://siptv-online.com:8789/live/19865/19865/13726.m3u8
-#EXTINF:-1,|FR| M6 HD
-http://siptv-online.com:8789/live/19865/19865/14003.m3u8
-#EXTINF:-1,|FR| PARIS PREMIERE FHD
-http://siptv-online.com:8789/live/19865/19865/13824.m3u8
-#EXTINF:-1,|FR| PARIS PREMIERE HD
-http://siptv-online.com:8789/live/19865/19865/13993.m3u8
-#EXTINF:-1,|FR| PARIS PREMIERE SD
-http://siptv-online.com:8789/live/19865/19865/1030.m3u8
-#EXTINF:-1,|FR| TMC FHD
-http://siptv-online.com:8789/live/19865/19865/13696.m3u8
-#EXTINF:-1,|FR| TMC HD
-http://siptv-online.com:8789/live/19865/19865/13979.m3u8
-#EXTINF:-1,|FR| TMC SD
-http://siptv-online.com:8789/live/19865/19865/1014.m3u8
-#EXTINF:-1,|FR| TV BREIZH HD
-http://siptv-online.com:8789/live/19865/19865/13693.m3u8
-#EXTINF:-1,|FR| TV BREIZH FHD
-http://siptv-online.com:8789/live/19865/19865/13975.m3u8
-#EXTINF:-1,|FR| TV BREIZH SD
-http://siptv-online.com:8789/live/19865/19865/1032.m3u8
-#EXTINF:-1,|FR| 6TER FHD
-http://siptv-online.com:8789/live/19865/19865/13793.m3u8
-#EXTINF:-1,|FR| 6TER HD
-http://siptv-online.com:8789/live/19865/19865/14046.m3u8
-#EXTINF:-1,|FR| ARTE FHD
-http://siptv-online.com:8789/live/19865/19865/13788.m3u8
-#EXTINF:-1,|FR| ARTE HD
-http://siptv-online.com:8789/live/19865/19865/14043.m3u8
-#EXTINF:-1,|FR| CANAL + FHD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/66
-#EXTINF:-1,|FR| CANAL+ HD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/67
-#EXTINF:-1,|FR| CANAL + DECALE FHD
-http://siptv-online.com:8789/live/19865/19865/13768.m3u8
-#EXTINF:-1,|FR| CANAL + DECALE HD
-http://siptv-online.com:8789/live/19865/19865/14035.m3u8
-#EXTINF:-1,|FR| CANAL + DECALE SD
-http://siptv-online.com:8789/live/19865/19865/28346.m3u8
-#EXTINF:-1,|FR| CANAL + FAMILY FHD
-http://siptv-online.com:8789/live/19865/19865/13767.m3u8
-#EXTINF:-1,|FR| CANAL + FAMILY SD
-http://siptv-online.com:8789/live/19865/19865/14033.m3u8
-#EXTINF:-1,|FR| CANAL + FAMILY HD
-http://siptv-online.com:8789/live/19865/19865/28348.m3u8
-#EXTINF:-1,|FR| CANAL + CINEMA FHD
-http://siptv-online.com:8789/live/19865/19865/13769.m3u8
-#EXTINF:-1,|FR| CANAL + CINEMA HD
-http://siptv-online.com:8789/live/19865/19865/28942.m3u8
-#EXTINF:-1,|FR| CANAL + CINEMA SD
-http://siptv-online.com:8789/live/19865/19865/28347.m3u8
-#EXTINF:-1,|FR| OCS MAX FHD
-http://siptv-online.com:8789/live/19865/19865/13825.m3u8
-#EXTINF:-1,|FR| OCS MAX HD
-http://siptv-online.com:8789/live/19865/19865/13996.m3u8
-#EXTINF:-1,|FR| OCS MAX SD
-http://siptv-online.com:8789/live/19865/19865/38198.m3u8
-#EXTINF:-1,|FR| OCS GEANTS FHD
-http://siptv-online.com:8789/live/19865/19865/13833.m3u8
-#EXTINF:-1,|FR| OCS GEANTS HD
-http://siptv-online.com:8789/live/19865/19865/13846.m3u8
-#EXTINF:-1,|FR| OCS GEANT SD
-http://siptv-online.com:8789/live/19865/19865/38199.m3u8
-#EXTINF:-1,|FR| OCS CITY FHD
-http://siptv-online.com:8789/live/19865/19865/13827.m3u8
-#EXTINF:-1,|FR| OCS CITY HD
-http://siptv-online.com:8789/live/19865/19865/13994.m3u8
-#EXTINF:-1,|FR| OCS CITY SD
-http://siptv-online.com:8789/live/19865/19865/38200.m3u8
-#EXTINF:-1,|FR| OCS CHOC FHD
-http://siptv-online.com:8789/live/19865/19865/13834.m3u8
-#EXTINF:-1,|FR| OCS CHOC HD
-http://siptv-online.com:8789/live/19865/19865/13995.m3u8
-#EXTINF:-1,|FR| OCS CHOC SD
-http://siptv-online.com:8789/live/19865/19865/38201.m3u8
-#EXTINF:-1,|FR| CINE+ PREMIER FHD
-http://siptv-online.com:8789/live/19865/19865/13759.m3u8
-#EXTINF:-1,|FR| CINE+ PREMIER HD
-http://siptv-online.com:8789/live/19865/19865/14021.m3u8
-#EXTINF:-1,|FR| CINE+ PREMIER SD
-http://siptv-online.com:8789/live/19865/19865/28332.m3u8
-#EXTINF:-1,|FR| CINE+ FRISSON FHD
-http://siptv-online.com:8789/live/19865/19865/13754.m3u8
-#EXTINF:-1,|FR| CINE+ FRISSON HD
-http://siptv-online.com:8789/live/19865/19865/14023.m3u8
-#EXTINF:-1,|FR| CINE+ FRISSON SD
-http://siptv-online.com:8789/live/19865/19865/28331.m3u8
-#EXTINF:-1,|FR| CINE+ FAMIZ FHD
-http://siptv-online.com:8789/live/19865/19865/13755.m3u8
-#EXTINF:-1,|FR| CINE+ FAMIZ HD
-http://siptv-online.com:8789/live/19865/19865/13941.m3u8
-#EXTINF:-1,|FR| CINE+ FAMIZ SD
-http://siptv-online.com:8789/live/19865/19865/28329.m3u8
-#EXTINF:-1,|FR| CINE+ EMOTION FHD
-http://siptv-online.com:8789/live/19865/19865/13756.m3u8
-#EXTINF:-1,|FR| CINE+ EMOTION HD
-http://siptv-online.com:8789/live/19865/19865/14024.m3u8
-#EXTINF:-1,|FR| CINE+ EMOTION SD
-http://siptv-online.com:8789/live/19865/19865/28330.m3u8
-#EXTINF:-1,|FR| ACTION FHD
-http://siptv-online.com:8789/live/19865/19865/13790.m3u8
-#EXTINF:-1,|FR| ACTION HD
-http://siptv-online.com:8789/live/19865/19865/14045.m3u8
-#EXTINF:-1,|FR| ACTION SD
-http://siptv-online.com:8789/live/19865/19865/28334.m3u8
-#EXTINF:-1,|FR| CINE+ CLUB FHD
-http://siptv-online.com:8789/live/19865/19865/13757.m3u8
-#EXTINF:-1,|FR| CINE+ CLUB HD
-http://siptv-online.com:8789/live/19865/19865/14025.m3u8
-#EXTINF:-1,|FR| CINE+ CLUB SD
-http://siptv-online.com:8789/live/19865/19865/28328.m3u8
-#EXTINF:-1,|FR| CINE POLAR FHD
-http://siptv-online.com:8789/live/19865/19865/13752.m3u8
-#EXTINF:-1,|FR| CINE+ POLAR HD
-http://siptv-online.com:8789/live/19865/19865/14027.m3u8
-#EXTINF:-1,|FR| WARNER TV FHD
-http://siptv-online.com:8789/live/19865/19865/13784.m3u8
-#EXTINF:-1,|FR| POLAR+  FHD
-http://siptv-online.com:8789/live/19865/19865/13763.m3u8
-#EXTINF:-1,|FR| POLAR+ HD
-http://siptv-online.com:8789/live/19865/19865/25041.m3u8
-#EXTINF:-1,|FR| TCM CINEMA FHD
-http://siptv-online.com:8789/live/19865/19865/13697.m3u8
-#EXTINF:-1,|FR| TCM CINEMA HD
-http://siptv-online.com:8789/live/19865/19865/13980.m3u8
-#EXTINF:-1,|FR| TCM CINEMA SD
-http://siptv-online.com:8789/live/19865/19865/28337.m3u8
-#EXTINF:-1,|FR| CINE+ CLASSIC FHD
-http://siptv-online.com:8789/live/19865/19865/13758.m3u8
-#EXTINF:-1,|FR| CINE+ CLASSIC HD
-http://siptv-online.com:8789/live/19865/19865/14026.m3u8
-#EXTINF:-1,|FR| CINE+ CLASSIC SD
-http://siptv-online.com:8789/live/19865/19865/28327.m3u8
-#EXTINF:-1,|FR| CINE+ FX FHD
-http://siptv-online.com:8789/live/19865/19865/13753.m3u8
-#EXTINF:-1,|FR| ALTICE STUDIO FHD
-http://siptv-online.com:8789/live/19865/19865/13787.m3u8
-#EXTINF:-1,|FR| ALTICE STUDIO HD
-http://siptv-online.com:8789/live/19865/19865/28413.m3u8
-#EXTINF:-1,|FR| PARAMOUNT CHANNEL FHD
-http://siptv-online.com:8789/live/19865/19865/13713.m3u8
-#EXTINF:-1,|FR| PARAMOUNT CHANNEL HD
-http://siptv-online.com:8789/live/19865/19865/13911.m3u8
-#EXTINF:-1,|FR| PARAMOUNT CHANNEL SD
-http://siptv-online.com:8789/live/19865/19865/28340.m3u8
-#EXTINF:-1,|FR| PARAMOUNT DECALE FHD
-http://siptv-online.com:8789/live/19865/19865/13829.m3u8
-#EXTINF:-1,|FR| PARAMOUNT DECALE HD
-http://siptv-online.com:8789/live/19865/19865/28339.m3u8
-#EXTINF:-1,|FR| CANALPLAY 1
-http://siptv-online.com:8789/live/19865/19865/13970.m3u8
-#EXTINF:-1,|FR| CANALPLAY 2
-http://siptv-online.com:8789/live/19865/19865/13962.m3u8
-#EXTINF:-1,|FR| CANALPLAY 3
-http://siptv-online.com:8789/live/19865/19865/13961.m3u8
-#EXTINF:-1,|FR| CANALPLAY 4
-http://siptv-online.com:8789/live/19865/19865/13960.m3u8
-#EXTINF:-1,|FR| CANALPLAY 5
-http://siptv-online.com:8789/live/19865/19865/13959.m3u8
-#EXTINF:-1,|FR| CANALPLAY 6
-http://siptv-online.com:8789/live/19865/19865/13958.m3u8
-#EXTINF:-1,|FR| CANALPLAY 9
-http://siptv-online.com:8789/live/19865/19865/13955.m3u8
-#EXTINF:-1,|FR| CANALPLAY 10
-http://siptv-online.com:8789/live/19865/19865/13969.m3u8
-#EXTINF:-1,|FR| CANALPLAY 12
-http://siptv-online.com:8789/live/19865/19865/13967.m3u8
-#EXTINF:-1,|FR| CANALPLAY 13
-http://siptv-online.com:8789/live/19865/19865/13966.m3u8
-#EXTINF:-1,|FR| CANALPLAY 14
-http://siptv-online.com:8789/live/19865/19865/13965.m3u8
-#EXTINF:-1,|FR| CANALPLAY 16
-http://siptv-online.com:8789/live/19865/19865/13963.m3u8
-#EXTINF:-1,|FR| ORANGE CINE
-http://siptv-online.com:8789/live/19865/19865/13926.m3u8
-#EXTINF:-1,|FR| ORANGE CINE 1
-http://siptv-online.com:8789/live/19865/19865/13925.m3u8
-#EXTINF:-1,|FR| ORANGE CINE 2
-http://siptv-online.com:8789/live/19865/19865/13924.m3u8
-#EXTINF:-1,|FR| ORANGE CINE 3
-http://siptv-online.com:8789/live/19865/19865/13923.m3u8
-#EXTINF:-1,|FR| ORANGE CINE 4
-http://siptv-online.com:8789/live/19865/19865/13922.m3u8
-#EXTINF:-1,|FR| ORANGE CINE 6
-http://siptv-online.com:8789/live/19865/19865/13920.m3u8
-#EXTINF:-1,|FR| ORANGE CINE 7
-http://siptv-online.com:8789/live/19865/19865/13919.m3u8
-#EXTINF:-1,|FR| ORANGE CINE 8
-http://siptv-online.com:8789/live/19865/19865/13918.m3u8
-#EXTINF:-1,|FR| ALACARTE 2
-http://siptv-online.com:8789/live/19865/19865/13947.m3u8
-#EXTINF:-1,|FR| ALACARTE 3
-http://siptv-online.com:8789/live/19865/19865/13946.m3u8
-#EXTINF:-1,|FR| ALACARTE 5
-http://siptv-online.com:8789/live/19865/19865/13954.m3u8
-#EXTINF:-1,|FR| ALACARTE 9
-http://siptv-online.com:8789/live/19865/19865/13950.m3u8
-#EXTINF:-1,|FR| RMC SPORT NEWS FHD
-http://siptv-online.com:8789/live/19865/19865/35031.m3u8
-#EXTINF:-1,|FR| RMC SPORT 1FHD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/40
-#EXTINF:-1,|FR| RMC SPORT 1HD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/62
-#EXTINF:-1,|FR| RMC SPORT 2FHD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/41
-#EXTINF:-1,|FR| RMC SPORT 2HD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/63
-#EXTINF:-1,|FR| RMC SPORT 3FHD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/42
-#EXTINF:-1,|FR| RMC SPORT 3HD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/42
-#EXTINF:-1,|FR| RMC SPORT 4FHD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/43
-#EXTINF:-1,|FR| RMC SPORT 4HD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/65
-#EXTINF:-1,|FR| RMC SPORT LIVE 5 FHD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/56
-#EXTINF:-1,|FR| RMC SPORT LIVE 6 FHD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/57
-#EXTINF:-1,|FR| RMC SPORT LIVE 7 FHD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/58
-#EXTINF:-1,|FR| RMC SPORT LIVE 8 FHD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/59
-#EXTINF:-1,|FR| RMC SPORT LIVE 9 FHD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/60
-#EXTINF:-1,|FR| RMC SPORT LIVE 10 FHD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/48
-#EXTINF:-1,|FR| RMC SPORT LIVE 11 FHD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/49
-#EXTINF:-1,|FR| RMC SPORT LIVE 12 FHD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/50
-#EXTINF:-1,|FR| RMC SPORT LIVE 14 FHD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/52
-#EXTINF:-1,|FR| RMC SPORT LIVE 15 FHD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/53
-#EXTINF:-1,|FR| BEINSPORTS 1 F.HD
-http://siptv-online.com:8789/live/19865/19865/14160.m3u8
-#EXTINF:-1,|FR| BEINSPORTS 1 HD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/71
-#EXTINF:-1,|FR| BEINSPORTS 2 F.HD
-http://siptv-online.com:8789/live/19865/19865/14159.m3u8
-#EXTINF:-1,|FR| BEINSPORTS 2 HD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/68
-#EXTINF:-1,|FR| BEINSPORTS 3 F.HD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/46
-#EXTINF:-1,|FR| BEINSPORTS 3 HD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/69
-#EXTINF:-1,|FR| BEINSPORT MAX 4
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/55
-#EXTINF:-1,|FR| BEINSPORT MAX 5
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/56
-#EXTINF:-1,|FR| BEINSPORT MAX 6
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/57
-#EXTINF:-1,|FR| BEINSPORT MAX 7
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/58
-#EXTINF:-1,|FR| BEINSPORT MAX 8
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/59
-#EXTINF:-1,|FR| BEINSPORT MAX 9
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/60
-#EXTINF:-1,|FR| CANAL+ SPORT F.HD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/47
-#EXTINF:-1,|FR| CANAL+ SPORT HD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/70
-#EXTINF:-1,|FR| FOOT+24 SD
-http://siptv-online.com:8789/live/19865/19865/425.m3u8
-#EXTINF:-1,|FR| BFM SPORT FHD
-http://siptv-online.com:8789/live/19865/19865/13843.m3u8
-#EXTINF:-1,|FR| INFOSPORT FHD
-http://siptv-online.com:8789/live/19865/19865/13729.m3u8
-#EXTINF:-1,|FR| LEQUIPE 21 FHD
-http://iptv4.premium-stv.com:8000/live/sourcesportfrpro2/rVCMxek9R6/1097.ts
-#EXTINF:-1,|FR| EQUIPE 21 SD
-http://siptv-online.com:8789/live/19865/19865/1023.m3u8
-#EXTINF:-1,|FR| MOTORSPORT HD
-http://siptv-online.com:8789/live/19865/19865/13782.m3u8
-#EXTINF:-1,|FR| MOTORSPORT FHD
-http://siptv-online.com:8789/live/19865/19865/13722.m3u8
-#EXTINF:-1,|FR| EUROSPORT 1 FHD
-http://siptv-online.com:8789/live/19865/19865/13742.m3u8
-#EXTINF:-1,|FR| EUROSPORT 2 FHD
-http://siptv-online.com:8789/live/19865/19865/13741.m3u8
-#EXTINF:-1,|FR| EUROSPORT2 HD
-http://siptv-online.com:8789/live/19865/19865/14010.m3u8
-#EXTINF:-1,|FR| l'equipe 21 HD
-http://iptv4.premium-stv.com:8000/live/sourcesportfrpro2/rVCMxek9R6/1097.ts
-#EXTINF:-1,|FR| EQUIDIA LIFE FHD
-http://siptv-online.com:8789/live/19865/19865/13744.m3u8
-#EXTINF:-1,|FR| FRANCE O
-http://siptv-online.com:8789/live/19865/19865/89.m3u8
-#EXTINF:-1,|FR| GOLF CHANNELS HD
-http://siptv-online.com:8789/live/19865/19865/13977.m3u8
-#EXTINF:-1,|FR| SERIE CLUB FHD
-http://siptv-online.com:8789/live/19865/19865/13830.m3u8
-#EXTINF:-1,|FR| SERIE CLUB HD
-http://siptv-online.com:8789/live/19865/19865/13986.m3u8
-#EXTINF:-1,|FR| CANAL+ SERIES FHD
-http://siptv-online.com:8789/live/19865/19865/13766.m3u8
-#EXTINF:-1,|FR| CANAL + SERIES HD
-http://siptv-online.com:8789/live/19865/19865/28944.m3u8
-#EXTINF:-1,|FR| 13EME RUE HD
-http://siptv-online.com:8789/live/19865/19865/14048.m3u8
-#EXTINF:-1,|FR| SYFY HD
-http://siptv-online.com:8789/live/19865/19865/13981.m3u8
-#EXTINF:-1,|FR| SYFY FHD
-http://siptv-online.com:8789/live/19865/19865/13698.m3u8
-#EXTINF:-1,|FR| SUNDANCE TV FHD
-http://siptv-online.com:8789/live/19865/19865/13733.m3u8
-#EXTINF:-1,|FR| TEVA HD
-http://siptv-online.com:8789/live/19865/19865/35331.m3u8
-#EXTINF:-1,|FR| TEVA FHD
-http://siptv-online.com:8789/live/19865/19865/25039.m3u8
-#EXTINF:-1,|FR| TEVA SD
-http://siptv-online.com:8789/live/19865/19865/1031.m3u8
-#EXTINF:-1,|FR| COMEDIE+ FHD
-http://siptv-online.com:8789/live/19865/19865/13751.m3u8
-#EXTINF:-1,|FR| COMEDIE  HD
-http://siptv-online.com:8789/live/19865/19865/14019.m3u8
-#EXTINF:-1,|FR| MY CUISINE HD
-http://siptv-online.com:8789/live/19865/19865/13781.m3u8
-#EXTINF:-1,|FR| E! ENTERTAINMENT FHD
-http://siptv-online.com:8789/live/19865/19865/13746.m3u8
-#EXTINF:-1,|FR| E! ENTERTAINEMENT HD
-http://siptv-online.com:8789/live/19865/19865/14015.m3u8
-#EXTINF:-1,|FR| NRJ12 FHD
-http://siptv-online.com:8789/live/19865/19865/13717.m3u8
-#EXTINF:-1,|FR| NRJ12 HD
-http://siptv-online.com:8789/live/19865/19865/14047.m3u8
-#EXTINF:-1,|FR| ELLE GIRL HD
-http://siptv-online.com:8789/live/19865/19865/14014.m3u8
-#EXTINF:-1,|FR| BET FHD
-http://siptv-online.com:8789/live/19865/19865/13841.m3u8
-#EXTINF:-1,|FR| VICELAND FHD
-http://siptv-online.com:8789/live/19865/19865/13772.m3u8
-#EXTINF:-1,|FR| TV 5 MONDE FHD
-http://siptv-online.com:8789/live/19865/19865/25042.m3u8
-#EXTINF:-1,|FR| TV 5 monde
-http://siptv-online.com:8789/live/19865/19865/1033.m3u8
-#EXTINF:-1,|FR| CHERIE 25 FHD
-http://siptv-online.com:8789/live/19865/19865/13760.m3u8
-#EXTINF:-1,|FR| CHERIE 25 HD
-http://siptv-online.com:8789/live/19865/19865/14028.m3u8
-#EXTINF:-1,|FR| CHERIE 25 SD
-http://siptv-online.com:8789/live/19865/19865/1027.m3u8
-#EXTINF:-1,|FR| TF1 +1 fhd
-http://siptv-online.com:8789/live/19865/19865/13732.m3u8
-#EXTINF:-1,|FR| C8 FHD
-http://siptv-online.com:8789/live/19865/19865/13823.m3u8
-#EXTINF:-1,|FR| C8 HD
-http://siptv-online.com:8789/live/19865/19865/14036.m3u8
-#EXTINF:-1,|FR| CSTAR FHD
-http://siptv-online.com:8789/live/19865/19865/13749.m3u8
-#EXTINF:-1,|FR| DIRECT8
-http://siptv-online.com:8789/live/19865/19865/1091.m3u8
-#EXTINF:-1,|FR| CSTAR HD
-http://siptv-online.com:8789/live/19865/19865/13940.m3u8
-#EXTINF:-1,|FR| WEO FHD
-http://siptv-online.com:8789/live/19865/19865/13795.m3u8
-#EXTINF:-1,|FR| TV8 MONT BLANC FHD
-http://siptv-online.com:8789/live/19865/19865/13796.m3u8
-#EXTINF:-1,|FR| RTL9 HD
-http://siptv-online.com:8789/live/19865/19865/13989.m3u8
-#EXTINF:-1,|FR| RMC STORY FHD
-http://siptv-online.com:8789/live/19865/19865/13715.m3u8
-#EXTINF:-1,|FR| RMC STORY HD
-http://siptv-online.com:8789/live/19865/19865/13997.m3u8
-#EXTINF:-1,|FR| RMC STORY   SD
-http://siptv-online.com:8789/live/19865/19865/1025.m3u8
-#EXTINF:-1,|FR| TFX FHD
-http://siptv-online.com:8789/live/19865/19865/13716.m3u8
-#EXTINF:-1,|FR| TFX HD
-http://siptv-online.com:8789/live/19865/19865/13998.m3u8
-#EXTINF:-1,|FR| TFX SD
-http://siptv-online.com:8789/live/19865/19865/1015.m3u8
-#EXTINF:-1,|FR| W9 FHD
-http://siptv-online.com:8789/live/19865/19865/13690.m3u8
-#EXTINF:-1,|FR| W9
-http://iptv4.premium-stv.com:8000/live/sourcesportfrpro2/rVCMxek9R6/1184.ts
-#EXTINF:-1,|FR| DISNEY CHANNEL FHD
-http://siptv-online.com:8789/live/19865/19865/13861.m3u8
-#EXTINF:-1,|FR| DISNEY CHANNEL  HD
-http://siptv-online.com:8789/live/19865/19865/24948.m3u8
-#EXTINF:-1,|FR| DISNEY CHANNEL SD
-http://siptv-online.com:8789/live/19865/19865/1040.m3u8
-#EXTINF:-1,|FR| DISNEY CHA +1 FHD
-http://siptv-online.com:8789/live/19865/19865/13849.m3u8
-#EXTINF:-1,|FR| DISNEY XD FHD
-http://siptv-online.com:8789/live/19865/19865/13862.m3u8
-#EXTINF:-1,|FR| DISNEY XD HD
-http://siptv-online.com:8789/live/19865/19865/24942.m3u8
-#EXTINF:-1,|FR| DISNEY JUNIOR HD
-http://siptv-online.com:8789/live/19865/19865/24934.m3u8
-#EXTINF:-1,|FR| DISNEY CINEMA FHD
-http://siptv-online.com:8789/live/19865/19865/13860.m3u8
-#EXTINF:-1,|FR| DISNEY CINEMA HD
-http://siptv-online.com:8789/live/19865/19865/24940.m3u8
-#EXTINF:-1,|FR| NICKELODEON HD
-http://siptv-online.com:8789/live/19865/19865/14037.m3u8
-#EXTINF:-1,|FR| NICKELODEON+1 FHD
-http://siptv-online.com:8789/live/19865/19865/13854.m3u8
-#EXTINF:-1,|FR| NICKELODEON JUN FHD
-http://siptv-online.com:8789/live/19865/19865/13851.m3u8
-#EXTINF:-1,|FR| NICKELODEON JUNIOR HD
-http://siptv-online.com:8789/live/19865/19865/24935.m3u8
-#EXTINF:-1,|FR| NICKELODEON JUN SD
-http://siptv-online.com:8789/live/19865/19865/28344.m3u8
-#EXTINF:-1,|FR| NICKELODEON 4 TEEN FHD
-http://siptv-online.com:8789/live/19865/19865/24957.m3u8
-#EXTINF:-1,|FR| TOONAMI FHD
-http://siptv-online.com:8789/live/19865/19865/13850.m3u8
-#EXTINF:-1,|FR|TOONAMI HD
-http://siptv-online.com:8789/live/19865/19865/24956.m3u8
-#EXTINF:-1,|FR| TELETOON+1  FHD
-http://siptv-online.com:8789/live/19865/19865/13855.m3u8
-#EXTINF:-1,|FR| TELETOON+1
-http://siptv-online.com:8789/live/19865/19865/24958.m3u8
-#EXTINF:-1,|FR| JIM JAM
-http://siptv-online.com:8789/live/19865/19865/13869.m3u8
-#EXTINF:-1,|FR| PIWI+ FHD
-http://siptv-online.com:8789/live/19865/19865/13867.m3u8
-#EXTINF:-1,|FR| CANAL J FHD
-http://siptv-online.com:8789/live/19865/19865/13764.m3u8
-#EXTINF:-1,|FR| Canal J HD
-http://siptv-online.com:8789/live/19865/19865/24941.m3u8
-#EXTINF:-1,|FR| TIJI FHD
-http://siptv-online.com:8789/live/19865/19865/13868.m3u8
-#EXTINF:-1,|FR| TIJI HD
-http://siptv-online.com:8789/live/19865/19865/24949.m3u8
-#EXTINF:-1,|FR| BOOMERANG FHD
-http://siptv-online.com:8789/live/19865/19865/13858.m3u8
-#EXTINF:-1,|FR| BOOMERANG HD
-http://siptv-online.com:8789/live/19865/19865/24954.m3u8
-#EXTINF:-1,|FR| BOING FHD
-http://siptv-online.com:8789/live/19865/19865/13859.m3u8
-#EXTINF:-1,|FR| BOING HD
-http://siptv-online.com:8789/live/19865/19865/24945.m3u8
-#EXTINF:-1,|FR| CARTOON NETWORK FHD
-http://siptv-online.com:8789/live/19865/19865/13761.m3u8
-#EXTINF:-1,|FR| CARTOON NETWORK HD
-http://siptv-online.com:8789/live/19865/19865/24933.m3u8
-#EXTINF:-1,|FR| GAME ONE FHD
-http://siptv-online.com:8789/live/19865/19865/13856.m3u8
-#EXTINF:-1,|FR| GAME ONE HD
-http://siptv-online.com:8789/live/19865/19865/24952.m3u8
-#EXTINF:-1,|FR| GAME ONE +1 FHD
-http://siptv-online.com:8789/live/19865/19865/13857.m3u8
-#EXTINF:-1,|FR| J ONE FHD
-http://siptv-online.com:8789/live/19865/19865/13852.m3u8
-#EXTINF:-1,|FR| GULLI FHD
-http://siptv-online.com:8789/live/19865/19865/13864.m3u8
-#EXTINF:-1,|FR| GONG
-http://siptv-online.com:8789/live/19865/19865/13853.m3u8
-#EXTINF:-1,|FR| MANGAS FHD
-http://siptv-online.com:8789/live/19865/19865/13865.m3u8
-#EXTINF:-1,|FR| MANGAS HD
-http://siptv-online.com:8789/live/19865/19865/24932.m3u8
-#EXTINF:-1,|FR| MASHA ET MICHKA
-http://siptv-online.com:8789/live/19865/19865/7185.m3u8
-#EXTINF:-1,|FR| PLANETE+ FHD
-http://siptv-online.com:8789/live/19865/19865/13712.m3u8
-#EXTINF:-1,|FR| PLANETE+  HD
-http://siptv-online.com:8789/live/19865/19865/13991.m3u8
-#EXTINF:-1,|FR| PLANETE+ CI FHD
-http://siptv-online.com:8789/live/19865/19865/13710.m3u8
-#EXTINF:-1,|FR| PLANETE+  CI HD
-http://siptv-online.com:8789/live/19865/19865/13992.m3u8
-#EXTINF:-1,|FR| PLANETE+ A&E FHD
-http://siptv-online.com:8789/live/19865/19865/13711.m3u8
-#EXTINF:-1,|FR| PLANETE+  A&E HD
-http://siptv-online.com:8789/live/19865/19865/13971.m3u8
-#EXTINF:-1,|FR| DISCOVERY FHD
-http://siptv-online.com:8789/live/19865/19865/13748.m3u8
-#EXTINF:-1,|FR| DISCOVERY HD
-http://siptv-online.com:8789/live/19865/19865/14017.m3u8
-#EXTINF:-1,|FR| DISCOVERY SCIENCE FHD
-http://siptv-online.com:8789/live/19865/19865/13747.m3u8
-#EXTINF:-1,|FR| DISCOVERY SCIENCE HD
-http://siptv-online.com:8789/live/19865/19865/14016.m3u8
-#EXTINF:-1,|FR| DISCOVERY INVESTIGATION FHD
-http://siptv-online.com:8789/live/19865/19865/13836.m3u8
-#EXTINF:-1,|FR| DISCOVERY INVESTIGATION HD
-http://siptv-online.com:8789/live/19865/19865/13828.m3u8
-#EXTINF:-1,|FR| DISCOVERY FAMILY FHD
-http://siptv-online.com:8789/live/19865/19865/13811.m3u8
-#EXTINF:-1,|FR| DISCOVERY FAMILY HD
-http://siptv-online.com:8789/live/19865/19865/25047.m3u8
-#EXTINF:-1,|FR| NATIONAL GEO WILD FHD
-http://siptv-online.com:8789/live/19865/19865/13719.m3u8
-#EXTINF:-1,|FR| NATIONAL GEO WILD HD
-http://siptv-online.com:8789/live/19865/19865/14000.m3u8
-#EXTINF:-1,|FR| NATIONAL GEO FHD
-http://siptv-online.com:8789/live/19865/19865/13718.m3u8
-#EXTINF:-1,|FR| NATIONAL GEO HD
-http://siptv-online.com:8789/live/19865/19865/13999.m3u8
-#EXTINF:-1,|FR| SCIENCES & VIE HD
-http://siptv-online.com:8789/live/19865/19865/13987.m3u8
-#EXTINF:-1,|FR| SCIENCES & VIE FHD
-http://siptv-online.com:8789/live/19865/19865/13704.m3u8
-#EXTINF:-1,|FR| ANIMAUX FHD
-http://siptv-online.com:8789/live/19865/19865/13789.m3u8
-#EXTINF:-1,|FR| ANIMAUX HD
-http://siptv-online.com:8789/live/19865/19865/14044.m3u8
-#EXTINF:-1,|FR| USHUAIA HD
-http://siptv-online.com:8789/live/19865/19865/13974.m3u8
-#EXTINF:-1,|FR| ULTRA NATURE
-http://siptv-online.com:8789/live/19865/19865/25049.m3u8
-#EXTINF:-1,|FR| RMC DECOUVERTE FHD
-http://siptv-online.com:8789/live/19865/19865/13708.m3u8
-#EXTINF:-1,|FR| RMC DECOUVERTE HD
-http://siptv-online.com:8789/live/19865/19865/13990.m3u8
-#EXTINF:-1,|FR| RMC STORY SD
-http://siptv-online.com:8789/live/19865/19865/1026.m3u8
-#EXTINF:-1,|FR| VOYAGE HD
-http://siptv-online.com:8789/live/19865/19865/13972.m3u8
-#EXTINF:-1,|FR| TREK FHD
-http://siptv-online.com:8789/live/19865/19865/13694.m3u8
-#EXTINF:-1,|FR| CHASSE&PECHE FHD
-http://siptv-online.com:8789/live/19865/19865/13837.m3u8
-#EXTINF:-1,|FR| CHASSE & PECHE HD
-http://siptv-online.com:8789/live/19865/19865/14029.m3u8
-#EXTINF:-1,|FR| SEASON FHD
-http://siptv-online.com:8789/live/19865/19865/13703.m3u8
-#EXTINF:-1,|FR| SEASON HD
-http://siptv-online.com:8789/live/19865/19865/13988.m3u8
-#EXTINF:-1,|FR| CRIME DISTRICT FHD
-http://siptv-online.com:8789/live/19865/19865/13750.m3u8
-#EXTINF:-1,|FR| CRIME DISTRICT HD
-http://siptv-online.com:8789/live/19865/19865/14018.m3u8
-#EXTINF:-1,|FR| LA CHAINE METEO FHD
-http://siptv-online.com:8789/live/19865/19865/13783.m3u8
-#EXTINF:-1,|FR| EURONEWS FHD
-http://siptv-online.com:8789/live/19865/19865/13835.m3u8
-#EXTINF:-1,|FR| EURONEWS
-http://siptv-online.com:8789/live/19865/19865/13938.m3u8
-#EXTINF:-1,|FR| FRANCE 24 HD
-http://siptv-online.com:8789/live/19865/19865/162.m3u8
-#EXTINF:-1,|FR| BFM TV HD
-http://siptv-online.com:8789/live/19865/19865/14039.m3u8
-#EXTINF:-1,|FR| BFM TV SD
-http://siptv-online.com:8789/live/19865/19865/424.m3u8
-#EXTINF:-1,|FR| BFM BUISINESS
-http://siptv-online.com:8789/live/19865/19865/1045.m3u8
-#EXTINF:-1,|FR| LCI FHD
-http://siptv-online.com:8789/live/19865/19865/13727.m3u8
-#EXTINF:-1,|FR| CNEWS HD
-http://siptv-online.com:8789/live/19865/19865/14020.m3u8
-#EXTINF:-1,|FR| CNEWS SD
-http://siptv-online.com:8789/live/19865/19865/1017.m3u8
-#EXTINF:-1,|FR| FRANCE INFO HD
-http://siptv-online.com:8789/live/19865/19865/13935.m3u8
-#EXTINF:-1,|FR| FRANCE INFO SD
-http://siptv-online.com:8789/live/19865/19865/1917.m3u8
-#EXTINF:-1,|FR| TV5 MONDE FHD
-http://siptv-online.com:8789/live/19865/19865/25051.m3u8
-#EXTINF:-1,|FR| TV5 MONDE HD
-http://siptv-online.com:8789/live/19865/19865/25052.m3u8
-#EXTINF:-1,|FR| I24 NEWS FHD
-http://siptv-online.com:8789/live/19865/19865/13730.m3u8
-#EXTINF:-1,|FR| i24 NEWS
-http://siptv-online.com:8789/live/19865/19865/1050.m3u8
-#EXTINF:-1,|FR| M6 MUSIC FHD
-http://siptv-online.com:8789/live/19865/19865/13826.m3u8
-#EXTINF:-1,|FR| TRACE URBAIN HD
-http://siptv-online.com:8789/live/19865/19865/13844.m3u8
-#EXTINF:-1,|FR| TRACE URBAIN HD
-http://siptv-online.com:8789/live/19865/19865/13978.m3u8
-#EXTINF:-1,|FR| TRACE AFRICA FHD
-http://siptv-online.com:8789/live/19865/19865/13720.m3u8
-#EXTINF:-1,|FR| MTV LIVE
-http://siptv-online.com:8789/live/19865/19865/25054.m3u8
-#EXTINF:-1,|FR| BET
-http://siptv-online.com:8789/live/19865/19865/25057.m3u8
-#EXTINF:-1,|FR| TRACE TOCA FHD
-http://siptv-online.com:8789/live/19865/19865/25056.m3u8
-#EXTINF:-1,|FR| MTV MUSIC LIVE
-http://siptv-online.com:8789/live/19865/19865/13721.m3u8
-#EXTINF:-1,|FR| MTV MUSIC LIVE
-http://siptv-online.com:8789/live/19865/19865/13930.m3u8
-#EXTINF:-1,|FR| MTV FHD
-http://siptv-online.com:8789/live/19865/19865/13932.m3u8
-#EXTINF:-1,|FR| MTV HD
-http://siptv-online.com:8789/live/19865/19865/14009.m3u8
-#EXTINF:-1,|FR| MCM FHD
-http://siptv-online.com:8789/live/19865/19865/13725.m3u8
-#EXTINF:-1,|FR| MCM HD
-http://siptv-online.com:8789/live/19865/19865/14002.m3u8
-#EXTINF:-1,|FR| MCM TOP FHD
-http://siptv-online.com:8789/live/19865/19865/13724.m3u8
-#EXTINF:-1,|FR| RFM TV FHD
-http://siptv-online.com:8789/live/19865/19865/13709.m3u8
-#EXTINF:-1,|FR| RFM HD
-http://siptv-online.com:8789/live/19865/19865/24960.m3u8
-#EXTINF:-1,|FR| NRJ HITS
-http://siptv-online.com:8789/live/19865/19865/13927.m3u8
-#EXTINF:-1,|FR| MEZZO LIVE FHD
-http://siptv-online.com:8789/live/19865/19865/13723.m3u8
-#EXTINF:-1,|FR| MELODY TV FHD
-http://siptv-online.com:8789/live/19865/19865/13808.m3u8
-#EXTINF:-1,|FR| BRAVA FHD
-http://siptv-online.com:8789/live/19865/19865/14038.m3u8
-#EXTINF:-1,|BE| LA UNE HD
-http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/938.ts
-#EXTINF:-1,|BE|  LA UNE
-http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/936.ts
-#EXTINF:-1,|BE| LA DEUX
-http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/936.ts
-#EXTINF:-1,|BE| LA TROIS
-http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/937.ts
-#EXTINF:-1,|BE| CLUB RTL
-http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/931.ts
-#EXTINF:-1,|BE| PLUG RTL
-http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/940.ts
-#EXTINF:-1,|BE| RTL TVi FHD
-http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/941.ts
-#EXTINF:-1,|BE| RTL TVi HD
-http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/941.ts
-#EXTINF:-1,|BE| AB1 HD
-http://siptv-online.com:8789/live/19865/19865/14143.m3u8
-#EXTINF:-1,|BE| AB3 HD
-http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/928.ts
-#EXTINF:-1,|BE| AB3 FHD
-http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/928.ts
-#EXTINF:-1,|BE| 2BE FHD
-http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/927.ts
-#EXTINF:-1,|BE| PROXIMUS 11 FHD
-http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/194.ts
-#EXTINF:-1,|BE| VOO SPORT WORLD 1 FHD
-http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/188.ts
-#EXTINF:-1,|BE| VOO SPORT WORLD 2
-http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/189.ts
-#EXTINF:-1,|BE| ELEVEN SPORT 1 HD
-http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/191.ts
-#EXTINF:-1,|BE| ELEVEN SPORT 2 HD
-http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/192.ts
-#EXTINF:-1,|BE| EEN HD
-http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/932.ts
-#EXTINF:-1,|BE| VIER HD
-http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/943.ts
-#EXTINF:-1,|BE| VIJF
-http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/944.ts
-#EXTINF:-1,|BE|  VITAYA  HD
-http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/945.ts
-#EXTINF:-1,|BE| CANVAS HD
-http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/930.ts
-#EXTINF:-1,|BE| 192 TV
-http://siptv-online.com:8789/live/19865/19865/14124.m3u8
-#EXTINF:-1,|BE| KETNET
-http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/934.ts
-#EXTINF:-1,|BE| VTM HD
-http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/946.ts
-#EXTINF:-1,|BE| VTM KAZOOM HD
-http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/947.ts
-#EXTINF:-1,|BE| ACHT TV
-http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/929.ts
-#EXTINF:-1,|BE| KADET
-http://iptv4.premium-stv.com:8000/live/sourcebelgiue.pro2/Cxlx9B999Q/933.ts
-#EXTINF:-1,|CH| RTS UN HD
-http://siptv-online.com:8789/live/19865/19865/13705.m3u8
-#EXTINF:-1,|CH| RTS DEUX HD
-http://siptv-online.com:8789/live/19865/19865/13706.m3u8
-#EXTINF:-1,|CH| RSI LA 1 HD
-http://siptv-online.com:8789/live/19865/19865/29567.m3u8
-#EXTINF:-1,|CH| RSI LA 2 HD
-http://siptv-online.com:8789/live/19865/19865/29568.m3u8
-#EXTINF:-1,|CH| CARTOON NETWORK
-http://siptv-online.com:8789/live/19865/19865/21772.m3u8
-#EXTINF:-1,|CH|  TELECLUB CINEMA HD
-http://iptv4.premium-stv.com:8000/live/SOURCESWISSPRO2/Eg2gYrKhZA/1544.ts
-#EXTINF:-1,|CH|  TELECLUB ACTION
-http://iptv4.premium-stv.com:8000/live/SOURCESWISSPRO2/Eg2gYrKhZA/1541.ts
-#EXTINF:-1,|CH| TELECLUB SPORT 1 FHD
-http://iptv4.premium-stv.com:8000/live/SOURCESWISSPRO2/Eg2gYrKhZA/1539.ts
-#EXTINF:-1,|CH| TELECLUB SPORT 2 FHD
-http://iptv4.premium-stv.com:8000/live/SOURCESWISSPRO2/Eg2gYrKhZA/1540.ts
-#EXTINF:-1,|CH| TELE M1
-http://iptv4.premium-stv.com:8000/live/SOURCESWISSPRO2/Eg2gYrKhZA/1576.ts
-#EXTINF:-1,|CH|  TELEBASEL
-http://iptv4.premium-stv.com:8000/live/SOURCESWISSPRO2/Eg2gYrKhZA/1542.ts
-#EXTINF:-1,|CH| TELE ZURICH
-http://iptv4.premium-stv.com:8000/live/SOURCESWISSPRO2/Eg2gYrKhZA/1533.ts
-#EXTINF:-1,|CH| SRF 1
-http://iptv4.premium-stv.com:8000/live/SOURCESWISSPRO2/Eg2gYrKhZA/1523.ts
-#EXTINF:-1,|CH| SRF ZWEI FHD
-http://iptv4.premium-stv.com:8000/live/SOURCESWISSPRO2/Eg2gYrKhZA/1526.ts
-#EXTINF:-1,|CH| SRF INFO
-http://iptv4.premium-stv.com:8000/live/SOURCESWISSPRO2/Eg2gYrKhZA/1524.ts
+#EXTINF:-1,FR: TF1 HD
+http://185.30.166.142:8000/live/yeliz/180918/1158.m3u8
+#EXTINF:-1,FR: TF1+1
+http://185.30.166.142:8000/live/yeliz/180918/208894.m3u8
+#EXTINF:-1,FR: M6 HD
+http://185.30.166.142:8000/live/yeliz/180918/1159.m3u8
+#EXTINF:-1,FR: M6 HD 1080
+http://185.30.166.142:8000/live/yeliz/180918/29962.m3u8
+#EXTINF:-1,FR: TF1 FHD 1080
+http://185.30.166.142:8000/live/yeliz/180918/29961.m3u8
+#EXTINF:-1,FR: FRANCE 2 HD
+http://185.30.166.142:8000/live/yeliz/180918/1941.m3u8
+#EXTINF:-1,FR: FRANCE 2 FHD 1080
+http://185.30.166.142:8000/live/yeliz/180918/29960.m3u8
+#EXTINF:-1,FR: FRANCE 3 HD
+http://185.30.166.142:8000/live/yeliz/180918/1942.m3u8
+#EXTINF:-1,FR: FRANCE 3 FHD 1080
+http://185.30.166.142:8000/live/yeliz/180918/50900.m3u8
+#EXTINF:-1,FR: FRANCE 4 HD
+http://185.30.166.142:8000/live/yeliz/180918/343.m3u8
+#EXTINF:-1,FR: FRANCE 4 FHD 1080
+http://185.30.166.142:8000/live/yeliz/180918/50901.m3u8
+#EXTINF:-1,FR: FRANCE 5 HD
+http://185.30.166.142:8000/live/yeliz/180918/1943.m3u8
+#EXTINF:-1,FR: FRANCE 5 FHD 1080
+http://185.30.166.142:8000/live/yeliz/180918/29959.m3u8
+#EXTINF:-1,FR: FRANCE O  HD
+http://185.30.166.142:8000/live/yeliz/180918/197278.m3u8
+#EXTINF:-1,FR: FRANCE O SD
+http://185.30.166.142:8000/live/yeliz/180918/1944.m3u8
+#EXTINF:-1,FR: ARTE HD
+http://185.30.166.142:8000/live/yeliz/180918/1496.m3u8
+#EXTINF:-1,FR: ARTE HD 1080
+http://185.30.166.142:8000/live/yeliz/180918/134232.m3u8
+#EXTINF:-1,FR: TMC HD
+http://185.30.166.142:8000/live/yeliz/180918/1946.m3u8
+#EXTINF:-1,FR: TMC HD 1080
+http://185.30.166.142:8000/live/yeliz/180918/29955.m3u8
+#EXTINF:-1,FR: TMC+1 HD
+http://185.30.166.142:8000/live/yeliz/180918/137937.m3u8
+#EXTINF:-1,FR: TF1 SERIES FILMS HD
+http://185.30.166.142:8000/live/yeliz/180918/359.m3u8
+#EXTINF:-1,FR: TF1 SERIES FILMS HD 1080
+http://185.30.166.142:8000/live/yeliz/180918/29957.m3u8
+#EXTINF:-1,FR: C8 HD
+http://185.30.166.142:8000/live/yeliz/180918/1931.m3u8
+#EXTINF:-1,FR: C8 HD 1080
+http://185.30.166.142:8000/live/yeliz/180918/134234.m3u8
+#EXTINF:-1,FR: 6TER HD
+http://185.30.166.142:8000/live/yeliz/180918/366.m3u8
+#EXTINF:-1,FR: 6TER HD 1080
+http://185.30.166.142:8000/live/yeliz/180918/29954.m3u8
+#EXTINF:-1,FR: W9 HD
+http://185.30.166.142:8000/live/yeliz/180918/1947.m3u8
+#EXTINF:-1,FR: TFX HD
+http://185.30.166.142:8000/live/yeliz/180918/1949.m3u8
+#EXTINF:-1,FR: TFX 1080
+http://185.30.166.142:8000/live/yeliz/180918/29956.m3u8
+#EXTINF:-1,FR: CSTAR HD
+http://185.30.166.142:8000/live/yeliz/180918/1950.m3u8
+#EXTINF:-1,FR: CSTAR HD 1080
+http://185.30.166.142:8000/live/yeliz/180918/134233.m3u8
+#EXTINF:-1,FR: 13EME RUE HD
+http://185.30.166.142:8000/live/yeliz/180918/1236.m3u8
+#EXTINF:-1,FR: SYFY HD
+http://185.30.166.142:8000/live/yeliz/180918/1238.m3u8
+#EXTINF:-1,FR: TEVA
+http://185.30.166.142:8000/live/yeliz/180918/2545.m3u8
+#EXTINF:-1,FR: TV BREIZH HD
+http://185.30.166.142:8000/live/yeliz/180918/3805.m3u8
+#EXTINF:-1,FR: COMEDIE+
+http://185.30.166.142:8000/live/yeliz/180918/3813.m3u8
+#EXTINF:-1,FR: SERIE CLUB
+http://185.30.166.142:8000/live/yeliz/180918/3803.m3u8
+#EXTINF:-1,FR: PARIS PREMIERE
+http://185.30.166.142:8000/live/yeliz/180918/2546.m3u8
+#EXTINF:-1,FR: PARAMOUNT CHANNEL
+http://185.30.166.142:8000/live/yeliz/180918/3807.m3u8
+#EXTINF:-1,FR: COMEDY CENTRAL  HD
+http://185.30.166.142:8000/live/yeliz/180918/165280.m3u8
+#EXTINF:-1,FR: E!
+http://185.30.166.142:8000/live/yeliz/180918/3999.m3u8
+#EXTINF:-1,FR: ACTION HD
+http://185.30.166.142:8000/live/yeliz/180918/2541.m3u8
+#EXTINF:-1,FR: CHERIE 25 HD
+http://185.30.166.142:8000/live/yeliz/180918/1951.m3u8
+#EXTINF:-1,FR: CHERIE 25 HD 1080
+http://185.30.166.142:8000/live/yeliz/180918/134235.m3u8
+#EXTINF:-1,FR: RMC STORY HD
+http://185.30.166.142:8000/live/yeliz/180918/1948.m3u8
+#EXTINF:-1,FR: RMC STORY HD 1080
+http://185.30.166.142:8000/live/yeliz/180918/134236.m3u8
+#EXTINF:-1,FR: NRJ 12 HD
+http://185.30.166.142:8000/live/yeliz/180918/1497.m3u8
+#EXTINF:-1,FR: NRJ 12 HD 1080
+http://185.30.166.142:8000/live/yeliz/180918/29953.m3u8
+#EXTINF:-1,FR: RTL 9 HD
+http://185.30.166.142:8000/live/yeliz/180918/2542.m3u8
+#EXTINF:-1,FR: BET
+http://185.30.166.142:8000/live/yeliz/180918/8652.m3u8
+#EXTINF:-1,FR: TV 5 MONDE HD
+http://185.30.166.142:8000/live/yeliz/180918/8559.m3u8
+#EXTINF:-1,FR: VOSGES TV
+http://185.30.166.142:8000/live/yeliz/180918/73807.m3u8
+#EXTINF:-1,FR: ABXPLORE HD
+http://185.30.166.142:8000/live/yeliz/180918/205450.m3u8
+#EXTINF:-1,FR: AB1 HD
+http://185.30.166.142:8000/live/yeliz/180918/7443.m3u8
+#EXTINF:-1,FR: AB 3 HD
+http://185.30.166.142:8000/live/yeliz/180918/197281.m3u8
+#EXTINF:-1,FR: A+
+http://185.30.166.142:8000/live/yeliz/180918/123034.m3u8
+#EXTINF:-1,FR: ALTICE STUDIO
+http://185.30.166.142:8000/live/yeliz/180918/128406.m3u8
+#EXTINF:-1,FR: Warner tv
+http://185.30.166.142:8000/live/yeliz/180918/130875.m3u8
+#EXTINF:-1,FR: CLIQUE TV HD
+http://185.30.166.142:8000/live/yeliz/180918/198419.m3u8
+#EXTINF:-1,FR: DISNEY CHANNEL HD
+http://185.30.166.142:8000/live/yeliz/180918/1891.m3u8
+#EXTINF:-1,FR: DISNEY CHANNEL 1 HD
+http://185.30.166.142:8000/live/yeliz/180918/1952.m3u8
+#EXTINF:-1,FR: DISNEY XD HD
+http://185.30.166.142:8000/live/yeliz/180918/1953.m3u8
+#EXTINF:-1,FR: TELETOON+ HD
+http://185.30.166.142:8000/live/yeliz/180918/1501.m3u8
+#EXTINF:-1,FR: TELETOON +1 HD
+http://185.30.166.142:8000/live/yeliz/180918/6035.m3u8
+#EXTINF:-1,FR: NICKELODEON HD
+http://185.30.166.142:8000/live/yeliz/180918/3809.m3u8
+#EXTINF:-1,FR: NICKELODEON +1 HD
+http://185.30.166.142:8000/live/yeliz/180918/161753.m3u8
+#EXTINF:-1,FR: NICKELODEON JUNIOR HD
+http://185.30.166.142:8000/live/yeliz/180918/3808.m3u8
+#EXTINF:-1,FR: CARTOON NETWORK HD
+http://185.30.166.142:8000/live/yeliz/180918/1502.m3u8
+#EXTINF:-1,FR: BOOMERANG HD
+http://185.30.166.142:8000/live/yeliz/180918/1500.m3u8
+#EXTINF:-1,FR: TIJI FHD
+http://185.30.166.142:8000/live/yeliz/180918/197279.m3u8
+#EXTINF:-1,FR: TIJI HD
+http://185.30.166.142:8000/live/yeliz/180918/3823.m3u8
+#EXTINF:-1,FR: CANAL J
+http://185.30.166.142:8000/live/yeliz/180918/3828.m3u8
+#EXTINF:-1,FR: PIWI+
+http://185.30.166.142:8000/live/yeliz/180918/3824.m3u8
+#EXTINF:-1,FR: GULLI HD
+http://185.30.166.142:8000/live/yeliz/180918/347.m3u8
+#EXTINF:-1,FR: J-ONE HD
+http://185.30.166.142:8000/live/yeliz/180918/94561.m3u8
+#EXTINF:-1,FR: TOONAMI HD
+http://185.30.166.142:8000/live/yeliz/180918/94560.m3u8
+#EXTINF:-1,FR: BOING HD
+http://185.30.166.142:8000/live/yeliz/180918/8562.m3u8
+#EXTINF:-1,FR: GAME ONE HD
+http://185.30.166.142:8000/live/yeliz/180918/3812.m3u8
+#EXTINF:-1,FR: GAME ONE+1
+http://185.30.166.142:8000/live/yeliz/180918/134346.m3u8
+#EXTINF:-1,FR: PLANETE+ HD
+http://185.30.166.142:8000/live/yeliz/180918/1890.m3u8
+#EXTINF:-1,FR: PLANETE+ AE HD
+http://185.30.166.142:8000/live/yeliz/180918/1445.m3u8
+#EXTINF:-1,FR: PLANETE+ CI HD
+http://185.30.166.142:8000/live/yeliz/180918/1235.m3u8
+#EXTINF:-1,FR: NATIONAL GEO HD
+http://185.30.166.142:8000/live/yeliz/180918/1893.m3u8
+#EXTINF:-1,FR: NAT GEO WILD FHD 1080
+http://185.30.166.142:8000/live/yeliz/180918/187801.m3u8
+#EXTINF:-1,FR: DISCOVERY FAMILY FHD
+http://185.30.166.142:8000/live/yeliz/180918/187810.m3u8
+#EXTINF:-1,FR: DISCOVERY FRANCE HD
+http://185.30.166.142:8000/live/yeliz/180918/2547.m3u8
+#EXTINF:-1,FR: DISCOVERY SCIENCE FRANCE HD
+http://185.30.166.142:8000/live/yeliz/180918/1233.m3u8
+#EXTINF:-1,FR: DISCOVERY INVESTIGATION HD
+http://185.30.166.142:8000/live/yeliz/180918/94564.m3u8
+#EXTINF:-1,FR: USHUAIA HD (SL)
+http://185.30.166.142:8000/live/yeliz/180918/187790.m3u8
+#EXTINF:-1,FR: USHUAIA TV
+http://185.30.166.142:8000/live/yeliz/180918/2549.m3u8
+#EXTINF:-1,FR: RMC DECOUVERTE HD
+http://185.30.166.142:8000/live/yeliz/180918/1486.m3u8
+#EXTINF:-1,FR: RMC DECOUVERTE HD 1080
+http://185.30.166.142:8000/live/yeliz/180918/134237.m3u8
+#EXTINF:-1,FR: TOUTE L HISTOIRE HD
+http://185.30.166.142:8000/live/yeliz/180918/2550.m3u8
+#EXTINF:-1,FR: CHASSE ET PECHE
+http://185.30.166.142:8000/live/yeliz/180918/337.m3u8
+#EXTINF:-1,FR: ANIMAUX
+http://185.30.166.142:8000/live/yeliz/180918/334.m3u8
+#EXTINF:-1,FR: HISTOIRE
+http://185.30.166.142:8000/live/yeliz/180918/1484.m3u8
+#EXTINF:-1,FR: SEASONS
+http://185.30.166.142:8000/live/yeliz/180918/3804.m3u8
+#EXTINF:-1,FR: CRIME DISTRICT
+http://185.30.166.142:8000/live/yeliz/180918/94538.m3u8
+#EXTINF:-1,FR: VOYAGE
+http://185.30.166.142:8000/live/yeliz/180918/3821.m3u8
+#EXTINF:-1,FR: TREK
+http://185.30.166.142:8000/live/yeliz/180918/3822.m3u8
+#EXTINF:-1,FR: MY CUISINE
+http://185.30.166.142:8000/live/yeliz/180918/123067.m3u8
+#EXTINF:-1,FR: Lucky Jack
+http://185.30.166.142:8000/live/yeliz/180918/187836.m3u8
+#EXTINF:-1,FR: NON STOP PEOPLE
+http://185.30.166.142:8000/live/yeliz/180918/134345.m3u8
+#EXTINF:-1,FR: IDF1 HD
+http://185.30.166.142:8000/live/yeliz/180918/212535.m3u8
+#EXTINF:-1,FR: CANAL+  HD 1080P
+http://185.30.166.142:8000/live/yeliz/180918/187547.m3u8
+#EXTINF:-1,FR: CANAL+  CINEMA HD 1080P
+http://185.30.166.142:8000/live/yeliz/180918/187544.m3u8
+#EXTINF:-1,FR: CANAL+  DECALE HD 1080P
+http://185.30.166.142:8000/live/yeliz/180918/187545.m3u8
+#EXTINF:-1,FR: CANAL+  FAMILY HD 1080P
+http://185.30.166.142:8000/live/yeliz/180918/187546.m3u8
+#EXTINF:-1,FR: CANAL+  SERIES FHD
+http://185.30.166.142:8000/live/yeliz/180918/145002.m3u8
+#EXTINF:-1,FR: CANAL+  SERIES HD 1080P
+http://185.30.166.142:8000/live/yeliz/180918/187548.m3u8
+#EXTINF:-1,FR: CINE EMOTION FHD
+http://185.30.166.142:8000/live/yeliz/180918/145000.m3u8
+#EXTINF:-1,FR: CINE FAMIZ FHD
+http://185.30.166.142:8000/live/yeliz/180918/144999.m3u8
+#EXTINF:-1,FR: CINE FRISSON FHD
+http://185.30.166.142:8000/live/yeliz/180918/144998.m3u8
+#EXTINF:-1,FR: CANAL+ HD
+http://185.30.166.142:8000/live/yeliz/180918/364.m3u8
+#EXTINF:-1,FR: CANAL+  CINEMA HD
+http://185.30.166.142:8000/live/yeliz/180918/355.m3u8
+#EXTINF:-1,FR: CANAL+  FAMILY HD
+http://185.30.166.142:8000/live/yeliz/180918/357.m3u8
+#EXTINF:-1,FR: OCS Max HD
+http://185.30.166.142:8000/live/yeliz/180918/3971.m3u8
+#EXTINF:-1,FR: Ocs Choc HD
+http://185.30.166.142:8000/live/yeliz/180918/3969.m3u8
+#EXTINF:-1,FR: CINE+ FRISSON HD
+http://185.30.166.142:8000/live/yeliz/180918/524.m3u8
+#EXTINF:-1,FR: CINE+ FAMIZ HD
+http://185.30.166.142:8000/live/yeliz/180918/523.m3u8
+#EXTINF:-1,FR: CINE CLASSIC HD
+http://185.30.166.142:8000/live/yeliz/180918/1480.m3u8
+#EXTINF:-1,FR: CINE  EMOTION HD
+http://185.30.166.142:8000/live/yeliz/180918/1474.m3u8
+#EXTINF:-1,FR: CINE PREMIER HD
+http://185.30.166.142:8000/live/yeliz/180918/1473.m3u8
+#EXTINF:-1,FR: DISNEY CINEMA HD
+http://185.30.166.142:8000/live/yeliz/180918/196205.m3u8
+#EXTINF:-1,FR: CANAL HOLLYWOOD HD
+http://185.30.166.142:8000/live/yeliz/180918/211455.m3u8
+#EXTINF:-1,FR: TCM CINEMA HD
+http://185.30.166.142:8000/live/yeliz/180918/2544.m3u8
+#EXTINF:-1,FR: POLAR+
+http://185.30.166.142:8000/live/yeliz/180918/130874.m3u8
+#EXTINF:-1,FR: CINE+ CLUB HD
+http://185.30.166.142:8000/live/yeliz/180918/8560.m3u8
+#EXTINF:-1,FR: M6 MUSIC
+http://185.30.166.142:8000/live/yeliz/180918/13880.m3u8
+#EXTINF:-1,FR: MCM
+http://185.30.166.142:8000/live/yeliz/180918/13903.m3u8
+#EXTINF:-1,FR: TRACE URBAN
+http://185.30.166.142:8000/live/yeliz/180918/3810.m3u8
+#EXTINF:-1,FR: MTV FRANCE
+http://185.30.166.142:8000/live/yeliz/180918/6038.m3u8
+#EXTINF:-1,FR: MTV DANCE
+http://185.30.166.142:8000/live/yeliz/180918/3811.m3u8
+#EXTINF:-1,FR: NRJ HITS
+http://185.30.166.142:8000/live/yeliz/180918/29906.m3u8
+#EXTINF:-1,FR: MCM TOP HD
+http://185.30.166.142:8000/live/yeliz/180918/136164.m3u8
+#EXTINF:-1,FR: Brava HD
+http://185.30.166.142:8000/live/yeliz/180918/65177.m3u8
+#EXTINF:-1,FR: MEZZO
+http://185.30.166.142:8000/live/yeliz/180918/94549.m3u8
+#EXTINF:-1,FR: NOLYWOOD
+http://185.30.166.142:8000/live/yeliz/180918/94565.m3u8
+#EXTINF:-1,FR: MTV HITS
+http://185.30.166.142:8000/live/yeliz/180918/172043.m3u8
+#EXTINF:-1,FR: TRACE URBAN
+http://185.30.166.142:8000/live/yeliz/180918/13215.m3u8
+#EXTINF:-1,FR: TRACE AFRICA
+http://185.30.166.142:8000/live/yeliz/180918/94574.m3u8
+#EXTINF:-1,FR: TRACE TROPICAL
+http://185.30.166.142:8000/live/yeliz/180918/94569.m3u8
+#EXTINF:-1,FR: TRACE GOSPEL
+http://185.30.166.142:8000/live/yeliz/180918/94573.m3u8
+#EXTINF:-1,FR: TRACE MZIKI
+http://185.30.166.142:8000/live/yeliz/180918/94572.m3u8
+#EXTINF:-1,FR: TRACE NAIJA
+http://185.30.166.142:8000/live/yeliz/180918/94571.m3u8
+#EXTINF:-1,FR: TRACE SPORT AND STAR
+http://185.30.166.142:8000/live/yeliz/180918/94568.m3u8
+#EXTINF:-1,FR: TRACE TOCA
+http://185.30.166.142:8000/live/yeliz/180918/94570.m3u8
+#EXTINF:-1,FR: TRACE KITOKO
+http://185.30.166.142:8000/live/yeliz/180918/187965.m3u8
+#EXTINF:-1,FR: PICKLE TV
+http://185.30.166.142:8000/live/yeliz/180918/129172.m3u8
+#EXTINF:-1,FR: DJAZZ TV HD
+http://185.30.166.142:8000/live/yeliz/180918/212532.m3u8
+#EXTINF:-1,FR: OKLM TV
+http://185.30.166.142:8000/live/yeliz/180918/212533.m3u8
+#EXTINF:-1,FR: Pitchoun TV HD
+http://185.30.166.142:8000/live/yeliz/180918/212534.m3u8
+#EXTINF:-1,FR: EURONEWS
+http://185.30.166.142:8000/live/yeliz/180918/13239.m3u8
+#EXTINF:-1,FR: FRANCE 24
+http://185.30.166.142:8000/live/yeliz/180918/789.m3u8
+#EXTINF:-1,FR: CNEWS HD
+http://185.30.166.142:8000/live/yeliz/180918/1956.m3u8
+#EXTINF:-1,FR: CNEWS HD 1080
+http://185.30.166.142:8000/live/yeliz/180918/187827.m3u8
+#EXTINF:-1,FR: BFM TV HD
+http://185.30.166.142:8000/live/yeliz/180918/1958.m3u8
+#EXTINF:-1,FR: BFM TV HD 1080
+http://185.30.166.142:8000/live/yeliz/180918/187826.m3u8
+#EXTINF:-1,FR: I24 NEWS
+http://185.30.166.142:8000/live/yeliz/180918/73490.m3u8
+#EXTINF:-1,FR: MDL
+http://185.30.166.142:8000/live/yeliz/180918/194893.m3u8
+#EXTINF:-1,FR: RT
+http://185.30.166.142:8000/live/yeliz/180918/194892.m3u8
+#EXTINF:-1,FR: KTO
+http://185.30.166.142:8000/live/yeliz/180918/1207.m3u8
+#EXTINF:-1,FR: BEIN SPORT 1 FHD 1080
+http://185.30.166.142:8000/live/yeliz/180918/187813.m3u8
+#EXTINF:-1,FR: BEIN SPORT 1 HD
+http://185.30.166.142:8000/live/yeliz/180918/361.m3u8
+#EXTINF:-1,FR: BEIN SPORT 2 FHD 1080
+http://185.30.166.142:8000/live/yeliz/180918/187812.m3u8
+#EXTINF:-1,FR: BEIN SPORT 2 HD
+http://185.30.166.142:8000/live/yeliz/180918/362.m3u8
+#EXTINF:-1,FR: BEIN SPORT  3 FHD 1080
+http://185.30.166.142:8000/live/yeliz/180918/187811.m3u8
+#EXTINF:-1,FR: BEIN SPORT 3 HD
+http://185.30.166.142:8000/live/yeliz/180918/363.m3u8
+#EXTINF:-1,FR: BEIN SPORTS MAX 4 FHD 1080
+http://185.30.166.142:8000/live/yeliz/180918/187747.m3u8
+#EXTINF:-1,FR: BEIN SPORTS MAX 4 HD
+http://185.30.166.142:8000/live/yeliz/180918/8565.m3u8
+#EXTINF:-1,FR: BEIN SPORTS MAX FHD 5 1080
+http://185.30.166.142:8000/live/yeliz/180918/187746.m3u8
+#EXTINF:-1,FR: BEIN SPORT MAX HD 5
+http://185.30.166.142:8000/live/yeliz/180918/8566.m3u8
+#EXTINF:-1,FR: BEIN SPORTS MAX FHD 6 1080
+http://185.30.166.142:8000/live/yeliz/180918/187745.m3u8
+#EXTINF:-1,FR: BEIN SPORT MAX HD 6
+http://185.30.166.142:8000/live/yeliz/180918/8567.m3u8
+#EXTINF:-1,FR: BEIN SPORT MAX HD 7
+http://185.30.166.142:8000/live/yeliz/180918/73482.m3u8
+#EXTINF:-1,FR: BEIN SPORT MAX HD 8
+http://185.30.166.142:8000/live/yeliz/180918/73483.m3u8
+#EXTINF:-1,FR: BEIN SPORT MAX HD 9
+http://185.30.166.142:8000/live/yeliz/180918/73484.m3u8
+#EXTINF:-1,FR: BEIN SPORTS MAX  HD 10 (SL)
+http://185.30.166.142:8000/live/yeliz/180918/187741.m3u8
+#EXTINF:-1,FR: RMC SPORT 1 HD
+http://185.30.166.142:8000/live/yeliz/180918/7175.m3u8
+#EXTINF:-1,FR: RMC SPORT 1 FHD 1080
+http://185.30.166.142:8000/live/yeliz/180918/187799.m3u8
+#EXTINF:-1,FR: RMC SPORT 2 HD
+http://185.30.166.142:8000/live/yeliz/180918/7176.m3u8
+#EXTINF:-1,FR: RMC SPORT  2  HD 1080P
+http://185.30.166.142:8000/live/yeliz/180918/174965.m3u8
+#EXTINF:-1,FR: RMC SPORT 3 HD
+http://185.30.166.142:8000/live/yeliz/180918/7434.m3u8
+#EXTINF:-1,FR: RMC SPORT 4
+http://185.30.166.142:8000/live/yeliz/180918/137934.m3u8
+#EXTINF:-1,FR: RMC SPORT  4 FHD
+http://185.30.166.142:8000/live/yeliz/180918/176136.m3u8
+#EXTINF:-1,FR: RMC SPORT 5 HD
+http://185.30.166.142:8000/live/yeliz/180918/209453.m3u8
+#EXTINF:-1,FR: RMC ACCESS 1 FHD
+http://185.30.166.142:8000/live/yeliz/180918/161708.m3u8
+#EXTINF:-1,FR: RMC ACCESS  2 FHD
+http://185.30.166.142:8000/live/yeliz/180918/161707.m3u8
+#EXTINF:-1,FR: RMC ACCESS 3 FHD
+http://185.30.166.142:8000/live/yeliz/180918/161706.m3u8
+#EXTINF:-1,FR: RMC SPORT LIVE 8
+http://185.30.166.142:8000/live/yeliz/180918/187795.m3u8
+#EXTINF:-1,FR: RMC SPORT LIVE 9
+http://185.30.166.142:8000/live/yeliz/180918/187794.m3u8
+#EXTINF:-1,FR: CANAL+  SPORT HD 1080P
+http://185.30.166.142:8000/live/yeliz/180918/187549.m3u8
+#EXTINF:-1,FR: CANAL+  SPORT HD
+http://185.30.166.142:8000/live/yeliz/180918/356.m3u8
+#EXTINF:-1,FR: RMC SPORT NEWS HD
+http://185.30.166.142:8000/live/yeliz/180918/171465.m3u8
+#EXTINF:-1,FR: L EQUIPE 21 HD
+http://185.30.166.142:8000/live/yeliz/180918/1488.m3u8
+#EXTINF:-1,FR: EQUIDIA LIVE
+http://185.30.166.142:8000/live/yeliz/180918/1491.m3u8
+#EXTINF:-1,FR: GOLF+  HD
+http://185.30.166.142:8000/live/yeliz/180918/187808.m3u8
+#EXTINF:-1,FR: GOLF CHANNEL
+http://185.30.166.142:8000/live/yeliz/180918/8653.m3u8
+#EXTINF:-1,FR: Man's.UP
+http://185.30.166.142:8000/live/yeliz/180918/208281.m3u8
+#EXTINF:-1,FR: MusculationTV
+http://185.30.166.142:8000/live/yeliz/180918/208279.m3u8
+#EXTINF:-1,FR: AB MOTEURS
+http://185.30.166.142:8000/live/yeliz/180918/3829.m3u8
+#EXTINF:-1,FR: VICELAND
+http://185.30.166.142:8000/live/yeliz/180918/145644.m3u8
+#EXTINF:-1,FR: ELEVEN SPORT 1 HD
+http://185.30.166.142:8000/live/yeliz/180918/177799.m3u8
+#EXTINF:-1,FR: MULTISPORTS 1 FHD 1080
+http://185.30.166.142:8000/live/yeliz/180918/187807.m3u8
+#EXTINF:-1,FR: MULTISPORTS 2 FHD 1080
+http://185.30.166.142:8000/live/yeliz/180918/187806.m3u8
+#EXTINF:-1,FR: MULTISPORTS 5 FHD 1080
+http://185.30.166.142:8000/live/yeliz/180918/187803.m3u8
+#EXTINF:-1,FR: AUTOMOTO LA CHAINE HD (SL)
+http://185.30.166.142:8000/live/yeliz/180918/188511.m3u8
+#EXTINF:-1,FR: GULLI HD 1080
+http://185.30.166.142:8000/live/yeliz/180918/187828.m3u8
+#EXTINF:-1,FR: LCP HD 1080
+http://185.30.166.142:8000/live/yeliz/180918/187829.m3u8
+#EXTINF:-1,FR: TRACE TROPICAL HD (SL)
+http://185.30.166.142:8000/live/yeliz/180918/187791.m3u8
+#EXTINF:-1,FR: WARNER TV FHD 1080
+http://185.30.166.142:8000/live/yeliz/180918/188532.m3u8
+#EXTINF:-1,FR: CHASSE ET PÊCHE HD (SL)
+http://185.30.166.142:8000/live/yeliz/180918/188518.m3u8
+#EXTINF:-1,FR: CINE+ CLUB HD 1080
+http://185.30.166.142:8000/live/yeliz/180918/188535.m3u8
+#EXTINF:-1,FR: CSTAR HITS FRANCE
+http://185.30.166.142:8000/live/yeliz/180918/188521.m3u8
+#EXTINF:-1,FR: EQUIDIA FHD 1080
+http://185.30.166.142:8000/live/yeliz/180918/188530.m3u8
+#EXTINF:-1,FR: EXTREME SPORTS FHD 1080
+http://185.30.166.142:8000/live/yeliz/180918/188528.m3u8
+#EXTINF:-1,FR: FOOT  24/24 HD
+http://185.30.166.142:8000/live/yeliz/180918/188522.m3u8
+#EXTINF:-1,FR: MELODY FHD 1080
+http://185.30.166.142:8000/live/yeliz/180918/188526.m3u8
+#EXTINF:-1,FR: PLANETE  A&E HD (SL)
+http://185.30.166.142:8000/live/yeliz/180918/188538.m3u8
+#EXTINF:-1,FR: VICELAND HD (SL)
+http://185.30.166.142:8000/live/yeliz/180918/188513.m3u8
+#EXTINF:-1,FR: RMC SPORT UHD
+http://185.30.166.142:8000/live/yeliz/180918/198241.m3u8
+#EXTINF:-1,FR: PARAMOUNT DECALE FHD 1080
+http://185.30.166.142:8000/live/yeliz/180918/199989.m3u8
+#EXTINF:-1,FR: PARAMOUNT DECALE HD
+http://185.30.166.142:8000/live/yeliz/180918/199990.m3u8
+#EXTINF:-1,FR: SL CINEMA 2019 HD
+http://185.30.166.142:8000/live/yeliz/180918/198913.m3u8
+#EXTINF:-1,FR: SL CINEMA 1 2019 HD
+http://185.30.166.142:8000/live/yeliz/180918/199459.m3u8
+#EXTINF:-1,FR: SL CINEMA 2 2019 HD
+http://185.30.166.142:8000/live/yeliz/180918/200745.m3u8
+#EXTINF:-1,FR: SL CINEMA ACTION HD
+http://185.30.166.142:8000/live/yeliz/180918/169318.m3u8
+#EXTINF:-1,FR: SL CINEMA ACTION 2 HD
+http://185.30.166.142:8000/live/yeliz/180918/169336.m3u8
+#EXTINF:-1,FR: SL CINEMA ACTION 3 HD
+http://185.30.166.142:8000/live/yeliz/180918/211958.m3u8
+#EXTINF:-1,FR: SL CINEMA PREMIUM HD
+http://185.30.166.142:8000/live/yeliz/180918/169320.m3u8
+#EXTINF:-1,FR: SL CINEMA PREMIUM HORREUR 1 HD
+http://185.30.166.142:8000/live/yeliz/180918/187678.m3u8
+#EXTINF:-1,FR: SL CINEMA GOLD HD
+http://185.30.166.142:8000/live/yeliz/180918/169319.m3u8
+#EXTINF:-1,FR: SL CINEMA COMEDY HD
+http://185.30.166.142:8000/live/yeliz/180918/169321.m3u8
+#EXTINF:-1,FR: SL CINEMA COMEDY 2 HD
+http://185.30.166.142:8000/live/yeliz/180918/212616.m3u8
+#EXTINF:-1,FR: SL CINEMA DRAME 1 HD
+http://185.30.166.142:8000/live/yeliz/180918/169335.m3u8
+#EXTINF:-1,FR: CINE OFFICE 1 ACTION HD
+http://185.30.166.142:8000/live/yeliz/180918/212571.m3u8
+#EXTINF:-1,FR: CINE OFFICE 2 COMEDY HD
+http://185.30.166.142:8000/live/yeliz/180918/212570.m3u8
+#EXTINF:-1,FR: CINE OFFICE 3 ARTS MARCIAUX HD
+http://185.30.166.142:8000/live/yeliz/180918/212572.m3u8
+#EXTINF:-1,FR: CINE OFFICE 4 BIOPIC HD
+http://185.30.166.142:8000/live/yeliz/180918/212610.m3u8
+#EXTINF:-1,FR: CINE OFFICE 5 DOCUMENTAIRES HD
+http://185.30.166.142:8000/live/yeliz/180918/212593.m3u8
+#EXTINF:-1,FR: CINE OFFICE 6 GUERRE HD
+http://185.30.166.142:8000/live/yeliz/180918/212615.m3u8
+#EXTINF:-1,FR: CINE OFFICE 7 Walt Disney HD
+http://185.30.166.142:8000/live/yeliz/180918/212617.m3u8
+#EXTINF:-1,FR: CINE OFFICE 8 Policier HD
+http://185.30.166.142:8000/live/yeliz/180918/212625.m3u8
+#EXTINF:-1,FR: OCS Go Cinema 1 HD
+http://185.30.166.142:8000/live/yeliz/180918/129204.m3u8
+#EXTINF:-1,FR: OCS Go Cinema 4 HD
+http://185.30.166.142:8000/live/yeliz/180918/129201.m3u8
+#EXTINF:-1,FR: Orange Cinema 1 HD
+http://185.30.166.142:8000/live/yeliz/180918/129199.m3u8
+#EXTINF:-1,FR: Orange Cinema 2 HD
+http://185.30.166.142:8000/live/yeliz/180918/129198.m3u8
+#EXTINF:-1,FR: Orange Cinema 3 HD
+http://185.30.166.142:8000/live/yeliz/180918/129197.m3u8
+#EXTINF:-1,FR: Orange Cinema 5 HD
+http://185.30.166.142:8000/live/yeliz/180918/129195.m3u8
+#EXTINF:-1,FR: Orange Cinema Action HD
+http://185.30.166.142:8000/live/yeliz/180918/129194.m3u8
+#EXTINF:-1,FR: Orange Cinema Aventure HD
+http://185.30.166.142:8000/live/yeliz/180918/129193.m3u8
+#EXTINF:-1,FR: Orange Cinema HD
+http://185.30.166.142:8000/live/yeliz/180918/129192.m3u8
+#EXTINF:-1,FR: Orange Comment C'Est Fait HD
+http://185.30.166.142:8000/live/yeliz/180918/129190.m3u8
+#EXTINF:-1,FR: A LA CARTE 1 HD
+http://185.30.166.142:8000/live/yeliz/180918/3830.m3u8
+#EXTINF:-1,FR: A LA CARTE 2 HD
+http://185.30.166.142:8000/live/yeliz/180918/3831.m3u8
+#EXTINF:-1,FR: A LA CARTE 3 HD
+http://185.30.166.142:8000/live/yeliz/180918/3832.m3u8
+#EXTINF:-1,FR: A LA CARTE 8 HD
+http://185.30.166.142:8000/live/yeliz/180918/150671.m3u8
+#EXTINF:-1,FR: A LA CARTE 9 HD
+http://185.30.166.142:8000/live/yeliz/180918/150672.m3u8
+#EXTINF:-1,FR: A LA CARTE 10 HD
+http://185.30.166.142:8000/live/yeliz/180918/150673.m3u8
+#EXTINF:-1,FR: CANALPLAY 1
+http://185.30.166.142:8000/live/yeliz/180918/2126.m3u8
+#EXTINF:-1,FR: CANALPLAY 2
+http://185.30.166.142:8000/live/yeliz/180918/2127.m3u8
+#EXTINF:-1,FR: CANALPLAY 3
+http://185.30.166.142:8000/live/yeliz/180918/2128.m3u8
+#EXTINF:-1,FR: CANALPLAY 4
+http://185.30.166.142:8000/live/yeliz/180918/2129.m3u8
+#EXTINF:-1,FR: CANALPLAY 5
+http://185.30.166.142:8000/live/yeliz/180918/2130.m3u8
+#EXTINF:-1,BE: LA UNE HD
+http://185.30.166.142:8000/live/yeliz/180918/8323.m3u8
+#EXTINF:-1,BE: LA DEUX
+http://185.30.166.142:8000/live/yeliz/180918/8324.m3u8
+#EXTINF:-1,BE: LA TROIS
+http://185.30.166.142:8000/live/yeliz/180918/8325.m3u8
+#EXTINF:-1,BE: RTL TVI HD
+http://185.30.166.142:8000/live/yeliz/180918/8326.m3u8
+#EXTINF:-1,BE: PLUG RTL
+http://185.30.166.142:8000/live/yeliz/180918/8328.m3u8
+#EXTINF:-1,BE: CLUB RTL
+http://185.30.166.142:8000/live/yeliz/180918/8327.m3u8
+#EXTINF:-1,BE: ZES
+http://185.30.166.142:8000/live/yeliz/180918/193172.m3u8
+#EXTINF:-1,BE: AB3
+http://185.30.166.142:8000/live/yeliz/180918/12516.m3u8
+#EXTINF:-1,BE: BX1
+http://185.30.166.142:8000/live/yeliz/180918/87266.m3u8
+#EXTINF:-1,BE: CANAL C NAMUR
+http://185.30.166.142:8000/live/yeliz/180918/79486.m3u8
+#EXTINF:-1,BE: VOO SPORT 1 HD
+http://185.30.166.142:8000/live/yeliz/180918/29905.m3u8
+#EXTINF:-1,BE: Elevensport 1
+http://185.30.166.142:8000/live/yeliz/180918/134209.m3u8
+#EXTINF:-1,BE: Elevensport 2
+http://185.30.166.142:8000/live/yeliz/180918/134210.m3u8
+#EXTINF:-1,BE: EEN FHD
+http://185.30.166.142:8000/live/yeliz/180918/8572.m3u8
+#EXTINF:-1,BE: KETNET
+http://185.30.166.142:8000/live/yeliz/180918/8578.m3u8
+#EXTINF:-1,BE: Q2 FHD
+http://185.30.166.142:8000/live/yeliz/180918/14479.m3u8
+#EXTINF:-1,BE: Contact TV
+http://185.30.166.142:8000/live/yeliz/180918/198446.m3u8
+#EXTINF:-1,-----SUISSE SWITZERLAND-----
+http://185.30.166.142:8000/live/yeliz/180918/135930.m3u8
+#EXTINF:-1,CH: RTS 1 HD
+http://185.30.166.142:8000/live/yeliz/180918/3656.m3u8
+#EXTINF:-1,CH: SRF INFO
+http://185.30.166.142:8000/live/yeliz/180918/134401.m3u8
+#EXTINF:-1,CH: SRF 1 HD
+http://185.30.166.142:8000/live/yeliz/180918/7447.m3u8
+#EXTINF:-1,CH: SRF 2 HD
+http://185.30.166.142:8000/live/yeliz/180918/7448.m3u8
+#EXTINF:-1,CH: RSI LA 1 HD
+http://185.30.166.142:8000/live/yeliz/180918/7869.m3u8
+#EXTINF:-1,CH: RSI LA 2 HD
+http://185.30.166.142:8000/live/yeliz/180918/7870.m3u8
+#EXTINF:-1,CH: TV 24  HD
+http://185.30.166.142:8000/live/yeliz/180918/134407.m3u8
+#EXTINF:-1,CH: TV 25  HD
+http://185.30.166.142:8000/live/yeliz/180918/134408.m3u8
+#EXTINF:-1,CH: 4+  HD
+http://185.30.166.142:8000/live/yeliz/180918/134404.m3u8
+#EXTINF:-1,CH: 5+  HD
+http://185.30.166.142:8000/live/yeliz/180918/134405.m3u8
+#EXTINF:-1,CH: Tele Basel
+http://185.30.166.142:8000/live/yeliz/180918/137451.m3u8
+#EXTINF:-1,CH: Puls 8 HD
+http://185.30.166.142:8000/live/yeliz/180918/134406.m3u8
+#EXTINF:-1,CH: Teleclub EMOTION HD+
+http://185.30.166.142:8000/live/yeliz/180918/133924.m3u8
+#EXTINF:-1,CH: Teleclub Cinema HD++
+http://185.30.166.142:8000/live/yeliz/180918/133925.m3u8
+#EXTINF:-1,CH: Teleclub Cinema HD+
+http://185.30.166.142:8000/live/yeliz/180918/133923.m3u8
