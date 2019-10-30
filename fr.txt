@@ -2,8 +2,12 @@
 http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9210.m3u8
 #EXTINF:-1,|FR| TF1 HD.
 http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9211.m3u8
-#EXTINF:-1,|FR| TF1 FHD BKP
-http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51179.m3u8
+#EXTINF:-1,|FR| M6 HD.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9260.m3u8
+#EXTINF:-1,|FR| M6 HD BKP.
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15154.m3u8
+#EXTINF:-1,|FR| M6 FULL HD
+http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9531.m3u8
 #EXTINF:-1,|FR| France 2 HD BKP.
 http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15226.m3u8
 #EXTINF:-1,|FR| FRANCE 2 FULL HD
@@ -22,12 +26,6 @@ http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15167.m3u8
 http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9543.m3u8
 #EXTINF:-1,|FR| FRANCE 5 FHD BKP
 http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/51175.m3u8
-#EXTINF:-1,|FR| M6 HD.
-http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9260.m3u8
-#EXTINF:-1,|FR| M6 HD BKP.
-http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/15154.m3u8
-#EXTINF:-1,|FR| M6 FULL HD
-http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9531.m3u8
 #EXTINF:-1,|FR| ARTE HD.
 http://fpro.webvps.de:25443/live/VPlvvPlfQicr/spSzANlJq8/9354.m3u8
 #EXTINF:-1,|FR| Arte HD BKP.
