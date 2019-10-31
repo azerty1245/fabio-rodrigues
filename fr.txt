@@ -1,594 +1,365 @@
 #EXTINF:-1,FR: TF1 HD
-http://185.30.166.142:8000/live/yeliz/180918/1158.m3u8
-#EXTINF:-1,FR: TF1+1
-http://185.30.166.142:8000/live/yeliz/180918/208894.m3u8
-#EXTINF:-1,FR: M6 HD
-http://185.30.166.142:8000/live/yeliz/180918/1159.m3u8
-#EXTINF:-1,FR: M6 HD 1080
-http://185.30.166.142:8000/live/yeliz/180918/29962.m3u8
-#EXTINF:-1,FR: TF1 FHD 1080
-http://185.30.166.142:8000/live/yeliz/180918/29961.m3u8
-#EXTINF:-1,FR: FRANCE 2 HD
-http://185.30.166.142:8000/live/yeliz/180918/1941.m3u8
-#EXTINF:-1,FR: FRANCE 2 FHD 1080
-http://185.30.166.142:8000/live/yeliz/180918/29960.m3u8
-#EXTINF:-1,FR: FRANCE 3 HD
-http://185.30.166.142:8000/live/yeliz/180918/1942.m3u8
-#EXTINF:-1,FR: FRANCE 3 FHD 1080
-http://185.30.166.142:8000/live/yeliz/180918/50900.m3u8
-#EXTINF:-1,FR: FRANCE 4 HD
-http://185.30.166.142:8000/live/yeliz/180918/343.m3u8
-#EXTINF:-1,FR: FRANCE 4 FHD 1080
-http://185.30.166.142:8000/live/yeliz/180918/50901.m3u8
-#EXTINF:-1,FR: FRANCE 5 HD
-http://185.30.166.142:8000/live/yeliz/180918/1943.m3u8
-#EXTINF:-1,FR: FRANCE 5 FHD 1080
-http://185.30.166.142:8000/live/yeliz/180918/29959.m3u8
-#EXTINF:-1,FR: FRANCE O  HD
-http://185.30.166.142:8000/live/yeliz/180918/197278.m3u8
-#EXTINF:-1,FR: FRANCE O SD
-http://185.30.166.142:8000/live/yeliz/180918/1944.m3u8
-#EXTINF:-1,FR: ARTE HD
-http://185.30.166.142:8000/live/yeliz/180918/1496.m3u8
-#EXTINF:-1,FR: ARTE HD 1080
-http://185.30.166.142:8000/live/yeliz/180918/134232.m3u8
-#EXTINF:-1,FR: TMC HD
-http://185.30.166.142:8000/live/yeliz/180918/1946.m3u8
-#EXTINF:-1,FR: TMC HD 1080
-http://185.30.166.142:8000/live/yeliz/180918/29955.m3u8
-#EXTINF:-1,FR: TMC+1 HD
-http://185.30.166.142:8000/live/yeliz/180918/137937.m3u8
-#EXTINF:-1,FR: TF1 SERIES FILMS HD
-http://185.30.166.142:8000/live/yeliz/180918/359.m3u8
-#EXTINF:-1,FR: TF1 SERIES FILMS HD 1080
-http://185.30.166.142:8000/live/yeliz/180918/29957.m3u8
-#EXTINF:-1,FR: C8 HD
-http://185.30.166.142:8000/live/yeliz/180918/1931.m3u8
-#EXTINF:-1,FR: C8 HD 1080
-http://185.30.166.142:8000/live/yeliz/180918/134234.m3u8
-#EXTINF:-1,FR: 6TER HD
-http://185.30.166.142:8000/live/yeliz/180918/366.m3u8
-#EXTINF:-1,FR: 6TER HD 1080
-http://185.30.166.142:8000/live/yeliz/180918/29954.m3u8
-#EXTINF:-1,FR: W9 HD
-http://185.30.166.142:8000/live/yeliz/180918/1947.m3u8
-#EXTINF:-1,FR: TFX HD
-http://185.30.166.142:8000/live/yeliz/180918/1949.m3u8
-#EXTINF:-1,FR: TFX 1080
-http://185.30.166.142:8000/live/yeliz/180918/29956.m3u8
-#EXTINF:-1,FR: CSTAR HD
-http://185.30.166.142:8000/live/yeliz/180918/1950.m3u8
-#EXTINF:-1,FR: CSTAR HD 1080
-http://185.30.166.142:8000/live/yeliz/180918/134233.m3u8
-#EXTINF:-1,FR: 13EME RUE HD
-http://185.30.166.142:8000/live/yeliz/180918/1236.m3u8
-#EXTINF:-1,FR: SYFY HD
-http://185.30.166.142:8000/live/yeliz/180918/1238.m3u8
-#EXTINF:-1,FR: TEVA
-http://185.30.166.142:8000/live/yeliz/180918/2545.m3u8
-#EXTINF:-1,FR: TV BREIZH HD
-http://185.30.166.142:8000/live/yeliz/180918/3805.m3u8
-#EXTINF:-1,FR: COMEDIE+
-http://185.30.166.142:8000/live/yeliz/180918/3813.m3u8
-#EXTINF:-1,FR: SERIE CLUB
-http://185.30.166.142:8000/live/yeliz/180918/3803.m3u8
-#EXTINF:-1,FR: PARIS PREMIERE
-http://185.30.166.142:8000/live/yeliz/180918/2546.m3u8
-#EXTINF:-1,FR: PARAMOUNT CHANNEL
-http://185.30.166.142:8000/live/yeliz/180918/3807.m3u8
-#EXTINF:-1,FR: COMEDY CENTRAL  HD
-http://185.30.166.142:8000/live/yeliz/180918/165280.m3u8
-#EXTINF:-1,FR: E!
-http://185.30.166.142:8000/live/yeliz/180918/3999.m3u8
-#EXTINF:-1,FR: ACTION HD
-http://185.30.166.142:8000/live/yeliz/180918/2541.m3u8
-#EXTINF:-1,FR: CHERIE 25 HD
-http://185.30.166.142:8000/live/yeliz/180918/1951.m3u8
-#EXTINF:-1,FR: CHERIE 25 HD 1080
-http://185.30.166.142:8000/live/yeliz/180918/134235.m3u8
-#EXTINF:-1,FR: RMC STORY HD
-http://185.30.166.142:8000/live/yeliz/180918/1948.m3u8
-#EXTINF:-1,FR: RMC STORY HD 1080
-http://185.30.166.142:8000/live/yeliz/180918/134236.m3u8
-#EXTINF:-1,FR: NRJ 12 HD
-http://185.30.166.142:8000/live/yeliz/180918/1497.m3u8
-#EXTINF:-1,FR: NRJ 12 HD 1080
-http://185.30.166.142:8000/live/yeliz/180918/29953.m3u8
-#EXTINF:-1,FR: RTL 9 HD
-http://185.30.166.142:8000/live/yeliz/180918/2542.m3u8
-#EXTINF:-1,FR: BET
-http://185.30.166.142:8000/live/yeliz/180918/8652.m3u8
-#EXTINF:-1,FR: TV 5 MONDE HD
-http://185.30.166.142:8000/live/yeliz/180918/8559.m3u8
-#EXTINF:-1,FR: VOSGES TV
-http://185.30.166.142:8000/live/yeliz/180918/73807.m3u8
-#EXTINF:-1,FR: ABXPLORE HD
-http://185.30.166.142:8000/live/yeliz/180918/205450.m3u8
-#EXTINF:-1,FR: AB1 HD
-http://185.30.166.142:8000/live/yeliz/180918/7443.m3u8
-#EXTINF:-1,FR: AB 3 HD
-http://185.30.166.142:8000/live/yeliz/180918/197281.m3u8
-#EXTINF:-1,FR: A+
-http://185.30.166.142:8000/live/yeliz/180918/123034.m3u8
-#EXTINF:-1,FR: ALTICE STUDIO
-http://185.30.166.142:8000/live/yeliz/180918/128406.m3u8
-#EXTINF:-1,FR: Warner tv
-http://185.30.166.142:8000/live/yeliz/180918/130875.m3u8
-#EXTINF:-1,FR: CLIQUE TV HD
-http://185.30.166.142:8000/live/yeliz/180918/198419.m3u8
-#EXTINF:-1,FR: DISNEY CHANNEL HD
-http://185.30.166.142:8000/live/yeliz/180918/1891.m3u8
-#EXTINF:-1,FR: DISNEY CHANNEL 1 HD
-http://185.30.166.142:8000/live/yeliz/180918/1952.m3u8
-#EXTINF:-1,FR: DISNEY XD HD
-http://185.30.166.142:8000/live/yeliz/180918/1953.m3u8
-#EXTINF:-1,FR: TELETOON+ HD
-http://185.30.166.142:8000/live/yeliz/180918/1501.m3u8
-#EXTINF:-1,FR: TELETOON +1 HD
-http://185.30.166.142:8000/live/yeliz/180918/6035.m3u8
-#EXTINF:-1,FR: NICKELODEON HD
-http://185.30.166.142:8000/live/yeliz/180918/3809.m3u8
-#EXTINF:-1,FR: NICKELODEON +1 HD
-http://185.30.166.142:8000/live/yeliz/180918/161753.m3u8
-#EXTINF:-1,FR: NICKELODEON JUNIOR HD
-http://185.30.166.142:8000/live/yeliz/180918/3808.m3u8
-#EXTINF:-1,FR: CARTOON NETWORK HD
-http://185.30.166.142:8000/live/yeliz/180918/1502.m3u8
-#EXTINF:-1,FR: BOOMERANG HD
-http://185.30.166.142:8000/live/yeliz/180918/1500.m3u8
-#EXTINF:-1,FR: TIJI FHD
-http://185.30.166.142:8000/live/yeliz/180918/197279.m3u8
-#EXTINF:-1,FR: TIJI HD
-http://185.30.166.142:8000/live/yeliz/180918/3823.m3u8
+http://premium-iptv.link:7899/norberto/123456/241
+#EXTINF:-1,FR: TF1 HD (1080P)
+http://premium-iptv.link:7899/norberto/123456/8342
+#EXTINF:-1,FR: M6
+http://premium-iptv.link:7899/norberto/123456/242
+#EXTINF:-1,FR: Mangas
+http://premium-iptv.link:7899/norberto/123456/3728
+#EXTINF:-1,FR: France O  HD
+http://premium-iptv.link:7899/norberto/123456/532
+#EXTINF:-1,FR: FRANCE 2
+http://premium-iptv.link:7899/norberto/123456/528
+#EXTINF:-1,FR: FRANCE 3
+http://premium-iptv.link:7899/norberto/123456/529
+#EXTINF:-1,FR: France 4  HD
+http://premium-iptv.link:7899/norberto/123456/530
+#EXTINF:-1,FR: France 5 HD
+http://premium-iptv.link:7899/norberto/123456/531
+#EXTINF:-1,FR: Canal  Cinema
+http://premium-iptv.link:7899/norberto/123456/255
+#EXTINF:-1,FR: Canal  Decale
+http://premium-iptv.link:7899/norberto/123456/254
+#EXTINF:-1,FR: Canal  Family
+http://premium-iptv.link:7899/norberto/123456/253
+#EXTINF:-1,FR: Canal  Sport
+http://premium-iptv.link:7899/norberto/123456/251
 #EXTINF:-1,FR: CANAL J
-http://185.30.166.142:8000/live/yeliz/180918/3828.m3u8
-#EXTINF:-1,FR: PIWI+
-http://185.30.166.142:8000/live/yeliz/180918/3824.m3u8
-#EXTINF:-1,FR: GULLI HD
-http://185.30.166.142:8000/live/yeliz/180918/347.m3u8
-#EXTINF:-1,FR: J-ONE HD
-http://185.30.166.142:8000/live/yeliz/180918/94561.m3u8
-#EXTINF:-1,FR: TOONAMI HD
-http://185.30.166.142:8000/live/yeliz/180918/94560.m3u8
-#EXTINF:-1,FR: BOING HD
-http://185.30.166.142:8000/live/yeliz/180918/8562.m3u8
-#EXTINF:-1,FR: GAME ONE HD
-http://185.30.166.142:8000/live/yeliz/180918/3812.m3u8
-#EXTINF:-1,FR: GAME ONE+1
-http://185.30.166.142:8000/live/yeliz/180918/134346.m3u8
-#EXTINF:-1,FR: PLANETE+ HD
-http://185.30.166.142:8000/live/yeliz/180918/1890.m3u8
-#EXTINF:-1,FR: PLANETE+ AE HD
-http://185.30.166.142:8000/live/yeliz/180918/1445.m3u8
-#EXTINF:-1,FR: PLANETE+ CI HD
-http://185.30.166.142:8000/live/yeliz/180918/1235.m3u8
-#EXTINF:-1,FR: NATIONAL GEO HD
-http://185.30.166.142:8000/live/yeliz/180918/1893.m3u8
-#EXTINF:-1,FR: NAT GEO WILD FHD 1080
-http://185.30.166.142:8000/live/yeliz/180918/187801.m3u8
-#EXTINF:-1,FR: DISCOVERY FAMILY FHD
-http://185.30.166.142:8000/live/yeliz/180918/187810.m3u8
-#EXTINF:-1,FR: DISCOVERY FRANCE HD
-http://185.30.166.142:8000/live/yeliz/180918/2547.m3u8
-#EXTINF:-1,FR: DISCOVERY SCIENCE FRANCE HD
-http://185.30.166.142:8000/live/yeliz/180918/1233.m3u8
-#EXTINF:-1,FR: DISCOVERY INVESTIGATION HD
-http://185.30.166.142:8000/live/yeliz/180918/94564.m3u8
-#EXTINF:-1,FR: USHUAIA HD (SL)
-http://185.30.166.142:8000/live/yeliz/180918/187790.m3u8
-#EXTINF:-1,FR: USHUAIA TV
-http://185.30.166.142:8000/live/yeliz/180918/2549.m3u8
-#EXTINF:-1,FR: RMC DECOUVERTE HD
-http://185.30.166.142:8000/live/yeliz/180918/1486.m3u8
-#EXTINF:-1,FR: RMC DECOUVERTE HD 1080
-http://185.30.166.142:8000/live/yeliz/180918/134237.m3u8
-#EXTINF:-1,FR: TOUTE L HISTOIRE HD
-http://185.30.166.142:8000/live/yeliz/180918/2550.m3u8
-#EXTINF:-1,FR: CHASSE ET PECHE
-http://185.30.166.142:8000/live/yeliz/180918/337.m3u8
-#EXTINF:-1,FR: ANIMAUX
-http://185.30.166.142:8000/live/yeliz/180918/334.m3u8
-#EXTINF:-1,FR: HISTOIRE
-http://185.30.166.142:8000/live/yeliz/180918/1484.m3u8
-#EXTINF:-1,FR: SEASONS
-http://185.30.166.142:8000/live/yeliz/180918/3804.m3u8
-#EXTINF:-1,FR: CRIME DISTRICT
-http://185.30.166.142:8000/live/yeliz/180918/94538.m3u8
-#EXTINF:-1,FR: VOYAGE
-http://185.30.166.142:8000/live/yeliz/180918/3821.m3u8
-#EXTINF:-1,FR: TREK
-http://185.30.166.142:8000/live/yeliz/180918/3822.m3u8
-#EXTINF:-1,FR: MY CUISINE
-http://185.30.166.142:8000/live/yeliz/180918/123067.m3u8
-#EXTINF:-1,FR: Lucky Jack
-http://185.30.166.142:8000/live/yeliz/180918/187836.m3u8
-#EXTINF:-1,FR: NON STOP PEOPLE
-http://185.30.166.142:8000/live/yeliz/180918/134345.m3u8
-#EXTINF:-1,FR: IDF1 HD
-http://185.30.166.142:8000/live/yeliz/180918/212535.m3u8
-#EXTINF:-1,FR: CANAL+  HD 1080P
-http://185.30.166.142:8000/live/yeliz/180918/187547.m3u8
-#EXTINF:-1,FR: CANAL+  CINEMA HD 1080P
-http://185.30.166.142:8000/live/yeliz/180918/187544.m3u8
-#EXTINF:-1,FR: CANAL+  DECALE HD 1080P
-http://185.30.166.142:8000/live/yeliz/180918/187545.m3u8
-#EXTINF:-1,FR: CANAL+  FAMILY HD 1080P
-http://185.30.166.142:8000/live/yeliz/180918/187546.m3u8
-#EXTINF:-1,FR: CANAL+  SERIES FHD
-http://185.30.166.142:8000/live/yeliz/180918/145002.m3u8
-#EXTINF:-1,FR: CANAL+  SERIES HD 1080P
-http://185.30.166.142:8000/live/yeliz/180918/187548.m3u8
-#EXTINF:-1,FR: CINE EMOTION FHD
-http://185.30.166.142:8000/live/yeliz/180918/145000.m3u8
-#EXTINF:-1,FR: CINE FAMIZ FHD
-http://185.30.166.142:8000/live/yeliz/180918/144999.m3u8
-#EXTINF:-1,FR: CINE FRISSON FHD
-http://185.30.166.142:8000/live/yeliz/180918/144998.m3u8
-#EXTINF:-1,FR: CANAL+ HD
-http://185.30.166.142:8000/live/yeliz/180918/364.m3u8
-#EXTINF:-1,FR: CANAL+  CINEMA HD
-http://185.30.166.142:8000/live/yeliz/180918/355.m3u8
-#EXTINF:-1,FR: CANAL+  FAMILY HD
-http://185.30.166.142:8000/live/yeliz/180918/357.m3u8
-#EXTINF:-1,FR: OCS Max HD
-http://185.30.166.142:8000/live/yeliz/180918/3971.m3u8
-#EXTINF:-1,FR: Ocs Choc HD
-http://185.30.166.142:8000/live/yeliz/180918/3969.m3u8
-#EXTINF:-1,FR: CINE+ FRISSON HD
-http://185.30.166.142:8000/live/yeliz/180918/524.m3u8
-#EXTINF:-1,FR: CINE+ FAMIZ HD
-http://185.30.166.142:8000/live/yeliz/180918/523.m3u8
-#EXTINF:-1,FR: CINE CLASSIC HD
-http://185.30.166.142:8000/live/yeliz/180918/1480.m3u8
-#EXTINF:-1,FR: CINE  EMOTION HD
-http://185.30.166.142:8000/live/yeliz/180918/1474.m3u8
-#EXTINF:-1,FR: CINE PREMIER HD
-http://185.30.166.142:8000/live/yeliz/180918/1473.m3u8
-#EXTINF:-1,FR: DISNEY CINEMA HD
-http://185.30.166.142:8000/live/yeliz/180918/196205.m3u8
-#EXTINF:-1,FR: CANAL HOLLYWOOD HD
-http://185.30.166.142:8000/live/yeliz/180918/211455.m3u8
-#EXTINF:-1,FR: TCM CINEMA HD
-http://185.30.166.142:8000/live/yeliz/180918/2544.m3u8
-#EXTINF:-1,FR: POLAR+
-http://185.30.166.142:8000/live/yeliz/180918/130874.m3u8
-#EXTINF:-1,FR: CINE+ CLUB HD
-http://185.30.166.142:8000/live/yeliz/180918/8560.m3u8
-#EXTINF:-1,FR: M6 MUSIC
-http://185.30.166.142:8000/live/yeliz/180918/13880.m3u8
-#EXTINF:-1,FR: MCM
-http://185.30.166.142:8000/live/yeliz/180918/13903.m3u8
-#EXTINF:-1,FR: TRACE URBAN
-http://185.30.166.142:8000/live/yeliz/180918/3810.m3u8
-#EXTINF:-1,FR: MTV FRANCE
-http://185.30.166.142:8000/live/yeliz/180918/6038.m3u8
-#EXTINF:-1,FR: MTV DANCE
-http://185.30.166.142:8000/live/yeliz/180918/3811.m3u8
-#EXTINF:-1,FR: NRJ HITS
-http://185.30.166.142:8000/live/yeliz/180918/29906.m3u8
-#EXTINF:-1,FR: MCM TOP HD
-http://185.30.166.142:8000/live/yeliz/180918/136164.m3u8
-#EXTINF:-1,FR: Brava HD
-http://185.30.166.142:8000/live/yeliz/180918/65177.m3u8
-#EXTINF:-1,FR: MEZZO
-http://185.30.166.142:8000/live/yeliz/180918/94549.m3u8
-#EXTINF:-1,FR: NOLYWOOD
-http://185.30.166.142:8000/live/yeliz/180918/94565.m3u8
-#EXTINF:-1,FR: MTV HITS
-http://185.30.166.142:8000/live/yeliz/180918/172043.m3u8
-#EXTINF:-1,FR: TRACE URBAN
-http://185.30.166.142:8000/live/yeliz/180918/13215.m3u8
-#EXTINF:-1,FR: TRACE AFRICA
-http://185.30.166.142:8000/live/yeliz/180918/94574.m3u8
-#EXTINF:-1,FR: TRACE TROPICAL
-http://185.30.166.142:8000/live/yeliz/180918/94569.m3u8
-#EXTINF:-1,FR: TRACE GOSPEL
-http://185.30.166.142:8000/live/yeliz/180918/94573.m3u8
-#EXTINF:-1,FR: TRACE MZIKI
-http://185.30.166.142:8000/live/yeliz/180918/94572.m3u8
-#EXTINF:-1,FR: TRACE NAIJA
-http://185.30.166.142:8000/live/yeliz/180918/94571.m3u8
-#EXTINF:-1,FR: TRACE SPORT AND STAR
-http://185.30.166.142:8000/live/yeliz/180918/94568.m3u8
-#EXTINF:-1,FR: TRACE TOCA
-http://185.30.166.142:8000/live/yeliz/180918/94570.m3u8
-#EXTINF:-1,FR: TRACE KITOKO
-http://185.30.166.142:8000/live/yeliz/180918/187965.m3u8
-#EXTINF:-1,FR: PICKLE TV
-http://185.30.166.142:8000/live/yeliz/180918/129172.m3u8
-#EXTINF:-1,FR: DJAZZ TV HD
-http://185.30.166.142:8000/live/yeliz/180918/212532.m3u8
-#EXTINF:-1,FR: OKLM TV
-http://185.30.166.142:8000/live/yeliz/180918/212533.m3u8
-#EXTINF:-1,FR: Pitchoun TV HD
-http://185.30.166.142:8000/live/yeliz/180918/212534.m3u8
-#EXTINF:-1,FR: EURONEWS
-http://185.30.166.142:8000/live/yeliz/180918/13239.m3u8
+http://premium-iptv.link:7899/norberto/123456/1545
+
 #EXTINF:-1,FR: FRANCE 24
-http://185.30.166.142:8000/live/yeliz/180918/789.m3u8
-#EXTINF:-1,FR: CNEWS HD
-http://185.30.166.142:8000/live/yeliz/180918/1956.m3u8
-#EXTINF:-1,FR: CNEWS HD 1080
-http://185.30.166.142:8000/live/yeliz/180918/187827.m3u8
-#EXTINF:-1,FR: BFM TV HD
-http://185.30.166.142:8000/live/yeliz/180918/1958.m3u8
-#EXTINF:-1,FR: BFM TV HD 1080
-http://185.30.166.142:8000/live/yeliz/180918/187826.m3u8
-#EXTINF:-1,FR: I24 NEWS
-http://185.30.166.142:8000/live/yeliz/180918/73490.m3u8
-#EXTINF:-1,FR: MDL
-http://185.30.166.142:8000/live/yeliz/180918/194893.m3u8
-#EXTINF:-1,FR: RT
-http://185.30.166.142:8000/live/yeliz/180918/194892.m3u8
-#EXTINF:-1,FR: KTO
-http://185.30.166.142:8000/live/yeliz/180918/1207.m3u8
-#EXTINF:-1,FR: BEIN SPORT 1 FHD 1080
-http://185.30.166.142:8000/live/yeliz/180918/187813.m3u8
-#EXTINF:-1,FR: BEIN SPORT 1 HD
-http://185.30.166.142:8000/live/yeliz/180918/361.m3u8
-#EXTINF:-1,FR: BEIN SPORT 2 FHD 1080
-http://185.30.166.142:8000/live/yeliz/180918/187812.m3u8
-#EXTINF:-1,FR: BEIN SPORT 2 HD
-http://185.30.166.142:8000/live/yeliz/180918/362.m3u8
-#EXTINF:-1,FR: BEIN SPORT  3 FHD 1080
-http://185.30.166.142:8000/live/yeliz/180918/187811.m3u8
-#EXTINF:-1,FR: BEIN SPORT 3 HD
-http://185.30.166.142:8000/live/yeliz/180918/363.m3u8
-#EXTINF:-1,FR: BEIN SPORTS MAX 4 FHD 1080
-http://185.30.166.142:8000/live/yeliz/180918/187747.m3u8
-#EXTINF:-1,FR: BEIN SPORTS MAX 4 HD
-http://185.30.166.142:8000/live/yeliz/180918/8565.m3u8
-#EXTINF:-1,FR: BEIN SPORTS MAX FHD 5 1080
-http://185.30.166.142:8000/live/yeliz/180918/187746.m3u8
-#EXTINF:-1,FR: BEIN SPORT MAX HD 5
-http://185.30.166.142:8000/live/yeliz/180918/8566.m3u8
-#EXTINF:-1,FR: BEIN SPORTS MAX FHD 6 1080
-http://185.30.166.142:8000/live/yeliz/180918/187745.m3u8
-#EXTINF:-1,FR: BEIN SPORT MAX HD 6
-http://185.30.166.142:8000/live/yeliz/180918/8567.m3u8
-#EXTINF:-1,FR: BEIN SPORT MAX HD 7
-http://185.30.166.142:8000/live/yeliz/180918/73482.m3u8
-#EXTINF:-1,FR: BEIN SPORT MAX HD 8
-http://185.30.166.142:8000/live/yeliz/180918/73483.m3u8
-#EXTINF:-1,FR: BEIN SPORT MAX HD 9
-http://185.30.166.142:8000/live/yeliz/180918/73484.m3u8
-#EXTINF:-1,FR: BEIN SPORTS MAX  HD 10 (SL)
-http://185.30.166.142:8000/live/yeliz/180918/187741.m3u8
-#EXTINF:-1,FR: RMC SPORT 1 HD
-http://185.30.166.142:8000/live/yeliz/180918/7175.m3u8
-#EXTINF:-1,FR: RMC SPORT 1 FHD 1080
-http://185.30.166.142:8000/live/yeliz/180918/187799.m3u8
-#EXTINF:-1,FR: RMC SPORT 2 HD
-http://185.30.166.142:8000/live/yeliz/180918/7176.m3u8
-#EXTINF:-1,FR: RMC SPORT  2  HD 1080P
-http://185.30.166.142:8000/live/yeliz/180918/174965.m3u8
-#EXTINF:-1,FR: RMC SPORT 3 HD
-http://185.30.166.142:8000/live/yeliz/180918/7434.m3u8
-#EXTINF:-1,FR: RMC SPORT 4
-http://185.30.166.142:8000/live/yeliz/180918/137934.m3u8
-#EXTINF:-1,FR: RMC SPORT  4 FHD
-http://185.30.166.142:8000/live/yeliz/180918/176136.m3u8
-#EXTINF:-1,FR: RMC SPORT 5 HD
-http://185.30.166.142:8000/live/yeliz/180918/209453.m3u8
-#EXTINF:-1,FR: RMC ACCESS 1 FHD
-http://185.30.166.142:8000/live/yeliz/180918/161708.m3u8
-#EXTINF:-1,FR: RMC ACCESS  2 FHD
-http://185.30.166.142:8000/live/yeliz/180918/161707.m3u8
-#EXTINF:-1,FR: RMC ACCESS 3 FHD
-http://185.30.166.142:8000/live/yeliz/180918/161706.m3u8
-#EXTINF:-1,FR: RMC SPORT LIVE 8
-http://185.30.166.142:8000/live/yeliz/180918/187795.m3u8
-#EXTINF:-1,FR: RMC SPORT LIVE 9
-http://185.30.166.142:8000/live/yeliz/180918/187794.m3u8
-#EXTINF:-1,FR: CANAL+  SPORT HD 1080P
-http://185.30.166.142:8000/live/yeliz/180918/187549.m3u8
-#EXTINF:-1,FR: CANAL+  SPORT HD
-http://185.30.166.142:8000/live/yeliz/180918/356.m3u8
-#EXTINF:-1,FR: RMC SPORT NEWS HD
-http://185.30.166.142:8000/live/yeliz/180918/171465.m3u8
-#EXTINF:-1,FR: L EQUIPE 21 HD
-http://185.30.166.142:8000/live/yeliz/180918/1488.m3u8
-#EXTINF:-1,FR: EQUIDIA LIVE
-http://185.30.166.142:8000/live/yeliz/180918/1491.m3u8
-#EXTINF:-1,FR: GOLF+  HD
-http://185.30.166.142:8000/live/yeliz/180918/187808.m3u8
-#EXTINF:-1,FR: GOLF CHANNEL
-http://185.30.166.142:8000/live/yeliz/180918/8653.m3u8
-#EXTINF:-1,FR: Man's.UP
-http://185.30.166.142:8000/live/yeliz/180918/208281.m3u8
-#EXTINF:-1,FR: MusculationTV
-http://185.30.166.142:8000/live/yeliz/180918/208279.m3u8
-#EXTINF:-1,FR: AB MOTEURS
-http://185.30.166.142:8000/live/yeliz/180918/3829.m3u8
-#EXTINF:-1,FR: VICELAND
-http://185.30.166.142:8000/live/yeliz/180918/145644.m3u8
-#EXTINF:-1,FR: ELEVEN SPORT 1 HD
-http://185.30.166.142:8000/live/yeliz/180918/177799.m3u8
-#EXTINF:-1,FR: MULTISPORTS 1 FHD 1080
-http://185.30.166.142:8000/live/yeliz/180918/187807.m3u8
-#EXTINF:-1,FR: MULTISPORTS 2 FHD 1080
-http://185.30.166.142:8000/live/yeliz/180918/187806.m3u8
-#EXTINF:-1,FR: MULTISPORTS 5 FHD 1080
-http://185.30.166.142:8000/live/yeliz/180918/187803.m3u8
-#EXTINF:-1,FR: AUTOMOTO LA CHAINE HD (SL)
-http://185.30.166.142:8000/live/yeliz/180918/188511.m3u8
-#EXTINF:-1,FR: GULLI HD 1080
-http://185.30.166.142:8000/live/yeliz/180918/187828.m3u8
-#EXTINF:-1,FR: LCP HD 1080
-http://185.30.166.142:8000/live/yeliz/180918/187829.m3u8
-#EXTINF:-1,FR: TRACE TROPICAL HD (SL)
-http://185.30.166.142:8000/live/yeliz/180918/187791.m3u8
-#EXTINF:-1,FR: WARNER TV FHD 1080
-http://185.30.166.142:8000/live/yeliz/180918/188532.m3u8
-#EXTINF:-1,FR: CHASSE ET PÊCHE HD (SL)
-http://185.30.166.142:8000/live/yeliz/180918/188518.m3u8
-#EXTINF:-1,FR: CINE+ CLUB HD 1080
-http://185.30.166.142:8000/live/yeliz/180918/188535.m3u8
-#EXTINF:-1,FR: CSTAR HITS FRANCE
-http://185.30.166.142:8000/live/yeliz/180918/188521.m3u8
-#EXTINF:-1,FR: EQUIDIA FHD 1080
-http://185.30.166.142:8000/live/yeliz/180918/188530.m3u8
-#EXTINF:-1,FR: EXTREME SPORTS FHD 1080
-http://185.30.166.142:8000/live/yeliz/180918/188528.m3u8
-#EXTINF:-1,FR: FOOT  24/24 HD
-http://185.30.166.142:8000/live/yeliz/180918/188522.m3u8
-#EXTINF:-1,FR: MELODY FHD 1080
-http://185.30.166.142:8000/live/yeliz/180918/188526.m3u8
-#EXTINF:-1,FR: PLANETE  A&E HD (SL)
-http://185.30.166.142:8000/live/yeliz/180918/188538.m3u8
-#EXTINF:-1,FR: VICELAND HD (SL)
-http://185.30.166.142:8000/live/yeliz/180918/188513.m3u8
-#EXTINF:-1,FR: RMC SPORT UHD
-http://185.30.166.142:8000/live/yeliz/180918/198241.m3u8
-#EXTINF:-1,FR: PARAMOUNT DECALE FHD 1080
-http://185.30.166.142:8000/live/yeliz/180918/199989.m3u8
-#EXTINF:-1,FR: PARAMOUNT DECALE HD
-http://185.30.166.142:8000/live/yeliz/180918/199990.m3u8
-#EXTINF:-1,FR: SL CINEMA 2019 HD
-http://185.30.166.142:8000/live/yeliz/180918/198913.m3u8
-#EXTINF:-1,FR: SL CINEMA 1 2019 HD
-http://185.30.166.142:8000/live/yeliz/180918/199459.m3u8
-#EXTINF:-1,FR: SL CINEMA 2 2019 HD
-http://185.30.166.142:8000/live/yeliz/180918/200745.m3u8
-#EXTINF:-1,FR: SL CINEMA ACTION HD
-http://185.30.166.142:8000/live/yeliz/180918/169318.m3u8
-#EXTINF:-1,FR: SL CINEMA ACTION 2 HD
-http://185.30.166.142:8000/live/yeliz/180918/169336.m3u8
-#EXTINF:-1,FR: SL CINEMA ACTION 3 HD
-http://185.30.166.142:8000/live/yeliz/180918/211958.m3u8
-#EXTINF:-1,FR: SL CINEMA PREMIUM HD
-http://185.30.166.142:8000/live/yeliz/180918/169320.m3u8
-#EXTINF:-1,FR: SL CINEMA PREMIUM HORREUR 1 HD
-http://185.30.166.142:8000/live/yeliz/180918/187678.m3u8
-#EXTINF:-1,FR: SL CINEMA GOLD HD
-http://185.30.166.142:8000/live/yeliz/180918/169319.m3u8
-#EXTINF:-1,FR: SL CINEMA COMEDY HD
-http://185.30.166.142:8000/live/yeliz/180918/169321.m3u8
-#EXTINF:-1,FR: SL CINEMA COMEDY 2 HD
-http://185.30.166.142:8000/live/yeliz/180918/212616.m3u8
-#EXTINF:-1,FR: SL CINEMA DRAME 1 HD
-http://185.30.166.142:8000/live/yeliz/180918/169335.m3u8
-#EXTINF:-1,FR: CINE OFFICE 1 ACTION HD
-http://185.30.166.142:8000/live/yeliz/180918/212571.m3u8
-#EXTINF:-1,FR: CINE OFFICE 2 COMEDY HD
-http://185.30.166.142:8000/live/yeliz/180918/212570.m3u8
-#EXTINF:-1,FR: CINE OFFICE 3 ARTS MARCIAUX HD
-http://185.30.166.142:8000/live/yeliz/180918/212572.m3u8
-#EXTINF:-1,FR: CINE OFFICE 4 BIOPIC HD
-http://185.30.166.142:8000/live/yeliz/180918/212610.m3u8
-#EXTINF:-1,FR: CINE OFFICE 5 DOCUMENTAIRES HD
-http://185.30.166.142:8000/live/yeliz/180918/212593.m3u8
-#EXTINF:-1,FR: CINE OFFICE 6 GUERRE HD
-http://185.30.166.142:8000/live/yeliz/180918/212615.m3u8
-#EXTINF:-1,FR: CINE OFFICE 7 Walt Disney HD
-http://185.30.166.142:8000/live/yeliz/180918/212617.m3u8
-#EXTINF:-1,FR: CINE OFFICE 8 Policier HD
-http://185.30.166.142:8000/live/yeliz/180918/212625.m3u8
+http://premium-iptv.link:7899/norberto/123456/1551
+#EXTINF:-1,FR: France 03 HD (1080P)
+http://premium-iptv.link:7899/norberto/123456/8340
+#EXTINF:-1,AR: France 24 AR
+http://premium-iptv.link:7899/norberto/123456/559
+#EXTINF:-1,FR: BOOMERANG HD
+http://premium-iptv.link:7899/norberto/123456/5863
+#EXTINF:-1,FR:  Cartoon Network HD
+http://premium-iptv.link:7899/norberto/123456/1547
+#EXTINF:-1,FR: Discovery Science HD
+http://premium-iptv.link:7899/norberto/123456/1528
+#EXTINF:-1,FR:  Disney Jr Fr
+http://premium-iptv.link:7899/norberto/123456/1546
+#EXTINF:-1,FR:  Nat Geo HD
+http://premium-iptv.link:7899/norberto/123456/1535
+#EXTINF:-1,FR:  Nat Geo Wild  HD
+http://premium-iptv.link:7899/norberto/123456/1534
+#EXTINF:-1,FR:  NRJ12 HD
+http://premium-iptv.link:7899/norberto/123456/1540
+#EXTINF:-1,FR: 13 EME RUE HD
+http://premium-iptv.link:7899/norberto/123456/4961
+#EXTINF:-1,FR: 6TER HD
+http://premium-iptv.link:7899/norberto/123456/248
+#EXTINF:-1,FR: A LA CARTE 10
+http://premium-iptv.link:7899/norberto/123456/1554
+#EXTINF:-1,FR: A LA CARTE 7
+http://premium-iptv.link:7899/norberto/123456/1557
+#EXTINF:-1,FR: A LA CARTE 8
+http://premium-iptv.link:7899/norberto/123456/1556
+#EXTINF:-1,FR: A LA CARTE 9
+http://premium-iptv.link:7899/norberto/123456/1555
+#EXTINF:-1,FR: AB Moteur HD
+http://premium-iptv.link:7899/norberto/123456/4976
+#EXTINF:-1,FR: AB1
+http://premium-iptv.link:7899/norberto/123456/4966
+#EXTINF:-1,FR: AB3
+http://premium-iptv.link:7899/norberto/123456/4968
+#EXTINF:-1,FR: ACTION
+http://premium-iptv.link:7899/norberto/123456/4973
+#EXTINF:-1,FR: ANIMAUX
+http://premium-iptv.link:7899/norberto/123456/4985
+#EXTINF:-1,FR: ARTE HD
+http://premium-iptv.link:7899/norberto/123456/4405
+#EXTINF:-1,FR: Bein Sport Max 5
+http://premium-iptv.link:7899/norberto/123456/5618
+#EXTINF:-1,FR: Bein Sport Max 10
+http://premium-iptv.link:7899/norberto/123456/5623
+#EXTINF:-1,FR: C8
+http://premium-iptv.link:7899/norberto/123456/4993
+#EXTINF:-1,FR: CANAL PLAY 1
+http://premium-iptv.link:7899/norberto/123456/3749
+#EXTINF:-1,FR: CANAL PLAY 2
+http://premium-iptv.link:7899/norberto/123456/3748
+#EXTINF:-1,FR: CANAL PLAY 3
+http://premium-iptv.link:7899/norberto/123456/3747
+#EXTINF:-1,FR: CANAL PLAY 4
+http://premium-iptv.link:7899/norberto/123456/3746
+#EXTINF:-1,FR: CANAL PLAY 5
+http://premium-iptv.link:7899/norberto/123456/3745
+#EXTINF:-1,FR: La une BE
+http://premium-iptv.link:7899/norberto/123456/3730#EXTINF:-1,FR: La Deux
+http://premium-iptv.link:7899/norberto/123456/3731
+#EXTINF:-1,FR: Chasse et Peche
+http://premium-iptv.link:7899/norberto/123456/3742
+#EXTINF:-1,FR: CHERIE 25 HD
+http://premium-iptv.link:7899/norberto/123456/4958
+#EXTINF:-1,FR: CINE CLASSIC HD
+http://premium-iptv.link:7899/norberto/123456/3733
+#EXTINF:-1,FR: CINE EMOTION
+http://premium-iptv.link:7899/norberto/123456/4971
+#EXTINF:-1,FR: CINE EMOTION HD
+http://premium-iptv.link:7899/norberto/123456/3738
+#EXTINF:-1,FR: CINE FAMIZ
+http://premium-iptv.link:7899/norberto/123456/3737
+#EXTINF:-1,FR: Cine Famiz HD
+http://premium-iptv.link:7899/norberto/123456/4972
+#EXTINF:-1,FR: CINE FRISSON
+http://premium-iptv.link:7899/norberto/123456/3736
+#EXTINF:-1,FR: CINE FRISSON HD
+http://premium-iptv.link:7899/norberto/123456/4970
+#EXTINF:-1,FR: CINE POLAR
+http://premium-iptv.link:7899/norberto/123456/3735
+#EXTINF:-1,FR: CINE PREMIER HD
+http://premium-iptv.link:7899/norberto/123456/3734
+#EXTINF:-1,FR: COMEDIE  HD
+http://premium-iptv.link:7899/norberto/123456/1539
+#EXTINF:-1,FR: Comedie +
+http://premium-iptv.link:7899/norberto/123456/4964
+#EXTINF:-1,FR: CSTAR HD
+http://premium-iptv.link:7899/norberto/123456/4992
+#EXTINF:-1,FR: CANAL+ HD
+http://premium-iptv.link:7899/norberto/123456/250
+#EXTINF:-1,FR: BFM TV
+http://premium-iptv.link:7899/norberto/123456/1549
+#EXTINF:-1,FR: GULLI HD
+http://premium-iptv.link:7899/norberto/123456/4957
+#EXTINF:-1,FR: GAME ONE
+http://premium-iptv.link:7899/norberto/123456/4967
+#EXTINF:-1,FR: EUROSPORT2
+http://premium-iptv.link:7899/norberto/123456/1542
+#EXTINF:-1,FR: Eurosport 2
+http://premium-iptv.link:7899/norberto/123456/4975
+#EXTINF:-1,FR: Eurosport 1
+http://premium-iptv.link:7899/norberto/123456/1541
+#EXTINF:-1,FR: EQUIDIA live
+http://premium-iptv.link:7899/norberto/123456/4990
+#EXTINF:-1,FR: Disney XD HD
+http://premium-iptv.link:7899/norberto/123456/1553
+#EXTINF:-1,FR: DISNEY CINEMA
+http://premium-iptv.link:7899/norberto/123456/1543
+#EXTINF:-1,FR: DISNEY CHANNEL
+http://premium-iptv.link:7899/norberto/123456/1544
+#EXTINF:-1,FR: i Tele
+http://premium-iptv.link:7899/norberto/123456/4956
+#EXTINF:-1,FR: INFOSPORT
+http://premium-iptv.link:7899/norberto/123456/4978
+#EXTINF:-1,FR: L'EQUIPE 21
+http://premium-iptv.link:7899/norberto/123456/4977
+
+#EXTINF:-1,FR: LCI
+http://premium-iptv.link:7899/norberto/123456/4955
+#EXTINF:-1,FR: National geo wild
+http://premium-iptv.link:7899/norberto/123456/3727
+#EXTINF:-1,FR: NICKELODEON JUNIOR
+http://premium-iptv.link:7899/norberto/123456/1533
+#EXTINF:-1,FR: NRJ Hits
+http://premium-iptv.link:7899/norberto/123456/3726
+#EXTINF:-1,FR: NUMERO 23 HD
+http://premium-iptv.link:7899/norberto/123456/1527
+#EXTINF:-1,FR: OCS CHOC HD
+http://premium-iptv.link:7899/norberto/123456/4969
+#EXTINF:-1,FR: OCS CITY
+http://premium-iptv.link:7899/norberto/123456/261
+#EXTINF:-1,FR: OCS GEANT
+http://premium-iptv.link:7899/norberto/123456/260
+#EXTINF:-1,FR: OCS MAX
+http://premium-iptv.link:7899/norberto/123456/259
+#EXTINF:-1,FR: PARAMOUNT CHANNEL HD
+http://premium-iptv.link:7899/norberto/123456/1537
+#EXTINF:-1,FR: PARIS PREMIERE  HD
+http://premium-iptv.link:7899/norberto/123456/1538
+#EXTINF:-1,FR: PARIS PREMIERE HD
+http://premium-iptv.link:7899/norberto/123456/4959
+#EXTINF:-1,FR: PIWI HD
+http://premium-iptv.link:7899/norberto/123456/4988
+#EXTINF:-1,FR: PLANETE  HD
+http://premium-iptv.link:7899/norberto/123456/4981
+#EXTINF:-1,FR: PLANETE A&E HD
+http://premium-iptv.link:7899/norberto/123456/4983
+#EXTINF:-1,FR: PLANETE CI HD
+http://premium-iptv.link:7899/norberto/123456/4982
+#EXTINF:-1,FR: rmc decouverte
+http://premium-iptv.link:7899/norberto/123456/1536
+#EXTINF:-1,FR: RTS Deux
+http://premium-iptv.link:7899/norberto/123456/3721
+#EXTINF:-1,FR: RTS Un
+http://premium-iptv.link:7899/norberto/123456/3720
+#EXTINF:-1,FR: SCIENCE ET VIE HD
+http://premium-iptv.link:7899/norberto/123456/4987
+#EXTINF:-1,FR: SCIENCES & VIE
+http://premium-iptv.link:7899/norberto/123456/4986
+#EXTINF:-1,FR: SERIE CLUB
+http://premium-iptv.link:7899/norberto/123456/3719
+#EXTINF:-1,FR: Series Club HD
+http://premium-iptv.link:7899/norberto/123456/4962
+#EXTINF:-1,FR: beINS PORTS 2HD
+http://premium-iptv.link:7899/norberto/123456/445
+#EXTINF:-1,FR: beIN SPORTS1 HD
+http://premium-iptv.link:7899/norberto/123456/444
+#EXTINF:-1,FR: beIN SPORTS 3HD
+http://premium-iptv.link:7899/norberto/123456/446
+#EXTINF:-1,FR: SFR: Sport 1
+http://premium-iptv.link:7899/norberto/123456/3715
+#EXTINF:-1,FR: SFR: Sport 2
+http://premium-iptv.link:7899/norberto/123456/3713
+#EXTINF:-1,FR: SFR: Sport 3
+http://premium-iptv.link:7899/norberto/123456/3714
+#EXTINF:-1,FR: Syfy HD
+http://premium-iptv.link:7899/norberto/123456/4963
+#EXTINF:-1,FR: Teva
+http://premium-iptv.link:7899/norberto/123456/4960
+#EXTINF:-1,FR: Tiji
+http://premium-iptv.link:7899/norberto/123456/4989
+#EXTINF:-1,FR: TOUTE L HISTOIRE
+http://premium-iptv.link:7899/norberto/123456/4984
+#EXTINF:-1,FR: TV BREIZH HD
+http://premium-iptv.link:7899/norberto/123456/4965
+#EXTINF:-1,FR: USHUAIA  HD
+http://premium-iptv.link:7899/norberto/123456/1531
+#EXTINF:-1,FR: Zouzou TV LOCAL
+http://premium-iptv.link:7899/norberto/123456/4996
+#EXTINF:-1,FR: A LA CARTE 5
+http://premium-iptv.link:7899/norberto/123456/1559
+#EXTINF:-1,FR: A la Carte 6
+http://premium-iptv.link:7899/norberto/123456/1558
+#EXTINF:-1,FR:A.LA.CARTE.1
+http://premium-iptv.link:7899/norberto/123456/1561
+#EXTINF:-1,FR: A.LA.CARTE.3
+http://premium-iptv.link:7899/norberto/123456/1562
+#EXTINF:-1,FR: A.LA.CARTE.4
+http://premium-iptv.link:7899/norberto/123456/1560
+#EXTINF:-1,FR: CINE PREMIER
+http://premium-iptv.link:7899/norberto/123456/257
+#EXTINF:-1,FR: NICKELODEON HD
+http://premium-iptv.link:7899/norberto/123456/5862
+#EXTINF:-1,FR: TRACE URBAN
+http://premium-iptv.link:7899/norberto/123456/6691
+#EXTINF:-1,VIP FR: ARTE HD ( 1080P )
+http://premium-iptv.link:7899/norberto/123456/6734
+#EXTINF:-1,VIP FR: BRAVA HD ( 1080P )
+http://premium-iptv.link:7899/norberto/123456/6743
+#EXTINF:-1,VIP FR: TMC HD ( 1080P )
+http://premium-iptv.link:7899/norberto/123456/6738
+#EXTINF:-1,FR: DISNEY CHANNEL FHD 1080
+http://premium-iptv.link:7899/norberto/123456/6975
+#EXTINF:-1,VIP FR: Eurosport 2 FHD 1080
+http://premium-iptv.link:7899/norberto/123456/6974
+#EXTINF:-1,FR:NT1
+http://premium-iptv.link:7899/norberto/123456/244
+#EXTINF:-1,FR:TCM CINEMA
+http://premium-iptv.link:7899/norberto/123456/4974
+#EXTINF:-1,FR: TEVA/TMC
+http://premium-iptv.link:7899/norberto/123456/245
+#EXTINF:-1,FR:TV5 MONDE
+http://premium-iptv.link:7899/norberto/123456/1552
+#EXTINF:-1,FR: DISCOVERY
+http://premium-iptv.link:7899/norberto/123456/3732
+#EXTINF:-1,FR: VOYAGE HD
+http://premium-iptv.link:7899/norberto/123456/1532
+#EXTINF:-1,FR: BFM SPORT
+http://premium-iptv.link:7899/norberto/123456/7848
+#EXTINF:-1,FR: GOLF+ HD
+http://premium-iptv.link:7899/norberto/123456/8093
+#EXTINF:-1,FR: EQUIDIA LIFE
+http://premium-iptv.link:7899/norberto/123456/8238
+#EXTINF:-1,FR: BE CURIOUS TV HD (1080P)
+http://premium-iptv.link:7899/norberto/123456/8327
+#EXTINF:-1,FR: BeIN SPORTS 1 HD (1080P)
+http://premium-iptv.link:7899/norberto/123456/8310
+#EXTINF:-1,FR: BeIN SPORTS 2 HD (1080P)
+http://premium-iptv.link:7899/norberto/123456/8309
+#EXTINF:-1,FR: BeIN SPORTS 3 HD (1080P)
+http://premium-iptv.link:7899/norberto/123456/8308
+#EXTINF:-1,FR: CANAL +  HD (1080P)
+http://premium-iptv.link:7899/norberto/123456/8326
+#EXTINF:-1,FR: Canal  Sport HD (1080P)
+http://premium-iptv.link:7899/norberto/123456/8311
+#EXTINF:-1,FR: CANAL CINEMA HD (1080P)
+http://premium-iptv.link:7899/norberto/123456/8323
+#EXTINF:-1,FR: Cartoon Network HD (1080P)
+http://premium-iptv.link:7899/norberto/123456/8312
+#EXTINF:-1,FR: Cine Frisson HD (1080P)
+http://premium-iptv.link:7899/norberto/123456/8320
+#EXTINF:-1,FR: HD1 HD (1080P)
+http://premium-iptv.link:7899/norberto/123456/8328
+#EXTINF:-1,FR: M6 HD (1080P)
+http://premium-iptv.link:7899/norberto/123456/8337
+#EXTINF:-1,FR: Discovery Investigation HD
+http://premium-iptv.link:7899/norberto/123456/8389
+#EXTINF:-1,FR: BFM business
+http://premium-iptv.link:7899/norberto/123456/8404
+#EXTINF:-1,FR: E! Entertainment
+http://premium-iptv.link:7899/norberto/123456/8516
+#EXTINF:-1,FR: SFR SPORT 3 backup
+http://premium-iptv.link:7899/norberto/123456/8629
+#EXTINF:-1,FR: SFR2 SPORT HD (backup)
+http://premium-iptv.link:7899/norberto/123456/8628
+#EXTINF:-1,FR: Bein Sports 1 HD backup
+http://premium-iptv.link:7899/norberto/123456/8803
+#EXTINF:-1,FR: CRIME DISTRICT HD
+http://premium-iptv.link:7899/norberto/123456/8805
+#EXTINF:-1,FR: MCM
+http://premium-iptv.link:7899/norberto/123456/9162
+#EXTINF:-1,FR: MCM TOP
+http://premium-iptv.link:7899/norberto/123456/9163
+#EXTINF:-1,FR: Seasons
+http://premium-iptv.link:7899/norberto/123456/9440
+#EXTINF:-1,FR: beIN SPORTS 2 backup
+http://premium-iptv.link:7899/norberto/123456/16105
+#EXTINF:-1,FR: FOOT+ 24
+http://premium-iptv.link:7899/norberto/123456/16098
+#EXTINF:-1,FR: Nautical Channel HD
+http://premium-iptv.link:7899/norberto/123456/16097
+#EXTINF:-1,FR: CNews HD
+http://premium-iptv.link:7899/norberto/123456/17072
+#EXTINF:-1,FR: ALTICE STUDIO HD
+http://premium-iptv.link:7899/norberto/123456/17197
+#EXTINF:-1,FR: BET
+http://premium-iptv.link:7899/norberto/123456/17199
+#EXTINF:-1,FR: J One
+http://premium-iptv.link:7899/norberto/123456/17198
+#EXTINF:-1,FR: My Cuisine FHD
+http://premium-iptv.link:7899/norberto/123456/17201
 #EXTINF:-1,FR: OCS Go Cinema 1 HD
-http://185.30.166.142:8000/live/yeliz/180918/129204.m3u8
+http://premium-iptv.link:7899/norberto/123456/17300
+#EXTINF:-1,FR: OCS Go Cinema 3 HD
+http://premium-iptv.link:7899/norberto/123456/17298
 #EXTINF:-1,FR: OCS Go Cinema 4 HD
-http://185.30.166.142:8000/live/yeliz/180918/129201.m3u8
+http://premium-iptv.link:7899/norberto/123456/17297
+#EXTINF:-1,FR: OCS Go Cinema 5 HD
+http://premium-iptv.link:7899/norberto/123456/17296
 #EXTINF:-1,FR: Orange Cinema 1 HD
-http://185.30.166.142:8000/live/yeliz/180918/129199.m3u8
+http://premium-iptv.link:7899/norberto/123456/17295
 #EXTINF:-1,FR: Orange Cinema 2 HD
-http://185.30.166.142:8000/live/yeliz/180918/129198.m3u8
+http://premium-iptv.link:7899/norberto/123456/17294
 #EXTINF:-1,FR: Orange Cinema 3 HD
-http://185.30.166.142:8000/live/yeliz/180918/129197.m3u8
+http://premium-iptv.link:7899/norberto/123456/17293
+#EXTINF:-1,FR: Orange Cinema 4 HD
+http://premium-iptv.link:7899/norberto/123456/17292
 #EXTINF:-1,FR: Orange Cinema 5 HD
-http://185.30.166.142:8000/live/yeliz/180918/129195.m3u8
+http://premium-iptv.link:7899/norberto/123456/17291
 #EXTINF:-1,FR: Orange Cinema Action HD
-http://185.30.166.142:8000/live/yeliz/180918/129194.m3u8
+http://premium-iptv.link:7899/norberto/123456/17290
 #EXTINF:-1,FR: Orange Cinema Aventure HD
-http://185.30.166.142:8000/live/yeliz/180918/129193.m3u8
+http://premium-iptv.link:7899/norberto/123456/17289
 #EXTINF:-1,FR: Orange Cinema HD
-http://185.30.166.142:8000/live/yeliz/180918/129192.m3u8
+http://premium-iptv.link:7899/norberto/123456/17288
+#EXTINF:-1,FR: Orange Cinema Horreur HD
+http://premium-iptv.link:7899/norberto/123456/17287
 #EXTINF:-1,FR: Orange Comment C'Est Fait HD
-http://185.30.166.142:8000/live/yeliz/180918/129190.m3u8
-#EXTINF:-1,FR: A LA CARTE 1 HD
-http://185.30.166.142:8000/live/yeliz/180918/3830.m3u8
-#EXTINF:-1,FR: A LA CARTE 2 HD
-http://185.30.166.142:8000/live/yeliz/180918/3831.m3u8
-#EXTINF:-1,FR: A LA CARTE 3 HD
-http://185.30.166.142:8000/live/yeliz/180918/3832.m3u8
-#EXTINF:-1,FR: A LA CARTE 8 HD
-http://185.30.166.142:8000/live/yeliz/180918/150671.m3u8
-#EXTINF:-1,FR: A LA CARTE 9 HD
-http://185.30.166.142:8000/live/yeliz/180918/150672.m3u8
-#EXTINF:-1,FR: A LA CARTE 10 HD
-http://185.30.166.142:8000/live/yeliz/180918/150673.m3u8
-#EXTINF:-1,FR: CANALPLAY 1
-http://185.30.166.142:8000/live/yeliz/180918/2126.m3u8
-#EXTINF:-1,FR: CANALPLAY 2
-http://185.30.166.142:8000/live/yeliz/180918/2127.m3u8
-#EXTINF:-1,FR: CANALPLAY 3
-http://185.30.166.142:8000/live/yeliz/180918/2128.m3u8
-#EXTINF:-1,FR: CANALPLAY 4
-http://185.30.166.142:8000/live/yeliz/180918/2129.m3u8
-#EXTINF:-1,FR: CANALPLAY 5
-http://185.30.166.142:8000/live/yeliz/180918/2130.m3u8
-#EXTINF:-1,BE: LA UNE HD
-http://185.30.166.142:8000/live/yeliz/180918/8323.m3u8
-#EXTINF:-1,BE: LA DEUX
-http://185.30.166.142:8000/live/yeliz/180918/8324.m3u8
-#EXTINF:-1,BE: LA TROIS
-http://185.30.166.142:8000/live/yeliz/180918/8325.m3u8
-#EXTINF:-1,BE: RTL TVI HD
-http://185.30.166.142:8000/live/yeliz/180918/8326.m3u8
-#EXTINF:-1,BE: PLUG RTL
-http://185.30.166.142:8000/live/yeliz/180918/8328.m3u8
-#EXTINF:-1,BE: CLUB RTL
-http://185.30.166.142:8000/live/yeliz/180918/8327.m3u8
-#EXTINF:-1,BE: ZES
-http://185.30.166.142:8000/live/yeliz/180918/193172.m3u8
-#EXTINF:-1,BE: AB3
-http://185.30.166.142:8000/live/yeliz/180918/12516.m3u8
-#EXTINF:-1,BE: BX1
-http://185.30.166.142:8000/live/yeliz/180918/87266.m3u8
-#EXTINF:-1,BE: CANAL C NAMUR
-http://185.30.166.142:8000/live/yeliz/180918/79486.m3u8
-#EXTINF:-1,BE: VOO SPORT 1 HD
-http://185.30.166.142:8000/live/yeliz/180918/29905.m3u8
-#EXTINF:-1,BE: Elevensport 1
-http://185.30.166.142:8000/live/yeliz/180918/134209.m3u8
-#EXTINF:-1,BE: Elevensport 2
-http://185.30.166.142:8000/live/yeliz/180918/134210.m3u8
-#EXTINF:-1,BE: EEN FHD
-http://185.30.166.142:8000/live/yeliz/180918/8572.m3u8
-#EXTINF:-1,BE: KETNET
-http://185.30.166.142:8000/live/yeliz/180918/8578.m3u8
-#EXTINF:-1,BE: Q2 FHD
-http://185.30.166.142:8000/live/yeliz/180918/14479.m3u8
-#EXTINF:-1,BE: Contact TV
-http://185.30.166.142:8000/live/yeliz/180918/198446.m3u8
-#EXTINF:-1,-----SUISSE SWITZERLAND-----
-http://185.30.166.142:8000/live/yeliz/180918/135930.m3u8
-#EXTINF:-1,CH: RTS 1 HD
-http://185.30.166.142:8000/live/yeliz/180918/3656.m3u8
-#EXTINF:-1,CH: SRF INFO
-http://185.30.166.142:8000/live/yeliz/180918/134401.m3u8
-#EXTINF:-1,CH: SRF 1 HD
-http://185.30.166.142:8000/live/yeliz/180918/7447.m3u8
-#EXTINF:-1,CH: SRF 2 HD
-http://185.30.166.142:8000/live/yeliz/180918/7448.m3u8
-#EXTINF:-1,CH: RSI LA 1 HD
-http://185.30.166.142:8000/live/yeliz/180918/7869.m3u8
-#EXTINF:-1,CH: RSI LA 2 HD
-http://185.30.166.142:8000/live/yeliz/180918/7870.m3u8
-#EXTINF:-1,CH: TV 24  HD
-http://185.30.166.142:8000/live/yeliz/180918/134407.m3u8
-#EXTINF:-1,CH: TV 25  HD
-http://185.30.166.142:8000/live/yeliz/180918/134408.m3u8
-#EXTINF:-1,CH: 4+  HD
-http://185.30.166.142:8000/live/yeliz/180918/134404.m3u8
-#EXTINF:-1,CH: 5+  HD
-http://185.30.166.142:8000/live/yeliz/180918/134405.m3u8
-#EXTINF:-1,CH: Tele Basel
-http://185.30.166.142:8000/live/yeliz/180918/137451.m3u8
-#EXTINF:-1,CH: Puls 8 HD
-http://185.30.166.142:8000/live/yeliz/180918/134406.m3u8
-#EXTINF:-1,CH: Teleclub EMOTION HD+
-http://185.30.166.142:8000/live/yeliz/180918/133924.m3u8
-#EXTINF:-1,CH: Teleclub Cinema HD++
-http://185.30.166.142:8000/live/yeliz/180918/133925.m3u8
-#EXTINF:-1,CH: Teleclub Cinema HD+
-http://185.30.166.142:8000/live/yeliz/180918/133923.m3u8
+http://premium-iptv.link:7899/norberto/123456/17286
+#EXTINF:-1,FR: Orange Enquete Exlusive HD
+http://premium-iptv.link:7899/norberto/123456/17284
+#EXTINF:-1,FR: Orange Documentaire HD
+http://premium-iptv.link:7899/norberto/123456/17285
+#EXTINF:-1,FR: Bein max 4(1)
+http://premium-iptv.link:7899/norberto/123456/2865
+#EXTINF:-1,FR : EURONEWS
+http://premium-iptv.link:7899/norberto/123456/1550
+#EXTINF:-1,FR: RTL9
+http://premium-iptv.link:7899/norberto/123456/246
+#EXTINF:-1,FR: TELETOON +
+http://premium-iptv.link:7899/norberto/123456/1548
+#EXTINF:-1,FR: W9
+http://premium-iptv.link:7899/norberto/123456/341
