@@ -10,8 +10,8 @@ http://siptv-online.com:8789/live/19865/19865/39473.m3u8
 http://siptv-online.com:8789/live/19865/19865/39472.m3u8
 #EXTINF:-1,|FR| FRANCE 5 (SD)
 http://siptv-online.com:8789/live/19865/19865/39471.m3u8
-#EXTINF:-1,|FR| M6 (SD)
-http://siptv-online.com:8789/live/19865/19865/39470.m3u8
+#EXTINF:-1,M6
+https://s1.tntendirect.com/m6/live/playlist.m3u8
 #EXTINF:-1,TFX
 https://s1.tntendirect.com/nt1/live/playlist.m3u8
 #EXTINF:-1,TMC
