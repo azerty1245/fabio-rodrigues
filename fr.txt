@@ -12,6 +12,10 @@ http://siptv-online.com:8789/live/19865/19865/39472.m3u8
 http://siptv-online.com:8789/live/19865/19865/39471.m3u8
 #EXTINF:-1,|FR| M6 (SD)
 http://siptv-online.com:8789/live/19865/19865/39470.m3u8
+#EXTINF:-1,TFX
+https://s1.tntendirect.com/nt1/live/playlist.m3u8
+#EXTINF:-1,TMC
+https://s1.tntendirect.com/tmc/live/playlist.m3u8
 #EXTINF:-1,|FR| ARTE (SD)
 http://siptv-online.com:8789/live/19865/19865/39469.m3u8
 #EXTINF:-1,|FR| CANAL  (SD)
