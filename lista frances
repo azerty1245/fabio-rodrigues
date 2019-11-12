@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,TF1 HD
-http://gtv2.tn:8000/live/8020763039/3648287670/263.ts
+#EXTINF:-1 group-title="CHAINES FRANCAISES",FR TF1 HD
+http://gtv2.tn:8000/live/issam/issam/263.ts
 #EXTINF:-1 group-title="CHAINES FRANCAISES",FR 6TER HD
 http://gtv2.tn:8000/live/issam/issam/365.ts
 #EXTINF:-1 group-title="CHAINES FRANCAISES",FR 13EME RUE HD
