@@ -1,583 +1,806 @@
-#EXTM3U
-#EXTINF:-1 ,|FR| TFX FHD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/50641.m3u8
-#EXTINF:-1 ,|FR| TFX HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/50639.m3u8
-#EXTINF:-1 ,|FR|  NRJ12 HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9366.m3u8
-#EXTINF:-1 ,|FR| NRJ12 HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15142.m3u8
-#EXTINF:-1 ,|FR| NRJ12 FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9521.m3u8
-#EXTINF:-1 ,|FR| France 4  HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9274.m3u8
-#EXTINF:-1 ,|FR| FRANCE 4 FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9544.m3u8
-#EXTINF:-1 ,|FR| FRANCE 4 FHD BKP
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/51176.m3u8
-#EXTINF:-1 ,|FR| CNEWS FHD BKP
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/51147.m3u8
-#EXTINF:-1 ,|FR| CSTAR HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15182.m3u8
-#EXTINF:-1 ,|FR| CSTAR FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9561.m3u8
-#EXTINF:-1 ,|FR| CSTAR FHD BKP
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/51151.m3u8
-#EXTINF:-1 ,|FR| France O HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15165.m3u8
-#EXTINF:-1 ,|FR| FRANCE O FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9542.m3u8
-#EXTINF:-1 ,|FR| TF1 SERIES FILMS FHD BKP
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/51169.m3u8
-#EXTINF:-1 ,|FR| TF1 HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9211.m3u8
-#EXTINF:-1 ,|FR| TF1 HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15121.m3u8
-#EXTINF:-1 ,|FR| TF1 FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9210.m3u8
-#EXTINF:-1 ,|FR| TF1 FHD BKP
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/51179.m3u8
-#EXTINF:-1 ,|FR| France 2 HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9277.m3u8
-#EXTINF:-1 ,|FR| France 2 HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15226.m3u8
-#EXTINF:-1 ,|FR| FRANCE 2 FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9546.m3u8
-#EXTINF:-1 ,|FR| France 3 HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9276.m3u8
-#EXTINF:-1 ,|FR| France 3 HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15169.m3u8
-#EXTINF:-1 ,|FR| FRANCE 3 FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9545.m3u8
-#EXTINF:-1 ,|FR| CANAL  FHD BKP
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/51165.m3u8
-#EXTINF:-1 ,|FR| France 5 HD BKP
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9273.m3u8
-#EXTINF:-1 ,|FR| France 5 HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15167.m3u8
-#EXTINF:-1 ,|FR| FRANCE 5 FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9543.m3u8
-#EXTINF:-1 ,|FR| FRANCE 5 FHD BKP
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/51175.m3u8
-#EXTINF:-1 ,|FR| M6 HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9260.m3u8
-#EXTINF:-1 ,|FR| M6 HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15154.m3u8
-#EXTINF:-1 ,|FR| M6 FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9531.m3u8
-#EXTINF:-1 ,|FR| ARTE HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9354.m3u8
-#EXTINF:-1 ,|FR| Arte HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15212.m3u8
-#EXTINF:-1 ,|FR| ARTE FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9590.m3u8
-#EXTINF:-1 ,|FR| C8 HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9293.m3u8
-#EXTINF:-1 ,|FR| C8 HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15232.m3u8
-#EXTINF:-1 ,|FR| C8 FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9574.m3u8
-#EXTINF:-1 ,|FR| W9 HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9372.m3u8
-#EXTINF:-1 ,|FR| W9 HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15111.m3u8
-#EXTINF:-1 ,|FR| W9 FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9488.m3u8
-#EXTINF:-1 ,|FR| TMC FHD BKP
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/51167.m3u8
-#EXTINF:-1 ,|FR| 6TER HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9364.m3u8
-#EXTINF:-1 ,|FR| 6ter HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15216.m3u8
-#EXTINF:-1 ,|FR| 6TER FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9595.m3u8
-#EXTINF:-1 ,|FR| RMC STORY H265
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/56246.m3u8
-#EXTINF:-1 ,|FR| CHERIE 25 HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9313.m3u8
-#EXTINF:-1 ,|FR| Cherie 25 HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15188.m3u8
-#EXTINF:-1 ,|FR| CHERIE 25 FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9572.m3u8
-#EXTINF:-1 ,|FR| CHERIE 25 FHD BKP
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/51148.m3u8
-#EXTINF:-1 ,|FR| TEVA HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/49804.m3u8
-#EXTINF:-1 ,|FR| TEVA HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/49805.m3u8
-#EXTINF:-1 ,|FR| Teva Full HD +
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9212.m3u8
-#EXTINF:-1 ,|FR| PARIS PREMIERE  HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15137.m3u8
-#EXTINF:-1 ,|FR| PARIS PREMIERE HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9238.m3u8
-#EXTINF:-1 ,|FR| PARIS PREMIERE FHD BKP
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/51129.m3u8
-#EXTINF:-1 ,|FR| RTL9 HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9374.m3u8
-#EXTINF:-1 ,|FR| Rtl9 HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15130.m3u8
-#EXTINF:-1 ,|FR| TV BREIZH HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9206.m3u8
-#EXTINF:-1 ,|FR| TV BREIZH HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15116.m3u8
-#EXTINF:-1 ,|FR| TV BREIZH FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9491.m3u8
-#EXTINF:-1 ,|FR| AB1 HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15233.m3u8
-#EXTINF:-1 ,|FR| AB3 HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9357.m3u8
-#EXTINF:-1 ,|FR| AB3 HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15215.m3u8
-#EXTINF:-1 ,|FR| SERIE CLUB HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9226.m3u8
-#EXTINF:-1 ,|FR| 13 EME RUE HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9365.m3u8
-#EXTINF:-1 ,|FR| 13EME RUE HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15217.m3u8
-#EXTINF:-1 ,|FR| 13EME RUE FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9596.m3u8
-#EXTINF:-1 ,|FR| Syfy HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9214.m3u8
-#EXTINF:-1 ,|FR| Syfy HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15123.m3u8
-#EXTINF:-1 ,|FR| SYFY FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9498.m3u8
-#EXTINF:-1 ,|FR| E! HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15175.m3u8
-#EXTINF:-1 ,|FR| E! Entertainment HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9285.m3u8
-#EXTINF:-1 ,|FR| My Cuisine FullHD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/30818.m3u8
-#EXTINF:-1 ,|FR| COMEDIE Plus HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9297.m3u8
-#EXTINF:-1 ,|FR| COMEDIE HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15183.m3u8
-#EXTINF:-1 ,|FR| COMEDIE  FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9563.m3u8
-#EXTINF:-1 ,|FR| CANAL  HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/32155.m3u8
-#EXTINF:-1 ,|FR| CANAL FHD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9579.m3u8
-#EXTINF:-1 ,|FR| Canal Cinema HD BKP
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9332.m3u8
-#EXTINF:-1 ,|FR| CANAL CINEMA FULL HD +
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9582.m3u8
-#EXTINF:-1 ,|FR| Canal Decale HD BKP
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9331.m3u8
-#EXTINF:-1 ,|FR| CANAL DECALE  HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15194.m3u8
-#EXTINF:-1 ,|FR| CANAL DECALE FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9581.m3u8
-#EXTINF:-1 ,|FR| Canal Family HD BKP
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9330.m3u8
-#EXTINF:-1 ,|FR| Canal family  HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15193.m3u8
-#EXTINF:-1 ,|FR| CANAL  FAMILY FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9580.m3u8
-#EXTINF:-1 ,|FR| ALTICE STUDIO HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/40882.m3u8
-#EXTINF:-1 ,|FR| ALTICE STUDIO FHD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/40881.m3u8
-#EXTINF:-1 ,|FR| OCS CHOC HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9247.m3u8
-#EXTINF:-1 ,|FR| OCS CHOC HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15140.m3u8
-#EXTINF:-1 ,|FR| OCS CHOC FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9518.m3u8
-#EXTINF:-1 ,|FR| OCS CITY HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9246.m3u8
-#EXTINF:-1 ,|FR| OCS CITY HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15223.m3u8
-#EXTINF:-1 ,|FR| OCS CITY FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9517.m3u8
-#EXTINF:-1 ,|FR| OCS GEANT HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9245.m3u8
-#EXTINF:-1 ,|FR| OCS GEANTS HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15139.m3u8
-#EXTINF:-1 ,|FR| OCS GEANTS FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9516.m3u8
-#EXTINF:-1 ,|FR| OCS MAX HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9244.m3u8
-#EXTINF:-1 ,|FR| OCS MAX FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9515.m3u8
-#EXTINF:-1 ,|FR| CANAL PLAY 1
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9322.m3u8
-#EXTINF:-1 ,|FR| CANAL PLAY 4
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9319.m3u8
-#EXTINF:-1 ,|FR| CANAL PLAY 6
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9317.m3u8
-#EXTINF:-1 ,|FR| CANAL PLAY 7
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9316.m3u8
-#EXTINF:-1 ,|FR| CINE  CLASSIC FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9570.m3u8
-#EXTINF:-1 ,|FR| CINE EMOTION HD BKP
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9309.m3u8
-#EXTINF:-1 ,|FR| CINE EMOTION HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15186.m3u8
-#EXTINF:-1 ,|FR| CINE  EMOTION FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9568.m3u8
-#EXTINF:-1 ,|FR| Cine Famiz HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9307.m3u8
-#EXTINF:-1 ,|FR| Cine Famiz HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9306.m3u8
-#EXTINF:-1 ,|FR| CINE FRISSON HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9304.m3u8
-#EXTINF:-1 ,|FR| CINE FRISSON + HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15185.m3u8
-#EXTINF:-1 ,|FR| CINE FX HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9302.m3u8
-#EXTINF:-1 ,|FR| CINE FX FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9565.m3u8
-#EXTINF:-1 ,|FR| CINE POLAR HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9301.m3u8
-#EXTINF:-1 ,|FR| CINE PREMIER HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9300.m3u8
-#EXTINF:-1 ,|FR| cine premier HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15230.m3u8
-#EXTINF:-1 ,|FR| CINE PREMIER FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9299.m3u8
-#EXTINF:-1 ,|FR| ACTION HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9356.m3u8
-#EXTINF:-1 ,|FR| ACTION HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15214.m3u8
-#EXTINF:-1 ,|FR| TMC HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9194.m3u8
-#EXTINF:-1 ,|FR| tmc HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15119.m3u8
-#EXTINF:-1 ,|FR| TMC FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9494.m3u8
-#EXTINF:-1 ,|FR| PARAMOUNT CHANNEL HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9240.m3u8
-#EXTINF:-1 ,|FR| PARAMOUNT CHANNEL FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9514.m3u8
-#EXTINF:-1 ,|FR| TCM CINEMA HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9195.m3u8
-#EXTINF:-1 ,|FR| TCM Cinema Full HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9497.m3u8
-#EXTINF:-1 ,|FR| ORANGE CINE 2 +
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15246.m3u8
-#EXTINF:-1 ,|FR| ORANGE CINE 3
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15245.m3u8
-#EXTINF:-1 ,|FR| ORANGE CINE 4
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15244.m3u8
-#EXTINF:-1 ,|FR| ORANGE CINE 5
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15243.m3u8
-#EXTINF:-1 ,|FR| ORANGE CINE Aventure
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15238.m3u8
-#EXTINF:-1 ,|FR| ORANGE ENQUETE EXCLUSIVE
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15234.m3u8
-#EXTINF:-1 ,|FR| Orange enquete exclusive HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9241.m3u8
-#EXTINF:-1 ,|FR| A LA CARTE 1
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9201.m3u8
-#EXTINF:-1 ,|FR| A LA CARTE 8
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9361.m3u8
-#EXTINF:-1 ,|FR| CANAL SPORT  HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/39203.m3u8
-#EXTINF:-1 ,|FR| CANAL SPORT HD BKP
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15191.m3u8
-#EXTINF:-1 ,|FR| CANAL  SPORT FHD BKP
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/51166.m3u8
-#EXTINF:-1 ,|FR| BeIN Sports 1 HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15204.m3u8
-#EXTINF:-1 ,|FR| BEIN SPORT 1 HD (BACKUP)
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9345.m3u8
-#EXTINF:-1 ,|FR| BEINSPORT 1 FR FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9589.m3u8
-#EXTINF:-1 ,|FR| BeIN Sports 2 HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15203.m3u8
-#EXTINF:-1 ,|FR| BEIN SPORT 2 HD (BACKUP)
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9344.m3u8
-#EXTINF:-1 ,|FR| BEINSPORT 2 FR FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9588.m3u8
-#EXTINF:-1 ,|FR| BEIN SPORT 2 FHD BKP
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/51101.m3u8
-#EXTINF:-1 ,|FR| BEINSPORT 3 FR FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9587.m3u8
-#EXTINF:-1 ,|FR| BEIN SPORT 3 FHD BKP
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/51100.m3u8
-#EXTINF:-1 ,|FR| BeIN Sports MAX 4 HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15210.m3u8
-#EXTINF:-1 ,|FR| BeIN Sports MAX 6 HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15208.m3u8
-#EXTINF:-1 ,|FR| BeIN Sports MAX 7 HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15207.m3u8
-#EXTINF:-1 ,|FR| BeIN Sports MAX 8 FHD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15206.m3u8
-#EXTINF:-1 ,|FR| BeIN Sports MAX 10 FHD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15211.m3u8
-#EXTINF:-1 ,|FR| RMC Sport 1
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15127.m3u8
-#EXTINF:-1 ,|FR| RMC Sport 1 HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9218.m3u8
-#EXTINF:-1 ,|FR| RMC Sport 1 Full HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9502.m3u8
-#EXTINF:-1 ,|FR| RMC Sport 2 HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9217.m3u8
-#EXTINF:-1 ,|FR| RMC Sport 3
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15125.m3u8
-#EXTINF:-1 ,|FR| RMC Sport 3 HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9216.m3u8
-#EXTINF:-1 ,|FR| RMC SPORT 3 FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9500.m3u8
-#EXTINF:-1 ,|FR| RMC SPORT LIVE 6
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/40479.m3u8
-#EXTINF:-1 ,|FR| RMC SPORT LIVE 9 HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/40476.m3u8
-#EXTINF:-1 ,|FR| RMC SPORT LIVE 11 HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/40474.m3u8
-#EXTINF:-1 ,|FR| EUROSPORT 1 FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9549.m3u8
-#EXTINF:-1 ,|FR| EUROSPORT FHD BKP
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/51105.m3u8
-#EXTINF:-1 ,|FR| EUROSPORT 2 HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9279.m3u8
-#EXTINF:-1 ,|FR| Eurosport 2  HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9280.m3u8
-#EXTINF:-1 ,|FR| INFOSPORT HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9265.m3u8
-#EXTINF:-1 ,|FR| INFOSPORT HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15156.m3u8
-#EXTINF:-1 ,|FR| INFOSPORT FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9534.m3u8
-#EXTINF:-1 ,|FR| MOTORSPORT TV HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15147.m3u8
-#EXTINF:-1 ,|FR| L'EQUIPE 21 HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9264.m3u8
-#EXTINF:-1 ,|FR| L EQUIPE 21 HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15155.m3u8
-#EXTINF:-1 ,|FR| L'EQUIPE 21 FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9533.m3u8
-#EXTINF:-1 ,|FR| OLTV HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9243.m3u8
-#EXTINF:-1 ,|FR| OMTV HD BKP
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/30599.m3u8
-#EXTINF:-1 ,|FR| AB Moteur HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9359.m3u8
-#EXTINF:-1 ,|FR| EQUIDIA LIFE HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15228.m3u8
-#EXTINF:-1 ,|FR| EQUIDIA LIFE FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9551.m3u8
-#EXTINF:-1 ,|FR| EQUIDIA LIVE HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9282.m3u8
-#EXTINF:-1 ,|FR| EQUIDIA LIVE FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9550.m3u8
-#EXTINF:-1 ,|FR| EQUIDIA LIVE FHD BKP
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/51140.m3u8
-#EXTINF:-1 ,|FR| GOLF  HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9270.m3u8
-#EXTINF:-1 ,|FR| GOLF HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15161.m3u8
-#EXTINF:-1 ,|FR| GOLF  FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9540.m3u8
-#EXTINF:-1 ,|FR| GOLF  CHANNEL HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9378.m3u8
-#EXTINF:-1 ,|FR| GOLF CHANNEL HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15162.m3u8
-#EXTINF:-1 ,|FR | Foot+ 24/24
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/32819.m3u8
-#EXTINF:-1 ,|FR| FOOT  24/24 FHD BKP
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/51104.m3u8
-#EXTINF:-1 ,|FR| GOLF  FHD BKP
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/51107.m3u8
-#EXTINF:-1 ,|FR| EURONEWS HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9376.m3u8
-#EXTINF:-1 ,|FR| FRANCE 24 HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9197.m3u8
-#EXTINF:-1 ,|FR| France24 HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15164.m3u8
-#EXTINF:-1 ,|FR| I24 NEWS FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9535.m3u8
-#EXTINF:-1 ,|FR| BFM TV HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9336.m3u8
-#EXTINF:-1 ,|FR| bfm HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15201.m3u8
-#EXTINF:-1 ,|FR| BFM TV FULL HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9585.m3u8
-#EXTINF:-1 ,|FR| BFM BUSINESS HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9338.m3u8
-#EXTINF:-1 ,|FR| BFM Business HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15200.m3u8
-#EXTINF:-1 ,|FR| BFM BUSINESS FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9586.m3u8
-#EXTINF:-1 ,|FR| C News HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15197.m3u8
-#EXTINF:-1 ,|FR| CANAL NEWS FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9575.m3u8
-#EXTINF:-1 ,|FR| TV5 MONDE HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9192.m3u8
-#EXTINF:-1 ,|FR| FRANCE INFO HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/43444.m3u8
-#EXTINF:-1 ,|FR| LCP ASSEMBLEE NATIONALE HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/47688.m3u8
-#EXTINF:-1 ,|FR| PLANETE HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15135.m3u8
-#EXTINF:-1 ,|FR| PLANETE FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9512.m3u8
-#EXTINF:-1 ,|FR| PLANETE A&E HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9235.m3u8
-#EXTINF:-1 ,|FR| PLANETE A&E HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15134.m3u8
-#EXTINF:-1 ,|FR| PLANETE CI HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9234.m3u8
-#EXTINF:-1 ,|FR| Planete ci HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15133.m3u8
-#EXTINF:-1 ,|FR| PLANETE CI FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9510.m3u8
-#EXTINF:-1 ,|FR| DISCOVERY INVESTIGATION FHD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9559.m3u8
-#EXTINF:-1 ,|FR| DISCOVERY HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9292.m3u8
-#EXTINF:-1 ,|FR| DISCOVERY HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15180.m3u8
-#EXTINF:-1 ,|FR| DISCOVERY FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9560.m3u8
-#EXTINF:-1 ,|FR| DISCOVERY FAMILY HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/30662.m3u8
-#EXTINF:-1 ,|FR| DISCOVERY SCIENCE HD BKP
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9291.m3u8
-#EXTINF:-1 ,|FR| DISCOVERY SCIENCE FULL HD +
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9558.m3u8
-#EXTINF:-1 ,|FR|  NATIONAL GEOGRAPHIC HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9368.m3u8
-#EXTINF:-1 ,|FR| NATIONAL GEOGRAPHIC FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9523.m3u8
-#EXTINF:-1 ,|FR| NATIONAL GEO WILD FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9524.m3u8
-#EXTINF:-1 ,|FR| SCIENCES ET VIE HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9228.m3u8
-#EXTINF:-1 ,|FR| Science et Vie  HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15129.m3u8
-#EXTINF:-1 ,|FR| ANIMAUX HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9355.m3u8
-#EXTINF:-1 ,|FR| ANIMAUX FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9591.m3u8
-#EXTINF:-1 ,|FR| USHUAIA  HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9205.m3u8
-#EXTINF:-1 ,|FR| USHUAIA TV HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15115.m3u8
-#EXTINF:-1 ,|FR| RMC Decouverte  HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15131.m3u8
-#EXTINF:-1 ,|FR| RMC DECOUVERTE HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9233.m3u8
-#EXTINF:-1 ,|FR| RMC DECOUVERTE FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9508.m3u8
-#EXTINF:-1 ,|FR| VOYAGE HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9191.m3u8
-#EXTINF:-1 ,|FR| VOYAGE HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15112.m3u8
-#EXTINF:-1 ,|FR| TREK HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9193.m3u8
-#EXTINF:-1 ,|FR| TREK HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15117.m3u8
-#EXTINF:-1 ,|FR| Chasse et Peche HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15189.m3u8
-#EXTINF:-1 ,|FR| Chasse et Peche HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9314.m3u8
-#EXTINF:-1 ,|FR| Seasons HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9227.m3u8
-#EXTINF:-1 ,|FR| CRIME DISTRICT HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9296.m3u8
-#EXTINF:-1 ,|FR| CRIME DISTRICT FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9562.m3u8
-#EXTINF:-1 ,|FR| DISNEY CHANNEL HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9290.m3u8
-#EXTINF:-1 ,|FR| DISNEY CHANNEL HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15178.m3u8
-#EXTINF:-1 ,|FR| DISNEY CHANNEL FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9557.m3u8
-#EXTINF:-1 ,|FR|  DISNEY JUNIOR HD BKP
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9369.m3u8
-#EXTINF:-1 ,|FR| Disney Junior + HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15177.m3u8
-#EXTINF:-1 ,|FR| DISNEY JUNIOR HD BKP
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9287.m3u8
-#EXTINF:-1 ,|FR| DISNEY JUNIOR FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9555.m3u8
-#EXTINF:-1 ,|FR| DISNEY CINEMA HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9288.m3u8
-#EXTINF:-1 ,|FR| DISNEY CINEMA HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15229.m3u8
-#EXTINF:-1 ,|FR| DISNEY CINEMA FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9556.m3u8
-#EXTINF:-1 ,|FR| NICKELODEON FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9522.m3u8
-#EXTINF:-1 ,|FR| Nick Jr HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9252.m3u8
-#EXTINF:-1 ,|FR| TELETOON HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9373.m3u8
-#EXTINF:-1 ,|FR| TELETOON FULLHD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9496.m3u8
-#EXTINF:-1 ,|FR| PIWI HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9237.m3u8
-#EXTINF:-1 ,|FR| PIWI HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15136.m3u8
-#EXTINF:-1 ,|FR| PIWI  FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9513.m3u8
-#EXTINF:-1 ,|FR| CANAL J HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9323.m3u8
-#EXTINF:-1 ,|FR| Canal J  HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15231.m3u8
-#EXTINF:-1 ,|FR| CANAL J FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9576.m3u8
-#EXTINF:-1 ,|FR| TIJI HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9209.m3u8
-#EXTINF:-1 ,|FR| Tiji HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15120.m3u8
-#EXTINF:-1 ,|FR| TIJI FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9495.m3u8
-#EXTINF:-1 ,|FR| BOOMERANG HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9334.m3u8
-#EXTINF:-1 ,|FR| Boomerang HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15198.m3u8
-#EXTINF:-1 ,|FR| Boing HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15199.m3u8
-#EXTINF:-1 ,|FR| BOING FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9584.m3u8
-#EXTINF:-1 ,|FR| Cartoon Network HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9315.m3u8
-#EXTINF:-1 ,|FR| CARTOON NETWORK HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15190.m3u8
-#EXTINF:-1 ,|FR| GAME ONE HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9271.m3u8
-#EXTINF:-1 ,|FR| GAME ONE FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9541.m3u8
-#EXTINF:-1 ,|FR| GULLI HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9269.m3u8
-#EXTINF:-1 ,|FR| GULLI HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15160.m3u8
-#EXTINF:-1 ,|FR| GULLI FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9538.m3u8
-#EXTINF:-1 ,|FR| MANGAS HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9257.m3u8
-#EXTINF:-1 ,|FR| MANGAS HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15152.m3u8
-#EXTINF:-1 ,|FR| MANGA FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9530.m3u8
-#EXTINF:-1 ,|FR| J ONE Full HD +
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/30600.m3u8
-#EXTINF:-1 ,|FR| TOONAMI FHD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/46532.m3u8
-#EXTINF:-1 ,|FR| M6 MUSIC HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15153.m3u8
-#EXTINF:-1 ,|FR| TRACE URBAN HD.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9207.m3u8
-#EXTINF:-1 ,|FR| TRACE URBAN FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9493.m3u8
-#EXTINF:-1 ,|FR| MTV HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15146.m3u8
-#EXTINF:-1 ,|FR| MTV FRANCE FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9525.m3u8
-#EXTINF:-1 ,|FR| MCM FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9529.m3u8
-#EXTINF:-1 ,|FR| RFM TV HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15132.m3u8
-#EXTINF:-1 ,|FR| RFM TV FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9509.m3u8
-#EXTINF:-1 ,|FR| NRJ Hits FULL HD
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/9249.m3u8
-#EXTINF:-1 ,|FR| MEZZO LIVE HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/15148.m3u8
-#EXTINF:-1 ,|FR| CLUBBING TV HD BKP.
-http://fpro.webvps.de:25443/live/VPnFQTnUjY08/iH5OvATIFU/49803.m3u8
+#EXTINF:-1,[FR] TF1 FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/787.m3u8
+#EXTINF:-1,[FR] M6 FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/764.m3u8
+#EXTINF:-1,[FR] FRANCE O FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/758.m3u8
+#EXTINF:-1,[FR] FRANCE 2 FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/752.m3u8
+#EXTINF:-1,[FR] FRANCE 3 FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/754.m3u8
+#EXTINF:-1,[FR] FRANCE 4 FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/755.m3u8
+#EXTINF:-1,[FR] FRANCE 5 FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/756.m3u8
+#EXTINF:-1,[FR] ARTE FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/725.m3u8
+#EXTINF:-1,[FR] CANAL PLUS FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/735.m3u8
+#EXTINF:-1,[FR] CANAL  CINEMA FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/728.m3u8
+#EXTINF:-1,[FR] CANAL  SPORT FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/733.m3u8
+#EXTINF:-1,[FR] CANAL   SERIE FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/732.m3u8
+#EXTINF:-1,[FR] CANAL  FAMILY FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/730.m3u8
+#EXTINF:-1,[FR] CANAL  DECALE FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/729.m3u8
+#EXTINF:-1,[FR] CANAL  FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/731.m3u8
+#EXTINF:-1,[FR] CINE FX FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/745.m3u8
+#EXTINF:-1,[FR] CINE  PREMIERE FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/744.m3u8
+#EXTINF:-1,[FR] CINE  FRISSON FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/742.m3u8
+#EXTINF:-1,[FR] CINE  EMOTION FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/740.m3u8
+#EXTINF:-1,[FR] CINE  FAMIZ FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/741.m3u8
+#EXTINF:-1,[FR] CINE  CLUB FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/739.m3u8
+#EXTINF:-1,[FR] CINE  CLASSIC FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/738.m3u8
+#EXTINF:-1,[FR] CINE  POLAR FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/743.m3u8
+#EXTINF:-1,[FR] RMC SPORT 1 FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/790.m3u8
+#EXTINF:-1,[FR] RMC SPORT 2 FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/791.m3u8
+#EXTINF:-1,[FR] RMC SPORT 3 FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/792.m3u8
+#EXTINF:-1,[FR] RMC SPORT 4 FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/793.m3u8
+#EXTINF:-1,[FR] OCS MAX FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/778.m3u8
+#EXTINF:-1,[FR] OCS CITY FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/776.m3u8
+#EXTINF:-1,[FR] OCS CHOC FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/775.m3u8
+#EXTINF:-1,[FR] OCS GEANTS FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/777.m3u8
+#EXTINF:-1,[FR] DISNEY CINEMAGIC FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/748.m3u8
+#EXTINF:-1,[FR] ACTION FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/723.m3u8
+#EXTINF:-1,[FR] COMEDIE FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/746.m3u8
+#EXTINF:-1,[FR] SYFY FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/785.m3u8
+#EXTINF:-1,[FR] 13 EME RUE FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/720.m3u8
+#EXTINF:-1,[FR] MTV FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/768.m3u8
+#EXTINF:-1,[FR] MCM FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/766.m3u8
+#EXTINF:-1,[FR] MCM TOP FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/767.m3u8
+#EXTINF:-1,[FR] MANGAS FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/765.m3u8
+#EXTINF:-1,[FR] AB 1 FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/722.m3u8
+#EXTINF:-1,[FR] AB3 FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/815.m3u8
+#EXTINF:-1,[FR] TV BREIZH FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/788.m3u8
+#EXTINF:-1,[FR] RTL 9 FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/784.m3u8
+#EXTINF:-1,[FR] C8 FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/727.m3u8
+#EXTINF:-1,[FR] W9 FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/789.m3u8
+#EXTINF:-1,[FR] NRJ 12 FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/773.m3u8
+#EXTINF:-1,[FR] 6TER FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/721.m3u8
+#EXTINF:-1,[FR] CHERIE25 FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/737.m3u8
+#EXTINF:-1,[FR] LCI FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/763.m3u8
+#EXTINF:-1,[FR] M6 MUSIC FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/818.m3u8
+#EXTINF:-1,[FR] FRANCE 24 FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/753.m3u8
+#EXTINF:-1,[FR] FRANCE INFO FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/757.m3u8
+#EXTINF:-1,[FR] BEIN SPORT 1 FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/794.m3u8
+#EXTINF:-1,[FR] BEIN SPORT 2 FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/795.m3u8
+#EXTINF:-1,[FR] BEIN SPORT 3 FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/796.m3u8
+#EXTINF:-1,[FR] BEIN SPORT MAX 4 FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/798.m3u8
+#EXTINF:-1,[FR] BEIN SPORT MAX 5 FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/799.m3u8
+#EXTINF:-1,[FR] BEIN SPORT MAX 6 FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/800.m3u8
+#EXTINF:-1,[FR] BEIN SPORT MAX 7 FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/801.m3u8
+#EXTINF:-1,[FR] BEIN SPORT MAX 8 FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/802.m3u8
+#EXTINF:-1,[FR] BEIN SPORT MAX 9 FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/803.m3u8
+#EXTINF:-1,[FR] BEIN SPORT MAX 10 FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/797.m3u8
+#EXTINF:-1,[FR] EUROSPORT 1 FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/804.m3u8
+#EXTINF:-1,[FR] EUROSPORT 2 FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/805.m3u8
+#EXTINF:-1,[FR] MOTORSPORT TV FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/806.m3u8
+#EXTINF:-1,[FR] L EQUIPE21 FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/762.m3u8
+#EXTINF:-1,[FR] INFOSPORT  FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/761.m3u8
+#EXTINF:-1,[FR] RFM TV FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/783.m3u8
+#EXTINF:-1,[FR] GOLF FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/759.m3u8
+#EXTINF:-1,[FR] FOOT 24 FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/751.m3u8
+#EXTINF:-1,[FR] National Geographic FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/769.m3u8
+#EXTINF:-1,[FR] National Geographic WILD FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/770.m3u8
+#EXTINF:-1,[FR] PLANETE FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/819.m3u8
+#EXTINF:-1,[FR] PLANET A&E FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/782.m3u8
+#EXTINF:-1,[FR] PLANET  FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/781.m3u8
+#EXTINF:-1,[FR] PLANET CI FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/780.m3u8
+#EXTINF:-1,[FR] DISCOVERY SCIENCE FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/747.m3u8
+#EXTINF:-1,[FR] Chasse et PÃªche FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/816.m3u8
+#EXTINF:-1,[FR] ANIMAUX FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/724.m3u8
+#EXTINF:-1,[FR] AB MOTEUR FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/807.m3u8
+#EXTINF:-1,[FR] GULLI FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/760.m3u8
+#EXTINF:-1,[FR] PIWI FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/779.m3u8
+#EXTINF:-1,[FR] NICKELODEON JUNIOR FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/772.m3u8
+#EXTINF:-1,[FR] NICKELODEON FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/771.m3u8
+#EXTINF:-1,[FR] DISNEY CHANNEL FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/817.m3u8
+#EXTINF:-1,[FR] DISNEY XD FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/750.m3u8
+#EXTINF:-1,[FR] DISNEY JUNIOR FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/749.m3u8
+#EXTINF:-1,[FR] CARTOON NETWORK FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/736.m3u8
+#EXTINF:-1,[FR] CANAL J FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/734.m3u8
+#EXTINF:-1,[FR] BOOMERANG FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/726.m3u8
+#EXTINF:-1,[FR] A LA CARTE 7 FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/814.m3u8
+#EXTINF:-1,[FR] A LA CARTE 6 FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/813.m3u8
+#EXTINF:-1,[FR] A LA CARTE 5 FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/812.m3u8
+#EXTINF:-1,[FR] A LA CARTE 4 FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/811.m3u8
+#EXTINF:-1,[FR] A LA CARTE 3 FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/810.m3u8
+#EXTINF:-1,[FR] A LA CARTE 2 FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/809.m3u8
+#EXTINF:-1,[FR] A LA CARTE 1 FHD
+http://live.faucontv.com:8000/live/Salwa/Salwa/808.m3u8
+#EXTINF:-1,[FR] TF1 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2336.m3u8
+#EXTINF:-1,[FR] M6 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2341.m3u8
+#EXTINF:-1,[FR] FRANCE 2 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2337.m3u8
+#EXTINF:-1,[FR] FRANCE 3 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2338.m3u8
+#EXTINF:-1,[FR] FRANCE 4 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2348.m3u8
+#EXTINF:-1,[FR] FRANCE 5 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2342.m3u8
+#EXTINF:-1,[FR] FRANCE O HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2353.m3u8
+#EXTINF:-1,[FR] ARTE HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2340.m3u8
+#EXTINF:-1,[FR] CANAL  HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2339.m3u8
+#EXTINF:-1,[FR] CANAL SERIES HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2362.m3u8
+#EXTINF:-1,[FR] CANAL CINEMA HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2359.m3u8
+#EXTINF:-1,[FR] CANAL  SPORT HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2460.m3u8
+#EXTINF:-1,[FR] CANAL FAMILY HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2361.m3u8
+#EXTINF:-1,[FR] CANAL DECALE HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2360.m3u8
+#EXTINF:-1,[FR] CINE CLUB HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2368.m3u8
+#EXTINF:-1,[FR] CINE  PREMIER HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2366.m3u8
+#EXTINF:-1,[FR] CINE  FRISSON HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2365.m3u8
+#EXTINF:-1,[FR] CINE  CLASSIC HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2367.m3u8
+#EXTINF:-1,[FR] CINE  EMOTION HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2363.m3u8
+#EXTINF:-1,[FR] CINE  FAMIZ HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2364.m3u8
+#EXTINF:-1,[FR] RMC SPORT 1 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2461.m3u8
+#EXTINF:-1,[FR] RMC SPORT 2 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2463.m3u8
+#EXTINF:-1,[FR] RMC SPORT 3 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2465.m3u8
+#EXTINF:-1,[FR] OCS GEANTS HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2371.m3u8
+#EXTINF:-1,[FR] RMC SPORT 4 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2467.m3u8
+#EXTINF:-1,[FR] OCS MAX HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2372.m3u8
+#EXTINF:-1,[FR] OCS CITY HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2370.m3u8
+#EXTINF:-1,[FR] OCS CHOC HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2369.m3u8
+#EXTINF:-1,[FR] DISNEY CINEMA HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2402.m3u8
+#EXTINF:-1,[FR] TCM CINEMA HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2385.m3u8
+#EXTINF:-1,[FR] ALTICE STUDIO HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2376.m3u8
+#EXTINF:-1,[FR] PARAMOUNT CHANNEL HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2380.m3u8
+#EXTINF:-1,[FR] PARAMOUNT CHANNEL DECALE HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2381.m3u8
+#EXTINF:-1,[FR] ACTION HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2377.m3u8
+#EXTINF:-1,[FR] MEZZO HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2449.m3u8
+#EXTINF:-1,[FR] COMEDIE  HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2378.m3u8
+#EXTINF:-1,[FR] SYFY HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2389.m3u8
+#EXTINF:-1,[FR] SERIE-CLUB HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2388.m3u8
+#EXTINF:-1,[FR] 13 EME RUE HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2373.m3u8
+#EXTINF:-1,[FR] E! HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2391.m3u8
+#EXTINF:-1,[FR] NOVELAS TV HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2383.m3u8
+#EXTINF:-1,[FR] MCM HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2446.m3u8
+#EXTINF:-1,[FR] J-One HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2414.m3u8
+#EXTINF:-1,[FR] TOONAMI HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2413.m3u8
+#EXTINF:-1,[FR] MANGAS HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2415.m3u8
+#EXTINF:-1,[FR] AB1 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2374.m3u8
+#EXTINF:-1,[FR] AB3 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2375.m3u8
+#EXTINF:-1,[FR] TEVA HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2390.m3u8
+#EXTINF:-1,[FR] TV BREIZH HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2392.m3u8
+#EXTINF:-1,[FR] PARIS PREMIERE HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2387.m3u8
+#EXTINF:-1,[FR] RTL9 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2386.m3u8
+#EXTINF:-1,[FR] BET HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2384.m3u8
+#EXTINF:-1,[FR] C8 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2343.m3u8
+#EXTINF:-1,[FR] W9 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2344.m3u8
+#EXTINF:-1,[FR] TMC HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2345.m3u8
+#EXTINF:-1,[FR] TFX HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2346.m3u8
+#EXTINF:-1,[FR] NRJ 12 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2347.m3u8
+#EXTINF:-1,[FR] CSTAR HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2351.m3u8
+#EXTINF:-1,[FR] TF1 SERIES/FILMS HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2354.m3u8
+#EXTINF:-1,[FR] 6TER HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2355.m3u8
+#EXTINF:-1,[FR] RMC STORY HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2357.m3u8
+#EXTINF:-1,[FR] MY CUISINE HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2393.m3u8
+#EXTINF:-1,[FR] CHERIE 25 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2358.m3u8
+#EXTINF:-1,[FR] DISCOVERY HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2420.m3u8
+#EXTINF:-1,[FR] DISCOVERY SCI HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2421.m3u8
+#EXTINF:-1,[FR] DISCOVERY INVESTIGATION HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2423.m3u8
+#EXTINF:-1,[FR] DISCOVERY FAMILY HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2422.m3u8
+#EXTINF:-1,[FR] CRIME DISTRICT HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2419.m3u8
+#EXTINF:-1,[FR] TOUTE L'HISTOIRE HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2430.m3u8
+#EXTINF:-1,[FR] PLANETE HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2424.m3u8
+#EXTINF:-1,[FR] PLANETE  A&E HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2426.m3u8
+#EXTINF:-1,[FR] PLANETE  CI HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2425.m3u8
+#EXTINF:-1,[FR] NATIONAL GEOGRAPHIC HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2427.m3u8
+#EXTINF:-1,[FR] NAT GEO WILD HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2428.m3u8
+#EXTINF:-1,[FR] USHUAIA TV HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2434.m3u8
+#EXTINF:-1,[FR] HISTOIRE HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2429.m3u8
+#EXTINF:-1,[FR] SCIENCE & VIE TV HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2435.m3u8
+#EXTINF:-1,[FR] ANIMAUX HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2433.m3u8
+#EXTINF:-1,[FR] TREK HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2437.m3u8
+#EXTINF:-1,[FR] SEASONS HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2436.m3u8
+#EXTINF:-1,[FR] CHASSE ET PECHE HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2432.m3u8
+#EXTINF:-1,[FR] RMC DECOUVERTE HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2356.m3u8
+#EXTINF:-1,[FR] VOYAGE HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2431.m3u8
+#EXTINF:-1,[FR] CNEWS HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2350.m3u8
+#EXTINF:-1,[FR] BFM TV HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2349.m3u8
+#EXTINF:-1,[FR] BFM PARIS HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2396.m3u8
+#EXTINF:-1,[FR] EURONEWS HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2394.m3u8
+#EXTINF:-1,[FR] FOOT  24
+http://live.faucontv.com:8000/live/Salwa/Salwa/2494.m3u8
+#EXTINF:-1,[FR] BEIN SPORTS 1 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2480.m3u8
+#EXTINF:-1,[FR] BEIN SPORTS 2 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2481.m3u8
+#EXTINF:-1,[FR] BEIN SPORTS 3 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2482.m3u8
+#EXTINF:-1,[FR] BEIN SPORTS MAX 4 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2483.m3u8
+#EXTINF:-1,[FR] BEIN SPORTS MAX 5 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2484.m3u8
+#EXTINF:-1,[FR] BEIN SPORTS MAX 6 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2485.m3u8
+#EXTINF:-1,[FR] BEIN SPORTS MAX 7 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2486.m3u8
+#EXTINF:-1,[FR] BEIN SPORTS MAX 8 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2487.m3u8
+#EXTINF:-1,[FR] BEIN SPORTS MAX 9 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2488.m3u8
+#EXTINF:-1,[FR] BEIN SPORTS MAX 10 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2489.m3u8
+#EXTINF:-1,[FR] INFOSPORT  HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2493.m3u8
+#EXTINF:-1,[FR] EUROSPORT 1 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2490.m3u8
+#EXTINF:-1,[FR] EUROSPORT 2 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2491.m3u8
+#EXTINF:-1,[FR] OL TV HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2492.m3u8
+#EXTINF:-1,[FR] GOLF CHANNEL HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2496.m3u8
+#EXTINF:-1,[FR] GOLF  HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2495.m3u8
+#EXTINF:-1,[FR] EQUIDIA HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2499.m3u8
+#EXTINF:-1,[FR] TRACE SPORTS STARS HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2500.m3u8
+#EXTINF:-1,[FR] PIWI HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2399.m3u8
+#EXTINF:-1,[FR] TIJI HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2405.m3u8
+#EXTINF:-1,[FR] TELETOON HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2406.m3u8
+#EXTINF:-1,[FR] DISNEY CHANNEL HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2401.m3u8
+#EXTINF:-1,[FR] DISNEY JUNIOR HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2404.m3u8
+#EXTINF:-1,[FR] DISNEY XD HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2403.m3u8
+#EXTINF:-1,[FR] NICKELODEON TEEN HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2411.m3u8
+#EXTINF:-1,[FR] NICKELODEON JR HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2410.m3u8
+#EXTINF:-1,[FR] NICKELODEON HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2409.m3u8
+#EXTINF:-1,[FR] BOOMERANG HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2407.m3u8
+#EXTINF:-1,[FR] CARTOON NETWORK HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2416.m3u8
+#EXTINF:-1,[FR] CANAL J HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2412.m3u8
+#EXTINF:-1,[FR] BOING HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2408.m3u8
+#EXTINF:-1,[FR] GULLI HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2352.m3u8
+#EXTINF:-1,[FR] MTV ROCK HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2443.m3u8
+#EXTINF:-1,[FR] MTV HITS HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2441.m3u8
+#EXTINF:-1,[FR] MTV FR HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2440.m3u8
+#EXTINF:-1,[FR] MTV DANCE HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2442.m3u8
+#EXTINF:-1,[FR] ZOUZOU TV HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2400.m3u8
+#EXTINF:-1,[FR] WARNER TV HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2382.m3u8
+#EXTINF:-1,[FR] TRACE URBAN HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2451.m3u8
+#EXTINF:-1,[FR] TRACE TROPICAL HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2452.m3u8
+#EXTINF:-1,[FR] TRACE TOCA HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2459.m3u8
+#EXTINF:-1,[FR] TRACE NAIJA HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2458.m3u8
+#EXTINF:-1,[FR] TRACE MZIKI HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2457.m3u8
+#EXTINF:-1,[FR] TRACE LATINA HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2456.m3u8
+#EXTINF:-1,[FR] TRACE KITOKO HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2455.m3u8
+#EXTINF:-1,[FR] TRACE AYITI HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2454.m3u8
+#EXTINF:-1,[FR] TRACE AFRICA HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2453.m3u8
+#EXTINF:-1,[FR] SUI: RTS Un HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2502.m3u8
+#EXTINF:-1,[FR] SUI:RTS.Deux HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2503.m3u8
+#EXTINF:-1,[FR] RT FRANCE HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2397.m3u8
+#EXTINF:-1,[FR] RMC Sport Live 9 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2472.m3u8
+#EXTINF:-1,[FR] RMC Sport Live 8 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2471.m3u8
+#EXTINF:-1,[FR] RMC Sport Live 7 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2470.m3u8
+#EXTINF:-1,[FR] RMC Sport Live 6 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2469.m3u8
+#EXTINF:-1,[FR] RMC Sport Live 5 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2468.m3u8
+#EXTINF:-1,[FR] RMC Sport Live 16 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2479.m3u8
+#EXTINF:-1,[FR] RMC Sport Live 15 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2478.m3u8
+#EXTINF:-1,[FR] RMC Sport Live 14 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2477.m3u8
+#EXTINF:-1,[FR] RMC Sport Live 13 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2476.m3u8
+#EXTINF:-1,[FR] RMC Sport Live 12 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2475.m3u8
+#EXTINF:-1,[FR] RMC Sport Live 11 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2474.m3u8
+#EXTINF:-1,[FR] RMC Sport Live 10 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2473.m3u8
+#EXTINF:-1,[FR] RMC ACCESS SPORT 3 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2466.m3u8
+#EXTINF:-1,[FR] RMC ACCESS SPORT 2 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2464.m3u8
+#EXTINF:-1,[FR] RMC ACCESS SPORT 1 HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2462.m3u8
+#EXTINF:-1,[FR] RFM TV HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2448.m3u8
+#EXTINF:-1,[FR] PUBLIC SENAT HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2395.m3u8
+#EXTINF:-1,[FR] NRJ HITS HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2444.m3u8
+#EXTINF:-1,[FR] MY COMEDY HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2379.m3u8
+#EXTINF:-1,[FR] MOTORVISION HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2497.m3u8
+#EXTINF:-1,[FR] MELODY HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2447.m3u8
+#EXTINF:-1,[FR] M6 MUSIC HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2445.m3u8
+#EXTINF:-1,[FR] LUXE TV HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2438.m3u8
+#EXTINF:-1,[FR] LUCKY JACK HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2439.m3u8
+#EXTINF:-1,[FR] LA UNE HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2504.m3u8
+#EXTINF:-1,[FR] LA TROIS HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2506.m3u8
+#EXTINF:-1,[FR] LA DEUX HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2505.m3u8
+#EXTINF:-1,[FR] GINX HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2417.m3u8
+#EXTINF:-1,[FR] BRAVA HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2450.m3u8
+#EXTINF:-1,[FR] BABY TV HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2398.m3u8
+#EXTINF:-1,[FR] AUTO MOTO HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2498.m3u8
+#EXTINF:-1,[FR] ABXPLORE HD
+http://live.faucontv.com:8000/live/Salwa/Salwa/2418.m3u8
+#EXTINF:-1,[FR] TF1 SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/585.m3u8
+#EXTINF:-1,[FR] M6 SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/586.m3u8
+#EXTINF:-1,[FR] France2 SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/587.m3u8
+#EXTINF:-1,[FR] France3 SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/588.m3u8
+#EXTINF:-1,[FR] France4 SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/589.m3u8
+#EXTINF:-1,[FR] France5 SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/590.m3u8
+#EXTINF:-1,[FR] FranceO SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/591.m3u8
+#EXTINF:-1,[FR] ARTE SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/700.m3u8
+#EXTINF:-1,[FR] Canal.Cinema SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/615.m3u8
+#EXTINF:-1,[FR] Canal.Sport SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/617.m3u8
+#EXTINF:-1,[FR] Canal.Series SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/614.m3u8
+#EXTINF:-1,[FR] Canal.Family SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/616.m3u8
+#EXTINF:-1,[FR] Cina.Premier SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/618.m3u8
+#EXTINF:-1,[FR] Cina.Frisson SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/619.m3u8
+#EXTINF:-1,[FR] Cine Emotion SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/621.m3u8
+#EXTINF:-1,[FR] Cina.Famiz SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/620.m3u8
+#EXTINF:-1,[FR] Cine Club SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/622.m3u8
+#EXTINF:-1,[FR] Rmc Sport News SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/698.m3u8
+#EXTINF:-1,[FR] RMC Sport1 SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/675.m3u8
+#EXTINF:-1,[FR] RMC Sport2 SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/676.m3u8
+#EXTINF:-1,[FR] RMC Sport3 SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/677.m3u8
+#EXTINF:-1,[FR] RMC Sport4 SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/678.m3u8
+#EXTINF:-1,[FR] Ocs.Max SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/624.m3u8
+#EXTINF:-1,[FR] Ocs.City SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/626.m3u8
+#EXTINF:-1,[FR] Ocs.Choc SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/625.m3u8
+#EXTINF:-1,[FR] Ocs.Geants SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/627.m3u8
+#EXTINF:-1,[FR] Disney.Cinema SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/655.m3u8
+#EXTINF:-1,[FR] TCM.Cinema SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/628.m3u8
+#EXTINF:-1,[FR] Sundance SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/631.m3u8
+#EXTINF:-1,[FR] Altice.Studio SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/630.m3u8
+#EXTINF:-1,[FR] Paramount.Channel SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/629.m3u8
+#EXTINF:-1,[FR] ACTION SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/612.m3u8
+#EXTINF:-1,[FR] Comedie SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/608.m3u8
+#EXTINF:-1,[FR] SYFY SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/603.m3u8
+#EXTINF:-1,[FR] Serie.Club SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/605.m3u8
+#EXTINF:-1,[FR] 13eme.Rue SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/606.m3u8
+#EXTINF:-1,[FR] MCM SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/708.m3u8
+#EXTINF:-1,[FR] MCM.TOP SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/709.m3u8
+#EXTINF:-1,[FR] Gameone1 SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/666.m3u8
+#EXTINF:-1,[FR] GameOne SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/665.m3u8
+#EXTINF:-1,[FR] J.One SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/667.m3u8
+#EXTINF:-1,[FR] Toonami SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/674.m3u8
+#EXTINF:-1,[FR] Gong SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/632.m3u8
+#EXTINF:-1,[FR] Mangas SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/671.m3u8
+#EXTINF:-1,[FR] AB1 SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/611.m3u8
+#EXTINF:-1,[FR] TV.Breizh SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/604.m3u8
+#EXTINF:-1,[FR] TÃƒÂ©va SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/602.m3u8
+#EXTINF:-1,[FR] Paris.Premiere SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/607.m3u8
+#EXTINF:-1,[FR] RTL9 SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/609.m3u8
+#EXTINF:-1,[FR] C8 SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/597.m3u8
+#EXTINF:-1,[FR] W9 SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/598.m3u8
+#EXTINF:-1,[FR] TMC SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/599.m3u8
+#EXTINF:-1,[FR] TFX SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/593.m3u8
+#EXTINF:-1,[FR] NRJ12 SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/594.m3u8
+#EXTINF:-1,[FR] E.ENTER SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/705.m3u8
+#EXTINF:-1,[FR] CStar SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/601.m3u8
+#EXTINF:-1,[FR] TF1.F.S.SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/592.m3u8
+#EXTINF:-1,[FR] 6ter SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/600.m3u8
+#EXTINF:-1,[FR] Rmc.Story SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/595.m3u8
+#EXTINF:-1,[FR] Cherie25 SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/596.m3u8
+#EXTINF:-1,[FR] My.Cuisine SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/707.m3u8
+#EXTINF:-1,[FR] Discovery SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/635.m3u8
+#EXTINF:-1,[FR] Disney.Channel1 SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/654.m3u8
+#EXTINF:-1,[FR] Disney.Channel SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/653.m3u8
+#EXTINF:-1,[FR] Discovery.Family SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/637.m3u8
+#EXTINF:-1,[FR] Discovery.Science SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/636.m3u8
+#EXTINF:-1,[FR] Discovery.Investigation SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/638.m3u8
+#EXTINF:-1,[FR] Crime.District SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/642.m3u8
+#EXTINF:-1,[FR] Planete.SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/639.m3u8
+#EXTINF:-1,[FR] Planete.CI SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/641.m3u8
+#EXTINF:-1,[FR] Planete.AE SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/640.m3u8
+#EXTINF:-1,[FR] Natgeo SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/633.m3u8
+#EXTINF:-1,[FR] Nat.Geo.Wild SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/634.m3u8
+#EXTINF:-1,[FR] UshuaÃƒ SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/645.m3u8
+#EXTINF:-1,[FR] Toute.histoire SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/650.m3u8
+#EXTINF:-1,[FR] Science.et.Vie SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/644.m3u8
+#EXTINF:-1,[FR] Animaux SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/647.m3u8
+#EXTINF:-1,[FR] TREK SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/651.m3u8
+#EXTINF:-1,[FR] Seasons SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/649.m3u8
+#EXTINF:-1,[FR] RMC.Decouverte SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/643.m3u8
+#EXTINF:-1,[FR] Voyages SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/646.m3u8
+#EXTINF:-1,[FR] CNews SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/701.m3u8
+#EXTINF:-1,[FR] BFMTV SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/699.m3u8
+#EXTINF:-1,[FR] LCI SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/702.m3u8
+#EXTINF:-1,[FR] LCP SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/704.m3u8
+#EXTINF:-1,[FR] FRANCE INFO SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/703.m3u8
+#EXTINF:-1,[FR] euro_channel SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/706.m3u8
+#EXTINF:-1,[FR] Beinsport1 SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/679.m3u8
+#EXTINF:-1,[FR] Beinsports2 SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/680.m3u8
+#EXTINF:-1,[FR] Beinsports3 SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/681.m3u8
+#EXTINF:-1,[FR] Beinsports4 SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/682.m3u8
+#EXTINF:-1,[FR] Beinsports5 SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/683.m3u8
+#EXTINF:-1,[FR] Beinsports6 SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/684.m3u8
+#EXTINF:-1,[FR] Beinsports7 SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/685.m3u8
+#EXTINF:-1,[FR] Beinsports8 SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/686.m3u8
+#EXTINF:-1,[FR] Bein Sports9 SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/687.m3u8
+#EXTINF:-1,[FR] Bein Sports10 SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/688.m3u8
+#EXTINF:-1,[FR] INFOSPORT SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/691.m3u8
+#EXTINF:-1,[FR] Equipe21 SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/692.m3u8
+#EXTINF:-1,[FR] Eurosport1 SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/689.m3u8
+#EXTINF:-1,[FR] Eurosport2 SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/690.m3u8
+#EXTINF:-1,[FR] OL TV SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/693.m3u8
+#EXTINF:-1,[FR] Golf Channel SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/694.m3u8
+#EXTINF:-1,[FR] Equidia Live SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/695.m3u8
+#EXTINF:-1,[FR] Piwi SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/669.m3u8
+#EXTINF:-1,[FR] TIJI SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/673.m3u8
+#EXTINF:-1,[FR] TÃƒÂ©lÃƒÂ©TOON SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/672.m3u8
+#EXTINF:-1,[FR] Disney.XD SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/657.m3u8
+#EXTINF:-1,[FR] DISNEY.Junior SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/656.m3u8
+#EXTINF:-1,[FR] Nickelodeon1 SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/659.m3u8
+#EXTINF:-1,[FR] Nickelodeon SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/658.m3u8
+#EXTINF:-1,[FR] Nickelodeon.Junior SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/661.m3u8
+#EXTINF:-1,[FR] Nick4teens SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/660.m3u8
+#EXTINF:-1,[FR] Boomerang SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/662.m3u8
+#EXTINF:-1,[FR] Boomerang1 SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/663.m3u8
+#EXTINF:-1,[FR] Cartoon.Network SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/652.m3u8
+#EXTINF:-1,[FR] Canal J SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/664.m3u8
+#EXTINF:-1,[FR] Boing SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/670.m3u8
+#EXTINF:-1,[FR] Gulli SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/668.m3u8
+#EXTINF:-1,[FR] Trace.Urban SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/719.m3u8
+#EXTINF:-1,[FR] Trace.Tropical SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/718.m3u8
+#EXTINF:-1,[FR] Trace.Naija SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/717.m3u8
+#EXTINF:-1,[FR] Trace.Gospel SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/716.m3u8
+#EXTINF:-1,[FR] Trace.Africa SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/715.m3u8
+#EXTINF:-1,[FR] NRJ Hits SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/710.m3u8
+#EXTINF:-1,[FR] Nrj.Belgique SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/711.m3u8
+#EXTINF:-1,[FR] Motor Sport TV SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/696.m3u8
+#EXTINF:-1,[FR] AB3 SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/610.m3u8
+#EXTINF:-1,[FR] AB Moteurs SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/697.m3u8
+#EXTINF:-1,[FR] Cina.Classic SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/623.m3u8
+#EXTINF:-1,[FR] Chasse.et.PÃªche SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/648.m3u8
+#EXTINF:-1,[FR] CANAL SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/613.m3u8
+#EXTINF:-1,[FR] BBlack.ClassiK SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/714.m3u8
+#EXTINF:-1,[FR] BBlack.Caribbean SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/713.m3u8
+#EXTINF:-1,[FR] BBlack.Afrika SD
+http://live.faucontv.com:8000/live/Salwa/Salwa/712.m3u8
