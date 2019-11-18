@@ -1,806 +1,259 @@
-#EXTINF:-1,[FR] TF1 FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/787.m3u8
-#EXTINF:-1,[FR] M6 FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/764.m3u8
-#EXTINF:-1,[FR] FRANCE O FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/758.m3u8
-#EXTINF:-1,[FR] FRANCE 2 FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/752.m3u8
-#EXTINF:-1,[FR] FRANCE 3 FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/754.m3u8
-#EXTINF:-1,[FR] FRANCE 4 FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/755.m3u8
-#EXTINF:-1,[FR] FRANCE 5 FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/756.m3u8
-#EXTINF:-1,[FR] ARTE FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/725.m3u8
-#EXTINF:-1,[FR] CANAL PLUS FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/735.m3u8
-#EXTINF:-1,[FR] CANAL  CINEMA FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/728.m3u8
-#EXTINF:-1,[FR] CANAL  SPORT FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/733.m3u8
-#EXTINF:-1,[FR] CANAL   SERIE FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/732.m3u8
-#EXTINF:-1,[FR] CANAL  FAMILY FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/730.m3u8
-#EXTINF:-1,[FR] CANAL  DECALE FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/729.m3u8
-#EXTINF:-1,[FR] CANAL  FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/731.m3u8
-#EXTINF:-1,[FR] CINE FX FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/745.m3u8
-#EXTINF:-1,[FR] CINE  PREMIERE FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/744.m3u8
-#EXTINF:-1,[FR] CINE  FRISSON FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/742.m3u8
-#EXTINF:-1,[FR] CINE  EMOTION FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/740.m3u8
-#EXTINF:-1,[FR] CINE  FAMIZ FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/741.m3u8
-#EXTINF:-1,[FR] CINE  CLUB FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/739.m3u8
-#EXTINF:-1,[FR] CINE  CLASSIC FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/738.m3u8
-#EXTINF:-1,[FR] CINE  POLAR FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/743.m3u8
-#EXTINF:-1,[FR] RMC SPORT 1 FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/790.m3u8
-#EXTINF:-1,[FR] RMC SPORT 2 FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/791.m3u8
-#EXTINF:-1,[FR] RMC SPORT 3 FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/792.m3u8
-#EXTINF:-1,[FR] RMC SPORT 4 FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/793.m3u8
-#EXTINF:-1,[FR] OCS MAX FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/778.m3u8
-#EXTINF:-1,[FR] OCS CITY FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/776.m3u8
-#EXTINF:-1,[FR] OCS CHOC FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/775.m3u8
-#EXTINF:-1,[FR] OCS GEANTS FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/777.m3u8
-#EXTINF:-1,[FR] DISNEY CINEMAGIC FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/748.m3u8
-#EXTINF:-1,[FR] ACTION FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/723.m3u8
-#EXTINF:-1,[FR] COMEDIE FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/746.m3u8
-#EXTINF:-1,[FR] SYFY FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/785.m3u8
-#EXTINF:-1,[FR] 13 EME RUE FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/720.m3u8
-#EXTINF:-1,[FR] MTV FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/768.m3u8
-#EXTINF:-1,[FR] MCM FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/766.m3u8
-#EXTINF:-1,[FR] MCM TOP FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/767.m3u8
-#EXTINF:-1,[FR] MANGAS FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/765.m3u8
-#EXTINF:-1,[FR] AB 1 FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/722.m3u8
-#EXTINF:-1,[FR] AB3 FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/815.m3u8
-#EXTINF:-1,[FR] TV BREIZH FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/788.m3u8
-#EXTINF:-1,[FR] RTL 9 FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/784.m3u8
-#EXTINF:-1,[FR] C8 FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/727.m3u8
-#EXTINF:-1,[FR] W9 FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/789.m3u8
-#EXTINF:-1,[FR] NRJ 12 FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/773.m3u8
-#EXTINF:-1,[FR] 6TER FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/721.m3u8
-#EXTINF:-1,[FR] CHERIE25 FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/737.m3u8
-#EXTINF:-1,[FR] LCI FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/763.m3u8
-#EXTINF:-1,[FR] M6 MUSIC FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/818.m3u8
-#EXTINF:-1,[FR] FRANCE 24 FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/753.m3u8
-#EXTINF:-1,[FR] FRANCE INFO FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/757.m3u8
-#EXTINF:-1,[FR] BEIN SPORT 1 FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/794.m3u8
-#EXTINF:-1,[FR] BEIN SPORT 2 FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/795.m3u8
-#EXTINF:-1,[FR] BEIN SPORT 3 FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/796.m3u8
-#EXTINF:-1,[FR] BEIN SPORT MAX 4 FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/798.m3u8
-#EXTINF:-1,[FR] BEIN SPORT MAX 5 FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/799.m3u8
-#EXTINF:-1,[FR] BEIN SPORT MAX 6 FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/800.m3u8
-#EXTINF:-1,[FR] BEIN SPORT MAX 7 FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/801.m3u8
-#EXTINF:-1,[FR] BEIN SPORT MAX 8 FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/802.m3u8
-#EXTINF:-1,[FR] BEIN SPORT MAX 9 FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/803.m3u8
-#EXTINF:-1,[FR] BEIN SPORT MAX 10 FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/797.m3u8
-#EXTINF:-1,[FR] EUROSPORT 1 FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/804.m3u8
-#EXTINF:-1,[FR] EUROSPORT 2 FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/805.m3u8
-#EXTINF:-1,[FR] MOTORSPORT TV FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/806.m3u8
-#EXTINF:-1,[FR] L EQUIPE21 FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/762.m3u8
-#EXTINF:-1,[FR] INFOSPORT  FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/761.m3u8
-#EXTINF:-1,[FR] RFM TV FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/783.m3u8
-#EXTINF:-1,[FR] GOLF FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/759.m3u8
-#EXTINF:-1,[FR] FOOT 24 FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/751.m3u8
-#EXTINF:-1,[FR] National Geographic FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/769.m3u8
-#EXTINF:-1,[FR] National Geographic WILD FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/770.m3u8
-#EXTINF:-1,[FR] PLANETE FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/819.m3u8
-#EXTINF:-1,[FR] PLANET A&E FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/782.m3u8
-#EXTINF:-1,[FR] PLANET  FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/781.m3u8
-#EXTINF:-1,[FR] PLANET CI FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/780.m3u8
-#EXTINF:-1,[FR] DISCOVERY SCIENCE FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/747.m3u8
-#EXTINF:-1,[FR] Chasse et PÃªche FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/816.m3u8
-#EXTINF:-1,[FR] ANIMAUX FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/724.m3u8
-#EXTINF:-1,[FR] AB MOTEUR FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/807.m3u8
-#EXTINF:-1,[FR] GULLI FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/760.m3u8
-#EXTINF:-1,[FR] PIWI FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/779.m3u8
-#EXTINF:-1,[FR] NICKELODEON JUNIOR FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/772.m3u8
-#EXTINF:-1,[FR] NICKELODEON FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/771.m3u8
-#EXTINF:-1,[FR] DISNEY CHANNEL FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/817.m3u8
-#EXTINF:-1,[FR] DISNEY XD FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/750.m3u8
-#EXTINF:-1,[FR] DISNEY JUNIOR FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/749.m3u8
-#EXTINF:-1,[FR] CARTOON NETWORK FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/736.m3u8
-#EXTINF:-1,[FR] CANAL J FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/734.m3u8
-#EXTINF:-1,[FR] BOOMERANG FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/726.m3u8
-#EXTINF:-1,[FR] A LA CARTE 7 FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/814.m3u8
-#EXTINF:-1,[FR] A LA CARTE 6 FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/813.m3u8
-#EXTINF:-1,[FR] A LA CARTE 5 FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/812.m3u8
-#EXTINF:-1,[FR] A LA CARTE 4 FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/811.m3u8
-#EXTINF:-1,[FR] A LA CARTE 3 FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/810.m3u8
-#EXTINF:-1,[FR] A LA CARTE 2 FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/809.m3u8
-#EXTINF:-1,[FR] A LA CARTE 1 FHD
-http://live.faucontv.com:8000/live/Salwa/Salwa/808.m3u8
-#EXTINF:-1,[FR] TF1 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2336.m3u8
-#EXTINF:-1,[FR] M6 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2341.m3u8
-#EXTINF:-1,[FR] FRANCE 2 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2337.m3u8
-#EXTINF:-1,[FR] FRANCE 3 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2338.m3u8
-#EXTINF:-1,[FR] FRANCE 4 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2348.m3u8
-#EXTINF:-1,[FR] FRANCE 5 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2342.m3u8
-#EXTINF:-1,[FR] FRANCE O HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2353.m3u8
-#EXTINF:-1,[FR] ARTE HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2340.m3u8
-#EXTINF:-1,[FR] CANAL  HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2339.m3u8
-#EXTINF:-1,[FR] CANAL SERIES HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2362.m3u8
-#EXTINF:-1,[FR] CANAL CINEMA HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2359.m3u8
-#EXTINF:-1,[FR] CANAL  SPORT HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2460.m3u8
-#EXTINF:-1,[FR] CANAL FAMILY HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2361.m3u8
-#EXTINF:-1,[FR] CANAL DECALE HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2360.m3u8
-#EXTINF:-1,[FR] CINE CLUB HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2368.m3u8
-#EXTINF:-1,[FR] CINE  PREMIER HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2366.m3u8
-#EXTINF:-1,[FR] CINE  FRISSON HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2365.m3u8
-#EXTINF:-1,[FR] CINE  CLASSIC HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2367.m3u8
-#EXTINF:-1,[FR] CINE  EMOTION HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2363.m3u8
-#EXTINF:-1,[FR] CINE  FAMIZ HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2364.m3u8
-#EXTINF:-1,[FR] RMC SPORT 1 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2461.m3u8
-#EXTINF:-1,[FR] RMC SPORT 2 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2463.m3u8
-#EXTINF:-1,[FR] RMC SPORT 3 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2465.m3u8
-#EXTINF:-1,[FR] OCS GEANTS HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2371.m3u8
-#EXTINF:-1,[FR] RMC SPORT 4 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2467.m3u8
-#EXTINF:-1,[FR] OCS MAX HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2372.m3u8
-#EXTINF:-1,[FR] OCS CITY HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2370.m3u8
-#EXTINF:-1,[FR] OCS CHOC HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2369.m3u8
-#EXTINF:-1,[FR] DISNEY CINEMA HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2402.m3u8
-#EXTINF:-1,[FR] TCM CINEMA HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2385.m3u8
-#EXTINF:-1,[FR] ALTICE STUDIO HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2376.m3u8
-#EXTINF:-1,[FR] PARAMOUNT CHANNEL HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2380.m3u8
-#EXTINF:-1,[FR] PARAMOUNT CHANNEL DECALE HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2381.m3u8
-#EXTINF:-1,[FR] ACTION HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2377.m3u8
-#EXTINF:-1,[FR] MEZZO HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2449.m3u8
-#EXTINF:-1,[FR] COMEDIE  HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2378.m3u8
-#EXTINF:-1,[FR] SYFY HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2389.m3u8
-#EXTINF:-1,[FR] SERIE-CLUB HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2388.m3u8
-#EXTINF:-1,[FR] 13 EME RUE HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2373.m3u8
-#EXTINF:-1,[FR] E! HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2391.m3u8
-#EXTINF:-1,[FR] NOVELAS TV HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2383.m3u8
-#EXTINF:-1,[FR] MCM HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2446.m3u8
-#EXTINF:-1,[FR] J-One HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2414.m3u8
-#EXTINF:-1,[FR] TOONAMI HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2413.m3u8
-#EXTINF:-1,[FR] MANGAS HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2415.m3u8
-#EXTINF:-1,[FR] AB1 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2374.m3u8
-#EXTINF:-1,[FR] AB3 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2375.m3u8
-#EXTINF:-1,[FR] TEVA HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2390.m3u8
-#EXTINF:-1,[FR] TV BREIZH HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2392.m3u8
-#EXTINF:-1,[FR] PARIS PREMIERE HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2387.m3u8
-#EXTINF:-1,[FR] RTL9 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2386.m3u8
-#EXTINF:-1,[FR] BET HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2384.m3u8
-#EXTINF:-1,[FR] C8 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2343.m3u8
-#EXTINF:-1,[FR] W9 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2344.m3u8
-#EXTINF:-1,[FR] TMC HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2345.m3u8
-#EXTINF:-1,[FR] TFX HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2346.m3u8
-#EXTINF:-1,[FR] NRJ 12 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2347.m3u8
-#EXTINF:-1,[FR] CSTAR HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2351.m3u8
-#EXTINF:-1,[FR] TF1 SERIES/FILMS HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2354.m3u8
-#EXTINF:-1,[FR] 6TER HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2355.m3u8
-#EXTINF:-1,[FR] RMC STORY HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2357.m3u8
-#EXTINF:-1,[FR] MY CUISINE HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2393.m3u8
-#EXTINF:-1,[FR] CHERIE 25 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2358.m3u8
-#EXTINF:-1,[FR] DISCOVERY HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2420.m3u8
-#EXTINF:-1,[FR] DISCOVERY SCI HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2421.m3u8
-#EXTINF:-1,[FR] DISCOVERY INVESTIGATION HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2423.m3u8
-#EXTINF:-1,[FR] DISCOVERY FAMILY HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2422.m3u8
-#EXTINF:-1,[FR] CRIME DISTRICT HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2419.m3u8
-#EXTINF:-1,[FR] TOUTE L'HISTOIRE HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2430.m3u8
-#EXTINF:-1,[FR] PLANETE HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2424.m3u8
-#EXTINF:-1,[FR] PLANETE  A&E HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2426.m3u8
-#EXTINF:-1,[FR] PLANETE  CI HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2425.m3u8
-#EXTINF:-1,[FR] NATIONAL GEOGRAPHIC HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2427.m3u8
-#EXTINF:-1,[FR] NAT GEO WILD HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2428.m3u8
-#EXTINF:-1,[FR] USHUAIA TV HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2434.m3u8
-#EXTINF:-1,[FR] HISTOIRE HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2429.m3u8
-#EXTINF:-1,[FR] SCIENCE & VIE TV HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2435.m3u8
-#EXTINF:-1,[FR] ANIMAUX HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2433.m3u8
-#EXTINF:-1,[FR] TREK HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2437.m3u8
-#EXTINF:-1,[FR] SEASONS HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2436.m3u8
-#EXTINF:-1,[FR] CHASSE ET PECHE HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2432.m3u8
-#EXTINF:-1,[FR] RMC DECOUVERTE HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2356.m3u8
-#EXTINF:-1,[FR] VOYAGE HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2431.m3u8
-#EXTINF:-1,[FR] CNEWS HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2350.m3u8
-#EXTINF:-1,[FR] BFM TV HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2349.m3u8
-#EXTINF:-1,[FR] BFM PARIS HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2396.m3u8
-#EXTINF:-1,[FR] EURONEWS HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2394.m3u8
-#EXTINF:-1,[FR] FOOT  24
-http://live.faucontv.com:8000/live/Salwa/Salwa/2494.m3u8
-#EXTINF:-1,[FR] BEIN SPORTS 1 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2480.m3u8
-#EXTINF:-1,[FR] BEIN SPORTS 2 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2481.m3u8
-#EXTINF:-1,[FR] BEIN SPORTS 3 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2482.m3u8
-#EXTINF:-1,[FR] BEIN SPORTS MAX 4 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2483.m3u8
-#EXTINF:-1,[FR] BEIN SPORTS MAX 5 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2484.m3u8
-#EXTINF:-1,[FR] BEIN SPORTS MAX 6 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2485.m3u8
-#EXTINF:-1,[FR] BEIN SPORTS MAX 7 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2486.m3u8
-#EXTINF:-1,[FR] BEIN SPORTS MAX 8 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2487.m3u8
-#EXTINF:-1,[FR] BEIN SPORTS MAX 9 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2488.m3u8
-#EXTINF:-1,[FR] BEIN SPORTS MAX 10 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2489.m3u8
-#EXTINF:-1,[FR] INFOSPORT  HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2493.m3u8
-#EXTINF:-1,[FR] EUROSPORT 1 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2490.m3u8
-#EXTINF:-1,[FR] EUROSPORT 2 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2491.m3u8
-#EXTINF:-1,[FR] OL TV HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2492.m3u8
-#EXTINF:-1,[FR] GOLF CHANNEL HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2496.m3u8
-#EXTINF:-1,[FR] GOLF  HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2495.m3u8
-#EXTINF:-1,[FR] EQUIDIA HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2499.m3u8
-#EXTINF:-1,[FR] TRACE SPORTS STARS HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2500.m3u8
-#EXTINF:-1,[FR] PIWI HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2399.m3u8
-#EXTINF:-1,[FR] TIJI HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2405.m3u8
-#EXTINF:-1,[FR] TELETOON HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2406.m3u8
-#EXTINF:-1,[FR] DISNEY CHANNEL HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2401.m3u8
-#EXTINF:-1,[FR] DISNEY JUNIOR HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2404.m3u8
-#EXTINF:-1,[FR] DISNEY XD HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2403.m3u8
-#EXTINF:-1,[FR] NICKELODEON TEEN HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2411.m3u8
-#EXTINF:-1,[FR] NICKELODEON JR HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2410.m3u8
-#EXTINF:-1,[FR] NICKELODEON HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2409.m3u8
-#EXTINF:-1,[FR] BOOMERANG HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2407.m3u8
-#EXTINF:-1,[FR] CARTOON NETWORK HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2416.m3u8
-#EXTINF:-1,[FR] CANAL J HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2412.m3u8
-#EXTINF:-1,[FR] BOING HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2408.m3u8
-#EXTINF:-1,[FR] GULLI HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2352.m3u8
-#EXTINF:-1,[FR] MTV ROCK HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2443.m3u8
-#EXTINF:-1,[FR] MTV HITS HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2441.m3u8
-#EXTINF:-1,[FR] MTV FR HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2440.m3u8
-#EXTINF:-1,[FR] MTV DANCE HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2442.m3u8
-#EXTINF:-1,[FR] ZOUZOU TV HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2400.m3u8
-#EXTINF:-1,[FR] WARNER TV HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2382.m3u8
-#EXTINF:-1,[FR] TRACE URBAN HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2451.m3u8
-#EXTINF:-1,[FR] TRACE TROPICAL HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2452.m3u8
-#EXTINF:-1,[FR] TRACE TOCA HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2459.m3u8
-#EXTINF:-1,[FR] TRACE NAIJA HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2458.m3u8
-#EXTINF:-1,[FR] TRACE MZIKI HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2457.m3u8
-#EXTINF:-1,[FR] TRACE LATINA HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2456.m3u8
-#EXTINF:-1,[FR] TRACE KITOKO HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2455.m3u8
-#EXTINF:-1,[FR] TRACE AYITI HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2454.m3u8
-#EXTINF:-1,[FR] TRACE AFRICA HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2453.m3u8
-#EXTINF:-1,[FR] SUI: RTS Un HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2502.m3u8
-#EXTINF:-1,[FR] SUI:RTS.Deux HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2503.m3u8
-#EXTINF:-1,[FR] RT FRANCE HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2397.m3u8
-#EXTINF:-1,[FR] RMC Sport Live 9 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2472.m3u8
-#EXTINF:-1,[FR] RMC Sport Live 8 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2471.m3u8
-#EXTINF:-1,[FR] RMC Sport Live 7 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2470.m3u8
-#EXTINF:-1,[FR] RMC Sport Live 6 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2469.m3u8
-#EXTINF:-1,[FR] RMC Sport Live 5 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2468.m3u8
-#EXTINF:-1,[FR] RMC Sport Live 16 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2479.m3u8
-#EXTINF:-1,[FR] RMC Sport Live 15 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2478.m3u8
-#EXTINF:-1,[FR] RMC Sport Live 14 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2477.m3u8
-#EXTINF:-1,[FR] RMC Sport Live 13 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2476.m3u8
-#EXTINF:-1,[FR] RMC Sport Live 12 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2475.m3u8
-#EXTINF:-1,[FR] RMC Sport Live 11 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2474.m3u8
-#EXTINF:-1,[FR] RMC Sport Live 10 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2473.m3u8
-#EXTINF:-1,[FR] RMC ACCESS SPORT 3 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2466.m3u8
-#EXTINF:-1,[FR] RMC ACCESS SPORT 2 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2464.m3u8
-#EXTINF:-1,[FR] RMC ACCESS SPORT 1 HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2462.m3u8
-#EXTINF:-1,[FR] RFM TV HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2448.m3u8
-#EXTINF:-1,[FR] PUBLIC SENAT HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2395.m3u8
-#EXTINF:-1,[FR] NRJ HITS HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2444.m3u8
-#EXTINF:-1,[FR] MY COMEDY HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2379.m3u8
-#EXTINF:-1,[FR] MOTORVISION HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2497.m3u8
-#EXTINF:-1,[FR] MELODY HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2447.m3u8
-#EXTINF:-1,[FR] M6 MUSIC HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2445.m3u8
-#EXTINF:-1,[FR] LUXE TV HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2438.m3u8
-#EXTINF:-1,[FR] LUCKY JACK HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2439.m3u8
-#EXTINF:-1,[FR] LA UNE HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2504.m3u8
-#EXTINF:-1,[FR] LA TROIS HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2506.m3u8
-#EXTINF:-1,[FR] LA DEUX HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2505.m3u8
-#EXTINF:-1,[FR] GINX HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2417.m3u8
-#EXTINF:-1,[FR] BRAVA HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2450.m3u8
-#EXTINF:-1,[FR] BABY TV HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2398.m3u8
-#EXTINF:-1,[FR] AUTO MOTO HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2498.m3u8
-#EXTINF:-1,[FR] ABXPLORE HD
-http://live.faucontv.com:8000/live/Salwa/Salwa/2418.m3u8
-#EXTINF:-1,[FR] TF1 SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/585.m3u8
-#EXTINF:-1,[FR] M6 SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/586.m3u8
-#EXTINF:-1,[FR] France2 SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/587.m3u8
-#EXTINF:-1,[FR] France3 SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/588.m3u8
-#EXTINF:-1,[FR] France4 SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/589.m3u8
-#EXTINF:-1,[FR] France5 SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/590.m3u8
-#EXTINF:-1,[FR] FranceO SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/591.m3u8
-#EXTINF:-1,[FR] ARTE SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/700.m3u8
-#EXTINF:-1,[FR] Canal.Cinema SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/615.m3u8
-#EXTINF:-1,[FR] Canal.Sport SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/617.m3u8
-#EXTINF:-1,[FR] Canal.Series SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/614.m3u8
-#EXTINF:-1,[FR] Canal.Family SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/616.m3u8
-#EXTINF:-1,[FR] Cina.Premier SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/618.m3u8
-#EXTINF:-1,[FR] Cina.Frisson SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/619.m3u8
-#EXTINF:-1,[FR] Cine Emotion SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/621.m3u8
-#EXTINF:-1,[FR] Cina.Famiz SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/620.m3u8
-#EXTINF:-1,[FR] Cine Club SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/622.m3u8
-#EXTINF:-1,[FR] Rmc Sport News SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/698.m3u8
-#EXTINF:-1,[FR] RMC Sport1 SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/675.m3u8
-#EXTINF:-1,[FR] RMC Sport2 SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/676.m3u8
-#EXTINF:-1,[FR] RMC Sport3 SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/677.m3u8
-#EXTINF:-1,[FR] RMC Sport4 SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/678.m3u8
-#EXTINF:-1,[FR] Ocs.Max SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/624.m3u8
-#EXTINF:-1,[FR] Ocs.City SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/626.m3u8
-#EXTINF:-1,[FR] Ocs.Choc SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/625.m3u8
-#EXTINF:-1,[FR] Ocs.Geants SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/627.m3u8
-#EXTINF:-1,[FR] Disney.Cinema SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/655.m3u8
-#EXTINF:-1,[FR] TCM.Cinema SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/628.m3u8
-#EXTINF:-1,[FR] Sundance SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/631.m3u8
-#EXTINF:-1,[FR] Altice.Studio SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/630.m3u8
-#EXTINF:-1,[FR] Paramount.Channel SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/629.m3u8
-#EXTINF:-1,[FR] ACTION SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/612.m3u8
-#EXTINF:-1,[FR] Comedie SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/608.m3u8
-#EXTINF:-1,[FR] SYFY SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/603.m3u8
-#EXTINF:-1,[FR] Serie.Club SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/605.m3u8
-#EXTINF:-1,[FR] 13eme.Rue SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/606.m3u8
-#EXTINF:-1,[FR] MCM SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/708.m3u8
-#EXTINF:-1,[FR] MCM.TOP SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/709.m3u8
-#EXTINF:-1,[FR] Gameone1 SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/666.m3u8
-#EXTINF:-1,[FR] GameOne SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/665.m3u8
-#EXTINF:-1,[FR] J.One SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/667.m3u8
-#EXTINF:-1,[FR] Toonami SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/674.m3u8
-#EXTINF:-1,[FR] Gong SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/632.m3u8
-#EXTINF:-1,[FR] Mangas SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/671.m3u8
-#EXTINF:-1,[FR] AB1 SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/611.m3u8
-#EXTINF:-1,[FR] TV.Breizh SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/604.m3u8
-#EXTINF:-1,[FR] TÃƒÂ©va SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/602.m3u8
-#EXTINF:-1,[FR] Paris.Premiere SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/607.m3u8
-#EXTINF:-1,[FR] RTL9 SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/609.m3u8
-#EXTINF:-1,[FR] C8 SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/597.m3u8
-#EXTINF:-1,[FR] W9 SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/598.m3u8
-#EXTINF:-1,[FR] TMC SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/599.m3u8
-#EXTINF:-1,[FR] TFX SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/593.m3u8
-#EXTINF:-1,[FR] NRJ12 SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/594.m3u8
-#EXTINF:-1,[FR] E.ENTER SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/705.m3u8
-#EXTINF:-1,[FR] CStar SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/601.m3u8
-#EXTINF:-1,[FR] TF1.F.S.SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/592.m3u8
-#EXTINF:-1,[FR] 6ter SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/600.m3u8
-#EXTINF:-1,[FR] Rmc.Story SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/595.m3u8
-#EXTINF:-1,[FR] Cherie25 SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/596.m3u8
-#EXTINF:-1,[FR] My.Cuisine SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/707.m3u8
-#EXTINF:-1,[FR] Discovery SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/635.m3u8
-#EXTINF:-1,[FR] Disney.Channel1 SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/654.m3u8
-#EXTINF:-1,[FR] Disney.Channel SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/653.m3u8
-#EXTINF:-1,[FR] Discovery.Family SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/637.m3u8
-#EXTINF:-1,[FR] Discovery.Science SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/636.m3u8
-#EXTINF:-1,[FR] Discovery.Investigation SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/638.m3u8
-#EXTINF:-1,[FR] Crime.District SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/642.m3u8
-#EXTINF:-1,[FR] Planete.SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/639.m3u8
-#EXTINF:-1,[FR] Planete.CI SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/641.m3u8
-#EXTINF:-1,[FR] Planete.AE SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/640.m3u8
-#EXTINF:-1,[FR] Natgeo SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/633.m3u8
-#EXTINF:-1,[FR] Nat.Geo.Wild SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/634.m3u8
-#EXTINF:-1,[FR] UshuaÃƒ SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/645.m3u8
-#EXTINF:-1,[FR] Toute.histoire SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/650.m3u8
-#EXTINF:-1,[FR] Science.et.Vie SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/644.m3u8
-#EXTINF:-1,[FR] Animaux SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/647.m3u8
-#EXTINF:-1,[FR] TREK SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/651.m3u8
-#EXTINF:-1,[FR] Seasons SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/649.m3u8
-#EXTINF:-1,[FR] RMC.Decouverte SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/643.m3u8
-#EXTINF:-1,[FR] Voyages SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/646.m3u8
-#EXTINF:-1,[FR] CNews SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/701.m3u8
-#EXTINF:-1,[FR] BFMTV SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/699.m3u8
-#EXTINF:-1,[FR] LCI SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/702.m3u8
-#EXTINF:-1,[FR] LCP SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/704.m3u8
-#EXTINF:-1,[FR] FRANCE INFO SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/703.m3u8
-#EXTINF:-1,[FR] euro_channel SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/706.m3u8
-#EXTINF:-1,[FR] Beinsport1 SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/679.m3u8
-#EXTINF:-1,[FR] Beinsports2 SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/680.m3u8
-#EXTINF:-1,[FR] Beinsports3 SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/681.m3u8
-#EXTINF:-1,[FR] Beinsports4 SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/682.m3u8
-#EXTINF:-1,[FR] Beinsports5 SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/683.m3u8
-#EXTINF:-1,[FR] Beinsports6 SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/684.m3u8
-#EXTINF:-1,[FR] Beinsports7 SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/685.m3u8
-#EXTINF:-1,[FR] Beinsports8 SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/686.m3u8
-#EXTINF:-1,[FR] Bein Sports9 SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/687.m3u8
-#EXTINF:-1,[FR] Bein Sports10 SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/688.m3u8
-#EXTINF:-1,[FR] INFOSPORT SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/691.m3u8
-#EXTINF:-1,[FR] Equipe21 SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/692.m3u8
-#EXTINF:-1,[FR] Eurosport1 SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/689.m3u8
-#EXTINF:-1,[FR] Eurosport2 SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/690.m3u8
-#EXTINF:-1,[FR] OL TV SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/693.m3u8
-#EXTINF:-1,[FR] Golf Channel SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/694.m3u8
-#EXTINF:-1,[FR] Equidia Live SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/695.m3u8
-#EXTINF:-1,[FR] Piwi SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/669.m3u8
-#EXTINF:-1,[FR] TIJI SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/673.m3u8
-#EXTINF:-1,[FR] TÃƒÂ©lÃƒÂ©TOON SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/672.m3u8
-#EXTINF:-1,[FR] Disney.XD SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/657.m3u8
-#EXTINF:-1,[FR] DISNEY.Junior SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/656.m3u8
-#EXTINF:-1,[FR] Nickelodeon1 SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/659.m3u8
-#EXTINF:-1,[FR] Nickelodeon SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/658.m3u8
-#EXTINF:-1,[FR] Nickelodeon.Junior SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/661.m3u8
-#EXTINF:-1,[FR] Nick4teens SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/660.m3u8
-#EXTINF:-1,[FR] Boomerang SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/662.m3u8
-#EXTINF:-1,[FR] Boomerang1 SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/663.m3u8
-#EXTINF:-1,[FR] Cartoon.Network SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/652.m3u8
-#EXTINF:-1,[FR] Canal J SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/664.m3u8
-#EXTINF:-1,[FR] Boing SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/670.m3u8
-#EXTINF:-1,[FR] Gulli SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/668.m3u8
-#EXTINF:-1,[FR] Trace.Urban SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/719.m3u8
-#EXTINF:-1,[FR] Trace.Tropical SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/718.m3u8
-#EXTINF:-1,[FR] Trace.Naija SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/717.m3u8
-#EXTINF:-1,[FR] Trace.Gospel SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/716.m3u8
-#EXTINF:-1,[FR] Trace.Africa SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/715.m3u8
-#EXTINF:-1,[FR] NRJ Hits SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/710.m3u8
-#EXTINF:-1,[FR] Nrj.Belgique SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/711.m3u8
-#EXTINF:-1,[FR] Motor Sport TV SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/696.m3u8
-#EXTINF:-1,[FR] AB3 SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/610.m3u8
-#EXTINF:-1,[FR] AB Moteurs SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/697.m3u8
-#EXTINF:-1,[FR] Cina.Classic SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/623.m3u8
-#EXTINF:-1,[FR] Chasse.et.PÃªche SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/648.m3u8
-#EXTINF:-1,[FR] CANAL SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/613.m3u8
-#EXTINF:-1,[FR] BBlack.ClassiK SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/714.m3u8
-#EXTINF:-1,[FR] BBlack.Caribbean SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/713.m3u8
-#EXTINF:-1,[FR] BBlack.Afrika SD
-http://live.faucontv.com:8000/live/Salwa/Salwa/712.m3u8
+#EXTM3U
+#EXTINF:-1,FR: TF1 HD
+http://silvertv.net:1997/live/prof/prof1/5175.m3u8
+#EXTINF:-1,FR: M6 HD
+http://silvertv.net:1997/live/prof/prof1/5174.m3u8
+#EXTINF:-1,FR: FRANCE 2 HD
+http://silvertv.net:1997/live/prof/prof1/5173.m3u8
+#EXTINF:-1,FR: FRANCE 3 HD
+http://silvertv.net:1997/live/prof/prof1/5172.m3u8
+#EXTINF:-1,FR: FRANCE 4 HD
+http://silvertv.net:1997/live/prof/prof1/5171.m3u8
+#EXTINF:-1,FR: FRANCE 5 HD
+http://silvertv.net:1997/live/prof/prof1/5170.m3u8
+#EXTINF:-1,FR: FRANCE O HD
+http://silvertv.net:1997/live/prof/prof1/5169.m3u8
+#EXTINF:-1,FR: 6Ter HD
+http://silvertv.net:1997/live/prof/prof1/5167.m3u8
+#EXTINF:-1,FR: CStar HD
+http://silvertv.net:1997/live/prof/prof1/5164.m3u8
+#EXTINF:-1,FR: C NEWS HD
+http://silvertv.net:1997/live/prof/prof1/5180.m3u8
+#EXTINF:-1,FR: C8 HD
+http://silvertv.net:1997/live/prof/prof1/5165.m3u8
+#EXTINF:-1,FR: TF1 Series Film HD
+http://silvertv.net:1997/live/prof/prof1/5280.m3u8
+#EXTINF:-1,FR: RTL9 HD
+http://silvertv.net:1997/live/prof/prof1/5207.m3u8
+#EXTINF:-1,FR: W9 HD
+http://silvertv.net:1997/live/prof/prof1/5166.m3u8
+#EXTINF:-1,FR: WEO HD
+http://silvertv.net:1997/live/prof/prof1/5271.m3u8
+#EXTINF:-1,***** CINEMA FRANCE *****
+http://silvertv.net:1997/live/prof/prof1/877.m3u8
+#EXTINF:-1,FR: CANAL PLUS HD
+http://silvertv.net:1997/live/prof/prof1/5160.m3u8
+#EXTINF:-1,FR: CANAL PLUS CINEMA HD
+http://silvertv.net:1997/live/prof/prof1/5159.m3u8
+#EXTINF:-1,FR: CANAL PLUS DECALE HD
+http://silvertv.net:1997/live/prof/prof1/5155.m3u8
+#EXTINF:-1,FR: CANAL PLUS FAMILY HD
+http://silvertv.net:1997/live/prof/prof1/5158.m3u8
+#EXTINF:-1,FR: CANAL PLUS SERIES HD
+http://silvertv.net:1997/live/prof/prof1/5157.m3u8
+#EXTINF:-1,FR: CANAL PLUS SPORT HD
+http://silvertv.net:1997/live/prof/prof1/5156.m3u8
+#EXTINF:-1,FR: CINE CLASSIC HD
+http://silvertv.net:1997/live/prof/prof1/5228.m3u8
+#EXTINF:-1,FR: CINE FAMIZ HD
+http://silvertv.net:1997/live/prof/prof1/5223.m3u8
+#EXTINF:-1,FR: CINE FRISSON HD
+http://silvertv.net:1997/live/prof/prof1/5227.m3u8
+#EXTINF:-1,FR: CINE FX HD
+http://silvertv.net:1997/live/prof/prof1/5229.m3u8
+#EXTINF:-1,FR: CINE POLAR HD
+http://silvertv.net:1997/live/prof/prof1/5225.m3u8
+#EXTINF:-1,FR: CINE PREMIERE HD
+http://silvertv.net:1997/live/prof/prof1/5224.m3u8
+#EXTINF:-1,FR: CINE EMOTION HD
+http://silvertv.net:1997/live/prof/prof1/5226.m3u8
+#EXTINF:-1,FR: ACTION HD
+http://silvertv.net:1997/live/prof/prof1/5209.m3u8
+#EXTINF:-1,FR: 13eme RUE HD
+http://silvertv.net:1997/live/prof/prof1/5222.m3u8
+#EXTINF:-1,FR: TFX HD
+http://silvertv.net:1997/live/prof/prof1/5208.m3u8
+#EXTINF:-1,FR: OCS CHOC HD
+http://silvertv.net:1997/live/prof/prof1/5220.m3u8
+#EXTINF:-1,FR: OCS CITY HD
+http://silvertv.net:1997/live/prof/prof1/5219.m3u8
+#EXTINF:-1,FR: OCS Geants HD
+http://silvertv.net:1997/live/prof/prof1/5218.m3u8
+#EXTINF:-1,FR: OCS MAX HD
+http://silvertv.net:1997/live/prof/prof1/5221.m3u8
+#EXTINF:-1,FR: PARAMOUNT CHANNEL HD
+http://silvertv.net:1997/live/prof/prof1/5214.m3u8
+#EXTINF:-1,FR: SERIE CLUB HD
+http://silvertv.net:1997/live/prof/prof1/5213.m3u8
+#EXTINF:-1,FR: SYFY HD
+http://silvertv.net:1997/live/prof/prof1/5211.m3u8
+#EXTINF:-1,FR: TCM CINEMA HD
+http://silvertv.net:1997/live/prof/prof1/5212.m3u8
+#EXTINF:-1,FR: PARIS PREMIERE HD
+http://silvertv.net:1997/live/prof/prof1/5805.m3u8
+#EXTINF:-1,FR: TMC HD
+http://silvertv.net:1997/live/prof/prof1/5210.m3u8
+#EXTINF:-1,***** DECOUVERTES FRANCE *****
+http://silvertv.net:1997/live/prof/prof1/879.m3u8
+#EXTINF:-1,FR: ANIMAUX HD
+http://silvertv.net:1997/live/prof/prof1/5265.m3u8
+#EXTINF:-1,FR: Ushuaia HD
+http://silvertv.net:1997/live/prof/prof1/5264.m3u8
+#EXTINF:-1,FR: VOYAGE HD
+http://silvertv.net:1997/live/prof/prof1/5254.m3u8
+#EXTINF:-1,FR: RMC Decouverte HD
+http://silvertv.net:1997/live/prof/prof1/5256.m3u8
+#EXTINF:-1,FR: DISCOVERY HD
+http://silvertv.net:1997/live/prof/prof1/5263.m3u8
+#EXTINF:-1,FR: DISCOVERY SCIENCE HD
+http://silvertv.net:1997/live/prof/prof1/5262.m3u8
+#EXTINF:-1,FR: SEASON HD
+http://silvertv.net:1997/live/prof/prof1/5250.m3u8
+#EXTINF:-1,FR: CHASSE&PECHE HD
+http://silvertv.net:1997/live/prof/prof1/5251.m3u8
+#EXTINF:-1,FR: HISTOIRE HD
+http://silvertv.net:1997/live/prof/prof1/5253.m3u8
+#EXTINF:-1,FR: NAT GEO WILD HD
+http://silvertv.net:1997/live/prof/prof1/5260.m3u8
+#EXTINF:-1,FR: NATIONAL GEO HD
+http://silvertv.net:1997/live/prof/prof1/5261.m3u8
+#EXTINF:-1,FR: PLANET PLUS HD
+http://silvertv.net:1997/live/prof/prof1/5259.m3u8
+#EXTINF:-1,FR: PLANETE CI HD
+http://silvertv.net:1997/live/prof/prof1/5258.m3u8
+#EXTINF:-1,FR: PLANETE A&E HD
+http://silvertv.net:1997/live/prof/prof1/5257.m3u8
+#EXTINF:-1,FR: SCIENCE ET VIE HD
+http://silvertv.net:1997/live/prof/prof1/5255.m3u8
+#EXTINF:-1,FR: TOUTE_L'HISTOIRE HD
+http://silvertv.net:1997/live/prof/prof1/5252.m3u8
+#EXTINF:-1,FR: Trek HD
+http://silvertv.net:1997/live/prof/prof1/5249.m3u8
+#EXTINF:-1,***** ENFANTS FRANCE *****
+http://silvertv.net:1997/live/prof/prof1/878.m3u8
+#EXTINF:-1,FR: BOING HD
+http://silvertv.net:1997/live/prof/prof1/5234.m3u8
+#EXTINF:-1,FR: BOOMERANG HD
+http://silvertv.net:1997/live/prof/prof1/5242.m3u8
+#EXTINF:-1,FR: CANAL J HD
+http://silvertv.net:1997/live/prof/prof1/5231.m3u8
+#EXTINF:-1,FR: CartoonNetwork HD
+http://silvertv.net:1997/live/prof/prof1/5241.m3u8
+#EXTINF:-1,FR: DISNEY CHANNEL HD
+http://silvertv.net:1997/live/prof/prof1/5245.m3u8
+#EXTINF:-1,FR: DISNEY CINEMA HD
+http://silvertv.net:1997/live/prof/prof1/5243.m3u8
+#EXTINF:-1,FR: DISNEY JUNIOR HD
+http://silvertv.net:1997/live/prof/prof1/5807.m3u8
+#EXTINF:-1,FR: DISNEY XD HD
+http://silvertv.net:1997/live/prof/prof1/5244.m3u8
+#EXTINF:-1,FR: GULLI HD
+http://silvertv.net:1997/live/prof/prof1/5233.m3u8
+#EXTINF:-1,FR: MANGAS TV HD
+http://silvertv.net:1997/live/prof/prof1/5235.m3u8
+#EXTINF:-1,FR: NICKELODEON HD
+http://silvertv.net:1997/live/prof/prof1/5238.m3u8
+#EXTINF:-1,FR: NICKELODEON 4TEENS HD
+http://silvertv.net:1997/live/prof/prof1/5237.m3u8
+#EXTINF:-1,FR: NICKELODEON JUNIOR HD
+http://silvertv.net:1997/live/prof/prof1/5236.m3u8
+#EXTINF:-1,FR: Piwi HD
+http://silvertv.net:1997/live/prof/prof1/5248.m3u8
+#EXTINF:-1,FR: TELETOON HD
+http://silvertv.net:1997/live/prof/prof1/5240.m3u8
+#EXTINF:-1,FR: TELETOON PLUS HD
+http://silvertv.net:1997/live/prof/prof1/5239.m3u8
+#EXTINF:-1,FR: TIJI HD
+http://silvertv.net:1997/live/prof/prof1/5247.m3u8
+#EXTINF:-1,FR: Toonami HD
+http://silvertv.net:1997/live/prof/prof1/9816.m3u8
+#EXTINF:-1,FR: ZOUZOU TV HD
+http://silvertv.net:1997/live/prof/prof1/5232.m3u8
+#EXTINF:-1,FR: GAME ONE HD
+http://silvertv.net:1997/live/prof/prof1/5230.m3u8
+#EXTINF:-1,***** DIVERTISSEMENT FRANCE *****
+http://silvertv.net:1997/live/prof/prof1/882.m3u8
+#EXTINF:-1,FR: AB1 HD
+http://silvertv.net:1997/live/prof/prof1/5274.m3u8
+#EXTINF:-1,FR: ARTE HD
+http://silvertv.net:1997/live/prof/prof1/5168.m3u8
+#EXTINF:-1,FR: BFM Business HD
+http://silvertv.net:1997/live/prof/prof1/5266.m3u8
+#EXTINF:-1,FR: CHERIE25 HD
+http://silvertv.net:1997/live/prof/prof1/5163.m3u8
+#EXTINF:-1,FR: Comedie HD
+http://silvertv.net:1997/live/prof/prof1/5278.m3u8
+#EXTINF:-1,FR: My Cuisine
+http://silvertv.net:1997/live/prof/prof1/9822.m3u8
+#EXTINF:-1,FR: E! Entertainment HD
+http://silvertv.net:1997/live/prof/prof1/5276.m3u8
+#EXTINF:-1,FR: IL-TV HD
+http://silvertv.net:1997/live/prof/prof1/5273.m3u8
+#EXTINF:-1,FR: J ONE
+http://silvertv.net:1997/live/prof/prof1/9874.m3u8
+#EXTINF:-1,FR: LACHAINE NORMANDIE HD
+http://silvertv.net:1997/live/prof/prof1/5275.m3u8
+#EXTINF:-1,FR: NRJ12 HD
+http://silvertv.net:1997/live/prof/prof1/5161.m3u8
+#EXTINF:-1,FR: NUMERO23 HD
+http://silvertv.net:1997/live/prof/prof1/5277.m3u8
+#EXTINF:-1,FR: TEVA HD
+http://silvertv.net:1997/live/prof/prof1/5281.m3u8
+#EXTINF:-1,FR: Tv Breizh HD
+http://silvertv.net:1997/live/prof/prof1/5279.m3u8
+#EXTINF:-1,***** SPORTS FRANCE *****
+http://silvertv.net:1997/live/prof/prof1/880.m3u8
+#EXTINF:-1,FR: RMC Sport Live 1 HD
+http://silvertv.net:1997/live/prof/prof1/5196.m3u8
+#EXTINF:-1,FR: RMC Sport Live 2 HD
+http://silvertv.net:1997/live/prof/prof1/5195.m3u8
+#EXTINF:-1,FR: RMC Sport Live 3 HD
+http://silvertv.net:1997/live/prof/prof1/5194.m3u8
+#EXTINF:-1,FR: RMC Sport Live 4 HD
+http://silvertv.net:1997/live/prof/prof1/19352.m3u8
+#EXTINF:-1,FR: RMC Sport Live 5 HD
+http://silvertv.net:1997/live/prof/prof1/5193.m3u8
+#EXTINF:-1,beIN SPORTS1 FR HD
+http://silvertv.net:1997/live/prof/prof1/5206.m3u8
+#EXTINF:-1,beIN SPORTS2 FR HD
+http://silvertv.net:1997/live/prof/prof1/5205.m3u8
+#EXTINF:-1,beIN SPORTS3 FR HD
+http://silvertv.net:1997/live/prof/prof1/5204.m3u8
+#EXTINF:-1,FR: BEIN SPORT MAX 10 HD
+http://silvertv.net:1997/live/prof/prof1/5197.m3u8
+#EXTINF:-1,FR: BEIN SPORT MAX 4 HD
+http://silvertv.net:1997/live/prof/prof1/5203.m3u8
+#EXTINF:-1,FR: BEIN SPORT MAX 5 HD
+http://silvertv.net:1997/live/prof/prof1/5202.m3u8
+#EXTINF:-1,FR: BEIN SPORT MAX 6 HD
+http://silvertv.net:1997/live/prof/prof1/5201.m3u8
+#EXTINF:-1,FR: BEIN SPORT MAX 7 HD
+http://silvertv.net:1997/live/prof/prof1/5200.m3u8
+#EXTINF:-1,FR: BEIN SPORT MAX 8 HD
+http://silvertv.net:1997/live/prof/prof1/5199.m3u8
+#EXTINF:-1,FR: BEIN SPORT MAX 9 HD
+http://silvertv.net:1997/live/prof/prof1/5198.m3u8
+#EXTINF:-1,FR: AB Moteur HD
+http://silvertv.net:1997/live/prof/prof1/5183.m3u8
+#EXTINF:-1,FR: Equidia Live HD
+http://silvertv.net:1997/live/prof/prof1/5186.m3u8
+#EXTINF:-1,FR: EQUIDIA LIFE HD
+http://silvertv.net:1997/live/prof/prof1/5185.m3u8
+#EXTINF:-1,FR: Equipe21 HD
+http://silvertv.net:1997/live/prof/prof1/5187.m3u8
+#EXTINF:-1,FR: EuroSport 1 HD
+http://silvertv.net:1997/live/prof/prof1/5191.m3u8
+#EXTINF:-1,FR: EuroSport 2 HD
+http://silvertv.net:1997/live/prof/prof1/5190.m3u8
+#EXTINF:-1,FR: Foot24 HD
+http://silvertv.net:1997/live/prof/prof1/5189.m3u8
+#EXTINF:-1,FR: Golf Channel HD
+http://silvertv.net:1997/live/prof/prof1/5188.m3u8
+#EXTINF:-1,FR: Infosport HD
+http://silvertv.net:1997/live/prof/prof1/5192.m3u8
+#EXTINF:-1,FR: BFM sportHD
+http://silvertv.net:1997/live/prof/prof1/5184.m3u8
+#EXTINF:-1,FR: KOMBAT SPORT HD
+http://silvertv.net:1997/live/prof/prof1/5182.m3u8
+#EXTINF:-1,***** INFO FRANCE *****
+http://silvertv.net:1997/live/prof/prof1/883.m3u8
+#EXTINF:-1,FR: EURONEWS HD
+http://silvertv.net:1997/live/prof/prof1/5177.m3u8
+#EXTINF:-1,FR: FRANCE.24 HD
+http://silvertv.net:1997/live/prof/prof1/5176.m3u8
+#EXTINF:-1,FR: LCI HD
+http://silvertv.net:1997/live/prof/prof1/5179.m3u8
+#EXTINF:-1,FR: TV5 MONDE HD
+http://silvertv.net:1997/live/prof/prof1/5162.m3u8
+#EXTINF:-1,FR: BFM HD
+http://silvertv.net:1997/live/prof/prof1/5178.m3u8
