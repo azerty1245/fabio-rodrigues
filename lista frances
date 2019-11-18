@@ -1,259 +1,217 @@
 #EXTM3U
-#EXTINF:-1,FR: TF1 HD
+#EXTINF:-1 ,FR: TF1 HD
 http://silvertv.net:1997/live/prof/prof1/5175.m3u8
-#EXTINF:-1,FR: M6 HD
+#EXTINF:-1 ,FR: M6 HD
 http://silvertv.net:1997/live/prof/prof1/5174.m3u8
-#EXTINF:-1,FR: FRANCE 2 HD
+#EXTINF:-1 ,FR: FRANCE 2 HD
 http://silvertv.net:1997/live/prof/prof1/5173.m3u8
-#EXTINF:-1,FR: FRANCE 3 HD
+#EXTINF:-1 ,FR: FRANCE 3 HD
 http://silvertv.net:1997/live/prof/prof1/5172.m3u8
-#EXTINF:-1,FR: FRANCE 4 HD
+#EXTINF:-1 ,FR: FRANCE 4 HD
 http://silvertv.net:1997/live/prof/prof1/5171.m3u8
-#EXTINF:-1,FR: FRANCE 5 HD
+#EXTINF:-1 ,FR: FRANCE 5 HD
 http://silvertv.net:1997/live/prof/prof1/5170.m3u8
-#EXTINF:-1,FR: FRANCE O HD
+#EXTINF:-1 ,FR: FRANCE O HD
 http://silvertv.net:1997/live/prof/prof1/5169.m3u8
-#EXTINF:-1,FR: 6Ter HD
+#EXTINF:-1 ,FR: 6Ter HD
 http://silvertv.net:1997/live/prof/prof1/5167.m3u8
-#EXTINF:-1,FR: CStar HD
+#EXTINF:-1 ,FR: CStar HD
 http://silvertv.net:1997/live/prof/prof1/5164.m3u8
-#EXTINF:-1,FR: C NEWS HD
+#EXTINF:-1 ,FR: C NEWS HD
 http://silvertv.net:1997/live/prof/prof1/5180.m3u8
-#EXTINF:-1,FR: C8 HD
+#EXTINF:-1 ,FR: C8 HD
 http://silvertv.net:1997/live/prof/prof1/5165.m3u8
-#EXTINF:-1,FR: TF1 Series Film HD
+#EXTINF:-1 ,FR: TF1 Series Film HD
 http://silvertv.net:1997/live/prof/prof1/5280.m3u8
-#EXTINF:-1,FR: RTL9 HD
+#EXTINF:-1 ,FR: RTL9 HD
 http://silvertv.net:1997/live/prof/prof1/5207.m3u8
-#EXTINF:-1,FR: W9 HD
+#EXTINF:-1 ,FR: W9 HD
 http://silvertv.net:1997/live/prof/prof1/5166.m3u8
-#EXTINF:-1,FR: WEO HD
-http://silvertv.net:1997/live/prof/prof1/5271.m3u8
-#EXTINF:-1,***** CINEMA FRANCE *****
-http://silvertv.net:1997/live/prof/prof1/877.m3u8
-#EXTINF:-1,FR: CANAL PLUS HD
+#EXTINF:-1 ,FR: CANAL PLUS HD
 http://silvertv.net:1997/live/prof/prof1/5160.m3u8
-#EXTINF:-1,FR: CANAL PLUS CINEMA HD
+#EXTINF:-1 ,FR: CANAL PLUS CINEMA HD
 http://silvertv.net:1997/live/prof/prof1/5159.m3u8
-#EXTINF:-1,FR: CANAL PLUS DECALE HD
+#EXTINF:-1 ,FR: CANAL PLUS DECALE HD
 http://silvertv.net:1997/live/prof/prof1/5155.m3u8
-#EXTINF:-1,FR: CANAL PLUS FAMILY HD
+#EXTINF:-1 ,FR: CANAL PLUS FAMILY HD
 http://silvertv.net:1997/live/prof/prof1/5158.m3u8
-#EXTINF:-1,FR: CANAL PLUS SERIES HD
+#EXTINF:-1 ,FR: CANAL PLUS SERIES HD
 http://silvertv.net:1997/live/prof/prof1/5157.m3u8
-#EXTINF:-1,FR: CANAL PLUS SPORT HD
+#EXTINF:-1 ,FR: CANAL PLUS SPORT HD
 http://silvertv.net:1997/live/prof/prof1/5156.m3u8
-#EXTINF:-1,FR: CINE CLASSIC HD
+#EXTINF:-1 ,FR: CINE CLASSIC HD
 http://silvertv.net:1997/live/prof/prof1/5228.m3u8
-#EXTINF:-1,FR: CINE FAMIZ HD
+#EXTINF:-1 ,FR: CINE FAMIZ HD
 http://silvertv.net:1997/live/prof/prof1/5223.m3u8
-#EXTINF:-1,FR: CINE FRISSON HD
+#EXTINF:-1 ,FR: CINE FRISSON HD
 http://silvertv.net:1997/live/prof/prof1/5227.m3u8
-#EXTINF:-1,FR: CINE FX HD
+#EXTINF:-1 ,FR: CINE FX HD
 http://silvertv.net:1997/live/prof/prof1/5229.m3u8
-#EXTINF:-1,FR: CINE POLAR HD
+#EXTINF:-1 ,FR: CINE POLAR HD
 http://silvertv.net:1997/live/prof/prof1/5225.m3u8
-#EXTINF:-1,FR: CINE PREMIERE HD
+#EXTINF:-1 ,FR: CINE PREMIERE HD
 http://silvertv.net:1997/live/prof/prof1/5224.m3u8
-#EXTINF:-1,FR: CINE EMOTION HD
+#EXTINF:-1 ,FR: CINE EMOTION HD
 http://silvertv.net:1997/live/prof/prof1/5226.m3u8
-#EXTINF:-1,FR: ACTION HD
+#EXTINF:-1 ,FR: ACTION HD
 http://silvertv.net:1997/live/prof/prof1/5209.m3u8
-#EXTINF:-1,FR: 13eme RUE HD
+#EXTINF:-1 ,FR: 13eme RUE HD
 http://silvertv.net:1997/live/prof/prof1/5222.m3u8
-#EXTINF:-1,FR: TFX HD
+#EXTINF:-1 ,FR: TFX HD
 http://silvertv.net:1997/live/prof/prof1/5208.m3u8
-#EXTINF:-1,FR: OCS CHOC HD
+#EXTINF:-1 ,FR: OCS CHOC HD
 http://silvertv.net:1997/live/prof/prof1/5220.m3u8
-#EXTINF:-1,FR: OCS CITY HD
+#EXTINF:-1 ,FR: OCS CITY HD
 http://silvertv.net:1997/live/prof/prof1/5219.m3u8
-#EXTINF:-1,FR: OCS Geants HD
-http://silvertv.net:1997/live/prof/prof1/5218.m3u8
-#EXTINF:-1,FR: OCS MAX HD
+#EXTINF:-1 ,FR: OCS MAX HD
 http://silvertv.net:1997/live/prof/prof1/5221.m3u8
-#EXTINF:-1,FR: PARAMOUNT CHANNEL HD
+#EXTINF:-1 ,FR: PARAMOUNT CHANNEL HD
 http://silvertv.net:1997/live/prof/prof1/5214.m3u8
-#EXTINF:-1,FR: SERIE CLUB HD
+#EXTINF:-1 ,FR: SERIE CLUB HD
 http://silvertv.net:1997/live/prof/prof1/5213.m3u8
-#EXTINF:-1,FR: SYFY HD
+#EXTINF:-1 ,FR: SYFY HD
 http://silvertv.net:1997/live/prof/prof1/5211.m3u8
-#EXTINF:-1,FR: TCM CINEMA HD
+#EXTINF:-1 ,FR: TCM CINEMA HD
 http://silvertv.net:1997/live/prof/prof1/5212.m3u8
-#EXTINF:-1,FR: PARIS PREMIERE HD
+#EXTINF:-1 ,FR: PARIS PREMIERE HD
 http://silvertv.net:1997/live/prof/prof1/5805.m3u8
-#EXTINF:-1,FR: TMC HD
+#EXTINF:-1 ,FR: TMC HD
 http://silvertv.net:1997/live/prof/prof1/5210.m3u8
-#EXTINF:-1,***** DECOUVERTES FRANCE *****
-http://silvertv.net:1997/live/prof/prof1/879.m3u8
-#EXTINF:-1,FR: ANIMAUX HD
-http://silvertv.net:1997/live/prof/prof1/5265.m3u8
-#EXTINF:-1,FR: Ushuaia HD
+#EXTINF:-1 ,FR: Ushuaia HD
 http://silvertv.net:1997/live/prof/prof1/5264.m3u8
-#EXTINF:-1,FR: VOYAGE HD
+#EXTINF:-1 ,FR: VOYAGE HD
 http://silvertv.net:1997/live/prof/prof1/5254.m3u8
-#EXTINF:-1,FR: RMC Decouverte HD
+#EXTINF:-1 ,FR: RMC Decouverte HD
 http://silvertv.net:1997/live/prof/prof1/5256.m3u8
-#EXTINF:-1,FR: DISCOVERY HD
+#EXTINF:-1 ,FR: DISCOVERY HD
 http://silvertv.net:1997/live/prof/prof1/5263.m3u8
-#EXTINF:-1,FR: DISCOVERY SCIENCE HD
+#EXTINF:-1 ,FR: DISCOVERY SCIENCE HD
 http://silvertv.net:1997/live/prof/prof1/5262.m3u8
-#EXTINF:-1,FR: SEASON HD
+#EXTINF:-1 ,FR: SEASON HD
 http://silvertv.net:1997/live/prof/prof1/5250.m3u8
-#EXTINF:-1,FR: CHASSE&PECHE HD
+#EXTINF:-1 ,FR: CHASSE&PECHE HD
 http://silvertv.net:1997/live/prof/prof1/5251.m3u8
-#EXTINF:-1,FR: HISTOIRE HD
+#EXTINF:-1 ,FR: HISTOIRE HD
 http://silvertv.net:1997/live/prof/prof1/5253.m3u8
-#EXTINF:-1,FR: NAT GEO WILD HD
+#EXTINF:-1 ,FR: NAT GEO WILD HD
 http://silvertv.net:1997/live/prof/prof1/5260.m3u8
-#EXTINF:-1,FR: NATIONAL GEO HD
+#EXTINF:-1 ,FR: NATIONAL GEO HD
 http://silvertv.net:1997/live/prof/prof1/5261.m3u8
-#EXTINF:-1,FR: PLANET PLUS HD
+#EXTINF:-1 ,FR: PLANET PLUS HD
 http://silvertv.net:1997/live/prof/prof1/5259.m3u8
-#EXTINF:-1,FR: PLANETE CI HD
-http://silvertv.net:1997/live/prof/prof1/5258.m3u8
-#EXTINF:-1,FR: PLANETE A&E HD
+#EXTINF:-1 ,FR: PLANETE A&E HD
 http://silvertv.net:1997/live/prof/prof1/5257.m3u8
-#EXTINF:-1,FR: SCIENCE ET VIE HD
+#EXTINF:-1 ,FR: SCIENCE ET VIE HD
 http://silvertv.net:1997/live/prof/prof1/5255.m3u8
-#EXTINF:-1,FR: TOUTE_L'HISTOIRE HD
-http://silvertv.net:1997/live/prof/prof1/5252.m3u8
-#EXTINF:-1,FR: Trek HD
+#EXTINF:-1 ,FR: Trek HD
 http://silvertv.net:1997/live/prof/prof1/5249.m3u8
-#EXTINF:-1,***** ENFANTS FRANCE *****
-http://silvertv.net:1997/live/prof/prof1/878.m3u8
-#EXTINF:-1,FR: BOING HD
+#EXTINF:-1 ,FR: BOING HD
 http://silvertv.net:1997/live/prof/prof1/5234.m3u8
-#EXTINF:-1,FR: BOOMERANG HD
-http://silvertv.net:1997/live/prof/prof1/5242.m3u8
-#EXTINF:-1,FR: CANAL J HD
+#EXTINF:-1 ,FR: CANAL J HD
 http://silvertv.net:1997/live/prof/prof1/5231.m3u8
-#EXTINF:-1,FR: CartoonNetwork HD
+#EXTINF:-1 ,FR: CartoonNetwork HD
 http://silvertv.net:1997/live/prof/prof1/5241.m3u8
-#EXTINF:-1,FR: DISNEY CHANNEL HD
-http://silvertv.net:1997/live/prof/prof1/5245.m3u8
-#EXTINF:-1,FR: DISNEY CINEMA HD
+#EXTINF:-1 ,FR: DISNEY CINEMA HD
 http://silvertv.net:1997/live/prof/prof1/5243.m3u8
-#EXTINF:-1,FR: DISNEY JUNIOR HD
+#EXTINF:-1 ,FR: DISNEY JUNIOR HD
 http://silvertv.net:1997/live/prof/prof1/5807.m3u8
-#EXTINF:-1,FR: DISNEY XD HD
-http://silvertv.net:1997/live/prof/prof1/5244.m3u8
-#EXTINF:-1,FR: GULLI HD
+#EXTINF:-1 ,FR: GULLI HD
 http://silvertv.net:1997/live/prof/prof1/5233.m3u8
-#EXTINF:-1,FR: MANGAS TV HD
+#EXTINF:-1 ,FR: MANGAS TV HD
 http://silvertv.net:1997/live/prof/prof1/5235.m3u8
-#EXTINF:-1,FR: NICKELODEON HD
+#EXTINF:-1 ,FR: NICKELODEON HD
 http://silvertv.net:1997/live/prof/prof1/5238.m3u8
-#EXTINF:-1,FR: NICKELODEON 4TEENS HD
-http://silvertv.net:1997/live/prof/prof1/5237.m3u8
-#EXTINF:-1,FR: NICKELODEON JUNIOR HD
+#EXTINF:-1 ,FR: NICKELODEON JUNIOR HD
 http://silvertv.net:1997/live/prof/prof1/5236.m3u8
-#EXTINF:-1,FR: Piwi HD
+#EXTINF:-1 ,FR: Piwi HD
 http://silvertv.net:1997/live/prof/prof1/5248.m3u8
-#EXTINF:-1,FR: TELETOON HD
-http://silvertv.net:1997/live/prof/prof1/5240.m3u8
-#EXTINF:-1,FR: TELETOON PLUS HD
+#EXTINF:-1 ,FR: TELETOON PLUS HD
 http://silvertv.net:1997/live/prof/prof1/5239.m3u8
-#EXTINF:-1,FR: TIJI HD
+#EXTINF:-1 ,FR: TIJI HD
 http://silvertv.net:1997/live/prof/prof1/5247.m3u8
-#EXTINF:-1,FR: Toonami HD
+#EXTINF:-1 ,FR: Toonami HD
 http://silvertv.net:1997/live/prof/prof1/9816.m3u8
-#EXTINF:-1,FR: ZOUZOU TV HD
-http://silvertv.net:1997/live/prof/prof1/5232.m3u8
-#EXTINF:-1,FR: GAME ONE HD
+#EXTINF:-1 ,FR: GAME ONE HD
 http://silvertv.net:1997/live/prof/prof1/5230.m3u8
-#EXTINF:-1,***** DIVERTISSEMENT FRANCE *****
-http://silvertv.net:1997/live/prof/prof1/882.m3u8
-#EXTINF:-1,FR: AB1 HD
+#EXTINF:-1 ,FR: AB1 HD
 http://silvertv.net:1997/live/prof/prof1/5274.m3u8
-#EXTINF:-1,FR: ARTE HD
+#EXTINF:-1 ,FR: ARTE HD
 http://silvertv.net:1997/live/prof/prof1/5168.m3u8
-#EXTINF:-1,FR: BFM Business HD
+#EXTINF:-1 ,FR: BFM Business HD
 http://silvertv.net:1997/live/prof/prof1/5266.m3u8
-#EXTINF:-1,FR: CHERIE25 HD
+#EXTINF:-1 ,FR: CHERIE25 HD
 http://silvertv.net:1997/live/prof/prof1/5163.m3u8
-#EXTINF:-1,FR: Comedie HD
+#EXTINF:-1 ,FR: Comedie HD
 http://silvertv.net:1997/live/prof/prof1/5278.m3u8
-#EXTINF:-1,FR: My Cuisine
+#EXTINF:-1 ,FR: My Cuisine
 http://silvertv.net:1997/live/prof/prof1/9822.m3u8
-#EXTINF:-1,FR: E! Entertainment HD
+#EXTINF:-1 ,FR: E! Entertainment HD
 http://silvertv.net:1997/live/prof/prof1/5276.m3u8
-#EXTINF:-1,FR: IL-TV HD
+#EXTINF:-1 ,FR: IL-TV HD
 http://silvertv.net:1997/live/prof/prof1/5273.m3u8
-#EXTINF:-1,FR: J ONE
+#EXTINF:-1 ,FR: J ONE
 http://silvertv.net:1997/live/prof/prof1/9874.m3u8
-#EXTINF:-1,FR: LACHAINE NORMANDIE HD
+#EXTINF:-1 ,FR: LACHAINE NORMANDIE HD
 http://silvertv.net:1997/live/prof/prof1/5275.m3u8
-#EXTINF:-1,FR: NRJ12 HD
-http://silvertv.net:1997/live/prof/prof1/5161.m3u8
-#EXTINF:-1,FR: NUMERO23 HD
-http://silvertv.net:1997/live/prof/prof1/5277.m3u8
-#EXTINF:-1,FR: TEVA HD
-http://silvertv.net:1997/live/prof/prof1/5281.m3u8
-#EXTINF:-1,FR: Tv Breizh HD
+#EXTINF:-1 ,FR: Tv Breizh HD
 http://silvertv.net:1997/live/prof/prof1/5279.m3u8
-#EXTINF:-1,***** SPORTS FRANCE *****
-http://silvertv.net:1997/live/prof/prof1/880.m3u8
-#EXTINF:-1,FR: RMC Sport Live 1 HD
+#EXTINF:-1 ,FR: RMC Sport Live 1 HD
 http://silvertv.net:1997/live/prof/prof1/5196.m3u8
-#EXTINF:-1,FR: RMC Sport Live 2 HD
+#EXTINF:-1 ,FR: RMC Sport Live 2 HD
 http://silvertv.net:1997/live/prof/prof1/5195.m3u8
-#EXTINF:-1,FR: RMC Sport Live 3 HD
+#EXTINF:-1 ,FR: RMC Sport Live 3 HD
 http://silvertv.net:1997/live/prof/prof1/5194.m3u8
-#EXTINF:-1,FR: RMC Sport Live 4 HD
+#EXTINF:-1 ,FR: RMC Sport Live 4 HD
 http://silvertv.net:1997/live/prof/prof1/19352.m3u8
-#EXTINF:-1,FR: RMC Sport Live 5 HD
+#EXTINF:-1 ,FR: RMC Sport Live 5 HD
 http://silvertv.net:1997/live/prof/prof1/5193.m3u8
-#EXTINF:-1,beIN SPORTS1 FR HD
+#EXTINF:-1 ,beIN SPORTS1 FR HD
 http://silvertv.net:1997/live/prof/prof1/5206.m3u8
-#EXTINF:-1,beIN SPORTS2 FR HD
+#EXTINF:-1 ,beIN SPORTS2 FR HD
 http://silvertv.net:1997/live/prof/prof1/5205.m3u8
-#EXTINF:-1,beIN SPORTS3 FR HD
+#EXTINF:-1 ,beIN SPORTS3 FR HD
 http://silvertv.net:1997/live/prof/prof1/5204.m3u8
-#EXTINF:-1,FR: BEIN SPORT MAX 10 HD
+#EXTINF:-1 ,FR: BEIN SPORT MAX 10 HD
 http://silvertv.net:1997/live/prof/prof1/5197.m3u8
-#EXTINF:-1,FR: BEIN SPORT MAX 4 HD
-http://silvertv.net:1997/live/prof/prof1/5203.m3u8
-#EXTINF:-1,FR: BEIN SPORT MAX 5 HD
+#EXTINF:-1 ,FR: BEIN SPORT MAX 5 HD
 http://silvertv.net:1997/live/prof/prof1/5202.m3u8
-#EXTINF:-1,FR: BEIN SPORT MAX 6 HD
+#EXTINF:-1 ,FR: BEIN SPORT MAX 6 HD
 http://silvertv.net:1997/live/prof/prof1/5201.m3u8
-#EXTINF:-1,FR: BEIN SPORT MAX 7 HD
+#EXTINF:-1 ,FR: BEIN SPORT MAX 7 HD
 http://silvertv.net:1997/live/prof/prof1/5200.m3u8
-#EXTINF:-1,FR: BEIN SPORT MAX 8 HD
+#EXTINF:-1 ,FR: BEIN SPORT MAX 8 HD
 http://silvertv.net:1997/live/prof/prof1/5199.m3u8
-#EXTINF:-1,FR: BEIN SPORT MAX 9 HD
+#EXTINF:-1 ,FR: BEIN SPORT MAX 9 HD
 http://silvertv.net:1997/live/prof/prof1/5198.m3u8
-#EXTINF:-1,FR: AB Moteur HD
+#EXTINF:-1 ,FR: AB Moteur HD
 http://silvertv.net:1997/live/prof/prof1/5183.m3u8
-#EXTINF:-1,FR: Equidia Live HD
+#EXTINF:-1 ,FR: Equidia Live HD
 http://silvertv.net:1997/live/prof/prof1/5186.m3u8
-#EXTINF:-1,FR: EQUIDIA LIFE HD
+#EXTINF:-1 ,FR: EQUIDIA LIFE HD
 http://silvertv.net:1997/live/prof/prof1/5185.m3u8
-#EXTINF:-1,FR: Equipe21 HD
+#EXTINF:-1 ,FR: Equipe21 HD
 http://silvertv.net:1997/live/prof/prof1/5187.m3u8
-#EXTINF:-1,FR: EuroSport 1 HD
+#EXTINF:-1 ,FR: EuroSport 1 HD
 http://silvertv.net:1997/live/prof/prof1/5191.m3u8
-#EXTINF:-1,FR: EuroSport 2 HD
+#EXTINF:-1 ,FR: EuroSport 2 HD
 http://silvertv.net:1997/live/prof/prof1/5190.m3u8
-#EXTINF:-1,FR: Foot24 HD
+#EXTINF:-1 ,FR: Foot24 HD
 http://silvertv.net:1997/live/prof/prof1/5189.m3u8
-#EXTINF:-1,FR: Golf Channel HD
+#EXTINF:-1 ,FR: Golf Channel HD
 http://silvertv.net:1997/live/prof/prof1/5188.m3u8
-#EXTINF:-1,FR: Infosport HD
+#EXTINF:-1 ,FR: Infosport HD
 http://silvertv.net:1997/live/prof/prof1/5192.m3u8
-#EXTINF:-1,FR: BFM sportHD
+#EXTINF:-1 ,FR: BFM sportHD
 http://silvertv.net:1997/live/prof/prof1/5184.m3u8
-#EXTINF:-1,FR: KOMBAT SPORT HD
+#EXTINF:-1 ,FR: KOMBAT SPORT HD
 http://silvertv.net:1997/live/prof/prof1/5182.m3u8
-#EXTINF:-1,***** INFO FRANCE *****
-http://silvertv.net:1997/live/prof/prof1/883.m3u8
-#EXTINF:-1,FR: EURONEWS HD
+#EXTINF:-1 ,FR: EURONEWS HD
 http://silvertv.net:1997/live/prof/prof1/5177.m3u8
-#EXTINF:-1,FR: FRANCE.24 HD
+#EXTINF:-1 ,FR: FRANCE.24 HD
 http://silvertv.net:1997/live/prof/prof1/5176.m3u8
-#EXTINF:-1,FR: LCI HD
+#EXTINF:-1 ,FR: LCI HD
 http://silvertv.net:1997/live/prof/prof1/5179.m3u8
-#EXTINF:-1,FR: TV5 MONDE HD
+#EXTINF:-1 ,FR: TV5 MONDE HD
 http://silvertv.net:1997/live/prof/prof1/5162.m3u8
-#EXTINF:-1,FR: BFM HD
+#EXTINF:-1 ,FR: BFM HD
 http://silvertv.net:1997/live/prof/prof1/5178.m3u8
