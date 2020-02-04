@@ -1,535 +1,291 @@
 #EXTM3U
-#EXTINF:-1,|FR| TF1 HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1992.m3u8
-#EXTINF:-1,|FR| TF1 FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7867.m3u8
-#EXTINF:-1,|FR| TF1 FULL HD+1
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7845.m3u8
-#EXTINF:-1,|FR| FRANCE 2 HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1991.m3u8
-#EXTINF:-1,|FR| FRANCE 2 FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7846.m3u8
-#EXTINF:-1,|FR| FRANCE 3 HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1990.m3u8
-#EXTINF:-1,|FR| FRANCE 3 FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7847.m3u8
-#EXTINF:-1,|FR| FRANCE 4 HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1989.m3u8
-#EXTINF:-1,|FR| FRANCE 4 FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7848.m3u8
-#EXTINF:-1,|FR| FRANCE 5 HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1988.m3u8
-#EXTINF:-1,|FR| FRANCE 5 FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7849.m3u8
-#EXTINF:-1,|FR| M6 HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1987.m3u8
-#EXTINF:-1,|FR| M6 FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7850.m3u8
-#EXTINF:-1,|FR| NRJ12 HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1986.m3u8
-#EXTINF:-1,|FR| NRJ 12 FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7855.m3u8
-#EXTINF:-1,|FR| TF1 SERIES FILMS HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1924.m3u8
-#EXTINF:-1,|FR| TF1 SERIES FILMS FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7861.m3u8
-#EXTINF:-1,|FR| C8 HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1985.m3u8
-#EXTINF:-1,|FR| C8 FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7851.m3u8
-#EXTINF:-1,|FR| W9 HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1984.m3u8
-#EXTINF:-1,|FR| W9 FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7853.m3u8
-#EXTINF:-1,|FR| RTL9 HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1983.m3u8
-#EXTINF:-1,|FR| RTL9 FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7956.m3u8
-#EXTINF:-1,|FR| 6TER HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1982.m3u8
-#EXTINF:-1,|FR| 6TER FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7864.m3u8
-#EXTINF:-1,|FR| TFX HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1981.m3u8
-#EXTINF:-1,|FR| TFX FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7854.m3u8
-#EXTINF:-1,|FR| TMC HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1980.m3u8
-#EXTINF:-1,|FR| TMC FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7856.m3u8
-#EXTINF:-1,|FR| TMC +1 FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7860.m3u8
-#EXTINF:-1,|FR| FRANCE O HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1979.m3u8
-#EXTINF:-1,|FR| FRANCE O FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7859.m3u8
-#EXTINF:-1,|FR| C STAR FHD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1978.m3u8
-#EXTINF:-1,|FR| CHAINES CANAL  |FR|
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/2010.m3u8
-#EXTINF:-1,|FR| CANAL + HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/2009.m3u8
-#EXTINF:-1,|FR| CANAL+ FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7868.m3u8
-#EXTINF:-1,|FR| CANAL + CINEMA HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/2008.m3u8
-#EXTINF:-1,|FR| CANAL+ CINEMA FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7873.m3u8
-#EXTINF:-1,|FR| CANAL + DECALE HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/2007.m3u8
-#EXTINF:-1,|FR| CANAL+ DECALE FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7872.m3u8
-#EXTINF:-1,|FR| CANAL + FAMILY HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/2006.m3u8
-#EXTINF:-1,|FR| CANAL+ FAMILY FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7871.m3u8
-#EXTINF:-1,|FR| CANAL+ SERIES HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/2004.m3u8
-#EXTINF:-1,|FR| CANAL+ SERIES FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7870.m3u8
-#EXTINF:-1,|FR| CHAINES CINEMA |FR|
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/2003.m3u8
-#EXTINF:-1,|FR| CINE+ PREMIER HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/2002.m3u8
-#EXTINF:-1,|FR| CINE+ PREMIER FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7874.m3u8
-#EXTINF:-1,|FR| CINE+ FRISSON HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/2001.m3u8
-#EXTINF:-1,|FR| CINE+ FRISSON FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7875.m3u8
-#EXTINF:-1,|FR| CINE+  FAMIZ HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/2000.m3u8
-#EXTINF:-1,|FR| CINE+ FAMIZ FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7876.m3u8
-#EXTINF:-1,|FR| CINE+ EMOTION HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1999.m3u8
-#EXTINF:-1,|FR| CINE EMOTION FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7877.m3u8
-#EXTINF:-1,|FR| CINE+ CLASSIC HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1998.m3u8
-#EXTINF:-1,|FR| CINE CLASSIC FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7878.m3u8
-#EXTINF:-1,|FR| CINE POLAR HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1926.m3u8
-#EXTINF:-1,|FR| POLAR  FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7961.m3u8
-#EXTINF:-1,|FR| OCS CHOC HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1997.m3u8
-#EXTINF:-1,|FR| OCS CHOC FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7986.m3u8
-#EXTINF:-1,|FR| OCS CITY HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1996.m3u8
-#EXTINF:-1,|FR| OCS CITY FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7987.m3u8
-#EXTINF:-1,|FR| OCS GEANTS HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1995.m3u8
-#EXTINF:-1,|FR| OCS GEANT FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7988.m3u8
-#EXTINF:-1,|FR| OCS MAX HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1994.m3u8
-#EXTINF:-1,|FR| OCS MAX FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7985.m3u8
-#EXTINF:-1,|FR| CHAINES INFORMATION |FR|
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1977.m3u8
-#EXTINF:-1,|FR| EURONEWS FR HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1976.m3u8
-#EXTINF:-1,|FR| LCI HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1971.m3u8
-#EXTINF:-1,|FR| LCP HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1975.m3u8
-#EXTINF:-1,|FR| FRANCE 24 FR HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1972.m3u8
-#EXTINF:-1,|FR| CNEWS HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1973.m3u8
-#EXTINF:-1,|FR| BFM HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1970.m3u8
-#EXTINF:-1,|FR| TV5MONDE HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1974.m3u8
-#EXTINF:-1,|FR| BFM PARIS FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7852.m3u8
-#EXTINF:-1,|FR| RT FRANCE HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/13243.m3u8
-#EXTINF:-1,|FR| CHAINES DECOUVERTE |FR|
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1969.m3u8
-#EXTINF:-1,|FR| TOUTE L'HISTOIRE FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7981.m3u8
-#EXTINF:-1,|FR| HISTOIRE FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7963.m3u8
-#EXTINF:-1,|FR| USHUAIA TV HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1956.m3u8
-#EXTINF:-1,|FR| USHUAIA TV FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7978.m3u8
-#EXTINF:-1,|FR| ANIMAUX HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1965.m3u8
-#EXTINF:-1,|FR| ANIMAUX FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7965.m3u8
-#EXTINF:-1,|FR| VOYAGE HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1952.m3u8
-#EXTINF:-1,|FR| VOYAGE FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7980.m3u8
-#EXTINF:-1,|FR| TREK FHD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1958.m3u8
-#EXTINF:-1,|FR| SCIENCE ET VIE FHD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1954.m3u8
-#EXTINF:-1,|FR| SEASONS FHD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1957.m3u8
-#EXTINF:-1,|FR| RMC DECOUVERTE HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1953.m3u8
-#EXTINF:-1,|FR| PLANETE  AE HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1966.m3u8
-#EXTINF:-1,|FR| PLANETE A&E FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7973.m3u8
-#EXTINF:-1,|FR| PLANETE  HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1968.m3u8
-#EXTINF:-1,|FR| PLANETE  FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7975.m3u8
-#EXTINF:-1,|FR| PLANETE CI HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1967.m3u8
-#EXTINF:-1,|FR| PLANETE CI FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7974.m3u8
-#EXTINF:-1,|FR| PARAMOUNT CHANNEL FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7990.m3u8
-#EXTINF:-1,|FR| PARAMOUNT DECALE FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7989.m3u8
-#EXTINF:-1,|FR| NATIONAL GEO HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1964.m3u8
-#EXTINF:-1,|FR| NATIONAL GEOGRAPHIC FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7972.m3u8
-#EXTINF:-1,|FR| NATIONAL GEO WILD FR HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1963.m3u8
-#EXTINF:-1,|FR| NATIONAL GEO WILD FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7971.m3u8
-#EXTINF:-1,|FR| CHASSE PECHE HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1955.m3u8
-#EXTINF:-1,|FR| CHASSE ET PECHE FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7964.m3u8
-#EXTINF:-1,|FR| DISCOVERY CHANNEL FR HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1962.m3u8
-#EXTINF:-1,|FR| DISCOVERY FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7969.m3u8
-#EXTINF:-1,|FR| DISCOVERY SCIENCE FR HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1961.m3u8
-#EXTINF:-1,|FR| DISCOVERY SCIENCE FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7968.m3u8
-#EXTINF:-1,|FR| DISCOVERY FAMILY FR
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/6814.m3u8
-#EXTINF:-1,|FR| DISCOVERY FAMILY FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7966.m3u8
-#EXTINF:-1,|FR| DISCOVERY INVESTIGATION FR HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/6813.m3u8
-#EXTINF:-1,|FR| DISCOVERY INVESTIGATION FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7967.m3u8
-#EXTINF:-1,|FR| CRIME DISTRICT FHD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/6815.m3u8
-#EXTINF:-1,|FR| ARTE HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1951.m3u8
-#EXTINF:-1,|FR| RMC DECOUVERTE FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7863.m3u8
-#EXTINF:-1,|FR| SEASON FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7977.m3u8
-#EXTINF:-1,|FR| CHAINES JEUNESSE |FR|
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1950.m3u8
-#EXTINF:-1,|FR| TOONAMI HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1935.m3u8
-#EXTINF:-1,|FR| TOONAMI FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7929.m3u8
-#EXTINF:-1,|FR| PIWI HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1940.m3u8
-#EXTINF:-1,|FR| PIWI FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7924.m3u8
-#EXTINF:-1,|FR| NICKELODEON FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7932.m3u8
-#EXTINF:-1,|FR| NICKELODEON. HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1937.m3u8
-#EXTINF:-1,|FR| NICKELODEON 1 FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7931.m3u8
-#EXTINF:-1,|FR| NICKELODEON JUNIOR HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1936.m3u8
-#EXTINF:-1,|FR| NICKELODEON JUNIOR FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7930.m3u8
-#EXTINF:-1,|FR| NICKELODEON4-TEEN FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7933.m3u8
-#EXTINF:-1,|FR| MANGAS HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1938.m3u8
-#EXTINF:-1,|FR| MANGAS FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7925.m3u8
-#EXTINF:-1,|FR| J-ONE HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1934.m3u8
-#EXTINF:-1,|FR| GULLI HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1943.m3u8
-#EXTINF:-1,|FR| GULLI FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7858.m3u8
-#EXTINF:-1,|FR| GAME ONE HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1933.m3u8
-#EXTINF:-1,|FR| GAME ONE FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7921.m3u8
-#EXTINF:-1,|FR| CANAL J HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1941.m3u8
-#EXTINF:-1,|FR| CANAL J FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7928.m3u8
-#EXTINF:-1,|FR| CARTOON NETWORK FR HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1942.m3u8
-#EXTINF:-1,|FR| CARTOON NETWORK FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7919.m3u8
-#EXTINF:-1,|FR| BOOMERANG FR HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1945.m3u8
-#EXTINF:-1,|FR| BOOMERANG FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7922.m3u8
-#EXTINF:-1,|FR| DISNEY CHANNEL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1949.m3u8
-#EXTINF:-1,|FR| DISNEY CHANNEL FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7938.m3u8
-#EXTINF:-1,|FR| DISNEY CHANNEL 1 FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7937.m3u8
-#EXTINF:-1,|FR| DISNEY CINEMA HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1946.m3u8
-#EXTINF:-1,|FR| DISNEY CINEMA FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7936.m3u8
-#EXTINF:-1,|FR| DISNEY JUNIOR HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1947.m3u8
-#EXTINF:-1,|FR| DISNEY JUNIOR FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7935.m3u8
-#EXTINF:-1,|FR| DISNEY XD FR HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1948.m3u8
-#EXTINF:-1,|FR| DISNEY XD FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7934.m3u8
-#EXTINF:-1,|FR| BABY TV FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7923.m3u8
-#EXTINF:-1,|FR| TELETOON  HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1939.m3u8
-#EXTINF:-1,|FR| TELETOON FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7918.m3u8
-#EXTINF:-1,|FR| TELETOON 1 FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7917.m3u8
-#EXTINF:-1,|FR| BOING FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7920.m3u8
-#EXTINF:-1,|FR| TIJI FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7926.m3u8
-#EXTINF:-1,|FR| J-ONE FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7916.m3u8
-#EXTINF:-1,|FR| NON STOP PEOPLE FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7954.m3u8
-#EXTINF:-1,|FR| CHAINES DIVERTISSEMENT |FR|
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1932.m3u8
-#EXTINF:-1,|FR| 13 EME RUE HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1930.m3u8
-#EXTINF:-1,|FR| 13EME RUE FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7958.m3u8
-#EXTINF:-1,|FR| TV BREIZH HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1927.m3u8
-#EXTINF:-1,|FR| TV BREIZH FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7957.m3u8
-#EXTINF:-1,|FR| WARNER TV FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7983.m3u8
-#EXTINF:-1,|FR| SUNDANCE TV HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1909.m3u8
-#EXTINF:-1,|FR| SUNDANCE TV FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7939.m3u8
-#EXTINF:-1,|FR| SYFY HD FR HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1929.m3u8
-#EXTINF:-1,|FR| SYFY FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7960.m3u8
-#EXTINF:-1,|FR| TCM CINEMA HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1931.m3u8
-#EXTINF:-1,|FR| TCM CINEMA FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7991.m3u8
-#EXTINF:-1,|FR| TEVA HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1922.m3u8
-#EXTINF:-1,|FR| TEVA FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7951.m3u8
-#EXTINF:-1,|FR| SERIE CLUB HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1928.m3u8
-#EXTINF:-1,|FR| SERIE CLUB FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7959.m3u8
-#EXTINF:-1,|CH| RTS UN HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1907.m3u8
-#EXTINF:-1,|CH| RTS DEUX HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1906.m3u8
-#EXTINF:-1,|FR| RMC STORY  HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1921.m3u8
-#EXTINF:-1,|FR| PARIS PREMIERE HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1915.m3u8
-#EXTINF:-1,|FR| PARIS PREMIERE FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7943.m3u8
-#EXTINF:-1,|FR| E! (fr) HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1920.m3u8
-#EXTINF:-1,|FR| E! ENTERTAINMENT FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7946.m3u8
-#EXTINF:-1,|FR| CHERIE 25 HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1923.m3u8
-#EXTINF:-1,|FR| CHERIE 25 FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7862.m3u8
-#EXTINF:-1,|FR| VICELAND FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7979.m3u8
-#EXTINF:-1,|FR| A  FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7948.m3u8
-#EXTINF:-1,|FR| COMEDIE HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1913.m3u8
-#EXTINF:-1,|FR| COMEDIE  FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7955.m3u8
-#EXTINF:-1,|FR| ALTICE STUDIO HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1911.m3u8
-#EXTINF:-1,|BE| AB 1 HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1919.m3u8
-#EXTINF:-1,|FR| AB1 FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7945.m3u8
-#EXTINF:-1,|BE| AB 3 HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1918.m3u8
-#EXTINF:-1,|FR| AB3 FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7942.m3u8
-#EXTINF:-1,|FR| ACTION HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1912.m3u8
-#EXTINF:-1,|FR| ACTION FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7993.m3u8
-#EXTINF:-1,|FR| ALTICE STUDIO FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7984.m3u8
-#EXTINF:-1,|FR| NOVELAS FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7982.m3u8
-#EXTINF:-1,|FR| MY CUISINE FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7944.m3u8
-#EXTINF:-1,|FR| BOSS BOX OFFICE |FR|
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1905.m3u8
-#EXTINF:-1,|FR| BOSS MOVIES 1 HD FR
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/11672.m3u8
-#EXTINF:-1,|FR| BOSS MOVIES 2 HD FR
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/11673.m3u8
-#EXTINF:-1,|FR| BOSS MOVIES 3 HD FR
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/11674.m3u8
-#EXTINF:-1,|FR| BOSS MOVIES 4 HD FR
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/11675.m3u8
-#EXTINF:-1,|FR| BOSS MOVIES 5 HD FR
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/11676.m3u8
-#EXTINF:-1,|FR| BOSS MOVIES 6 HD FR
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/11677.m3u8
-#EXTINF:-1,|FR| BOSS MOVIES 7 HD FR
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/11873.m3u8
-#EXTINF:-1,|FR| BOSS MOVIES 8 HD FR
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/11874.m3u8
-#EXTINF:-1,|FR| BOSS MOVIES 9 HD FR
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/11875.m3u8
-#EXTINF:-1,|FR| CHAINES SPORT |FR|
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1894.m3u8
-#EXTINF:-1,|FR| CANAL+SPORT HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/2005.m3u8
-#EXTINF:-1,|FR| CANAL+ SPORT FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7869.m3u8
-#EXTINF:-1,|FR| BEIN SPORTS 1 HD FR
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1893.m3u8
-#EXTINF:-1,|FR| BEIN SPORTS 1 FULL HD FR
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7892.m3u8
-#EXTINF:-1,|FR| BEIN SPORTS 2 HD FR
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1892.m3u8
-#EXTINF:-1,|FR| BEIN SPORTS 2 FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7891.m3u8
-#EXTINF:-1,|FR| BEIN SPORTS 3 HD FR
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1891.m3u8
-#EXTINF:-1,|FR| BEIN SPORTS 3 FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7890.m3u8
-#EXTINF:-1,|FR| BEIN SPORT MAX 4 HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1890.m3u8
-#EXTINF:-1,|FR| BEIN SPORT MAX 5 HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1889.m3u8
-#EXTINF:-1,|FR| BEIN SPORT MAX 6 HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1888.m3u8
-#EXTINF:-1,|FR| BEIN SPORT MAX 7 HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1887.m3u8
-#EXTINF:-1,|FR| BEIN SPORT MAX 8 HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1886.m3u8
-#EXTINF:-1,|FR| BEIN SPORT MAX 9 HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1885.m3u8
-#EXTINF:-1,|FR| BEIN SPORT MAX 10 HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1884.m3u8
-#EXTINF:-1,|BE| ELEVEN SPORT 1 FR
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/9284.m3u8
-#EXTINF:-1,|BE| ELEVEN SPORT 2 FR
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/9285.m3u8
-#EXTINF:-1,|FR| RMC SPORT NEWS  FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7915.m3u8
-#EXTINF:-1,|FR| RMC SPORT 1 HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1883.m3u8
-#EXTINF:-1,|FR| RMC SPORT 1 FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7909.m3u8
-#EXTINF:-1,|FR| RMC SPORT 2 HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1882.m3u8
-#EXTINF:-1,|FR| RMC SPORT 2 FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7908.m3u8
-#EXTINF:-1,|FR| RMC SPORT 3 HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7907.m3u8
-#EXTINF:-1,|FR| RMC SPORT 3 FHD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1881.m3u8
-#EXTINF:-1,|FR| RMC SPORT 3 FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7906.m3u8
-#EXTINF:-1,|FR| RMC SPORT 4 FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7905.m3u8
-#EXTINF:-1,|FR| RMC SPORT 5 HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1880.m3u8
-#EXTINF:-1,|BE| VOO SPORT 1 HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1870.m3u8
-#EXTINF:-1,|BE| VOO SPORT 2 HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1869.m3u8
-#EXTINF:-1,|BE |VOO SPORT 3 HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1868.m3u8
-#EXTINF:-1,|FR| EUROSPORT FRANCE HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1878.m3u8
-#EXTINF:-1,|FR| EUROSPORT 1 FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7895.m3u8
-#EXTINF:-1,|FR| EUROSPORT 2 HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1877.m3u8
-#EXTINF:-1,|FR| EUROSPORT 2 FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7894.m3u8
-#EXTINF:-1,|FR| INFOSPORT HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1879.m3u8
-#EXTINF:-1,|FR| INFOSPORT FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7898.m3u8
-#EXTINF:-1,|FR| GOLF FR HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1874.m3u8
-#EXTINF:-1,|FR| EQUIDIA LIVE FHD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1872.m3u8
-#EXTINF:-1,|FR| AB MOTEURS HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1871.m3u8
-#EXTINF:-1,|FR| AUTOMOTO FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7897.m3u8
-#EXTINF:-1,|FR| L'EQUIPE 21 HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1876.m3u8
-#EXTINF:-1,|FR| L'EQUIPE 21 FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7914.m3u8
-#EXTINF:-1,|FR| GOLF + FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/6248.m3u8
-#EXTINF:-1,|FR| FOOT  FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7900.m3u8
-#EXTINF:-1,|FR| OM TV FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7911.m3u8
-#EXTINF:-1,|FR| EXTREME SPORTS FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7896.m3u8
-#EXTINF:-1,|FR| CHAINES MUSIQUE |FR|
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1867.m3u8
-#EXTINF:-1,|FR| MTV DANCE HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1865.m3u8
-#EXTINF:-1,|FR| MTV FRANCE HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1864.m3u8
-#EXTINF:-1,|FR| MTV HITS HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1863.m3u8
-#EXTINF:-1,|FR| MY CUISINE HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1910.m3u8
-#EXTINF:-1,|FR| M6 MUSIC HITS HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1862.m3u8
-#EXTINF:-1,|FR| TRACE URBAN HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/1861.m3u8
-#EXTINF:-1,|FR| BE CURIOUS FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7940.m3u8
-#EXTINF:-1,|FR| BET TV FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7952.m3u8
-#EXTINF:-1,|FR| ES1 FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7879.m3u8
-#EXTINF:-1,|FR| MUSEUM FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7962.m3u8
-#EXTINF:-1,|FR| MY ZEN TV FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7953.m3u8
-#EXTINF:-1,|FR| NOLLYWOOD FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7947.m3u8
-#EXTINF:-1,|FR| ONZEO FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7910.m3u8
-#EXTINF:-1,|FR| RMC STORY FULL HD
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/7865.m3u8
-#EXTINF:-1,|FR| I24 NEWS
-http://ip.bosszx.net:80/live/francefull/tZgwyLOcq0/32501.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:OCS-GEANT
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/1016.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:OCS-CHOC
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/1017.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:OCS-CITY
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/1019.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:NICK HD
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/1029.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:MTV HD
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/1030.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:GOLF + HD
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/1372.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Seasons hd
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/1408.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Equidia live
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/1409.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Paramount Channel FR
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/1410.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Paris Premier
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/1411.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:TFX
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/1413.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:LCP
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/1414.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:POLAR+
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/1415.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Tiji
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/1482.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Nick Junior
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/1483.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Boing
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/1484.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Cherie25
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/1485.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:BFM Business
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/1486.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Disney Junior
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/1523.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Game one
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/1524.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Automoto
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/1525.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:AB1
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/1526.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:TV5 monde Europe
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/1528.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Trek
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/1529.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:TCM Cinema
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/1530.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:RMC Story
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/1533.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Histoire
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/1534.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:E!
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/1535.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:RMC Sport 1
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/1554.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:RMC Sport 2
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/1555.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:RMC Sport 3
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/1556.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:RMC Sport 4
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/1612.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Canal+  fr
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/181.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Canal+  Decale
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/183.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Canal+  Family
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/184.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Cine  Frisson
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/185.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Cine  Emotion
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/186.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Cine  Premier
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/187.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:RMC News
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/2161.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Bet
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/2162.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:WARNER TV HD
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/2163.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Elle Girl
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/2164.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Disney XD
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/2165.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:MTV Hits fr
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/2167.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Viceland FR
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/2168.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:France2
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/278.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:France3
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/279.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:France4
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/280.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:France5
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/281.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Science et Vie TV HD
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/282.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:BFM TV
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/283.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:ANIMAUX
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/284.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:NRJ12
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/285.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Teva HD
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/286.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Eurosport 2
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/287.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:PLANETE+ HD
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/288.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Gulli
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/289.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Comedie+
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/290.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:M6
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/291.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Syfy HD
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/292.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:TMC
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/293.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:W9
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/294.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:TF1
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/295.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Action hd
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/296.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Boomerang
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/297.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Disney Cinemagic
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/298.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Discovery FR
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/299.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Disney fr
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/300.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:C8
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/301.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:CStar
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/302.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:France24
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/303.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:France O
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/304.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:DISCOVERY ID HD
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/3381.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Euronews
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/3616.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:LCI
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/3625.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Toonami
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/3670.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Crime District
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/3671.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:J-one
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/3673.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:M6 Music
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/3675.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:France Info
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/3688.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",BO:BoxFrance9
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/3689.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",BO:BoxFrance8
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/3690.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",BO:BoxFrance7
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/3692.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",BO:BoxFrance6
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/3693.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",BO:BoxFrance5
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/3694.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",BO:BoxFrance4
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/3695.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",BO:BoxFrance3
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/3696.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",BO:BoxFrance2
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/3697.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",BO:BoxFrance1
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/3712.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Discovery Science fr
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/465.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Canal+ Series
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/466.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Cine  Classic
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/467.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:CineFamiz
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/468.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:PLANETE+ A&E HD
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/469.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:CNews
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/471.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:13 Rue
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/482.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:USHUAIA TV HD
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/483.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:VOYAGE HD
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/484.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:NatGeo Wild HD
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/485.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:National Geographic HD
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/486.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Planete+ CI
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/487.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Cartoon Network HD
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/488.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Teletoon
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/489.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:MANGAS HD
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/490.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:TF1 Series Film
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/491.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:CanalJ
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/492.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Arte
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/494.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:RTL9 HD
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/495.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:SERIE CLUB
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/497.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:InfoSport
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/500.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Nickelodeon 4 Teen
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/5056.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:My Cuisine
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/5057.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:TF1 +1
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/5058.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Canal+ Sport
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/5190.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Canal+ Cinema
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/5191.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",CH:RTS UN
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/570.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",CH:RTS DEUX
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/571.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Eurosport
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/572.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Equipe 21
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/580.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:6 Ter
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/581.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:RMC Sport Live5
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/6349.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:RMC Sport Live6
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/6350.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:RMC Sport Live7
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/6351.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:RMC Sport Live8
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/6352.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Bein Sport 2 HD
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/70.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Bein Sport 3 HD
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/71.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",BE:La UNE
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/774.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",BE:La Trois
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/775.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",BE:La Deux
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/776.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:CanalPlay01
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/884.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:CanalPlay02
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/885.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:CanalPlay03
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/886.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:CanalPlay04
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/887.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:CanalPlay05
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/888.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:CanalPlay06
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/889.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:CanalPlay07
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/890.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Canalplay08
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/891.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:CanalPlay09
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/892.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:CanalPlay10
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/893.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:Foot 24
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/975.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:TV BREIZH
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/976.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:BEIN SPORT MAX4
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/978.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:BEIN SPORT MAX6
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/980.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:BEIN SPORT MAX7
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/981.m3u8
+#EXTINF:-1 group-title="{BOUQUET_NAME}",FR:BEIN SPORT MAX8
+http://iptv.ndasat.com:88/live/222699473175063/222699473175063/982.m3u8
