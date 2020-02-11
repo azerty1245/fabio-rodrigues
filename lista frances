@@ -1,101 +1,279 @@
 #EXTM3U
-#EXTINF:-1 ,|BE| Bel RTL
-http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1862
-#EXTINF:-1 ,|BE| BX1 HD
-http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1863
-#EXTINF:-1 ,|BE| CINE HD
-http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1864
-#EXTINF:-1 ,|BE| Canvas HD
-http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1865
-#EXTINF:-1 ,|BE| Caz HD
-http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1866
-#EXTINF:-1 ,|BE| Club RTL
-http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1870
-#EXTINF:-1 ,|BE| EEN HD
-http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1871
-#EXTINF:-1 ,|BE| Eleven Sports 1 HD
-http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1874
-#EXTINF:-1 ,|BE| Eleven Sports 2 HD
-http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1875
-#EXTINF:-1 ,|BE| Ketnet HD
-http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1879
-#EXTINF:-1 ,|BE| KetOp12
-http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1880
-#EXTINF:-1 ,|BE| La Deux
-http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1881
-#EXTINF:-1 ,|BE| La Trois
-http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1882
-#EXTINF:-1 ,|BE| La Une HD
-http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1883
-#EXTINF:-1 ,|BE| Plug RTL
-http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1885
-#EXTINF:-1 ,|BE| Q2 HD
-http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1886
-#EXTINF:-1 ,|BE| RTL TVI
-http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1889
-#EXTINF:-1 ,|BE| Vier HD
-http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1893
-#EXTINF:-1 ,|BE| Vijf
-http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1894
-#EXTINF:-1 ,|BE| Vitaya
-http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1895
-#EXTINF:-1 ,|BE| Voo Sport 1 FHD
-http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1896
-#EXTINF:-1 ,|BE| Voo Sport 2
-http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1897
-#EXTINF:-1 ,|BE| Voo Sport World 1 FHD
-http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1898
-#EXTINF:-1 ,|BE| VTM HD
-http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1899
-#EXTINF:-1 ,|BE| VTM Kids / Kanal Z
-http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1900
-#EXTINF:-1 ,|BE| VTM Kids Jr
-http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1901
-#EXTINF:-1 ,|BE| Zes
-http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/1902
-#EXTINF:-1 ,BE - PLAY SPORT 2 HD
-http://iptv8.premium-stv.com:2052/sourcebelgiquepro1/5578736030/3634
-#EXTINF:-1 ,fr: TF 1 HD
-http://tvboxserver.raam.pw:2082/senna/senna/2867
-#EXTINF:-1 ,fr: France 2 HD
-http://tvboxserver.raam.pw:2082/senna/senna/1256
-#EXTINF:-1 ,fr: France 4 HD
-http://tvboxserver.raam.pw:2082/senna/senna/1257
-#EXTINF:-1 ,fr: M6 HD
-http://tvboxserver.raam.pw:2082/senna/senna/1255
-#EXTINF:-1 ,fr: ARTE HD
-http://tvboxserver.raam.pw:2082/senna/senna/2862
-#EXTINF:-1 ,fr: BEIN SPORTS 3 FR
-http://tvboxserver.raam.pw:2082/senna/senna/3379
-
-
-#EXTINF:-1 ,FR:W9
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/894
-#EXTINF:-1 ,FR:Ushuaia_HD
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/895
-#EXTINF:-1 ,FR:Tout_LHistoire
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/884
-#EXTINF:-1 ,FR:TIJI
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/888
-#EXTINF:-1 ,FR:TF1
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/887
-#EXTINF:-1 ,FR:Disney_Junior
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/889
-#EXTINF:-1 ,FR:RTL9
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/885
-#EXTINF:-1 ,FR:NRJ12
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/882
-#EXTINF:-1 ,FR:Nat_Geo
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/881
-#EXTINF:-1 ,FR:M6
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/880
-#EXTINF:-1 ,FR:Infosport
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/879
-#EXTINF:-1 ,FR:GULLI
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/893
-#EXTINF:-1 ,FR:France_5
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/845
-#EXTINF:-1 ,FR:France_2
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/842
-#EXTINF:-1 ,FR:Disney
-http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/878
+#EXTINF:-1 group-title="Canal sat",A LA Carte 1
+http://nvkdn.redi-vo.com/iptv/ch300?code=1701273726237058&key=15080
+#EXTINF:-1 group-title="Canal sat",A LA Carte 2
+http://nvkdn.redi-vo.com/iptv/ch301?code=1701273726237058&key=44930
+#EXTINF:-1 group-title="Canal sat",A LA Carte 3
+http://nvkdn.redi-vo.com/iptv/ch302?code=1701273726237058&key=18944
+#EXTINF:-1 group-title="Canal sat",A LA Carte 4
+http://nvkdn.redi-vo.com/iptv/ch303?code=1701273726237058&key=49632
+#EXTINF:-1 group-title="Canal sat",A LA Carte 5
+http://nvkdn.redi-vo.com/iptv/ch304?code=1701273726237058&key=27939
+#EXTINF:-1 group-title="Canal sat",A LA Carte 6
+http://nvkdn.redi-vo.com/iptv/ch305?code=1701273726237058&key=45527
+#EXTINF:-1 group-title="Canal sat",A LA Carte 7
+http://nvkdn.redi-vo.com/iptv/ch306?code=1701273726237058&key=50185
+#EXTINF:-1 group-title="Canal sat",A LA Carte 8
+http://nvkdn.redi-vo.com/iptv/ch307?code=1701273726237058&key=33489
+#EXTINF:-1 group-title="Canal sat",A LA Carte 9
+http://nvkdn.redi-vo.com/iptv/ch308?code=1701273726237058&key=41851
+#EXTINF:-1 group-title="Canal sat",A LA Carte 10
+http://nvkdn.redi-vo.com/iptv/ch309?code=1701273726237058&key=16856
+#EXTINF:-1 group-title="Canal sat",TF1 FULL HD
+http://nvkdn.redi-vo.com/iptv/ch9006?code=1701273726237058&key=58492
+#EXTINF:-1 group-title="Canal sat",M6 FULL HD
+http://nvkdn.redi-vo.com/iptv/ch9004?code=1701273726237058&key=56830
+#EXTINF:-1 group-title="Canal sat",TF1 HD
+http://nvkdn.redi-vo.com/iptv/ch207?code=1701273726237058&key=45102
+#EXTINF:-1 group-title="Canal sat",M6 HD
+http://nvkdn.redi-vo.com/iptv/ch208?code=1701273726237058&key=23990
+#EXTINF:-1 group-title="Canal sat",TF1 Serie Film
+http://nvkdn.redi-vo.com/iptv/ch258?code=1701273726237058&key=12268
+#EXTINF:-1 group-title="Canal sat",6 Ter HD
+http://nvkdn.redi-vo.com/iptv/ch262?code=1701273726237058&key=32674
+#EXTINF:-1 group-title="Canal sat",France 2 HD
+http://nvkdn.redi-vo.com/iptv/ch209?code=1701273726237058&key=20353
+#EXTINF:-1 group-title="Canal sat",France 3 HD
+http://nvkdn.redi-vo.com/iptv/ch210?code=1701273726237058&key=60535
+#EXTINF:-1 group-title="Canal sat",France 4
+http://nvkdn.redi-vo.com/iptv/ch219?code=1701273726237058&key=58291
+#EXTINF:-1 group-title="Canal sat",France 5
+http://nvkdn.redi-vo.com/iptv/ch211?code=1701273726237058&key=42766
+#EXTINF:-1 group-title="Canal sat",France O
+http://nvkdn.redi-vo.com/iptv/ch212?code=1701273726237058&key=32228
+#EXTINF:-1 group-title="Canal sat",W9 HD
+http://nvkdn.redi-vo.com/iptv/ch220?code=1701273726237058&key=21477
+#EXTINF:-1 group-title="Canal sat",E. Fr
+http://nvkdn.redi-vo.com/iptv/ch392?code=1701273726237058&key=38059
+#EXTINF:-1 group-title="Canal sat",Non Stop People Fr.
+http://nvkdn.redi-vo.com/iptv/ch272?code=1701273726237058&key=53587
+#EXTINF:-1 group-title="Canal sat",OCS Choc HD
+http://nvkdn.redi-vo.com/iptv/ch226?code=1701273726237058&key=25495
+#EXTINF:-1 group-title="Canal sat",OCS City HD
+http://nvkdn.redi-vo.com/iptv/ch259?code=1701273726237058&key=20587
+#EXTINF:-1 group-title="Canal sat",OCS Geant HD
+http://nvkdn.redi-vo.com/iptv/ch394?code=1701273726237058&key=15177
+#EXTINF:-1 group-title="Canal sat",OCS Max HD
+http://nvkdn.redi-vo.com/iptv/ch393?code=1701273726237058&key=38384
+#EXTINF:-1 group-title="Canal sat",Cine + Emotion HD
+http://nvkdn.redi-vo.com/iptv/ch741?code=1701273726237058&key=60141
+#EXTINF:-1 group-title="Canal sat",Cine Frisson HD
+http://nvkdn.redi-vo.com/iptv/ch270?code=1701273726237058&key=30674
+#EXTINF:-1 group-title="Canal sat",Cine Famiz
+http://nvkdn.redi-vo.com/iptv/ch288?code=1701273726237058&key=11999
+#EXTINF:-1 group-title="Canal sat",Cine Premiere
+http://nvkdn.redi-vo.com/iptv/ch275?code=1701273726237058&key=27122
+#EXTINF:-1 group-title="Canal sat",Canal+
+http://nvkdn.redi-vo.com/iptv/ch200?code=1701273726237058&key=33167
+#EXTINF:-1 group-title="Canal sat",Canal+ Cinema
+http://nvkdn.redi-vo.com/iptv/ch201?code=1701273726237058&key=26546
+#EXTINF:-1 group-title="Canal sat",Canal+ Family
+http://nvkdn.redi-vo.com/iptv/ch204?code=1701273726237058&key=31829
+#EXTINF:-1 group-title="Canal sat",Canal+ Sport
+http://nvkdn.redi-vo.com/iptv/ch202?code=1701273726237058&key=50378
+#EXTINF:-1 group-title="Canal sat",Canal+ Decale
+http://nvkdn.redi-vo.com/iptv/ch203?code=1701273726237058&key=15169
+#EXTINF:-1 group-title="Canal sat",Canal+ series HD
+http://nvkdn.redi-vo.com/iptv/ch205?code=1701273726237058&key=55084
+#EXTINF:-1 group-title="Canal sat",TCM FR
+http://nvkdn.redi-vo.com/iptv/ch1113?code=1701273726237058&key=40210
+#EXTINF:-1 group-title="Canal sat",Action HD
+http://nvkdn.redi-vo.com/iptv/ch271?code=1701273726237058&key=44502
+#EXTINF:-1 group-title="Canal sat",Polar Plus FR
+http://nvkdn.redi-vo.com/iptv/ch286?code=1701273726237058&key=22427
+#EXTINF:-1 group-title="Canal sat",Warner TV FR
+http://nvkdn.redi-vo.com/iptv/ch285?code=1701273726237058&key=13637
+#EXTINF:-1 group-title="Canal sat",Serie Club HD
+http://nvkdn.redi-vo.com/iptv/ch233?code=1701273726237058&key=16734
+#EXTINF:-1 group-title="Canal sat",13 eme Rue
+http://nvkdn.redi-vo.com/iptv/ch256?code=1701273726237058&key=39383
+#EXTINF:-1 group-title="Canal sat",Tv Breizh
+http://nvkdn.redi-vo.com/iptv/ch251?code=1701273726237058&key=42587
+#EXTINF:-1 group-title="Canal sat",TF1 HD +4
+http://nvkdn.redi-vo.com/iptv/ch4207?code=1701273726237058&key=38307
+#EXTINF:-1 group-title="Canal sat",France 2 HD +4
+http://nvkdn.redi-vo.com/iptv/ch4209?code=1701273726237058&key=46814
+#EXTINF:-1 group-title="Canal sat",M6 HD +4
+http://nvkdn.redi-vo.com/iptv/ch4208?code=1701273726237058&key=54872
+#EXTINF:-1 group-title="Canal sat",W9 HD +4
+http://nvkdn.redi-vo.com/iptv/ch4220?code=1701273726237058&key=59169
+#EXTINF:-1 group-title="Canal sat",RTL 9
+http://nvkdn.redi-vo.com/iptv/ch282?code=1701273726237058&key=59365
+#EXTINF:-1 group-title="Canal sat",AB 1
+http://nvkdn.redi-vo.com/iptv/ch284?code=1701273726237058&key=64307
+#EXTINF:-1 group-title="Canal sat",AB 3
+http://nvkdn.redi-vo.com/iptv/ch1652?code=1701273726237058&key=22563
+#EXTINF:-1 group-title="Canal sat",TEVA HD
+http://nvkdn.redi-vo.com/iptv/ch230?code=1701273726237058&key=16524
+#EXTINF:-1 group-title="Canal sat",Viceland Fr.
+http://nvkdn.redi-vo.com/iptv/ch1297?code=1701273726237058&key=48410
+#EXTINF:-1 group-title="Canal sat",Season Fr.
+http://nvkdn.redi-vo.com/iptv/ch1298?code=1701273726237058&key=52112
+#EXTINF:-1 group-title="Canal sat",Crime District Fr.
+http://nvkdn.redi-vo.com/iptv/ch390?code=1701273726237058&key=25447
+#EXTINF:-1 group-title="Canal sat",My Cuisine TV HD
+http://nvkdn.redi-vo.com/iptv/ch380?code=1701273726237058&key=49503
+#EXTINF:-1 group-title="Canal sat",Ushuaia TV HD
+http://nvkdn.redi-vo.com/iptv/ch242?code=1701273726237058&key=36384
+#EXTINF:-1 group-title="Canal sat",NAT GEO HD Fr.
+http://nvkdn.redi-vo.com/iptv/ch235?code=1701273726237058&key=43018
+#EXTINF:-1 group-title="Canal sat",NATGEO WILD HD Fr.
+http://nvkdn.redi-vo.com/iptv/ch238?code=1701273726237058&key=62508
+#EXTINF:-1 group-title="Canal sat",Planet Plus HD
+http://nvkdn.redi-vo.com/iptv/ch234?code=1701273726237058&key=50453
+#EXTINF:-1 group-title="Canal sat",Planet Plus AE HD
+http://nvkdn.redi-vo.com/iptv/ch225?code=1701273726237058&key=60294
+#EXTINF:-1 group-title="Canal sat",Planet Plus CI HD
+http://nvkdn.redi-vo.com/iptv/ch287?code=1701273726237058&key=47790
+#EXTINF:-1 group-title="Canal sat",Voyage Fr.
+http://nvkdn.redi-vo.com/iptv/ch236?code=1701273726237058&key=21377
+#EXTINF:-1 group-title="Canal sat",Discovery Family HD Fr.
+http://nvkdn.redi-vo.com/iptv/ch379?code=1701273726237058&key=41745
+#EXTINF:-1 group-title="Canal sat",Discovery Science HD Fr.
+http://nvkdn.redi-vo.com/iptv/ch229?code=1701273726237058&key=20167
+#EXTINF:-1 group-title="Canal sat",Discovery Show Case Fr.
+http://nvkdn.redi-vo.com/iptv/ch241?code=1701273726237058&key=35668
+#EXTINF:-1 group-title="Canal sat",Discovery ID Fr.
+http://nvkdn.redi-vo.com/iptv/ch249?code=1701273726237058&key=10522
+#EXTINF:-1 group-title="Canal sat",RMC Decouverte
+http://nvkdn.redi-vo.com/iptv/ch739?code=1701273726237058&key=27783
+#EXTINF:-1 group-title="Canal sat",Histoire
+http://nvkdn.redi-vo.com/iptv/ch280?code=1701273726237058&key=40864
+#EXTINF:-1 group-title="Canal sat",RMC Story
+http://nvkdn.redi-vo.com/iptv/ch247?code=1701273726237058&key=47827
+#EXTINF:-1 group-title="Canal sat",Chasse et Peche
+http://nvkdn.redi-vo.com/iptv/ch283?code=1701273726237058&key=48044
+#EXTINF:-1 group-title="Canal sat",Trek
+http://nvkdn.redi-vo.com/iptv/ch279?code=1701273726237058&key=36050
+#EXTINF:-1 group-title="Canal sat",Sciences et vie
+http://nvkdn.redi-vo.com/iptv/ch278?code=1701273726237058&key=43428
+#EXTINF:-1 group-title="Canal sat",Animaux
+http://nvkdn.redi-vo.com/iptv/ch277?code=1701273726237058&key=57569
+#EXTINF:-1 group-title="Canal sat",Comedie
+http://nvkdn.redi-vo.com/iptv/ch264?code=1701273726237058&key=52716
+#EXTINF:-1 group-title="Canal sat",C-8
+http://nvkdn.redi-vo.com/iptv/ch223?code=1701273726237058&key=44139
+#EXTINF:-1 group-title="Canal sat",NRJ 12
+http://nvkdn.redi-vo.com/iptv/ch214?code=1701273726237058&key=52449
+#EXTINF:-1 group-title="Canal sat",C-Star
+http://nvkdn.redi-vo.com/iptv/ch228?code=1701273726237058&key=55566
+#EXTINF:-1 group-title="Canal sat",Equipe 21
+http://nvkdn.redi-vo.com/iptv/ch267?code=1701273726237058&key=46605
+#EXTINF:-1 group-title="Canal sat",Cherie 25
+http://nvkdn.redi-vo.com/iptv/ch248?code=1701273726237058&key=52840
+#EXTINF:-1 group-title="Canal sat",SYFY HD
+http://nvkdn.redi-vo.com/iptv/ch237?code=1701273726237058&key=25897
+#EXTINF:-1 group-title="Canal sat",NT 1
+http://nvkdn.redi-vo.com/iptv/ch213?code=1701273726237058&key=35452
+#EXTINF:-1 group-title="Canal sat",TMC
+http://nvkdn.redi-vo.com/iptv/ch217?code=1701273726237058&key=56078
+#EXTINF:-1 group-title="Canal sat",Paris Premiere
+http://nvkdn.redi-vo.com/iptv/ch274?code=1701273726237058&key=63907
+#EXTINF:-1 group-title="Canal sat",ARTE
+http://nvkdn.redi-vo.com/iptv/ch216?code=1701273726237058&key=25727
+#EXTINF:-1 group-title="Canal sat",France Info
+http://nvkdn.redi-vo.com/iptv/ch292?code=1701273726237058&key=47429
+#EXTINF:-1 group-title="Canal sat",C-News
+http://nvkdn.redi-vo.com/iptv/ch299?code=1701273726237058&key=51996
+#EXTINF:-1 group-title="Canal sat",I24 Fr.
+http://nvkdn.redi-vo.com/iptv/ch1646?code=1701273726237058&key=50932
+#EXTINF:-1 group-title="Canal sat",LCI
+http://nvkdn.redi-vo.com/iptv/ch298?code=1701273726237058&key=47725
+#EXTINF:-1 group-title="Canal sat",BFM TV
+http://nvkdn.redi-vo.com/iptv/ch218?code=1701273726237058&key=24717
+#EXTINF:-1 group-title="Canal sat",BFM Paris
+http://nvkdn.redi-vo.com/iptv/ch375?code=1701273726237058&key=39076
+#EXTINF:-1 group-title="Canal sat",BFM Business
+http://nvkdn.redi-vo.com/iptv/ch263?code=1701273726237058&key=28548
+#EXTINF:-1 group-title="Canal sat",LCP
+http://nvkdn.redi-vo.com/iptv/ch245?code=1701273726237058&key=37623
+#EXTINF:-1 group-title="Canal sat",Mezzo Fr.
+http://nvkdn.redi-vo.com/iptv/ch1653?code=1701273726237058&key=50710
+#EXTINF:-1 group-title="Canal sat",RFM Fr.
+http://nvkdn.redi-vo.com/iptv/ch1650?code=1701273726237058&key=41223
+#EXTINF:-1 group-title="Canal sat",MCM Top
+http://nvkdn.redi-vo.com/iptv/ch1107?code=1701273726237058&key=57385
+#EXTINF:-1 group-title="Canal sat",MTV FR
+http://nvkdn.redi-vo.com/iptv/ch224?code=1701273726237058&key=27696
+#EXTINF:-1 group-title="Canal sat",MTV Hits
+http://nvkdn.redi-vo.com/iptv/ch246?code=1701273726237058&key=44739
+#EXTINF:-1 group-title="Canal sat",Piwi Fr.
+http://nvkdn.redi-vo.com/iptv/ch395?code=1701273726237058&key=14814
+#EXTINF:-1 group-title="Canal sat",Toonami
+http://nvkdn.redi-vo.com/iptv/ch391?code=1701273726237058&key=14399
+#EXTINF:-1 group-title="Canal sat",Boomerang FR
+http://nvkdn.redi-vo.com/iptv/ch273?code=1701273726237058&key=48335
+#EXTINF:-1 group-title="Canal sat",Boing FR
+http://nvkdn.redi-vo.com/iptv/ch1645?code=1701273726237058&key=64289
+#EXTINF:-1 group-title="Canal sat",Tiji FR
+http://nvkdn.redi-vo.com/iptv/ch289?code=1701273726237058&key=15120
+#EXTINF:-1 group-title="Canal sat",Canal J
+http://nvkdn.redi-vo.com/iptv/ch260?code=1701273726237058&key=62150
+#EXTINF:-1 group-title="Canal sat",Mangas
+http://nvkdn.redi-vo.com/iptv/ch281?code=1701273726237058&key=62534
+#EXTINF:-1 group-title="Canal sat",Cartoon Network
+http://nvkdn.redi-vo.com/iptv/ch240?code=1701273726237058&key=64610
+#EXTINF:-1 group-title="Canal sat",Gulli
+http://nvkdn.redi-vo.com/iptv/ch222?code=1701273726237058&key=39668
+#EXTINF:-1 group-title="Canal sat",Teletoon
+http://nvkdn.redi-vo.com/iptv/ch276?code=1701273726237058&key=21153
+#EXTINF:-1 group-title="Canal sat",Disney Ch. FR
+http://nvkdn.redi-vo.com/iptv/ch265?code=1701273726237058&key=61763
+#EXTINF:-1 group-title="Canal sat",Disney Cinemagic FR
+http://nvkdn.redi-vo.com/iptv/ch1270?code=1701273726237058&key=26991
+#EXTINF:-1 group-title="Canal sat",Disney Junior FR
+http://nvkdn.redi-vo.com/iptv/ch257?code=1701273726237058&key=19725
+#EXTINF:-1 group-title="Canal sat",Disney XD FR
+http://nvkdn.redi-vo.com/iptv/ch239?code=1701273726237058&key=18648
+#EXTINF:-1 group-title="Canal sat",Nickelodeon Jr. FR
+http://nvkdn.redi-vo.com/iptv/ch1272?code=1701273726237058&key=21910
+#EXTINF:-1 group-title="Canal sat",Nickelodeon FR
+http://nvkdn.redi-vo.com/iptv/ch1271?code=1701273726237058&key=39795
+#EXTINF:-1 group-title="Canal sat",Bet Fr.
+http://nvkdn.redi-vo.com/iptv/ch1654?code=1701273726237058&key=64704
+#EXTINF:-1 group-title="Canal sat",Equidia Live
+http://nvkdn.redi-vo.com/iptv/ch269?code=1701273726237058&key=37279
+#EXTINF:-1 group-title="Canal sat",AB Moteur
+http://nvkdn.redi-vo.com/iptv/ch268?code=1701273726237058&key=21856
+#EXTINF:-1 group-title="Canal sat",Golf Plus FR
+http://nvkdn.redi-vo.com/iptv/ch1299?code=1701273726237058&key=29177
+#EXTINF:-1 group-title="Canal sat",Golf Channel FR
+http://nvkdn.redi-vo.com/iptv/ch290?code=1701273726237058&key=52094
+#EXTINF:-1 group-title="Canal sat",EuroSport 1 HD
+http://nvkdn.redi-vo.com/iptv/ch743?code=1701273726237058&key=53367
+#EXTINF:-1 group-title="Canal sat",EuroSport 2 HD
+http://nvkdn.redi-vo.com/iptv/ch744?code=1701273726237058&key=52326
+#EXTINF:-1 group-title="Canal sat",Foot Plus
+http://nvkdn.redi-vo.com/iptv/ch266?code=1701273726237058&key=45238
+#EXTINF:-1 group-title="Canal sat",Infosport HD
+http://nvkdn.redi-vo.com/iptv/ch250?code=1701273726237058&key=55906
+#EXTINF:-1 group-title="Canal sat",BFM Sport HD
+http://nvkdn.redi-vo.com/iptv/ch244?code=1701273726237058&key=23526
+#EXTINF:-1 group-title="Canal sat",Eleven Sport 1 Fr.
+http://nvkdn.redi-vo.com/iptv/ch1648?code=1701273726237058&key=22646
+#EXTINF:-1 group-title="Canal sat",RMC Sport 1 HD
+http://nvkdn.redi-vo.com/iptv/ch255?code=1701273726237058&key=23296
+#EXTINF:-1 group-title="Canal sat",RMC Sport 2 HD
+http://nvkdn.redi-vo.com/iptv/ch253?code=1701273726237058&key=54264
+#EXTINF:-1 group-title="Canal sat",RMC Sport 3 HD
+http://nvkdn.redi-vo.com/iptv/ch254?code=1701273726237058&key=31480
+#EXTINF:-1 group-title="Canal sat",RMC Sport 4 HD
+http://nvkdn.redi-vo.com/iptv/ch243?code=1701273726237058&key=15110
+#EXTINF:-1 group-title="Canal sat",BeInSport 2 FR
+http://nvkdn.redi-vo.com/iptv/ch120?code=1701273726237058&key=51185
+#EXTINF:-1 group-title="Canal sat",BeInSport 3 FR
+http://nvkdn.redi-vo.com/iptv/ch206?code=1701273726237058&key=11755
+#EXTINF:-1 group-title="Canal sat",BeInSport Max 4
+http://nvkdn.redi-vo.com/iptv/ch340?code=1701273726237058&key=15510
+#EXTINF:-1 group-title="Canal sat",BeInSport Max 5
+http://nvkdn.redi-vo.com/iptv/ch341?code=1701273726237058&key=32482
+#EXTINF:-1 group-title="Canal sat",BeInSport Max 6
+http://nvkdn.redi-vo.com/iptv/ch342?code=1701273726237058&key=51381
+#EXTINF:-1 group-title="Canal sat",BeInSport Max 7
+http://nvkdn.redi-vo.com/iptv/ch343?code=1701273726237058&key=12846
+#EXTINF:-1 group-title="Canal sat",BeInSport Max 8
+http://nvkdn.redi-vo.com/iptv/ch344?code=1701273726237058&key=22677
+#EXTINF:-1 group-title="Canal sat",BeInSport Max 9
+http://nvkdn.redi-vo.com/iptv/ch345?code=1701273726237058&key=11427
+#EXTINF:-1 group-title="Canal sat",BeInSport Max 10
+http://nvkdn.redi-vo.com/iptv/ch346?code=1701273726237058&key=53115
