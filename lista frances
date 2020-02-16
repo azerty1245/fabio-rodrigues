@@ -1,279 +1,541 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canal sat",A LA Carte 1
-http://nvkdn.redi-vo.com/iptv/ch300?code=1701273726237058&key=15080
-#EXTINF:-1 group-title="Canal sat",A LA Carte 2
-http://nvkdn.redi-vo.com/iptv/ch301?code=1701273726237058&key=44930
-#EXTINF:-1 group-title="Canal sat",A LA Carte 3
-http://nvkdn.redi-vo.com/iptv/ch302?code=1701273726237058&key=18944
-#EXTINF:-1 group-title="Canal sat",A LA Carte 4
-http://nvkdn.redi-vo.com/iptv/ch303?code=1701273726237058&key=49632
-#EXTINF:-1 group-title="Canal sat",A LA Carte 5
-http://nvkdn.redi-vo.com/iptv/ch304?code=1701273726237058&key=27939
-#EXTINF:-1 group-title="Canal sat",A LA Carte 6
-http://nvkdn.redi-vo.com/iptv/ch305?code=1701273726237058&key=45527
-#EXTINF:-1 group-title="Canal sat",A LA Carte 7
-http://nvkdn.redi-vo.com/iptv/ch306?code=1701273726237058&key=50185
-#EXTINF:-1 group-title="Canal sat",A LA Carte 8
-http://nvkdn.redi-vo.com/iptv/ch307?code=1701273726237058&key=33489
-#EXTINF:-1 group-title="Canal sat",A LA Carte 9
-http://nvkdn.redi-vo.com/iptv/ch308?code=1701273726237058&key=41851
-#EXTINF:-1 group-title="Canal sat",A LA Carte 10
-http://nvkdn.redi-vo.com/iptv/ch309?code=1701273726237058&key=16856
-#EXTINF:-1 group-title="Canal sat",TF1 FULL HD
-http://nvkdn.redi-vo.com/iptv/ch9006?code=1701273726237058&key=58492
-#EXTINF:-1 group-title="Canal sat",M6 FULL HD
-http://nvkdn.redi-vo.com/iptv/ch9004?code=1701273726237058&key=56830
-#EXTINF:-1 group-title="Canal sat",TF1 HD
-http://nvkdn.redi-vo.com/iptv/ch207?code=1701273726237058&key=45102
-#EXTINF:-1 group-title="Canal sat",M6 HD
-http://nvkdn.redi-vo.com/iptv/ch208?code=1701273726237058&key=23990
-#EXTINF:-1 group-title="Canal sat",TF1 Serie Film
-http://nvkdn.redi-vo.com/iptv/ch258?code=1701273726237058&key=12268
-#EXTINF:-1 group-title="Canal sat",6 Ter HD
-http://nvkdn.redi-vo.com/iptv/ch262?code=1701273726237058&key=32674
-#EXTINF:-1 group-title="Canal sat",France 2 HD
-http://nvkdn.redi-vo.com/iptv/ch209?code=1701273726237058&key=20353
-#EXTINF:-1 group-title="Canal sat",France 3 HD
-http://nvkdn.redi-vo.com/iptv/ch210?code=1701273726237058&key=60535
-#EXTINF:-1 group-title="Canal sat",France 4
-http://nvkdn.redi-vo.com/iptv/ch219?code=1701273726237058&key=58291
-#EXTINF:-1 group-title="Canal sat",France 5
-http://nvkdn.redi-vo.com/iptv/ch211?code=1701273726237058&key=42766
-#EXTINF:-1 group-title="Canal sat",France O
-http://nvkdn.redi-vo.com/iptv/ch212?code=1701273726237058&key=32228
-#EXTINF:-1 group-title="Canal sat",W9 HD
-http://nvkdn.redi-vo.com/iptv/ch220?code=1701273726237058&key=21477
-#EXTINF:-1 group-title="Canal sat",E. Fr
-http://nvkdn.redi-vo.com/iptv/ch392?code=1701273726237058&key=38059
-#EXTINF:-1 group-title="Canal sat",Non Stop People Fr.
-http://nvkdn.redi-vo.com/iptv/ch272?code=1701273726237058&key=53587
-#EXTINF:-1 group-title="Canal sat",OCS Choc HD
-http://nvkdn.redi-vo.com/iptv/ch226?code=1701273726237058&key=25495
-#EXTINF:-1 group-title="Canal sat",OCS City HD
-http://nvkdn.redi-vo.com/iptv/ch259?code=1701273726237058&key=20587
-#EXTINF:-1 group-title="Canal sat",OCS Geant HD
-http://nvkdn.redi-vo.com/iptv/ch394?code=1701273726237058&key=15177
-#EXTINF:-1 group-title="Canal sat",OCS Max HD
-http://nvkdn.redi-vo.com/iptv/ch393?code=1701273726237058&key=38384
-#EXTINF:-1 group-title="Canal sat",Cine + Emotion HD
-http://nvkdn.redi-vo.com/iptv/ch741?code=1701273726237058&key=60141
-#EXTINF:-1 group-title="Canal sat",Cine Frisson HD
-http://nvkdn.redi-vo.com/iptv/ch270?code=1701273726237058&key=30674
-#EXTINF:-1 group-title="Canal sat",Cine Famiz
-http://nvkdn.redi-vo.com/iptv/ch288?code=1701273726237058&key=11999
-#EXTINF:-1 group-title="Canal sat",Cine Premiere
-http://nvkdn.redi-vo.com/iptv/ch275?code=1701273726237058&key=27122
-#EXTINF:-1 group-title="Canal sat",Canal+
-http://nvkdn.redi-vo.com/iptv/ch200?code=1701273726237058&key=33167
-#EXTINF:-1 group-title="Canal sat",Canal+ Cinema
-http://nvkdn.redi-vo.com/iptv/ch201?code=1701273726237058&key=26546
-#EXTINF:-1 group-title="Canal sat",Canal+ Family
-http://nvkdn.redi-vo.com/iptv/ch204?code=1701273726237058&key=31829
-#EXTINF:-1 group-title="Canal sat",Canal+ Sport
-http://nvkdn.redi-vo.com/iptv/ch202?code=1701273726237058&key=50378
-#EXTINF:-1 group-title="Canal sat",Canal+ Decale
-http://nvkdn.redi-vo.com/iptv/ch203?code=1701273726237058&key=15169
-#EXTINF:-1 group-title="Canal sat",Canal+ series HD
-http://nvkdn.redi-vo.com/iptv/ch205?code=1701273726237058&key=55084
-#EXTINF:-1 group-title="Canal sat",TCM FR
-http://nvkdn.redi-vo.com/iptv/ch1113?code=1701273726237058&key=40210
-#EXTINF:-1 group-title="Canal sat",Action HD
-http://nvkdn.redi-vo.com/iptv/ch271?code=1701273726237058&key=44502
-#EXTINF:-1 group-title="Canal sat",Polar Plus FR
-http://nvkdn.redi-vo.com/iptv/ch286?code=1701273726237058&key=22427
-#EXTINF:-1 group-title="Canal sat",Warner TV FR
-http://nvkdn.redi-vo.com/iptv/ch285?code=1701273726237058&key=13637
-#EXTINF:-1 group-title="Canal sat",Serie Club HD
-http://nvkdn.redi-vo.com/iptv/ch233?code=1701273726237058&key=16734
-#EXTINF:-1 group-title="Canal sat",13 eme Rue
-http://nvkdn.redi-vo.com/iptv/ch256?code=1701273726237058&key=39383
-#EXTINF:-1 group-title="Canal sat",Tv Breizh
-http://nvkdn.redi-vo.com/iptv/ch251?code=1701273726237058&key=42587
-#EXTINF:-1 group-title="Canal sat",TF1 HD +4
-http://nvkdn.redi-vo.com/iptv/ch4207?code=1701273726237058&key=38307
-#EXTINF:-1 group-title="Canal sat",France 2 HD +4
-http://nvkdn.redi-vo.com/iptv/ch4209?code=1701273726237058&key=46814
-#EXTINF:-1 group-title="Canal sat",M6 HD +4
-http://nvkdn.redi-vo.com/iptv/ch4208?code=1701273726237058&key=54872
-#EXTINF:-1 group-title="Canal sat",W9 HD +4
-http://nvkdn.redi-vo.com/iptv/ch4220?code=1701273726237058&key=59169
-#EXTINF:-1 group-title="Canal sat",RTL 9
-http://nvkdn.redi-vo.com/iptv/ch282?code=1701273726237058&key=59365
-#EXTINF:-1 group-title="Canal sat",AB 1
-http://nvkdn.redi-vo.com/iptv/ch284?code=1701273726237058&key=64307
-#EXTINF:-1 group-title="Canal sat",AB 3
-http://nvkdn.redi-vo.com/iptv/ch1652?code=1701273726237058&key=22563
-#EXTINF:-1 group-title="Canal sat",TEVA HD
-http://nvkdn.redi-vo.com/iptv/ch230?code=1701273726237058&key=16524
-#EXTINF:-1 group-title="Canal sat",Viceland Fr.
-http://nvkdn.redi-vo.com/iptv/ch1297?code=1701273726237058&key=48410
-#EXTINF:-1 group-title="Canal sat",Season Fr.
-http://nvkdn.redi-vo.com/iptv/ch1298?code=1701273726237058&key=52112
-#EXTINF:-1 group-title="Canal sat",Crime District Fr.
-http://nvkdn.redi-vo.com/iptv/ch390?code=1701273726237058&key=25447
-#EXTINF:-1 group-title="Canal sat",My Cuisine TV HD
-http://nvkdn.redi-vo.com/iptv/ch380?code=1701273726237058&key=49503
-#EXTINF:-1 group-title="Canal sat",Ushuaia TV HD
-http://nvkdn.redi-vo.com/iptv/ch242?code=1701273726237058&key=36384
-#EXTINF:-1 group-title="Canal sat",NAT GEO HD Fr.
-http://nvkdn.redi-vo.com/iptv/ch235?code=1701273726237058&key=43018
-#EXTINF:-1 group-title="Canal sat",NATGEO WILD HD Fr.
-http://nvkdn.redi-vo.com/iptv/ch238?code=1701273726237058&key=62508
-#EXTINF:-1 group-title="Canal sat",Planet Plus HD
-http://nvkdn.redi-vo.com/iptv/ch234?code=1701273726237058&key=50453
-#EXTINF:-1 group-title="Canal sat",Planet Plus AE HD
-http://nvkdn.redi-vo.com/iptv/ch225?code=1701273726237058&key=60294
-#EXTINF:-1 group-title="Canal sat",Planet Plus CI HD
-http://nvkdn.redi-vo.com/iptv/ch287?code=1701273726237058&key=47790
-#EXTINF:-1 group-title="Canal sat",Voyage Fr.
-http://nvkdn.redi-vo.com/iptv/ch236?code=1701273726237058&key=21377
-#EXTINF:-1 group-title="Canal sat",Discovery Family HD Fr.
-http://nvkdn.redi-vo.com/iptv/ch379?code=1701273726237058&key=41745
-#EXTINF:-1 group-title="Canal sat",Discovery Science HD Fr.
-http://nvkdn.redi-vo.com/iptv/ch229?code=1701273726237058&key=20167
-#EXTINF:-1 group-title="Canal sat",Discovery Show Case Fr.
-http://nvkdn.redi-vo.com/iptv/ch241?code=1701273726237058&key=35668
-#EXTINF:-1 group-title="Canal sat",Discovery ID Fr.
-http://nvkdn.redi-vo.com/iptv/ch249?code=1701273726237058&key=10522
-#EXTINF:-1 group-title="Canal sat",RMC Decouverte
-http://nvkdn.redi-vo.com/iptv/ch739?code=1701273726237058&key=27783
-#EXTINF:-1 group-title="Canal sat",Histoire
-http://nvkdn.redi-vo.com/iptv/ch280?code=1701273726237058&key=40864
-#EXTINF:-1 group-title="Canal sat",RMC Story
-http://nvkdn.redi-vo.com/iptv/ch247?code=1701273726237058&key=47827
-#EXTINF:-1 group-title="Canal sat",Chasse et Peche
-http://nvkdn.redi-vo.com/iptv/ch283?code=1701273726237058&key=48044
-#EXTINF:-1 group-title="Canal sat",Trek
-http://nvkdn.redi-vo.com/iptv/ch279?code=1701273726237058&key=36050
-#EXTINF:-1 group-title="Canal sat",Sciences et vie
-http://nvkdn.redi-vo.com/iptv/ch278?code=1701273726237058&key=43428
-#EXTINF:-1 group-title="Canal sat",Animaux
-http://nvkdn.redi-vo.com/iptv/ch277?code=1701273726237058&key=57569
-#EXTINF:-1 group-title="Canal sat",Comedie
-http://nvkdn.redi-vo.com/iptv/ch264?code=1701273726237058&key=52716
-#EXTINF:-1 group-title="Canal sat",C-8
-http://nvkdn.redi-vo.com/iptv/ch223?code=1701273726237058&key=44139
-#EXTINF:-1 group-title="Canal sat",NRJ 12
-http://nvkdn.redi-vo.com/iptv/ch214?code=1701273726237058&key=52449
-#EXTINF:-1 group-title="Canal sat",C-Star
-http://nvkdn.redi-vo.com/iptv/ch228?code=1701273726237058&key=55566
-#EXTINF:-1 group-title="Canal sat",Equipe 21
-http://nvkdn.redi-vo.com/iptv/ch267?code=1701273726237058&key=46605
-#EXTINF:-1 group-title="Canal sat",Cherie 25
-http://nvkdn.redi-vo.com/iptv/ch248?code=1701273726237058&key=52840
-#EXTINF:-1 group-title="Canal sat",SYFY HD
-http://nvkdn.redi-vo.com/iptv/ch237?code=1701273726237058&key=25897
-#EXTINF:-1 group-title="Canal sat",NT 1
-http://nvkdn.redi-vo.com/iptv/ch213?code=1701273726237058&key=35452
-#EXTINF:-1 group-title="Canal sat",TMC
-http://nvkdn.redi-vo.com/iptv/ch217?code=1701273726237058&key=56078
-#EXTINF:-1 group-title="Canal sat",Paris Premiere
-http://nvkdn.redi-vo.com/iptv/ch274?code=1701273726237058&key=63907
-#EXTINF:-1 group-title="Canal sat",ARTE
-http://nvkdn.redi-vo.com/iptv/ch216?code=1701273726237058&key=25727
-#EXTINF:-1 group-title="Canal sat",France Info
-http://nvkdn.redi-vo.com/iptv/ch292?code=1701273726237058&key=47429
-#EXTINF:-1 group-title="Canal sat",C-News
-http://nvkdn.redi-vo.com/iptv/ch299?code=1701273726237058&key=51996
-#EXTINF:-1 group-title="Canal sat",I24 Fr.
-http://nvkdn.redi-vo.com/iptv/ch1646?code=1701273726237058&key=50932
-#EXTINF:-1 group-title="Canal sat",LCI
-http://nvkdn.redi-vo.com/iptv/ch298?code=1701273726237058&key=47725
-#EXTINF:-1 group-title="Canal sat",BFM TV
-http://nvkdn.redi-vo.com/iptv/ch218?code=1701273726237058&key=24717
-#EXTINF:-1 group-title="Canal sat",BFM Paris
-http://nvkdn.redi-vo.com/iptv/ch375?code=1701273726237058&key=39076
-#EXTINF:-1 group-title="Canal sat",BFM Business
-http://nvkdn.redi-vo.com/iptv/ch263?code=1701273726237058&key=28548
-#EXTINF:-1 group-title="Canal sat",LCP
-http://nvkdn.redi-vo.com/iptv/ch245?code=1701273726237058&key=37623
-#EXTINF:-1 group-title="Canal sat",Mezzo Fr.
-http://nvkdn.redi-vo.com/iptv/ch1653?code=1701273726237058&key=50710
-#EXTINF:-1 group-title="Canal sat",RFM Fr.
-http://nvkdn.redi-vo.com/iptv/ch1650?code=1701273726237058&key=41223
-#EXTINF:-1 group-title="Canal sat",MCM Top
-http://nvkdn.redi-vo.com/iptv/ch1107?code=1701273726237058&key=57385
-#EXTINF:-1 group-title="Canal sat",MTV FR
-http://nvkdn.redi-vo.com/iptv/ch224?code=1701273726237058&key=27696
-#EXTINF:-1 group-title="Canal sat",MTV Hits
-http://nvkdn.redi-vo.com/iptv/ch246?code=1701273726237058&key=44739
-#EXTINF:-1 group-title="Canal sat",Piwi Fr.
-http://nvkdn.redi-vo.com/iptv/ch395?code=1701273726237058&key=14814
-#EXTINF:-1 group-title="Canal sat",Toonami
-http://nvkdn.redi-vo.com/iptv/ch391?code=1701273726237058&key=14399
-#EXTINF:-1 group-title="Canal sat",Boomerang FR
-http://nvkdn.redi-vo.com/iptv/ch273?code=1701273726237058&key=48335
-#EXTINF:-1 group-title="Canal sat",Boing FR
-http://nvkdn.redi-vo.com/iptv/ch1645?code=1701273726237058&key=64289
-#EXTINF:-1 group-title="Canal sat",Tiji FR
-http://nvkdn.redi-vo.com/iptv/ch289?code=1701273726237058&key=15120
-#EXTINF:-1 group-title="Canal sat",Canal J
-http://nvkdn.redi-vo.com/iptv/ch260?code=1701273726237058&key=62150
-#EXTINF:-1 group-title="Canal sat",Mangas
-http://nvkdn.redi-vo.com/iptv/ch281?code=1701273726237058&key=62534
-#EXTINF:-1 group-title="Canal sat",Cartoon Network
-http://nvkdn.redi-vo.com/iptv/ch240?code=1701273726237058&key=64610
-#EXTINF:-1 group-title="Canal sat",Gulli
-http://nvkdn.redi-vo.com/iptv/ch222?code=1701273726237058&key=39668
-#EXTINF:-1 group-title="Canal sat",Teletoon
-http://nvkdn.redi-vo.com/iptv/ch276?code=1701273726237058&key=21153
-#EXTINF:-1 group-title="Canal sat",Disney Ch. FR
-http://nvkdn.redi-vo.com/iptv/ch265?code=1701273726237058&key=61763
-#EXTINF:-1 group-title="Canal sat",Disney Cinemagic FR
-http://nvkdn.redi-vo.com/iptv/ch1270?code=1701273726237058&key=26991
-#EXTINF:-1 group-title="Canal sat",Disney Junior FR
-http://nvkdn.redi-vo.com/iptv/ch257?code=1701273726237058&key=19725
-#EXTINF:-1 group-title="Canal sat",Disney XD FR
-http://nvkdn.redi-vo.com/iptv/ch239?code=1701273726237058&key=18648
-#EXTINF:-1 group-title="Canal sat",Nickelodeon Jr. FR
-http://nvkdn.redi-vo.com/iptv/ch1272?code=1701273726237058&key=21910
-#EXTINF:-1 group-title="Canal sat",Nickelodeon FR
-http://nvkdn.redi-vo.com/iptv/ch1271?code=1701273726237058&key=39795
-#EXTINF:-1 group-title="Canal sat",Bet Fr.
-http://nvkdn.redi-vo.com/iptv/ch1654?code=1701273726237058&key=64704
-#EXTINF:-1 group-title="Canal sat",Equidia Live
-http://nvkdn.redi-vo.com/iptv/ch269?code=1701273726237058&key=37279
-#EXTINF:-1 group-title="Canal sat",AB Moteur
-http://nvkdn.redi-vo.com/iptv/ch268?code=1701273726237058&key=21856
-#EXTINF:-1 group-title="Canal sat",Golf Plus FR
-http://nvkdn.redi-vo.com/iptv/ch1299?code=1701273726237058&key=29177
-#EXTINF:-1 group-title="Canal sat",Golf Channel FR
-http://nvkdn.redi-vo.com/iptv/ch290?code=1701273726237058&key=52094
-#EXTINF:-1 group-title="Canal sat",EuroSport 1 HD
-http://nvkdn.redi-vo.com/iptv/ch743?code=1701273726237058&key=53367
-#EXTINF:-1 group-title="Canal sat",EuroSport 2 HD
-http://nvkdn.redi-vo.com/iptv/ch744?code=1701273726237058&key=52326
-#EXTINF:-1 group-title="Canal sat",Foot Plus
-http://nvkdn.redi-vo.com/iptv/ch266?code=1701273726237058&key=45238
-#EXTINF:-1 group-title="Canal sat",Infosport HD
-http://nvkdn.redi-vo.com/iptv/ch250?code=1701273726237058&key=55906
-#EXTINF:-1 group-title="Canal sat",BFM Sport HD
-http://nvkdn.redi-vo.com/iptv/ch244?code=1701273726237058&key=23526
-#EXTINF:-1 group-title="Canal sat",Eleven Sport 1 Fr.
-http://nvkdn.redi-vo.com/iptv/ch1648?code=1701273726237058&key=22646
-#EXTINF:-1 group-title="Canal sat",RMC Sport 1 HD
-http://nvkdn.redi-vo.com/iptv/ch255?code=1701273726237058&key=23296
-#EXTINF:-1 group-title="Canal sat",RMC Sport 2 HD
-http://nvkdn.redi-vo.com/iptv/ch253?code=1701273726237058&key=54264
-#EXTINF:-1 group-title="Canal sat",RMC Sport 3 HD
-http://nvkdn.redi-vo.com/iptv/ch254?code=1701273726237058&key=31480
-#EXTINF:-1 group-title="Canal sat",RMC Sport 4 HD
-http://nvkdn.redi-vo.com/iptv/ch243?code=1701273726237058&key=15110
-#EXTINF:-1 group-title="Canal sat",BeInSport 2 FR
-http://nvkdn.redi-vo.com/iptv/ch120?code=1701273726237058&key=51185
-#EXTINF:-1 group-title="Canal sat",BeInSport 3 FR
-http://nvkdn.redi-vo.com/iptv/ch206?code=1701273726237058&key=11755
-#EXTINF:-1 group-title="Canal sat",BeInSport Max 4
-http://nvkdn.redi-vo.com/iptv/ch340?code=1701273726237058&key=15510
-#EXTINF:-1 group-title="Canal sat",BeInSport Max 5
-http://nvkdn.redi-vo.com/iptv/ch341?code=1701273726237058&key=32482
-#EXTINF:-1 group-title="Canal sat",BeInSport Max 6
-http://nvkdn.redi-vo.com/iptv/ch342?code=1701273726237058&key=51381
-#EXTINF:-1 group-title="Canal sat",BeInSport Max 7
-http://nvkdn.redi-vo.com/iptv/ch343?code=1701273726237058&key=12846
-#EXTINF:-1 group-title="Canal sat",BeInSport Max 8
-http://nvkdn.redi-vo.com/iptv/ch344?code=1701273726237058&key=22677
-#EXTINF:-1 group-title="Canal sat",BeInSport Max 9
-http://nvkdn.redi-vo.com/iptv/ch345?code=1701273726237058&key=11427
-#EXTINF:-1 group-title="Canal sat",BeInSport Max 10
-http://nvkdn.redi-vo.com/iptv/ch346?code=1701273726237058&key=53115
+#EXTINF:-1 ,FR-TF1
+http://best-servers.xyz:8000/3505832905415/3046728127636/3341
+#EXTINF:-1 ,FR-FRANCE2
+http://best-servers.xyz:8000/3505832905415/3046728127636/3300
+#EXTINF:-1 ,FR-FRANCE3
+http://best-servers.xyz:8000/3505832905415/3046728127636/3301
+#EXTINF:-1 ,FR-FRANCE4
+http://best-servers.xyz:8000/3505832905415/3046728127636/1951
+#EXTINF:-1 ,FR-FRANCE5
+http://best-servers.xyz:8000/3505832905415/3046728127636/3302
+#EXTINF:-1 ,FR-M6
+http://best-servers.xyz:8000/3505832905415/3046728127636/3310
+#EXTINF:-1 ,FR-ARTE
+http://best-servers.xyz:8000/3505832905415/3046728127636/3264
+#EXTINF:-1 ,FR-C8
+http://best-servers.xyz:8000/3505832905415/3046728127636/7236
+#EXTINF:-1 ,FR-W9
+http://best-servers.xyz:8000/3505832905415/3046728127636/3347
+#EXTINF:-1 ,FR-TMC
+http://best-servers.xyz:8000/3505832905415/3046728127636/3343
+#EXTINF:-1 ,FR-TFX
+http://best-servers.xyz:8000/3505832905415/3046728127636/7235
+#EXTINF:-1 ,FR-LCP
+http://best-servers.xyz:8000/3505832905415/3046728127636/7237
+#EXTINF:-1 ,FR-FRANCEINFO
+http://best-servers.xyz:8000/3505832905415/3046728127636/7442
+#EXTINF:-1 ,FR-BFM-TV
+http://best-servers.xyz:8000/3505832905415/3046728127636/3269
+#EXTINF:-1 ,FR-CNEWS
+http://best-servers.xyz:8000/3505832905415/3046728127636/3307
+#EXTINF:-1 ,FR-CSTAR
+http://best-servers.xyz:8000/3505832905415/3046728127636/6276
+#EXTINF:-1 ,FR-Gulli
+http://best-servers.xyz:8000/3505832905415/3046728127636/3305
+#EXTINF:-1 ,FR-FRANCEO
+http://best-servers.xyz:8000/3505832905415/3046728127636/3304
+#EXTINF:-1 ,FR-TF1-S�ries-Films
+http://best-servers.xyz:8000/3505832905415/3046728127636/3306
+#EXTINF:-1 ,FR-L'Equipe_21
+http://best-servers.xyz:8000/3505832905415/3046728127636/3295
+#EXTINF:-1 ,FR-6TER
+http://best-servers.xyz:8000/3505832905415/3046728127636/3262
+#EXTINF:-1 ,FR-NUMERO-23
+http://best-servers.xyz:8000/3505832905415/3046728127636/7429
+#EXTINF:-1 ,FR-RMC_Decouverte
+http://best-servers.xyz:8000/3505832905415/3046728127636/3331
+#EXTINF:-1 ,FR-Cherie_25
+http://best-servers.xyz:8000/3505832905415/3046728127636/3279
+#EXTINF:-1 ,FR-LCI
+http://best-servers.xyz:8000/3505832905415/3046728127636/6278
+#EXTINF:-1 ,FR-Canal+
+http://best-servers.xyz:8000/3505832905415/3046728127636/3271
+#EXTINF:-1 ,FR-Canal+Sport
+http://best-servers.xyz:8000/3505832905415/3046728127636/3276
+#EXTINF:-1 ,FR-Canal+Cinema
+http://best-servers.xyz:8000/3505832905415/3046728127636/3272
+#EXTINF:-1 ,FR-Canal+Series
+http://best-servers.xyz:8000/3505832905415/3046728127636/3275
+#EXTINF:-1 ,FR-Canal+Decale
+http://best-servers.xyz:8000/3505832905415/3046728127636/3273
+#EXTINF:-1 ,FR-Canal+Family
+http://best-servers.xyz:8000/3505832905415/3046728127636/4570
+#EXTINF:-1 ,FR-Cine+Famiz
+http://best-servers.xyz:8000/3505832905415/3046728127636/3274
+#EXTINF:-1 ,FR-Cine+Frisson
+http://best-servers.xyz:8000/3505832905415/3046728127636/3282
+#EXTINF:-1 ,FR-Cine+Emotion
+http://best-servers.xyz:8000/3505832905415/3046728127636/3281
+#EXTINF:-1 ,FR-Cine+Premier
+http://best-servers.xyz:8000/3505832905415/3046728127636/3283
+#EXTINF:-1 ,FR-Cine+Club
+http://best-servers.xyz:8000/3505832905415/3046728127636/5999
+#EXTINF:-1 ,FR-Cin�+Classic
+http://best-servers.xyz:8000/3505832905415/3046728127636/5353
+#EXTINF:-1 ,FR-Polar+
+http://best-servers.xyz:8000/3505832905415/3046728127636/29818
+#EXTINF:-1 ,FR-OCS_MAX
+http://best-servers.xyz:8000/3505832905415/3046728127636/3326
+#EXTINF:-1 ,FR-OCS_City
+http://best-servers.xyz:8000/3505832905415/3046728127636/3324
+#EXTINF:-1 ,FR-OCS_CHOC
+http://best-servers.xyz:8000/3505832905415/3046728127636/3323
+#EXTINF:-1 ,FR-OCS_Geants
+http://best-servers.xyz:8000/3505832905415/3046728127636/3325
+#EXTINF:-1 ,FR-RMC-SPORT-News_HD
+http://best-servers.xyz:8000/3505832905415/3046728127636/40285
+#EXTINF:-1 ,FR-RMC-SPORT1_HD
+http://best-servers.xyz:8000/3505832905415/3046728127636/4295
+#EXTINF:-1 ,FR-RMC-SPORT2_HD
+http://best-servers.xyz:8000/3505832905415/3046728127636/4296
+#EXTINF:-1 ,FR-RMC-SPORT3_HD
+http://best-servers.xyz:8000/3505832905415/3046728127636/4297
+#EXTINF:-1 ,FR-RMC-SPORT4_HD
+http://best-servers.xyz:8000/3505832905415/3046728127636/8561
+#EXTINF:-1 ,FR-RMC-SPORT5_HD
+http://best-servers.xyz:8000/3505832905415/3046728127636/14688
+#EXTINF:-1 ,FR-RMC-SPORT6_HD
+http://best-servers.xyz:8000/3505832905415/3046728127636/40151
+#EXTINF:-1 ,FR-RMC-SPORT7_HD
+http://best-servers.xyz:8000/3505832905415/3046728127636/40283
+#EXTINF:-1 ,FR-RMC-SPORT8_HD
+http://best-servers.xyz:8000/3505832905415/3046728127636/40284
+#EXTINF:-1 ,FR-beIN-SPORTS-1
+http://best-servers.xyz:8000/3505832905415/3046728127636/2268
+#EXTINF:-1 ,FR-Bein-Sports-2FR
+http://best-servers.xyz:8000/3505832905415/3046728127636/2267
+#EXTINF:-1 ,FR-Bein-Sports-3FR
+http://best-servers.xyz:8000/3505832905415/3046728127636/2266
+#EXTINF:-1 ,FR-Bein-Sports-max-4
+http://best-servers.xyz:8000/3505832905415/3046728127636/6279
+#EXTINF:-1 ,FR-Bein-Sports-max-5
+http://best-servers.xyz:8000/3505832905415/3046728127636/6280
+#EXTINF:-1 ,FR-Bein-Sports-max-6
+http://best-servers.xyz:8000/3505832905415/3046728127636/3286
+#EXTINF:-1 ,FR-Bein-Sports-max-7
+http://best-servers.xyz:8000/3505832905415/3046728127636/98
+#EXTINF:-1 ,FR-Bein-Sports-max-8
+http://best-servers.xyz:8000/3505832905415/3046728127636/3285
+#EXTINF:-1 ,FR-Bein-Sports-max-9
+http://best-servers.xyz:8000/3505832905415/3046728127636/9071
+#EXTINF:-1 ,FR-Action
+http://best-servers.xyz:8000/3505832905415/3046728127636/3355
+#EXTINF:-1 ,FR-RTL9
+http://best-servers.xyz:8000/3505832905415/3046728127636/3332
+#EXTINF:-1 ,FR-AB_1
+http://best-servers.xyz:8000/3505832905415/3046728127636/7426
+#EXTINF:-1 ,FR-AutoMoto
+http://best-servers.xyz:8000/3505832905415/3046728127636/3268
+#EXTINF:-1 ,FR-TEVA
+http://best-servers.xyz:8000/3505832905415/3046728127636/3340
+#EXTINF:-1 ,FR-Chasse-et-Peche
+http://best-servers.xyz:8000/3505832905415/3046728127636/3278
+#EXTINF:-1 ,FR-Animaux
+http://best-servers.xyz:8000/3505832905415/3046728127636/3263
+#EXTINF:-1 ,FR-Science_Vie
+http://best-servers.xyz:8000/3505832905415/3046728127636/3335
+#EXTINF:-1 ,FR-Boomerang
+http://best-servers.xyz:8000/3505832905415/3046728127636/3353
+#EXTINF:-1 ,FR-Canal-J
+http://best-servers.xyz:8000/3505832905415/3046728127636/3270
+#EXTINF:-1 ,FR-Tiji
+http://best-servers.xyz:8000/3505832905415/3046728127636/3342
+#EXTINF:-1 ,FR-Boing
+http://best-servers.xyz:8000/3505832905415/3046728127636/3292
+#EXTINF:-1 ,FR-TV5_Monde
+http://best-servers.xyz:8000/3505832905415/3046728127636/3344
+#EXTINF:-1 ,FR-FRANCE24
+http://best-servers.xyz:8000/3505832905415/3046728127636/3303
+#EXTINF:-1 ,FR-Euronews
+http://best-servers.xyz:8000/3505832905415/3046728127636/3296
+#EXTINF:-1 ,FR-TCM
+http://best-servers.xyz:8000/3505832905415/3046728127636/3338
+#EXTINF:-1 ,FR-Paris-Premiere
+http://best-servers.xyz:8000/3505832905415/3046728127636/3327
+#EXTINF:-1 ,FR-13eme_Rue
+http://best-servers.xyz:8000/3505832905415/3046728127636/3261
+#EXTINF:-1 ,FR-TV_Breizh
+http://best-servers.xyz:8000/3505832905415/3046728127636/3349
+#EXTINF:-1 ,FR-Serie_Club
+http://best-servers.xyz:8000/3505832905415/3046728127636/3336
+#EXTINF:-1 ,FR-Syfy
+http://best-servers.xyz:8000/3505832905415/3046728127636/3337
+#EXTINF:-1 ,FR-HISTOIRE
+http://best-servers.xyz:8000/3505832905415/3046728127636/7431
+#EXTINF:-1 ,FR-Ushua�a_TV
+http://best-servers.xyz:8000/3505832905415/3046728127636/3345
+#EXTINF:-1 ,FR-SEASONS
+http://best-servers.xyz:8000/3505832905415/3046728127636/7440
+#EXTINF:-1 ,FR-VOYAGES
+http://best-servers.xyz:8000/3505832905415/3046728127636/7428
+#EXTINF:-1 ,FR-PLANETE+
+http://best-servers.xyz:8000/3505832905415/3046728127636/3328
+#EXTINF:-1 ,FR-PLANETE+_CI
+http://best-servers.xyz:8000/3505832905415/3046728127636/3330
+#EXTINF:-1 ,FR-Planete+_AE
+http://best-servers.xyz:8000/3505832905415/3046728127636/3329
+#EXTINF:-1 ,FR-NatGeo_Wild
+http://best-servers.xyz:8000/3505832905415/3046728127636/3319
+#EXTINF:-1 ,FR-National_Geographic
+http://best-servers.xyz:8000/3505832905415/3046728127636/3320
+#EXTINF:-1 ,FR-Discovery_Science
+http://best-servers.xyz:8000/3505832905415/3046728127636/3288
+#EXTINF:-1 ,FR-Discovery
+http://best-servers.xyz:8000/3505832905415/3046728127636/3287
+#EXTINF:-1 ,Fr-Discovery-Investigation
+http://best-servers.xyz:8000/3505832905415/3046728127636/7564
+#EXTINF:-1 ,FR-Piwi
+http://best-servers.xyz:8000/3505832905415/3046728127636/3354
+#EXTINF:-1 ,FR-j-one
+http://best-servers.xyz:8000/3505832905415/3046728127636/15459
+#EXTINF:-1 ,FR-Mangas
+http://best-servers.xyz:8000/3505832905415/3046728127636/3311
+#EXTINF:-1 ,FR-TeleToonPlus
+http://best-servers.xyz:8000/3505832905415/3046728127636/3339
+#EXTINF:-1 ,FR-Disney_Junior
+http://best-servers.xyz:8000/3505832905415/3046728127636/3291
+#EXTINF:-1 ,FR-Disney_Cinemagic
+http://best-servers.xyz:8000/3505832905415/3046728127636/3290
+#EXTINF:-1 ,FR-Disney_Cinema
+http://best-servers.xyz:8000/3505832905415/3046728127636/3352
+#EXTINF:-1 ,FR-Cartoon_Network
+http://best-servers.xyz:8000/3505832905415/3046728127636/3277
+#EXTINF:-1 ,FR-Disney_Channel
+http://best-servers.xyz:8000/3505832905415/3046728127636/3289
+#EXTINF:-1 ,FR-Comedie+
+http://best-servers.xyz:8000/3505832905415/3046728127636/3284
+#EXTINF:-1 ,FR-GAME-ONE
+http://best-servers.xyz:8000/3505832905415/3046728127636/7435
+#EXTINF:-1 ,FR-INFO-SPORT
+http://best-servers.xyz:8000/3505832905415/3046728127636/5376
+#EXTINF:-1 ,FR-EQUIDIA-LIVE
+http://best-servers.xyz:8000/3505832905415/3046728127636/3294
+#EXTINF:-1 ,FR-AB-Xplore
+http://best-servers.xyz:8000/3505832905415/3046728127636/7436
+#EXTINF:-1 ,FR-Foot24
+http://best-servers.xyz:8000/3505832905415/3046728127636/5354
+#EXTINF:-1 ,FR-Eurosport_1
+http://best-servers.xyz:8000/3505832905415/3046728127636/3297
+#EXTINF:-1 ,FR-Eurosport_2
+http://best-servers.xyz:8000/3505832905415/3046728127636/3298
+#EXTINF:-1 ,FR-Golf+
+http://best-servers.xyz:8000/3505832905415/3046728127636/6273
+#EXTINF:-1 ,FR-E!
+http://best-servers.xyz:8000/3505832905415/3046728127636/6274
+#EXTINF:-1 ,FR-Discovery_Family
+http://best-servers.xyz:8000/3505832905415/3046728127636/5998
+#EXTINF:-1 ,FR-CH-RTS-Deux
+http://best-servers.xyz:8000/3505832905415/3046728127636/5997
+#EXTINF:-1 ,FR-CH-RTS-Un
+http://best-servers.xyz:8000/3505832905415/3046728127636/5995
+#EXTINF:-1 ,FR-CH-SRF-1
+http://best-servers.xyz:8000/3505832905415/3046728127636/5994
+#EXTINF:-1 ,fr-Crime District
+http://best-servers.xyz:8000/3505832905415/3046728127636/14678
+#EXTINF:-1 ,FR-trek
+http://best-servers.xyz:8000/3505832905415/3046728127636/14677
+#EXTINF:-1 ,fr-Golf Channel
+http://best-servers.xyz:8000/3505832905415/3046728127636/14679
+#EXTINF:-1 ,FR-i24 News
+http://best-servers.xyz:8000/3505832905415/3046728127636/14680
+#EXTINF:-1 ,FR-DISNEY_XD
+http://best-servers.xyz:8000/3505832905415/3046728127636/6272
+#EXTINF:-1 ,FR-AB3
+http://best-servers.xyz:8000/3505832905415/3046728127636/3937
+#EXTINF:-1 ,Fr-mycuisine
+http://best-servers.xyz:8000/3505832905415/3046728127636/16822
+#EXTINF:-1 ,FR-13eme.rue.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10884
+#EXTINF:-1 ,FR-6Ter.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10883
+#EXTINF:-1 ,FR-AutoMoto.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10882
+#EXTINF:-1 ,FR-AB1.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10881
+#EXTINF:-1 ,FR-AB3.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10880
+#EXTINF:-1 ,FR-Action.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10879
+#EXTINF:-1 ,FR-Animaux.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10877
+#EXTINF:-1 ,FR-Arte.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10876
+#EXTINF:-1 ,FR-BFM.PARIS.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10875
+#EXTINF:-1 ,FR-BFM.Busniness.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10874
+#EXTINF:-1 ,FR-France24.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10873
+#EXTINF:-1 ,FR-Beinsport1.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10872
+#EXTINF:-1 ,FR-Beinsports10.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10871
+#EXTINF:-1 ,FR-Beinsports2.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10870
+#EXTINF:-1 ,FR-Beinsports3.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10869
+#EXTINF:-1 ,FR-beinsports4.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10868
+#EXTINF:-1 ,FR-Beinsports5.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10867
+#EXTINF:-1 ,FR-Beinsports6.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10866
+#EXTINF:-1 ,FR-Beinsports7.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10865
+#EXTINF:-1 ,FR-Beinsports8.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10864
+#EXTINF:-1 ,FR-Beinsports9.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10863
+#EXTINF:-1 ,FR-TF1-SeriesFilms.sd
+http://best-servers.xyz:8000/3505832905415/3046728127636/10862
+#EXTINF:-1 ,FR-BFM.TV.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10861
+#EXTINF:-1 ,FR-Boing.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10860
+#EXTINF:-1 ,FR-Boomerang.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10859
+#EXTINF:-1 ,FR-Canal+Decale.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10858
+#EXTINF:-1 ,FR-C8.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10857
+#EXTINF:-1 ,FR-Canal.Cinema.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10856
+#EXTINF:-1 ,FR-Canal.Family.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10855
+#EXTINF:-1 ,FR-canal.j.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10854
+#EXTINF:-1 ,FR-Canal.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10853
+#EXTINF:-1 ,FR-Canal.Series.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10852
+#EXTINF:-1 ,FR-Canal.Sport.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10851
+#EXTINF:-1 ,FR-Cartoon.Network.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10850
+#EXTINF:-1 ,FR-Chasse.et.Peche.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10849
+#EXTINF:-1 ,FR-Cherie25.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10848
+#EXTINF:-1 ,FR-Cine.Classic.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10847
+#EXTINF:-1 ,FR-Cine.Club.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10846
+#EXTINF:-1 ,FR-Cine.Emotion.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10845
+#EXTINF:-1 ,FR-Cine.Famiz.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10844
+#EXTINF:-1 ,FR-Cine.Premier.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10840
+#EXTINF:-1 ,FR-CNews.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10839
+#EXTINF:-1 ,FR-Crime.District.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10837
+#EXTINF:-1 ,FR-CStar.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10836
+#EXTINF:-1 ,FR-Discovery.family.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10835
+#EXTINF:-1 ,FR-Discovery.investigation.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10834
+#EXTINF:-1 ,FR-Discovery.science.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10833
+#EXTINF:-1 ,FR-Discovery.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10832
+#EXTINF:-1 ,FR-Disney.Channel.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10831
+#EXTINF:-1 ,FR-Disney.Cinema.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10830
+#EXTINF:-1 ,FR-DISNEY.Junior.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10829
+#EXTINF:-1 ,FR-Disney.XD.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10828
+#EXTINF:-1 ,FR-TV5.Monde.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10827
+#EXTINF:-1 ,FR-Lucky_Jack.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10826
+#EXTINF:-1 ,FR-Equidia.Live.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10825
+#EXTINF:-1 ,FR-Equipe21.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10824
+#EXTINF:-1 ,FR-EURONEWS.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10823
+#EXTINF:-1 ,FR-Eurosport1.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10822
+#EXTINF:-1 ,FR-Eurosport2.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10821
+#EXTINF:-1 ,FR-France2.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10820
+#EXTINF:-1 ,FR-France3.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10819
+#EXTINF:-1 ,FR-France4.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10818
+#EXTINF:-1 ,FR-France5.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10817
+#EXTINF:-1 ,FR-Franceinfo.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10816
+#EXTINF:-1 ,FR-FranceO.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10815
+#EXTINF:-1 ,FR-Game.One.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10814
+#EXTINF:-1 ,FR-Golf.Channel.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10813
+#EXTINF:-1 ,FR-Gulli.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10809
+#EXTINF:-1 ,FR-Histoire.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10808
+#EXTINF:-1 ,FR-InfoSport.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10807
+#EXTINF:-1 ,FR-LCI.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10805
+#EXTINF:-1 ,FR-LCP.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10804
+#EXTINF:-1 ,FR-M6.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10803
+#EXTINF:-1 ,FR-MANGAS.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10802
+#EXTINF:-1 ,FR-Natgeo.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10796
+#EXTINF:-1 ,FR-Natgeo.wild.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10795
+#EXTINF:-1 ,FR-Nickelodeon.Junior.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10793
+#EXTINF:-1 ,FR-Nickelodeon.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10792
+#EXTINF:-1 ,FR-TFX.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10786
+#EXTINF:-1 ,FR-RMC.Story.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10785
+#EXTINF:-1 ,FR-Ocs.choc.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10784
+#EXTINF:-1 ,FR-Ocs.city.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10783
+#EXTINF:-1 ,FR-Ocs.geants.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10782
+#EXTINF:-1 ,FR-Ocs.max.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10781
+#EXTINF:-1 ,FR-Paramount.channel.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10778
+#EXTINF:-1 ,FR-Paris.Premi.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10777
+#EXTINF:-1 ,FR-Piwi.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10776
+#EXTINF:-1 ,FR-Planete.AE.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10775
+#EXTINF:-1 ,FR-Planete.Ci.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10774
+#EXTINF:-1 ,FR-Planete.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10773
+#EXTINF:-1 ,FR-AB.XPLORE.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10772
+#EXTINF:-1 ,FR-RMC.Decouverte.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10771
+#EXTINF:-1 ,FR-Rmc.Sport1.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10766
+#EXTINF:-1 ,FR-Rmc.Sport2.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10765
+#EXTINF:-1 ,FR-Rmc.Sport3.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10764
+#EXTINF:-1 ,FR-Rmc.Sport4.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10763
+#EXTINF:-1 ,FR-RTL9.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10770
+#EXTINF:-1 ,FR-Science.et.Vie.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10769
+#EXTINF:-1 ,FR-Seasons.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10768
+#EXTINF:-1 ,FR-serie.club.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10767
+#EXTINF:-1 ,FR-syfy.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10761
+#EXTINF:-1 ,FR-TCM.Cinema.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10760
+#EXTINF:-1 ,FR-TeleTOON.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10759
+#EXTINF:-1 ,FR-Teva.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10758
+#EXTINF:-1 ,FR-TF1.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10757
+#EXTINF:-1 ,FR-Tiji.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10756
+#EXTINF:-1 ,FR-TMC.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10755
+#EXTINF:-1 ,FR-Toonami.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10754
+#EXTINF:-1 ,FR-Trek.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10747
+#EXTINF:-1 ,FR-TV.Breizh.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10746
+#EXTINF:-1 ,FR-Ushua�a.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10745
+#EXTINF:-1 ,FR-W9.SD
+http://best-servers.xyz:8000/3505832905415/3046728127636/10743
+#EXTINF:-1 ,Fr-6ter-H265
+http://best-servers.xyz:8000/3505832905415/3046728127636/9943
+#EXTINF:-1 ,FR-LEquipe-H265
+http://best-servers.xyz:8000/3505832905415/3046728127636/10695
+#EXTINF:-1 ,FR-BFM-Business
+http://best-servers.xyz:8000/3505832905415/3046728127636/10699
+#EXTINF:-1 ,FR-RMC-STORY-H265
+http://best-servers.xyz:8000/3505832905415/3046728127636/10692
+#EXTINF:-1 ,Fr-Arte-H265
+http://best-servers.xyz:8000/3505832905415/3046728127636/9944
+#EXTINF:-1 ,Fr-BFMTV-H265
+http://best-servers.xyz:8000/3505832905415/3046728127636/9945
+#EXTINF:-1 ,Fr-C8-H265
+http://best-servers.xyz:8000/3505832905415/3046728127636/9946
+#EXTINF:-1 ,FR-RMC-Decouverte-H265
+http://best-servers.xyz:8000/3505832905415/3046728127636/10691
+#EXTINF:-1 ,Fr-CNEWS-H265
+http://best-servers.xyz:8000/3505832905415/3046728127636/9947
+#EXTINF:-1 ,FR-BEINSPORTS1FR-H265
+http://best-servers.xyz:8000/3505832905415/3046728127636/10698
+#EXTINF:-1 ,Fr-France2-H265
+http://best-servers.xyz:8000/3505832905415/3046728127636/9941
+#EXTINF:-1 ,Fr-France3-H265
+http://best-servers.xyz:8000/3505832905415/3046728127636/9949
+#EXTINF:-1 ,Fr-France4-H265
+http://best-servers.xyz:8000/3505832905415/3046728127636/9950
+#EXTINF:-1 ,Fr-France5-H265
+http://best-servers.xyz:8000/3505832905415/3046728127636/9951
+#EXTINF:-1 ,Fr-Franceinfo-H265
+http://best-servers.xyz:8000/3505832905415/3046728127636/9953
+#EXTINF:-1 ,Fr-France�-H265
+http://best-servers.xyz:8000/3505832905415/3046728127636/9952
+#EXTINF:-1 ,Fr-Gulli-H265
+http://best-servers.xyz:8000/3505832905415/3046728127636/9954
+#EXTINF:-1 ,Fr-LCP-H265
+http://best-servers.xyz:8000/3505832905415/3046728127636/9955
+#EXTINF:-1 ,Fr-M6-H265
+http://best-servers.xyz:8000/3505832905415/3046728127636/9942
+#EXTINF:-1 ,FR-BFM-Paris
+http://best-servers.xyz:8000/3505832905415/3046728127636/10731
+#EXTINF:-1 ,FR-OCS-CHOC-H265
+http://best-servers.xyz:8000/3505832905415/3046728127636/10708
+#EXTINF:-1 ,FR-OCS-CITY-H265
+http://best-servers.xyz:8000/3505832905415/3046728127636/10710
+#EXTINF:-1 ,FR-OCS-GEANTS-H265
+http://best-servers.xyz:8000/3505832905415/3046728127636/10734
+#EXTINF:-1 ,FR-OCS-MAX-H265
+http://best-servers.xyz:8000/3505832905415/3046728127636/10709
+#EXTINF:-1 ,FR-RMC-SPORT-4-H265
+http://best-servers.xyz:8000/3505832905415/3046728127636/10697
+#EXTINF:-1 ,FR-CHERIE25-H265
+http://best-servers.xyz:8000/3505832905415/3046728127636/10693
+#EXTINF:-1 ,FR-RMC-SPORT-1-H265
+http://best-servers.xyz:8000/3505832905415/3046728127636/10702
+#EXTINF:-1 ,FR-RMC-SPORT-2-H265
+http://best-servers.xyz:8000/3505832905415/3046728127636/10701
+#EXTINF:-1 ,FR-RMC-SPORT-3-H265
+http://best-servers.xyz:8000/3505832905415/3046728127636/10700
+#EXTINF:-1 ,FR-TF1-SeriesFilms-H265
+http://best-servers.xyz:8000/3505832905415/3046728127636/10694
+#EXTINF:-1 ,Fr-TFX-H265
+http://best-servers.xyz:8000/3505832905415/3046728127636/9957
+#EXTINF:-1 ,Fr-TMC-H265
+http://best-servers.xyz:8000/3505832905415/3046728127636/9958
+#EXTINF:-1 ,Fr-W9-H265
+http://best-servers.xyz:8000/3505832905415/3046728127636/9959
+#EXTINF:-1 ,FR-BEINSPORTS2FR-H265
+http://best-servers.xyz:8000/3505832905415/3046728127636/10704
+#EXTINF:-1 ,FR-BEINSPORTS3FR-H265
+http://best-servers.xyz:8000/3505832905415/3046728127636/10705
